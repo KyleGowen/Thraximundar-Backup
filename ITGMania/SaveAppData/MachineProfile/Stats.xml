@@ -18,21 +18,21 @@
 <Song Dir=''/>
 <Course/>
 <CurrentCombo>0</CurrentCombo>
-<TotalSessions>2409</TotalSessions>
-<TotalSessionSeconds>1090582</TotalSessionSeconds>
-<TotalGameplaySeconds>536964</TotalGameplaySeconds>
-<TotalCaloriesBurned>194001.140625</TotalCaloriesBurned>
+<TotalSessions>2417</TotalSessions>
+<TotalSessionSeconds>1090739</TotalSessionSeconds>
+<TotalGameplaySeconds>537044</TotalGameplaySeconds>
+<TotalCaloriesBurned>194005.484375</TotalCaloriesBurned>
 <GoalType>0</GoalType>
 <GoalCalories>0</GoalCalories>
 <GoalSeconds>0</GoalSeconds>
 <LastPlayedMachineGuid>403d15c592378cca</LastPlayedMachineGuid>
 <LastPlayedDate>2026-02-17</LastPlayedDate>
-<TotalDancePoints>7768267</TotalDancePoints>
+<TotalDancePoints>7767741</TotalDancePoints>
 <NumExtraStagesPassed>0</NumExtraStagesPassed>
 <NumExtraStagesFailed>0</NumExtraStagesFailed>
 <NumToasties>879</NumToasties>
-<TotalTapsAndHolds>1672930</TotalTapsAndHolds>
-<TotalJumps>103662</TotalJumps>
+<TotalTapsAndHolds>1672958</TotalTapsAndHolds>
+<TotalJumps>103666</TotalJumps>
 <TotalHolds>162765</TotalHolds>
 <TotalRolls>6541</TotalRolls>
 <TotalMines>69113</TotalMines>
@@ -41,13 +41,13 @@
 <DefaultModifiers/>
 <Unlocks/>
 <NumSongsPlayedByPlayMode>
-<Regular>3939</Regular>
+<Regular>3940</Regular>
 </NumSongsPlayedByPlayMode>
 <NumSongsPlayedByStyle>
-<Style Game='dance' Style='single'>2344</Style>
+<Style Game='dance' Style='single'>2345</Style>
 </NumSongsPlayedByStyle>
 <NumSongsPlayedByDifficulty>
-<Beginner>324</Beginner>
+<Beginner>325</Beginner>
 <Easy>652</Easy>
 <Medium>680</Medium>
 <Hard>1157</Hard>
@@ -55,7 +55,7 @@
 </NumSongsPlayedByDifficulty>
 <NumSongsPlayedByMeter>
 <Meter1>200</Meter1>
-<Meter2>125</Meter2>
+<Meter2>126</Meter2>
 <Meter3>273</Meter3>
 <Meter4>157</Meter4>
 <Meter5>169</Meter5>
@@ -70,9 +70,9 @@
 <Meter14>22</Meter14>
 <Meter15>1</Meter15>
 </NumSongsPlayedByMeter>
-<NumTotalSongsPlayed>3939</NumTotalSongsPlayed>
+<NumTotalSongsPlayed>3940</NumTotalSongsPlayed>
 <NumStagesPassedByPlayMode>
-<Regular>3275</Regular>
+<Regular>3276</Regular>
 </NumStagesPassedByPlayMode>
 <NumStagesPassedByGrade>
 <Tier01>2</Tier01>
@@ -91,7 +91,7 @@
 <Tier14>118</Tier14>
 <Tier15>99</Tier15>
 <Tier16>73</Tier16>
-<Tier17>193</Tier17>
+<Tier17>194</Tier17>
 </NumStagesPassedByGrade>
 </GeneralData>
 <SongScores>
@@ -28080,6 +28080,20 @@
 <LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
 <Disqualified>0</Disqualified>
 </HighScore>
+</HighScoreList>
+</Steps>
+</Song>
+<Song Dir='Songs/DDR 2nd Mix/DUB-I-DUB/'>
+<Steps Difficulty='Beginner' StepsType='dance-single'>
+<HighScoreList>
+<NumTimesPlayed>1</NumTimesPlayed>
+<LastPlayed>2026-02-17</LastPlayed>
+</HighScoreList>
+</Steps>
+<Steps Difficulty='Easy' StepsType='dance-single'>
+<HighScoreList>
+<NumTimesPlayed>2</NumTimesPlayed>
+<LastPlayed>2026-02-17</LastPlayed>
 </HighScoreList>
 </Steps>
 </Song>
@@ -128971,7 +128985,7 @@
 <CaloriesBurned Date='2026-02-09'>194.210266</CaloriesBurned>
 <CaloriesBurned Date='2026-02-14'>1732.880127</CaloriesBurned>
 <CaloriesBurned Date='2026-02-16'>1900.385742</CaloriesBurned>
-<CaloriesBurned Date='2026-02-17'>112.707748</CaloriesBurned>
+<CaloriesBurned Date='2026-02-17'>117.049347</CaloriesBurned>
 </CalorieData>
 <CoinData>
 <LastDays>
@@ -129021,8 +129035,8 @@
 <Week34Ago>2</Week34Ago>
 <Week35Ago>1</Week35Ago>
 <Week36Ago>1</Week36Ago>
-<Week37Ago>2</Week37Ago>
-<Week38Ago>0</Week38Ago>
+<Week37Ago>1</Week37Ago>
+<Week38Ago>1</Week38Ago>
 <Week39Ago>0</Week39Ago>
 <Week40Ago>0</Week40Ago>
 <Week41Ago>1</Week41Ago>
