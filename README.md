@@ -1,6 +1,6 @@
 # ITGMania Backup
 
-Last backup: 2026-02-17 10:12
+Last backup: 2026-02-17 10:23
 
 ## Changes since last backup
 
@@ -10,14 +10,14 @@ Manifest of Songs folder structure (filenames only).
 
 ```diff
 diff --git a/ITGMania/PACK_LIST.md b/ITGMania/PACK_LIST.md
-index b570f9f..65ea218 100644
+index 65ea218..a390023 100644
 --- a/ITGMania/PACK_LIST.md
 +++ b/ITGMania/PACK_LIST.md
 @@ -1,6 +1,6 @@
  # Pack list
  
--Generated from InstallPath on 2026-02-17 10:01. Filenames only; contents not backed up.
-+Generated from InstallPath on 2026-02-17 10:11. Filenames only; contents not backed up.
+-Generated from InstallPath on 2026-02-17 10:11. Filenames only; contents not backed up.
++Generated from InstallPath on 2026-02-17 10:21. Filenames only; contents not backed up.
  
  ## Songs
  
