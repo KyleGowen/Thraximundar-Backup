@@ -20,15 +20,15 @@
 <Course FullTitle='Ben Speirs&apos; SPEIRMIX 2+3 [DDR Rating] Random'/>
 <CurrentCombo>0</CurrentCombo>
 <TotalSessions>0</TotalSessions>
-<TotalSessionSeconds>278648</TotalSessionSeconds>
-<TotalGameplaySeconds>172278</TotalGameplaySeconds>
+<TotalSessionSeconds>278745</TotalSessionSeconds>
+<TotalGameplaySeconds>172358</TotalGameplaySeconds>
 <TotalCaloriesBurned>95518.265625</TotalCaloriesBurned>
 <GoalType>0</GoalType>
 <GoalCalories>0</GoalCalories>
 <GoalSeconds>0</GoalSeconds>
 <LastPlayedMachineGuid>403d15c592378cca</LastPlayedMachineGuid>
 <LastPlayedDate>2026-02-17</LastPlayedDate>
-<TotalDancePoints>2604302</TotalDancePoints>
+<TotalDancePoints>2603342</TotalDancePoints>
 <NumExtraStagesPassed>0</NumExtraStagesPassed>
 <NumExtraStagesFailed>0</NumExtraStagesFailed>
 <NumToasties>16</NumToasties>
@@ -44,14 +44,14 @@
 </DefaultModifiers>
 <Unlocks/>
 <NumSongsPlayedByPlayMode>
-<Regular>1266</Regular>
+<Regular>1267</Regular>
 </NumSongsPlayedByPlayMode>
 <NumSongsPlayedByStyle>
-<Style Game='dance' Style='single'>1246</Style>
+<Style Game='dance' Style='single'>1247</Style>
 <Style Game='dance' Style='versus'>20</Style>
 </NumSongsPlayedByStyle>
 <NumSongsPlayedByDifficulty>
-<Beginner>15</Beginner>
+<Beginner>16</Beginner>
 <Easy>89</Easy>
 <Medium>181</Medium>
 <Hard>668</Hard>
@@ -59,7 +59,7 @@
 </NumSongsPlayedByDifficulty>
 <NumSongsPlayedByMeter>
 <Meter1>7</Meter1>
-<Meter2>5</Meter2>
+<Meter2>6</Meter2>
 <Meter3>7</Meter3>
 <Meter4>4</Meter4>
 <Meter5>7</Meter5>
@@ -73,9 +73,9 @@
 <Meter13>10</Meter13>
 <Meter14>3</Meter14>
 </NumSongsPlayedByMeter>
-<NumTotalSongsPlayed>1266</NumTotalSongsPlayed>
+<NumTotalSongsPlayed>1267</NumTotalSongsPlayed>
 <NumStagesPassedByPlayMode>
-<Regular>1152</Regular>
+<Regular>1153</Regular>
 </NumStagesPassedByPlayMode>
 <NumStagesPassedByGrade>
 <Tier04>8</Tier04>
@@ -91,7 +91,7 @@
 <Tier14>32</Tier14>
 <Tier15>17</Tier15>
 <Tier16>10</Tier16>
-<Tier17>8</Tier17>
+<Tier17>9</Tier17>
 </NumStagesPassedByGrade>
 <UserTable></UserTable>
 </GeneralData>
@@ -13895,9 +13895,59 @@
 <Song Dir='Songs/DDR 2nd Mix/DUB-I-DUB/'>
 <Steps Difficulty='Beginner' StepsType='dance-single'>
 <HighScoreList>
-<NumTimesPlayed>1</NumTimesPlayed>
+<NumTimesPlayed>2</NumTimesPlayed>
 <LastPlayed>2026-02-17</LastPlayed>
 <HighGrade>Tier17</HighGrade>
+<HighScore>
+<Name>KYLE</Name>
+<Grade>Tier17</Grade>
+<Score>0</Score>
+<PercentDP>0.000000</PercentDP>
+<SurviveSeconds>80.432297</SurviveSeconds>
+<MaxCombo>0</MaxCombo>
+<StageAward></StageAward>
+<PeakComboAward></PeakComboAward>
+<Modifiers>NoHideLights, C590, 15% Mini, FailImmediateContinue, Overhead, Default</Modifiers>
+<DateTime>2026-02-17 09:57:16</DateTime>
+<PlayerGuid>4ad3a19834ee56bd</PlayerGuid>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<ProductID>1</ProductID>
+<TapNoteScores>
+<HitMine>0</HitMine>
+<AvoidMine>0</AvoidMine>
+<CheckpointMiss>0</CheckpointMiss>
+<Miss>80</Miss>
+<W5>0</W5>
+<W4>0</W4>
+<W3>0</W3>
+<W2>0</W2>
+<W1>0</W1>
+<CheckpointHit>0</CheckpointHit>
+</TapNoteScores>
+<HoldNoteScores>
+<LetGo>0</LetGo>
+<Held>0</Held>
+<MissedHold>0</MissedHold>
+</HoldNoteScores>
+<RadarValues>
+<Stream>0.000000</Stream>
+<Voltage>0.000000</Voltage>
+<Air>0.000000</Air>
+<Freeze>0.000000</Freeze>
+<Chaos>0.000000</Chaos>
+<Notes>0.000000</Notes>
+<TapsAndHolds>0</TapsAndHolds>
+<Jumps>0</Jumps>
+<Holds>0</Holds>
+<Mines>0</Mines>
+<Hands>0</Hands>
+<Rolls>0</Rolls>
+<Lifts>0</Lifts>
+<Fakes>0</Fakes>
+</RadarValues>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<Disqualified>0</Disqualified>
+</HighScore>
 <HighScore>
 <Name>KYLE</Name>
 <Grade>Tier17</Grade>

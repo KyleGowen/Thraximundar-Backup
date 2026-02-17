@@ -18,16 +18,16 @@
 <Song Dir=''/>
 <Course/>
 <CurrentCombo>0</CurrentCombo>
-<TotalSessions>2417</TotalSessions>
-<TotalSessionSeconds>1090739</TotalSessionSeconds>
-<TotalGameplaySeconds>537044</TotalGameplaySeconds>
+<TotalSessions>2432</TotalSessions>
+<TotalSessionSeconds>1090836</TotalSessionSeconds>
+<TotalGameplaySeconds>537124</TotalGameplaySeconds>
 <TotalCaloriesBurned>194005.484375</TotalCaloriesBurned>
 <GoalType>0</GoalType>
 <GoalCalories>0</GoalCalories>
 <GoalSeconds>0</GoalSeconds>
 <LastPlayedMachineGuid>403d15c592378cca</LastPlayedMachineGuid>
 <LastPlayedDate>2026-02-17</LastPlayedDate>
-<TotalDancePoints>7767741</TotalDancePoints>
+<TotalDancePoints>7766781</TotalDancePoints>
 <NumExtraStagesPassed>0</NumExtraStagesPassed>
 <NumExtraStagesFailed>0</NumExtraStagesFailed>
 <NumToasties>879</NumToasties>
@@ -41,13 +41,13 @@
 <DefaultModifiers/>
 <Unlocks/>
 <NumSongsPlayedByPlayMode>
-<Regular>3940</Regular>
+<Regular>3941</Regular>
 </NumSongsPlayedByPlayMode>
 <NumSongsPlayedByStyle>
-<Style Game='dance' Style='single'>2345</Style>
+<Style Game='dance' Style='single'>2346</Style>
 </NumSongsPlayedByStyle>
 <NumSongsPlayedByDifficulty>
-<Beginner>325</Beginner>
+<Beginner>326</Beginner>
 <Easy>652</Easy>
 <Medium>680</Medium>
 <Hard>1157</Hard>
@@ -55,7 +55,7 @@
 </NumSongsPlayedByDifficulty>
 <NumSongsPlayedByMeter>
 <Meter1>200</Meter1>
-<Meter2>126</Meter2>
+<Meter2>127</Meter2>
 <Meter3>273</Meter3>
 <Meter4>157</Meter4>
 <Meter5>169</Meter5>
@@ -70,9 +70,9 @@
 <Meter14>22</Meter14>
 <Meter15>1</Meter15>
 </NumSongsPlayedByMeter>
-<NumTotalSongsPlayed>3940</NumTotalSongsPlayed>
+<NumTotalSongsPlayed>3941</NumTotalSongsPlayed>
 <NumStagesPassedByPlayMode>
-<Regular>3276</Regular>
+<Regular>3277</Regular>
 </NumStagesPassedByPlayMode>
 <NumStagesPassedByGrade>
 <Tier01>2</Tier01>
@@ -91,7 +91,7 @@
 <Tier14>118</Tier14>
 <Tier15>99</Tier15>
 <Tier16>73</Tier16>
-<Tier17>194</Tier17>
+<Tier17>195</Tier17>
 </NumStagesPassedByGrade>
 </GeneralData>
 <SongScores>
@@ -28086,7 +28086,7 @@
 <Song Dir='Songs/DDR 2nd Mix/DUB-I-DUB/'>
 <Steps Difficulty='Beginner' StepsType='dance-single'>
 <HighScoreList>
-<NumTimesPlayed>1</NumTimesPlayed>
+<NumTimesPlayed>2</NumTimesPlayed>
 <LastPlayed>2026-02-17</LastPlayed>
 </HighScoreList>
 </Steps>
