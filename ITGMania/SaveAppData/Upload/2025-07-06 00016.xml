@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Stats>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<RecentSongScores>
+<HighScoreForASongAndSteps>
+<Song Dir='Songs/Tech-Bit Adventures 4/Boss Battle (FFMQ)/'/>
+<Steps Difficulty='Medium' StepsType='dance-single'/>
+<HighScore>
+<Name></Name>
+<Grade>Tier09</Grade>
+<Score>64</Score>
+<PercentDP>0.859700</PercentDP>
+<SurviveSeconds>97.110153</SurviveSeconds>
+<MaxCombo>150</MaxCombo>
+<StageAward></StageAward>
+<PeakComboAward></PeakComboAward>
+<Modifiers>NoHideLights, C575, 10% Mini, FailImmediateContinue, Overhead, Default</Modifiers>
+<DateTime>2025-07-06 11:22:50</DateTime>
+<PlayerGuid>4ad3a19834ee56bd</PlayerGuid>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<ProductID>1</ProductID>
+<TapNoteScores>
+<HitMine>0</HitMine>
+<AvoidMine>0</AvoidMine>
+<CheckpointMiss>0</CheckpointMiss>
+<Miss>3</Miss>
+<W5>0</W5>
+<W4>3</W4>
+<W3>52</W3>
+<W2>114</W2>
+<W1>227</W1>
+<CheckpointHit>0</CheckpointHit>
+</TapNoteScores>
+<HoldNoteScores>
+<LetGo>0</LetGo>
+<Held>80</Held>
+<MissedHold>0</MissedHold>
+</HoldNoteScores>
+<RadarValues>
+<Stream>0.855362</Stream>
+<Voltage>0.393481</Voltage>
+<Air>0.500000</Air>
+<Freeze>1.000000</Freeze>
+<Chaos>0.859708</Chaos>
+<Notes>398.000000</Notes>
+<TapsAndHolds>396</TapsAndHolds>
+<Jumps>2</Jumps>
+<Holds>80</Holds>
+<Mines>0</Mines>
+<Hands>0</Hands>
+<Rolls>0</Rolls>
+<Lifts>0</Lifts>
+<Fakes>0</Fakes>
+</RadarValues>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<Disqualified>0</Disqualified>
+<Pad>33</Pad>
+<StageGuid>52720cba-0e43-4542-a0ef-dccfad936609</StageGuid>
+<Guid>b3fb24c0-9453-483d-aa03-1778b3413503</Guid>
+</HighScore>
+</HighScoreForASongAndSteps>
+</RecentSongScores>
+</Stats>

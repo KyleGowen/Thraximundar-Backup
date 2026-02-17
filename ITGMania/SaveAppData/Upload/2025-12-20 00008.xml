@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Stats>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<RecentSongScores>
+<HighScoreForASongAndSteps>
+<Song Dir='Songs/Tech-Bit Adventures 3/Dr. Wilys Castle (From Megaman 2)/'/>
+<Steps Difficulty='Hard' StepsType='dance-single'/>
+<HighScore>
+<Name></Name>
+<Grade>Tier11</Grade>
+<Score>91</Score>
+<PercentDP>0.777000</PercentDP>
+<SurviveSeconds>135.666824</SurviveSeconds>
+<MaxCombo>167</MaxCombo>
+<StageAward></StageAward>
+<PeakComboAward></PeakComboAward>
+<Modifiers>NoHideLights, C585, 10% Mini, FailImmediateContinue, Overhead, Default</Modifiers>
+<DateTime>2025-12-20 14:01:44</DateTime>
+<PlayerGuid>4ad3a19834ee56bd</PlayerGuid>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<ProductID>1</ProductID>
+<TapNoteScores>
+<HitMine>0</HitMine>
+<AvoidMine>0</AvoidMine>
+<CheckpointMiss>0</CheckpointMiss>
+<Miss>12</Miss>
+<W5>4</W5>
+<W4>11</W4>
+<W3>125</W3>
+<W2>162</W2>
+<W1>295</W1>
+<CheckpointHit>0</CheckpointHit>
+</TapNoteScores>
+<HoldNoteScores>
+<LetGo>0</LetGo>
+<Held>148</Held>
+<MissedHold>1</MissedHold>
+</HoldNoteScores>
+<RadarValues>
+<Stream>0.750410</Stream>
+<Voltage>0.290002</Voltage>
+<Air>0.000000</Air>
+<Freeze>0.993243</Freeze>
+<Chaos>0.777045</Chaos>
+<Notes>593.000000</Notes>
+<TapsAndHolds>593</TapsAndHolds>
+<Jumps>0</Jumps>
+<Holds>147</Holds>
+<Mines>7</Mines>
+<Hands>0</Hands>
+<Rolls>1</Rolls>
+<Lifts>0</Lifts>
+<Fakes>0</Fakes>
+</RadarValues>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<Disqualified>0</Disqualified>
+<Pad>33</Pad>
+<StageGuid>e75d0b9a-dcc7-4e0c-a235-7d7a63610185</StageGuid>
+<Guid>6a6ae32d-22e5-4844-a98a-2d6a48105665</Guid>
+</HighScore>
+</HighScoreForASongAndSteps>
+</RecentSongScores>
+</Stats>

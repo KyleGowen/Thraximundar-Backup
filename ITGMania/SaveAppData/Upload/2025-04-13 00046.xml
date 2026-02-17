@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Stats>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<RecentSongScores>
+<HighScoreForASongAndSteps>
+<Song Dir='Songs/Ben Speirs&apos; SPEIRMIX GALAXY/Moves Like Jagger/'/>
+<Steps Difficulty='Beginner' StepsType='dance-single'/>
+<HighScore>
+<Name></Name>
+<Grade>Tier17</Grade>
+<Score>10</Score>
+<PercentDP>0.459100</PercentDP>
+<SurviveSeconds>142.276382</SurviveSeconds>
+<MaxCombo>23</MaxCombo>
+<StageAward></StageAward>
+<PeakComboAward></PeakComboAward>
+<Modifiers>NoHideLights, C325, FailImmediateContinue, Overhead, Default</Modifiers>
+<DateTime>2025-04-13 18:32:14</DateTime>
+<PlayerGuid>d876307e83faa0ea</PlayerGuid>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<ProductID>1</ProductID>
+<TapNoteScores>
+<HitMine>0</HitMine>
+<AvoidMine>0</AvoidMine>
+<CheckpointMiss>0</CheckpointMiss>
+<Miss>3</Miss>
+<W5>3</W5>
+<W4>3</W4>
+<W3>48</W3>
+<W2>22</W2>
+<W1>19</W1>
+<CheckpointHit>0</CheckpointHit>
+</TapNoteScores>
+<HoldNoteScores>
+<LetGo>0</LetGo>
+<Held>0</Held>
+<MissedHold>0</MissedHold>
+</HoldNoteScores>
+<RadarValues>
+<Stream>0.417476</Stream>
+<Voltage>0.220898</Voltage>
+<Air>0.200000</Air>
+<Freeze>0.000000</Freeze>
+<Chaos>0.459184</Chaos>
+<Notes>97.000000</Notes>
+<TapsAndHolds>92</TapsAndHolds>
+<Jumps>5</Jumps>
+<Holds>0</Holds>
+<Mines>0</Mines>
+<Hands>0</Hands>
+<Rolls>0</Rolls>
+<Lifts>0</Lifts>
+<Fakes>0</Fakes>
+</RadarValues>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<Disqualified>0</Disqualified>
+<Pad>33</Pad>
+<StageGuid>1a8a6bec-5345-478a-a9c0-7cfc058df536</StageGuid>
+<Guid>05c161ed-daad-4b29-ab02-9ef4c6b395f3</Guid>
+</HighScore>
+</HighScoreForASongAndSteps>
+</RecentSongScores>
+</Stats>

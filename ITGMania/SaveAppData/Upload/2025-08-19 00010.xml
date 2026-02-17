@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Stats>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<RecentSongScores>
+<HighScoreForASongAndSteps>
+<Song Dir='Songs/Ben Speirs&apos; SPEIRMIX/Remedy/'/>
+<Steps Difficulty='Medium' StepsType='dance-single'/>
+<HighScore>
+<Name></Name>
+<Grade>Failed</Grade>
+<Score>6</Score>
+<PercentDP>0.003900</PercentDP>
+<SurviveSeconds>25.507248</SurviveSeconds>
+<MaxCombo>17</MaxCombo>
+<StageAward></StageAward>
+<PeakComboAward></PeakComboAward>
+<Modifiers>NoHideLights, C335, FailImmediateContinue, Overhead</Modifiers>
+<DateTime>2025-08-19 16:56:45</DateTime>
+<PlayerGuid>2dde4d6e8737681e</PlayerGuid>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<ProductID>1</ProductID>
+<TapNoteScores>
+<HitMine>0</HitMine>
+<AvoidMine>0</AvoidMine>
+<CheckpointMiss>0</CheckpointMiss>
+<Miss>82</Miss>
+<W5>18</W5>
+<W4>23</W4>
+<W3>59</W3>
+<W2>36</W2>
+<W1>36</W1>
+<CheckpointHit>0</CheckpointHit>
+</TapNoteScores>
+<HoldNoteScores>
+<LetGo>5</LetGo>
+<Held>28</Held>
+<MissedHold>14</MissedHold>
+</HoldNoteScores>
+<RadarValues>
+<Stream>0.308219</Stream>
+<Voltage>0.053354</Voltage>
+<Air>0.315789</Air>
+<Freeze>0.595745</Freeze>
+<Chaos>0.003987</Chaos>
+<Notes>189.000000</Notes>
+<TapsAndHolds>159</TapsAndHolds>
+<Jumps>30</Jumps>
+<Holds>28</Holds>
+<Mines>0</Mines>
+<Hands>0</Hands>
+<Rolls>0</Rolls>
+<Lifts>0</Lifts>
+<Fakes>0</Fakes>
+</RadarValues>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<Disqualified>0</Disqualified>
+<Pad>33</Pad>
+<StageGuid>84473452-be6d-45be-ab39-49a019efb836</StageGuid>
+<Guid>06bc9ffb-773e-47bb-a439-212023fd184f</Guid>
+</HighScore>
+</HighScoreForASongAndSteps>
+</RecentSongScores>
+</Stats>

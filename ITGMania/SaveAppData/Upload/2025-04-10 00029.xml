@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Stats>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<RecentSongScores>
+<HighScoreForASongAndSteps>
+<Song Dir='Songs/Ben Speirs Galaxy/Happy/'/>
+<Steps Difficulty='Hard' StepsType='dance-single'/>
+<HighScore>
+<Name></Name>
+<Grade>Tier10</Grade>
+<Score>73</Score>
+<PercentDP>0.827500</PercentDP>
+<SurviveSeconds>126.408051</SurviveSeconds>
+<MaxCombo>166</MaxCombo>
+<StageAward></StageAward>
+<PeakComboAward></PeakComboAward>
+<Modifiers>NoHideLights, C565, 10% Mini, NoFakes, FailImmediateContinue, Overhead, Default, No W5</Modifiers>
+<DateTime>2025-04-10 18:23:37</DateTime>
+<PlayerGuid>4ad3a19834ee56bd</PlayerGuid>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<ProductID>1</ProductID>
+<TapNoteScores>
+<HitMine>0</HitMine>
+<AvoidMine>0</AvoidMine>
+<CheckpointMiss>0</CheckpointMiss>
+<Miss>1</Miss>
+<W5>0</W5>
+<W4>2</W4>
+<W3>81</W3>
+<W2>137</W2>
+<W1>199</W1>
+<CheckpointHit>0</CheckpointHit>
+</TapNoteScores>
+<HoldNoteScores>
+<LetGo>0</LetGo>
+<Held>52</Held>
+<MissedHold>0</MissedHold>
+</HoldNoteScores>
+<RadarValues>
+<Stream>0.805907</Stream>
+<Voltage>0.344692</Voltage>
+<Air>0.722222</Air>
+<Freeze>1.000000</Freeze>
+<Chaos>0.827542</Chaos>
+<Notes>473.000000</Notes>
+<TapsAndHolds>419</TapsAndHolds>
+<Jumps>54</Jumps>
+<Holds>52</Holds>
+<Mines>0</Mines>
+<Hands>0</Hands>
+<Rolls>0</Rolls>
+<Lifts>0</Lifts>
+<Fakes>0</Fakes>
+</RadarValues>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<Disqualified>0</Disqualified>
+<Pad>33</Pad>
+<StageGuid>f5f46e5a-e793-4976-a732-92d1f6dabc56</StageGuid>
+<Guid>554496ae-bed6-44c6-a677-2c039ecb98ae</Guid>
+</HighScore>
+</HighScoreForASongAndSteps>
+</RecentSongScores>
+</Stats>

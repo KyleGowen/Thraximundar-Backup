@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Stats>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<RecentSongScores>
+<HighScoreForASongAndSteps>
+<Song Dir='Songs/Misc. Collected/BACK UP/'/>
+<Steps Difficulty='Medium' StepsType='dance-single'/>
+<HighScore>
+<Name></Name>
+<Grade>Tier12</Grade>
+<Score>27</Score>
+<PercentDP>0.737900</PercentDP>
+<SurviveSeconds>121.909012</SurviveSeconds>
+<MaxCombo>94</MaxCombo>
+<StageAward></StageAward>
+<PeakComboAward></PeakComboAward>
+<Modifiers>NoHideLights, C380, FailImmediateContinue, Overhead, Default</Modifiers>
+<DateTime>2025-06-04 18:52:36</DateTime>
+<PlayerGuid>d876307e83faa0ea</PlayerGuid>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<ProductID>1</ProductID>
+<TapNoteScores>
+<HitMine>0</HitMine>
+<AvoidMine>0</AvoidMine>
+<CheckpointMiss>0</CheckpointMiss>
+<Miss>5</Miss>
+<W5>0</W5>
+<W4>1</W4>
+<W3>60</W3>
+<W2>83</W2>
+<W1>100</W1>
+<CheckpointHit>0</CheckpointHit>
+</TapNoteScores>
+<HoldNoteScores>
+<LetGo>1</LetGo>
+<Held>26</Held>
+<MissedHold>1</MissedHold>
+</HoldNoteScores>
+<RadarValues>
+<Stream>0.736220</Stream>
+<Voltage>0.369744</Voltage>
+<Air>0.800000</Air>
+<Freeze>0.928571</Freeze>
+<Chaos>0.737906</Chaos>
+<Notes>249.000000</Notes>
+<TapsAndHolds>244</TapsAndHolds>
+<Jumps>5</Jumps>
+<Holds>26</Holds>
+<Mines>0</Mines>
+<Hands>0</Hands>
+<Rolls>0</Rolls>
+<Lifts>0</Lifts>
+<Fakes>0</Fakes>
+</RadarValues>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<Disqualified>0</Disqualified>
+<Pad>33</Pad>
+<StageGuid>d3f11fc8-a901-4211-a294-edd942cacd57</StageGuid>
+<Guid>95cc2d66-7f43-4147-adc5-fbf47435a1e5</Guid>
+</HighScore>
+</HighScoreForASongAndSteps>
+</RecentSongScores>
+</Stats>

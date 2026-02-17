@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Stats>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<RecentSongScores>
+<HighScoreForASongAndSteps>
+<Song Dir='Songs/Misc. Collected/Uno [Gameoson]/'/>
+<Steps Difficulty='Hard' StepsType='dance-single'/>
+<HighScore>
+<Name></Name>
+<Grade>Tier11</Grade>
+<Score>52</Score>
+<PercentDP>0.778000</PercentDP>
+<SurviveSeconds>120.095268</SurviveSeconds>
+<MaxCombo>97</MaxCombo>
+<StageAward></StageAward>
+<PeakComboAward></PeakComboAward>
+<Modifiers>NoHideLights, C570, 10% Mini, FailImmediateContinue, Overhead, Default</Modifiers>
+<DateTime>2025-04-13 11:16:54</DateTime>
+<PlayerGuid>4ad3a19834ee56bd</PlayerGuid>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<ProductID>1</ProductID>
+<TapNoteScores>
+<HitMine>0</HitMine>
+<AvoidMine>0</AvoidMine>
+<CheckpointMiss>0</CheckpointMiss>
+<Miss>2</Miss>
+<W5>1</W5>
+<W4>4</W4>
+<W3>84</W3>
+<W2>108</W2>
+<W1>141</W1>
+<CheckpointHit>0</CheckpointHit>
+</TapNoteScores>
+<HoldNoteScores>
+<LetGo>4</LetGo>
+<Held>57</Held>
+<MissedHold>0</MissedHold>
+</HoldNoteScores>
+<RadarValues>
+<Stream>0.742188</Stream>
+<Voltage>0.232201</Voltage>
+<Air>0.613636</Air>
+<Freeze>0.934426</Freeze>
+<Chaos>0.778055</Chaos>
+<Notes>380.000000</Notes>
+<TapsAndHolds>337</TapsAndHolds>
+<Jumps>43</Jumps>
+<Holds>57</Holds>
+<Mines>0</Mines>
+<Hands>0</Hands>
+<Rolls>0</Rolls>
+<Lifts>0</Lifts>
+<Fakes>0</Fakes>
+</RadarValues>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<Disqualified>0</Disqualified>
+<Pad>33</Pad>
+<StageGuid>ef390fab-c38e-4116-aa71-2f8a9b4d728b</StageGuid>
+<Guid>f49d6baa-04ff-470d-aada-e7d6daa24655</Guid>
+</HighScore>
+</HighScoreForASongAndSteps>
+</RecentSongScores>
+</Stats>

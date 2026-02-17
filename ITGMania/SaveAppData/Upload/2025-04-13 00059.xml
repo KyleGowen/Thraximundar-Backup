@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Stats>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<RecentSongScores>
+<HighScoreForASongAndSteps>
+<Song Dir='Songs/Ben Speirs&apos; SPEIRMIX GALAXY/Latino Virus/'/>
+<Steps Difficulty='Easy' StepsType='dance-single'/>
+<HighScore>
+<Name></Name>
+<Grade>Tier14</Grade>
+<Score>23</Score>
+<PercentDP>0.645900</PercentDP>
+<SurviveSeconds>116.214615</SurviveSeconds>
+<MaxCombo>69</MaxCombo>
+<StageAward></StageAward>
+<PeakComboAward></PeakComboAward>
+<Modifiers>NoHideLights, m325, FailImmediateContinue, Overhead, Default</Modifiers>
+<DateTime>2025-04-13 19:37:02</DateTime>
+<PlayerGuid>d876307e83faa0ea</PlayerGuid>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<ProductID>1</ProductID>
+<TapNoteScores>
+<HitMine>0</HitMine>
+<AvoidMine>0</AvoidMine>
+<CheckpointMiss>0</CheckpointMiss>
+<Miss>2</Miss>
+<W5>2</W5>
+<W4>2</W4>
+<W3>65</W3>
+<W2>42</W2>
+<W1>52</W1>
+<CheckpointHit>0</CheckpointHit>
+</TapNoteScores>
+<HoldNoteScores>
+<LetGo>0</LetGo>
+<Held>8</Held>
+<MissedHold>1</MissedHold>
+</HoldNoteScores>
+<RadarValues>
+<Stream>0.584270</Stream>
+<Voltage>0.328374</Voltage>
+<Air>0.538462</Air>
+<Freeze>0.888889</Freeze>
+<Chaos>0.645977</Chaos>
+<Notes>174.000000</Notes>
+<TapsAndHolds>161</TapsAndHolds>
+<Jumps>13</Jumps>
+<Holds>8</Holds>
+<Mines>0</Mines>
+<Hands>0</Hands>
+<Rolls>0</Rolls>
+<Lifts>0</Lifts>
+<Fakes>0</Fakes>
+</RadarValues>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<Disqualified>0</Disqualified>
+<Pad>33</Pad>
+<StageGuid>e72b8e9f-b466-4c1d-ae2e-8743c2d48094</StageGuid>
+<Guid>2349e98c-8b37-4234-a772-19b3c3e9d5e8</Guid>
+</HighScore>
+</HighScoreForASongAndSteps>
+</RecentSongScores>
+</Stats>

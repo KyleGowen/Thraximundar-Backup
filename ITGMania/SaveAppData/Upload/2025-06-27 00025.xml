@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Stats>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<RecentSongScores>
+<HighScoreForASongAndSteps>
+<Song Dir='Songs/Misc. Collected/Ding Dong Song/'/>
+<Steps Difficulty='Easy' StepsType='dance-single'/>
+<HighScore>
+<Name></Name>
+<Grade>Tier07</Grade>
+<Score>64</Score>
+<PercentDP>0.919200</PercentDP>
+<SurviveSeconds>243.144196</SurviveSeconds>
+<MaxCombo>404</MaxCombo>
+<StageAward>FullComboW3</StageAward>
+<PeakComboAward></PeakComboAward>
+<Modifiers>NoHideLights, C380, FailImmediateContinue, Overhead, Default</Modifiers>
+<DateTime>2025-06-27 16:09:56</DateTime>
+<PlayerGuid>d876307e83faa0ea</PlayerGuid>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<ProductID>1</ProductID>
+<TapNoteScores>
+<HitMine>0</HitMine>
+<AvoidMine>0</AvoidMine>
+<CheckpointMiss>0</CheckpointMiss>
+<Miss>0</Miss>
+<W5>0</W5>
+<W4>0</W4>
+<W3>18</W3>
+<W2>93</W2>
+<W1>241</W1>
+<CheckpointHit>0</CheckpointHit>
+</TapNoteScores>
+<HoldNoteScores>
+<LetGo>0</LetGo>
+<Held>12</Held>
+<MissedHold>0</MissedHold>
+</HoldNoteScores>
+<RadarValues>
+<Stream>0.948020</Stream>
+<Voltage>0.999830</Voltage>
+<Air>0.980769</Air>
+<Freeze>1.000000</Freeze>
+<Chaos>0.919231</Chaos>
+<Notes>404.000000</Notes>
+<TapsAndHolds>352</TapsAndHolds>
+<Jumps>52</Jumps>
+<Holds>12</Holds>
+<Mines>0</Mines>
+<Hands>0</Hands>
+<Rolls>0</Rolls>
+<Lifts>0</Lifts>
+<Fakes>0</Fakes>
+</RadarValues>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<Disqualified>0</Disqualified>
+<Pad>33</Pad>
+<StageGuid>4106e3dd-0d77-4786-a1b0-60f3ef403168</StageGuid>
+<Guid>710936b0-3064-4145-a850-a7f225c852fb</Guid>
+</HighScore>
+</HighScoreForASongAndSteps>
+</RecentSongScores>
+</Stats>

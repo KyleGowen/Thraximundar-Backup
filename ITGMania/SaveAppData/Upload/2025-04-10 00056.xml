@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Stats>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<RecentSongScores>
+<HighScoreForASongAndSteps>
+<Song Dir='Songs/9guys1pack/ADU/'/>
+<Steps Difficulty='Easy' StepsType='dance-single'/>
+<HighScore>
+<Name></Name>
+<Grade>Tier17</Grade>
+<Score>25</Score>
+<PercentDP>0.519500</PercentDP>
+<SurviveSeconds>120.428055</SurviveSeconds>
+<MaxCombo>39</MaxCombo>
+<StageAward></StageAward>
+<PeakComboAward></PeakComboAward>
+<Modifiers>NoHideLights, C470, 10% Mini, NoFakes, FailImmediateContinue, Space, Metal, No W5</Modifiers>
+<DateTime>2025-04-10 23:17:31</DateTime>
+<PlayerGuid>4ad3a19834ee56bd</PlayerGuid>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<ProductID>1</ProductID>
+<TapNoteScores>
+<HitMine>0</HitMine>
+<AvoidMine>0</AvoidMine>
+<CheckpointMiss>0</CheckpointMiss>
+<Miss>12</Miss>
+<W5>0</W5>
+<W4>22</W4>
+<W3>89</W3>
+<W2>53</W2>
+<W1>82</W1>
+<CheckpointHit>0</CheckpointHit>
+</TapNoteScores>
+<HoldNoteScores>
+<LetGo>0</LetGo>
+<Held>7</Held>
+<MissedHold>1</MissedHold>
+</HoldNoteScores>
+<RadarValues>
+<Stream>0.523077</Stream>
+<Voltage>0.141897</Voltage>
+<Air>0.500000</Air>
+<Freeze>0.875000</Freeze>
+<Chaos>0.519549</Chaos>
+<Notes>248.000000</Notes>
+<TapsAndHolds>246</TapsAndHolds>
+<Jumps>2</Jumps>
+<Holds>7</Holds>
+<Mines>0</Mines>
+<Hands>0</Hands>
+<Rolls>0</Rolls>
+<Lifts>0</Lifts>
+<Fakes>0</Fakes>
+</RadarValues>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<Disqualified>0</Disqualified>
+<Pad>33</Pad>
+<StageGuid>468c9067-51b3-4c9f-a982-6aeea4f5f762</StageGuid>
+<Guid>853acc2e-d0da-4abb-a3ba-8bf5b93c79f6</Guid>
+</HighScore>
+</HighScoreForASongAndSteps>
+</RecentSongScores>
+</Stats>

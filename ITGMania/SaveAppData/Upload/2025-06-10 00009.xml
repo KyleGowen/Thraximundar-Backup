@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Stats>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<RecentSongScores>
+<HighScoreForASongAndSteps>
+<Song Dir='Songs/Tech-Bit Adventures 3/Boss Challenge (From Diddy Kong Racing)/'/>
+<Steps Difficulty='Medium' StepsType='dance-single'/>
+<HighScore>
+<Name></Name>
+<Grade>Failed</Grade>
+<Score>80</Score>
+<PercentDP>0.571500</PercentDP>
+<SurviveSeconds>108.331833</SurviveSeconds>
+<MaxCombo>146</MaxCombo>
+<StageAward></StageAward>
+<PeakComboAward></PeakComboAward>
+<Modifiers>NoHideLights, C565, 10% Mini, FailImmediateContinue, Overhead, Default</Modifiers>
+<DateTime>2025-06-10 17:45:54</DateTime>
+<PlayerGuid>4ad3a19834ee56bd</PlayerGuid>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<ProductID>1</ProductID>
+<TapNoteScores>
+<HitMine>3</HitMine>
+<AvoidMine>0</AvoidMine>
+<CheckpointMiss>0</CheckpointMiss>
+<Miss>28</Miss>
+<W5>6</W5>
+<W4>19</W4>
+<W3>191</W3>
+<W2>179</W2>
+<W1>219</W1>
+<CheckpointHit>0</CheckpointHit>
+</TapNoteScores>
+<HoldNoteScores>
+<LetGo>1</LetGo>
+<Held>89</Held>
+<MissedHold>0</MissedHold>
+</HoldNoteScores>
+<RadarValues>
+<Stream>0.619120</Stream>
+<Voltage>0.254942</Voltage>
+<Air>0.411765</Air>
+<Freeze>0.988889</Freeze>
+<Chaos>0.571585</Chaos>
+<Notes>623.000000</Notes>
+<TapsAndHolds>608</TapsAndHolds>
+<Jumps>14</Jumps>
+<Holds>89</Holds>
+<Mines>13</Mines>
+<Hands>0</Hands>
+<Rolls>0</Rolls>
+<Lifts>0</Lifts>
+<Fakes>0</Fakes>
+</RadarValues>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<Disqualified>0</Disqualified>
+<Pad>33</Pad>
+<StageGuid>38d43d62-a9b7-4d9f-ae2d-bd67b67f3b09</StageGuid>
+<Guid>2db53fde-7586-4917-a712-ab70501d2b99</Guid>
+</HighScore>
+</HighScoreForASongAndSteps>
+</RecentSongScores>
+</Stats>

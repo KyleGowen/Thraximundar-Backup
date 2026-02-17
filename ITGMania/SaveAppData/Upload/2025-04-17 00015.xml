@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Stats>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<RecentSongScores>
+<HighScoreForASongAndSteps>
+<Song Dir='Songs/Misc. Collected/Dare to be Stupid/'/>
+<Steps Difficulty='Hard' StepsType='dance-single'/>
+<HighScore>
+<Name></Name>
+<Grade>Tier14</Grade>
+<Score>51</Score>
+<PercentDP>0.676900</PercentDP>
+<SurviveSeconds>98.277336</SurviveSeconds>
+<MaxCombo>143</MaxCombo>
+<StageAward></StageAward>
+<PeakComboAward></PeakComboAward>
+<Modifiers>NoHideLights, C570, 10% Mini, FailImmediateContinue, Overhead, Default</Modifiers>
+<DateTime>2025-04-17 17:20:51</DateTime>
+<PlayerGuid>4ad3a19834ee56bd</PlayerGuid>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<ProductID>1</ProductID>
+<TapNoteScores>
+<HitMine>0</HitMine>
+<AvoidMine>0</AvoidMine>
+<CheckpointMiss>0</CheckpointMiss>
+<Miss>6</Miss>
+<W5>2</W5>
+<W4>2</W4>
+<W3>142</W3>
+<W2>183</W2>
+<W1>121</W1>
+<CheckpointHit>0</CheckpointHit>
+</TapNoteScores>
+<HoldNoteScores>
+<LetGo>0</LetGo>
+<Held>4</Held>
+<MissedHold>0</MissedHold>
+</HoldNoteScores>
+<RadarValues>
+<Stream>0.672727</Stream>
+<Voltage>0.278005</Voltage>
+<Air>0.564103</Air>
+<Freeze>1.000000</Freeze>
+<Chaos>0.676957</Chaos>
+<Notes>486.000000</Notes>
+<TapsAndHolds>449</TapsAndHolds>
+<Jumps>39</Jumps>
+<Holds>4</Holds>
+<Mines>0</Mines>
+<Hands>0</Hands>
+<Rolls>0</Rolls>
+<Lifts>0</Lifts>
+<Fakes>0</Fakes>
+</RadarValues>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<Disqualified>0</Disqualified>
+<Pad>33</Pad>
+<StageGuid>d3ebab36-a19c-49e7-aa8d-1229926e8691</StageGuid>
+<Guid>54e94ef6-025b-4679-ad19-c1c9e1672c99</Guid>
+</HighScore>
+</HighScoreForASongAndSteps>
+</RecentSongScores>
+</Stats>

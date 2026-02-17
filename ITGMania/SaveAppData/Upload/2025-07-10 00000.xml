@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Stats>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<RecentSongScores>
+<HighScoreForASongAndSteps>
+<Song Dir='Songs/State of Trance/Astarion/'/>
+<Steps Difficulty='Easy' StepsType='dance-single'/>
+<HighScore>
+<Name></Name>
+<Grade>Tier07</Grade>
+<Score>359</Score>
+<PercentDP>0.916800</PercentDP>
+<SurviveSeconds>418.228394</SurviveSeconds>
+<MaxCombo>572</MaxCombo>
+<StageAward></StageAward>
+<PeakComboAward></PeakComboAward>
+<Modifiers>NoHideLights, C580, 10% Mini, FailImmediateContinue, Overhead, Default</Modifiers>
+<DateTime>2025-07-10 18:47:20</DateTime>
+<PlayerGuid>4ad3a19834ee56bd</PlayerGuid>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<ProductID>1</ProductID>
+<TapNoteScores>
+<HitMine>0</HitMine>
+<AvoidMine>0</AvoidMine>
+<CheckpointMiss>0</CheckpointMiss>
+<Miss>4</Miss>
+<W5>2</W5>
+<W4>2</W4>
+<W3>83</W3>
+<W2>360</W2>
+<W1>1255</W1>
+<CheckpointHit>0</CheckpointHit>
+</TapNoteScores>
+<HoldNoteScores>
+<LetGo>1</LetGo>
+<Held>10</Held>
+<MissedHold>0</MissedHold>
+</HoldNoteScores>
+<RadarValues>
+<Stream>0.946659</Stream>
+<Voltage>0.302684</Voltage>
+<Air>0.000000</Air>
+<Freeze>0.909091</Freeze>
+<Chaos>0.916832</Chaos>
+<Notes>1700.000000</Notes>
+<TapsAndHolds>1700</TapsAndHolds>
+<Jumps>0</Jumps>
+<Holds>10</Holds>
+<Mines>0</Mines>
+<Hands>0</Hands>
+<Rolls>0</Rolls>
+<Lifts>0</Lifts>
+<Fakes>0</Fakes>
+</RadarValues>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<Disqualified>0</Disqualified>
+<Pad>33</Pad>
+<StageGuid>a3d70351-40cf-4739-a350-6d88c782b699</StageGuid>
+<Guid>766b9e8b-3c60-4315-add3-b6457c3420ff</Guid>
+</HighScore>
+</HighScoreForASongAndSteps>
+</RecentSongScores>
+</Stats>

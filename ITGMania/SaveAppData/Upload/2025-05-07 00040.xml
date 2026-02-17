@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Stats>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<RecentSongScores>
+<HighScoreForASongAndSteps>
+<Song Dir='Songs/80s Greatest Hits Volume 1/We Built This City/'/>
+<Steps Difficulty='Medium' StepsType='dance-single'/>
+<HighScore>
+<Name></Name>
+<Grade>Tier10</Grade>
+<Score>55</Score>
+<PercentDP>0.811200</PercentDP>
+<SurviveSeconds>122.843239</SurviveSeconds>
+<MaxCombo>100</MaxCombo>
+<StageAward></StageAward>
+<PeakComboAward></PeakComboAward>
+<Modifiers>NoHideLights, C380, FailImmediateContinue, Overhead, Default</Modifiers>
+<DateTime>2025-05-07 22:19:32</DateTime>
+<PlayerGuid>d876307e83faa0ea</PlayerGuid>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<ProductID>1</ProductID>
+<TapNoteScores>
+<HitMine>0</HitMine>
+<AvoidMine>0</AvoidMine>
+<CheckpointMiss>0</CheckpointMiss>
+<Miss>2</Miss>
+<W5>2</W5>
+<W4>4</W4>
+<W3>43</W3>
+<W2>87</W2>
+<W1>159</W1>
+<CheckpointHit>0</CheckpointHit>
+</TapNoteScores>
+<HoldNoteScores>
+<LetGo>0</LetGo>
+<Held>21</Held>
+<MissedHold>2</MissedHold>
+</HoldNoteScores>
+<RadarValues>
+<Stream>0.821317</Stream>
+<Voltage>0.297646</Voltage>
+<Air>0.863636</Air>
+<Freeze>0.913043</Freeze>
+<Chaos>0.811250</Chaos>
+<Notes>314.000000</Notes>
+<TapsAndHolds>293</TapsAndHolds>
+<Jumps>21</Jumps>
+<Holds>21</Holds>
+<Mines>0</Mines>
+<Hands>0</Hands>
+<Rolls>0</Rolls>
+<Lifts>0</Lifts>
+<Fakes>0</Fakes>
+</RadarValues>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<Disqualified>0</Disqualified>
+<Pad>33</Pad>
+<StageGuid>09718ea3-2b6d-4cd3-a6fa-3f02f16400a6</StageGuid>
+<Guid>0b68838d-fea4-462d-abf2-65e221dee2f9</Guid>
+</HighScore>
+</HighScoreForASongAndSteps>
+</RecentSongScores>
+</Stats>

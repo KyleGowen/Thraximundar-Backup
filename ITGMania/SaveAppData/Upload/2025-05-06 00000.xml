@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Stats>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<RecentSongScores>
+<HighScoreForASongAndSteps>
+<Song Dir='Songs/Misc. Collected/Love Again/'/>
+<Steps Difficulty='Beginner' StepsType='dance-single'/>
+<HighScore>
+<Name></Name>
+<Grade>Tier14</Grade>
+<Score>17</Score>
+<PercentDP>0.653900</PercentDP>
+<SurviveSeconds>151.747620</SurviveSeconds>
+<MaxCombo>40</MaxCombo>
+<StageAward></StageAward>
+<PeakComboAward></PeakComboAward>
+<Modifiers>NoHideLights, C310, FailImmediateContinue, Overhead</Modifiers>
+<DateTime>2025-05-06 17:11:03</DateTime>
+<PlayerGuid>2dde4d6e8737681e</PlayerGuid>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<ProductID>1</ProductID>
+<TapNoteScores>
+<HitMine>0</HitMine>
+<AvoidMine>0</AvoidMine>
+<CheckpointMiss>0</CheckpointMiss>
+<Miss>3</Miss>
+<W5>1</W5>
+<W4>3</W4>
+<W3>44</W3>
+<W2>35</W2>
+<W1>55</W1>
+<CheckpointHit>0</CheckpointHit>
+</TapNoteScores>
+<HoldNoteScores>
+<LetGo>0</LetGo>
+<Held>0</Held>
+<MissedHold>0</MissedHold>
+</HoldNoteScores>
+<RadarValues>
+<Stream>0.636364</Stream>
+<Voltage>0.276087</Voltage>
+<Air>0.500000</Air>
+<Freeze>0.000000</Freeze>
+<Chaos>0.653901</Chaos>
+<Notes>139.000000</Notes>
+<TapsAndHolds>137</TapsAndHolds>
+<Jumps>2</Jumps>
+<Holds>0</Holds>
+<Mines>0</Mines>
+<Hands>0</Hands>
+<Rolls>0</Rolls>
+<Lifts>0</Lifts>
+<Fakes>0</Fakes>
+</RadarValues>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<Disqualified>0</Disqualified>
+<Pad>33</Pad>
+<StageGuid>bbed9f51-6b47-4ef7-a5ec-e68066561611</StageGuid>
+<Guid>5c1a0c39-be4b-4606-aaf9-d9a10ecb80f7</Guid>
+</HighScore>
+</HighScoreForASongAndSteps>
+</RecentSongScores>
+</Stats>

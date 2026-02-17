@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Stats>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<RecentSongScores>
+<HighScoreForASongAndSteps>
+<Song Dir='Songs/Ben Speirs Galaxy/Shake It Off/'/>
+<Steps Difficulty='Challenge' StepsType='dance-single'/>
+<HighScore>
+<Name></Name>
+<Grade>Tier10</Grade>
+<Score>81</Score>
+<PercentDP>0.825800</PercentDP>
+<SurviveSeconds>133.626678</SurviveSeconds>
+<MaxCombo>178</MaxCombo>
+<StageAward></StageAward>
+<PeakComboAward></PeakComboAward>
+<Modifiers>NoHideLights, C555, 10% Mini, NoFakes, FailImmediateContinue, Overhead, Default, No W5</Modifiers>
+<DateTime>2025-04-10 18:04:36</DateTime>
+<PlayerGuid>4ad3a19834ee56bd</PlayerGuid>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<ProductID>1</ProductID>
+<TapNoteScores>
+<HitMine>0</HitMine>
+<AvoidMine>0</AvoidMine>
+<CheckpointMiss>0</CheckpointMiss>
+<Miss>3</Miss>
+<W5>0</W5>
+<W4>4</W4>
+<W3>80</W3>
+<W2>141</W2>
+<W1>263</W1>
+<CheckpointHit>0</CheckpointHit>
+</TapNoteScores>
+<HoldNoteScores>
+<LetGo>0</LetGo>
+<Held>28</Held>
+<MissedHold>0</MissedHold>
+</HoldNoteScores>
+<RadarValues>
+<Stream>0.830389</Stream>
+<Voltage>0.326307</Voltage>
+<Air>0.640000</Air>
+<Freeze>1.000000</Freeze>
+<Chaos>0.825819</Chaos>
+<Notes>563.000000</Notes>
+<TapsAndHolds>488</TapsAndHolds>
+<Jumps>74</Jumps>
+<Holds>28</Holds>
+<Mines>0</Mines>
+<Hands>0</Hands>
+<Rolls>0</Rolls>
+<Lifts>0</Lifts>
+<Fakes>0</Fakes>
+</RadarValues>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<Disqualified>0</Disqualified>
+<Pad>33</Pad>
+<StageGuid>54eaad80-d8dc-4ff6-a66e-c2b555a68cce</StageGuid>
+<Guid>03e0ab34-b070-4df3-a176-1ae8201f08b9</Guid>
+</HighScore>
+</HighScoreForASongAndSteps>
+</RecentSongScores>
+</Stats>

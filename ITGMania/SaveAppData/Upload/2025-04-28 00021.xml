@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Stats>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<RecentSongScores>
+<HighScoreForASongAndSteps>
+<Song Dir='Songs/Anthem Series - The Girls/Hollaback Girl/'/>
+<Steps Difficulty='Challenge' StepsType='dance-single'/>
+<HighScore>
+<Name></Name>
+<Grade>Tier09</Grade>
+<Score>110</Score>
+<PercentDP>0.856900</PercentDP>
+<SurviveSeconds>151.426453</SurviveSeconds>
+<MaxCombo>194</MaxCombo>
+<StageAward></StageAward>
+<PeakComboAward></PeakComboAward>
+<Modifiers>NoHideLights, C565, 10% Mini, FailImmediateContinue, Overhead, Default</Modifiers>
+<DateTime>2025-04-28 18:16:32</DateTime>
+<PlayerGuid>4ad3a19834ee56bd</PlayerGuid>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<ProductID>1</ProductID>
+<TapNoteScores>
+<HitMine>0</HitMine>
+<AvoidMine>0</AvoidMine>
+<CheckpointMiss>0</CheckpointMiss>
+<Miss>3</Miss>
+<W5>1</W5>
+<W4>6</W4>
+<W3>76</W3>
+<W2>147</W2>
+<W1>320</W1>
+<CheckpointHit>0</CheckpointHit>
+</TapNoteScores>
+<HoldNoteScores>
+<LetGo>0</LetGo>
+<Held>106</Held>
+<MissedHold>1</MissedHold>
+</HoldNoteScores>
+<RadarValues>
+<Stream>0.846831</Stream>
+<Voltage>0.352506</Voltage>
+<Air>0.666667</Air>
+<Freeze>0.988889</Freeze>
+<Chaos>0.856970</Chaos>
+<Notes>564.000000</Notes>
+<TapsAndHolds>549</TapsAndHolds>
+<Jumps>15</Jumps>
+<Holds>89</Holds>
+<Mines>0</Mines>
+<Hands>0</Hands>
+<Rolls>17</Rolls>
+<Lifts>0</Lifts>
+<Fakes>0</Fakes>
+</RadarValues>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<Disqualified>0</Disqualified>
+<Pad>33</Pad>
+<StageGuid>d2535471-ffef-4bc4-ae70-d00e89078273</StageGuid>
+<Guid>6521dd18-4a7f-4494-ae79-565e9749e729</Guid>
+</HighScore>
+</HighScoreForASongAndSteps>
+</RecentSongScores>
+</Stats>

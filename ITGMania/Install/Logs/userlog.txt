@@ -1,0 +1,57 @@
+Song file "Don't You Want Me" has an invalid Warp at beat 135.500000, BPM 0.000000.
+Song "/Songs/Ben Speirs' SPEIRMIX/fascination/" has no SSC, SM, SMA, DWI, BMS, or KSF files.
+Song "/Songs/Ben Speirs' SPEIRMIX/fascination/" has no music file either. Ignoring this song directory.
+Song "/Songs/Ben Speirs' SPEIRMIX GALAXY/Hold My Hand [DDR ADDICT Ver.]/" has no music; ignored.
+Song "/Songs/In The Groove 3 OG/Got To Have You/" has no music; ignored.
+Song "/Songs/JBEAN Originals - 2022/Pleasure (feat. Alexx Mack)/" has no SSC, SM, SMA, DWI, BMS, or KSF files.
+Song "/Songs/JBEAN Originals - 2022/Pleasure (feat. Alexx Mack)/" has no music file either. Ignoring this song directory.
+Cache file "/Songs/Misc. Collected/Cave Me In/Cave Me In-bn.avi" couldn't be loaded: Unknown file format
+Song "/Songs/Misc. Collected/Heads Will Roll/" has no music; ignored.
+Song "/Songs/Misc. Collected/Neon Medusa [Jenro]/" has no SSC, SM, SMA, DWI, BMS, or KSF files.
+Song "/Songs/Misc. Collected/Neon Medusa [Jenro]/" has no music file either. Ignoring this song directory.
+Song "/Songs/Misc. Collected/Pendejo/" has no SSC, SM, SMA, DWI, BMS, or KSF files.
+Song "/Songs/Misc. Collected/Pendejo/" has no music file either. Ignoring this song directory.
+Song "/Songs/Misc. Collected/Something In My House/" has no music; ignored.
+Cache file "/Songs/Misc. Collected/Sonic 3 Mini Boss Theme/Sonic3.avi" couldn't be loaded: Unknown file format
+Song "/Songs/Misc. Collected/Too Shy_custom/" has no SSC, SM, SMA, DWI, BMS, or KSF files.
+Song "/Songs/Misc. Collected/Too Shy_custom/" has no music file either. Ignoring this song directory.
+Song "/Songs/Pendulum Act III/Courses/" has no SSC, SM, SMA, DWI, BMS, or KSF files.
+Song "/Songs/Pendulum Act III/Courses/" has no music file either. Ignoring this song directory.
+Cache file "/Songs/Secret Stepfile Santa 2025/Chroma (splitter Remix)/banner.avi" couldn't be loaded: Unknown file format
+Cache file "/Songs/Secret Stepfile Santa 2025/Electrified/bn.mp4" couldn't be loaded: Unknown file format
+Cache file "/Songs/Secret Stepfile Santa 2025/Mystical Observer/bn.avi" couldn't be loaded: Unknown file format
+Cache file "/Songs/Tech-Bit Adventures/Gradius III - Try To Star/S.S.H - Gradius III - Try To Star-ban.mp4" couldn't be loaded: Unknown file format
+Cache file "/Songs/Tech-Bit Adventures/Meta Crystal (Metal Mario Battle)/Tibor Bosma - Meta Crystal-ban.mp4" couldn't be loaded: Unknown file format
+Song "/Songs/V's DDR Journey/1999/" has no SSC, SM, SMA, DWI, BMS, or KSF files.
+Song "/Songs/V's DDR Journey/1999/" has no music file either. Ignoring this song directory.
+Song "/Songs/V's DDR Journey/About Damn Time/" has no music; ignored.
+Song "/Songs/V's DDR Journey/Back in Black/" has no SSC, SM, SMA, DWI, BMS, or KSF files.
+Song "/Songs/V's DDR Journey/Back in Black/" has no music file either. Ignoring this song directory.
+Song "/Songs/V's DDR Journey/Big Energy (remix)/" has no music; ignored.
+Song "/Songs/V's DDR Journey/Big Energy (restep)/" has no music; ignored.
+Song "/Songs/V's DDR Journey/Dynamite (restep)/" has no music; ignored.
+Song "/Songs/V's DDR Journey/I Wanna Rock/" has no SSC, SM, SMA, DWI, BMS, or KSF files.
+Song "/Songs/V's DDR Journey/I Wanna Rock/" has no music file either. Ignoring this song directory.
+Song "/Songs/V's DDR Journey/Intergalactic/" has no music; ignored.
+Song "/Songs/V's DDR Journey/Lose Yourself to Dance/" has no SSC, SM, SMA, DWI, BMS, or KSF files.
+Song "/Songs/V's DDR Journey/Lose Yourself to Dance/" has no music file either. Ignoring this song directory.
+Song "/Songs/V's DDR Journey/My Adidas/" has no SSC, SM, SMA, DWI, BMS, or KSF files.
+Song "/Songs/V's DDR Journey/My Adidas/" has no music file either. Ignoring this song directory.
+Song "/Songs/V's DDR Journey/OPP/" has no SSC, SM, SMA, DWI, BMS, or KSF files.
+Song "/Songs/V's DDR Journey/OPP/" has no music file either. Ignoring this song directory.
+Song "/Songs/V's DDR Journey/Overpass Graffiti/" has no music; ignored.
+Song "/Songs/V's DDR Journey/Peaches and Cream x Dance with Me (explicit)/" has no music; ignored.
+Song "/Songs/V's DDR Journey/Physical/" has no SSC, SM, SMA, DWI, BMS, or KSF files.
+Song "/Songs/V's DDR Journey/Physical/" has no music file either. Ignoring this song directory.
+Song "/Songs/V's DDR Journey/Pink Venom/" has no SSC, SM, SMA, DWI, BMS, or KSF files.
+Song "/Songs/V's DDR Journey/Pink Venom/" has no music file either. Ignoring this song directory.
+Song "/Songs/V's DDR Journey/Pretty Fly (for a White Guy)/" has no SSC, SM, SMA, DWI, BMS, or KSF files.
+Song "/Songs/V's DDR Journey/Pretty Fly (for a White Guy)/" has no music file either. Ignoring this song directory.
+Song "/Songs/V's DDR Journey/Rehab/" has no SSC, SM, SMA, DWI, BMS, or KSF files.
+Song "/Songs/V's DDR Journey/Rehab/" has no music file either. Ignoring this song directory.
+Song "/Songs/V's DDR Journey/Rumors/" has no SSC, SM, SMA, DWI, BMS, or KSF files.
+Song "/Songs/V's DDR Journey/Rumors/" has no music file either. Ignoring this song directory.
+Song "/Songs/V's DDR Journey/Sweetest Pie/" has no SSC, SM, SMA, DWI, BMS, or KSF files.
+Song "/Songs/V's DDR Journey/Sweetest Pie/" has no music file either. Ignoring this song directory.
+Song "/Songs/V's DDR Journey/The Struggle/" has no SSC, SM, SMA, DWI, BMS, or KSF files.
+Song "/Songs/V's DDR Journey/The Struggle/" has no music file either. Ignoring this song directory.

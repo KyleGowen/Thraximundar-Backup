@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Stats>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<RecentSongScores>
+<HighScoreForASongAndSteps>
+<Song Dir='Songs/80s Greatest Hits Volume 1/It&apos;s Tricky/'/>
+<Steps Difficulty='Medium' StepsType='dance-single'/>
+<HighScore>
+<Name></Name>
+<Grade>Failed</Grade>
+<Score>29</Score>
+<PercentDP>0.173400</PercentDP>
+<SurviveSeconds>64.524345</SurviveSeconds>
+<MaxCombo>25</MaxCombo>
+<StageAward></StageAward>
+<PeakComboAward></PeakComboAward>
+<Modifiers>NoHideLights, C350, NoMines, NoFakes, FailImmediateContinue, Overhead, Default</Modifiers>
+<DateTime>2025-07-13 17:07:13</DateTime>
+<PlayerGuid>860d52c775648af3</PlayerGuid>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<ProductID>1</ProductID>
+<TapNoteScores>
+<HitMine>0</HitMine>
+<AvoidMine>0</AvoidMine>
+<CheckpointMiss>0</CheckpointMiss>
+<Miss>37</Miss>
+<W5>25</W5>
+<W4>31</W4>
+<W3>132</W3>
+<W2>77</W2>
+<W1>94</W1>
+<CheckpointHit>0</CheckpointHit>
+</TapNoteScores>
+<HoldNoteScores>
+<LetGo>0</LetGo>
+<Held>3</Held>
+<MissedHold>0</MissedHold>
+</HoldNoteScores>
+<RadarValues>
+<Stream>0.436090</Stream>
+<Voltage>0.061161</Voltage>
+<Air>1.000000</Air>
+<Freeze>1.000000</Freeze>
+<Chaos>0.173434</Chaos>
+<Notes>337.000000</Notes>
+<TapsAndHolds>334</TapsAndHolds>
+<Jumps>3</Jumps>
+<Holds>3</Holds>
+<Mines>0</Mines>
+<Hands>0</Hands>
+<Rolls>0</Rolls>
+<Lifts>0</Lifts>
+<Fakes>0</Fakes>
+</RadarValues>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<Disqualified>0</Disqualified>
+<Pad>33</Pad>
+<StageGuid>3cf12b2e-57c3-484b-ac2a-36148fe3528e</StageGuid>
+<Guid>9a70ecff-effe-495d-a8de-f07755302970</Guid>
+</HighScore>
+</HighScoreForASongAndSteps>
+</RecentSongScores>
+</Stats>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Stats>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<RecentSongScores>
+<HighScoreForASongAndSteps>
+<Song Dir='Songs/Albumix 3.IV/Ultimatum/'/>
+<Steps Difficulty='Hard' StepsType='dance-single'/>
+<HighScore>
+<Name></Name>
+<Grade>Failed</Grade>
+<Score>39</Score>
+<PercentDP>0.408600</PercentDP>
+<SurviveSeconds>99.874695</SurviveSeconds>
+<MaxCombo>73</MaxCombo>
+<StageAward></StageAward>
+<PeakComboAward></PeakComboAward>
+<Modifiers>NoHideLights, C420, FailImmediateContinue, Overhead, Default</Modifiers>
+<DateTime>2025-10-06 18:33:32</DateTime>
+<PlayerGuid>d876307e83faa0ea</PlayerGuid>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<ProductID>1</ProductID>
+<TapNoteScores>
+<HitMine>1</HitMine>
+<AvoidMine>0</AvoidMine>
+<CheckpointMiss>0</CheckpointMiss>
+<Miss>22</Miss>
+<W5>6</W5>
+<W4>6</W4>
+<W3>82</W3>
+<W2>90</W2>
+<W1>88</W1>
+<CheckpointHit>0</CheckpointHit>
+</TapNoteScores>
+<HoldNoteScores>
+<LetGo>3</LetGo>
+<Held>25</Held>
+<MissedHold>2</MissedHold>
+</HoldNoteScores>
+<RadarValues>
+<Stream>0.587537</Stream>
+<Voltage>0.346893</Voltage>
+<Air>0.558140</Air>
+<Freeze>0.833333</Freeze>
+<Chaos>0.408642</Chaos>
+<Notes>309.000000</Notes>
+<TapsAndHolds>267</TapsAndHolds>
+<Jumps>39</Jumps>
+<Holds>25</Holds>
+<Mines>35</Mines>
+<Hands>0</Hands>
+<Rolls>0</Rolls>
+<Lifts>0</Lifts>
+<Fakes>0</Fakes>
+</RadarValues>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<Disqualified>0</Disqualified>
+<Pad>33</Pad>
+<StageGuid>c899b32a-0f76-465b-ac59-f85097fe60bb</StageGuid>
+<Guid>4f29c032-4034-4adb-aafd-39d392f36bba</Guid>
+</HighScore>
+</HighScoreForASongAndSteps>
+</RecentSongScores>
+</Stats>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Stats>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<RecentSongScores>
+<HighScoreForASongAndSteps>
+<Song Dir='Songs/Misc. Collected (DDR Ratings)/Dr. Jones/'/>
+<Steps Difficulty='Medium' StepsType='dance-single'/>
+<HighScore>
+<Name></Name>
+<Grade>Tier10</Grade>
+<Score>112</Score>
+<PercentDP>0.824700</PercentDP>
+<SurviveSeconds>202.074066</SurviveSeconds>
+<MaxCombo>282</MaxCombo>
+<StageAward></StageAward>
+<PeakComboAward></PeakComboAward>
+<Modifiers>NoHideLights, C565, 10% Mini, FailImmediateContinue, Overhead, Default</Modifiers>
+<DateTime>2025-05-30 20:49:15</DateTime>
+<PlayerGuid>4ad3a19834ee56bd</PlayerGuid>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<ProductID>1</ProductID>
+<TapNoteScores>
+<HitMine>0</HitMine>
+<AvoidMine>0</AvoidMine>
+<CheckpointMiss>0</CheckpointMiss>
+<Miss>3</Miss>
+<W5>2</W5>
+<W4>4</W4>
+<W3>80</W3>
+<W2>186</W2>
+<W1>287</W1>
+<CheckpointHit>0</CheckpointHit>
+</TapNoteScores>
+<HoldNoteScores>
+<LetGo>0</LetGo>
+<Held>35</Held>
+<MissedHold>1</MissedHold>
+</HoldNoteScores>
+<RadarValues>
+<Stream>0.841739</Stream>
+<Voltage>0.445603</Voltage>
+<Air>0.615385</Air>
+<Freeze>0.972222</Freeze>
+<Chaos>0.824749</Chaos>
+<Notes>568.000000</Notes>
+<TapsAndHolds>557</TapsAndHolds>
+<Jumps>13</Jumps>
+<Holds>35</Holds>
+<Mines>0</Mines>
+<Hands>0</Hands>
+<Rolls>0</Rolls>
+<Lifts>0</Lifts>
+<Fakes>0</Fakes>
+</RadarValues>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<Disqualified>0</Disqualified>
+<Pad>33</Pad>
+<StageGuid>a3edd574-e100-4c62-a4f2-cd713c2e22bc</StageGuid>
+<Guid>9f46488a-1b4b-4754-a271-9bc64d12b0d1</Guid>
+</HighScore>
+</HighScoreForASongAndSteps>
+</RecentSongScores>
+</Stats>

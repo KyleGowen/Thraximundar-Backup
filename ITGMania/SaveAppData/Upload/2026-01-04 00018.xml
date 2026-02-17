@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Stats>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<RecentSongScores>
+<HighScoreForASongAndSteps>
+<Song Dir='Songs/Misc. Collected/Break My Heart/'/>
+<Steps Difficulty='Easy' StepsType='dance-single'/>
+<HighScore>
+<Name></Name>
+<Grade>Failed</Grade>
+<Score>11</Score>
+<PercentDP>0.000000</PercentDP>
+<SurviveSeconds>31.072954</SurviveSeconds>
+<MaxCombo>12</MaxCombo>
+<StageAward></StageAward>
+<PeakComboAward></PeakComboAward>
+<Modifiers>NoHideLights, C335, FailImmediateContinue, Overhead</Modifiers>
+<DateTime>2026-01-04 12:30:52</DateTime>
+<PlayerGuid>2dde4d6e8737681e</PlayerGuid>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<ProductID>1</ProductID>
+<TapNoteScores>
+<HitMine>0</HitMine>
+<AvoidMine>0</AvoidMine>
+<CheckpointMiss>0</CheckpointMiss>
+<Miss>20</Miss>
+<W5>12</W5>
+<W4>15</W4>
+<W3>43</W3>
+<W2>29</W2>
+<W1>36</W1>
+<CheckpointHit>0</CheckpointHit>
+</TapNoteScores>
+<HoldNoteScores>
+<LetGo>8</LetGo>
+<Held>32</Held>
+<MissedHold>3</MissedHold>
+</HoldNoteScores>
+<RadarValues>
+<Stream>0.441718</Stream>
+<Voltage>0.053534</Voltage>
+<Air>0.500000</Air>
+<Freeze>0.744186</Freeze>
+<Chaos>0.000000</Chaos>
+<Notes>131.000000</Notes>
+<TapsAndHolds>123</TapsAndHolds>
+<Jumps>8</Jumps>
+<Holds>32</Holds>
+<Mines>0</Mines>
+<Hands>0</Hands>
+<Rolls>0</Rolls>
+<Lifts>0</Lifts>
+<Fakes>0</Fakes>
+</RadarValues>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<Disqualified>0</Disqualified>
+<Pad>33</Pad>
+<StageGuid>e77ceafc-532d-4bd8-a654-185507359d7b</StageGuid>
+<Guid>389e3ac0-2c51-4777-acfa-b47e64b6b5c8</Guid>
+</HighScore>
+</HighScoreForASongAndSteps>
+</RecentSongScores>
+</Stats>

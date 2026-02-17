@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Stats>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<RecentSongScores>
+<HighScoreForASongAndSteps>
+<Song Dir='Songs/Misc. Collected/It&apos;s You/'/>
+<Steps Difficulty='Medium' StepsType='dance-single'/>
+<HighScore>
+<Name></Name>
+<Grade>Tier09</Grade>
+<Score>44</Score>
+<PercentDP>0.833100</PercentDP>
+<SurviveSeconds>117.177620</SurviveSeconds>
+<MaxCombo>67</MaxCombo>
+<StageAward></StageAward>
+<PeakComboAward></PeakComboAward>
+<Modifiers>NoHideLights, C570, 10% Mini, FailImmediateContinue, Overhead, Default</Modifiers>
+<DateTime>2025-04-13 11:14:28</DateTime>
+<PlayerGuid>4ad3a19834ee56bd</PlayerGuid>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<ProductID>1</ProductID>
+<TapNoteScores>
+<HitMine>0</HitMine>
+<AvoidMine>0</AvoidMine>
+<CheckpointMiss>0</CheckpointMiss>
+<Miss>1</Miss>
+<W5>1</W5>
+<W4>6</W4>
+<W3>41</W3>
+<W2>71</W2>
+<W1>165</W1>
+<CheckpointHit>0</CheckpointHit>
+</TapNoteScores>
+<HoldNoteScores>
+<LetGo>0</LetGo>
+<Held>17</Held>
+<MissedHold>0</MissedHold>
+</HoldNoteScores>
+<RadarValues>
+<Stream>0.827922</Stream>
+<Voltage>0.226959</Voltage>
+<Air>0.478261</Air>
+<Freeze>1.000000</Freeze>
+<Chaos>0.833113</Chaos>
+<Notes>305.000000</Notes>
+<TapsAndHolds>284</TapsAndHolds>
+<Jumps>23</Jumps>
+<Holds>17</Holds>
+<Mines>0</Mines>
+<Hands>0</Hands>
+<Rolls>0</Rolls>
+<Lifts>0</Lifts>
+<Fakes>0</Fakes>
+</RadarValues>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<Disqualified>0</Disqualified>
+<Pad>33</Pad>
+<StageGuid>cb3ce89a-7eef-4824-a6b8-95f3652771e6</StageGuid>
+<Guid>1933fc40-da4a-435c-ae29-9477587f4a19</Guid>
+</HighScore>
+</HighScoreForASongAndSteps>
+</RecentSongScores>
+</Stats>

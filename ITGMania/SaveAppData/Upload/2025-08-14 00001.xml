@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Stats>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<RecentSongScores>
+<HighScoreForASongAndSteps>
+<Song Dir='Songs/Manor House Anthems/[juwubeat] Everytime We Touch/'/>
+<Steps Difficulty='Easy' StepsType='dance-single'/>
+<HighScore>
+<Name></Name>
+<Grade>Failed</Grade>
+<Score>27</Score>
+<PercentDP>0.264300</PercentDP>
+<SurviveSeconds>78.265831</SurviveSeconds>
+<MaxCombo>54</MaxCombo>
+<StageAward></StageAward>
+<PeakComboAward></PeakComboAward>
+<Modifiers>NoHideLights, C335, FailImmediateContinue, Overhead</Modifiers>
+<DateTime>2025-08-14 15:31:24</DateTime>
+<PlayerGuid>2dde4d6e8737681e</PlayerGuid>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<ProductID>1</ProductID>
+<TapNoteScores>
+<HitMine>0</HitMine>
+<AvoidMine>0</AvoidMine>
+<CheckpointMiss>0</CheckpointMiss>
+<Miss>13</Miss>
+<W5>3</W5>
+<W4>11</W4>
+<W3>58</W3>
+<W2>48</W2>
+<W1>78</W1>
+<CheckpointHit>0</CheckpointHit>
+</TapNoteScores>
+<HoldNoteScores>
+<LetGo>0</LetGo>
+<Held>14</Held>
+<MissedHold>2</MissedHold>
+</HoldNoteScores>
+<RadarValues>
+<Stream>0.607759</Stream>
+<Voltage>0.201749</Voltage>
+<Air>0.666667</Air>
+<Freeze>0.875000</Freeze>
+<Chaos>0.264317</Chaos>
+<Notes>215.000000</Notes>
+<TapsAndHolds>198</TapsAndHolds>
+<Jumps>21</Jumps>
+<Holds>14</Holds>
+<Mines>0</Mines>
+<Hands>0</Hands>
+<Rolls>0</Rolls>
+<Lifts>0</Lifts>
+<Fakes>0</Fakes>
+</RadarValues>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<Disqualified>0</Disqualified>
+<Pad>33</Pad>
+<StageGuid>4390c36b-4abc-4e85-a597-e0022a93b058</StageGuid>
+<Guid>1655dd7a-9632-4005-a24f-cc3929ac8d92</Guid>
+</HighScore>
+</HighScoreForASongAndSteps>
+</RecentSongScores>
+</Stats>

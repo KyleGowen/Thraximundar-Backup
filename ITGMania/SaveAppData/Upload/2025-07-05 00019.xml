@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Stats>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<RecentSongScores>
+<HighScoreForASongAndSteps>
+<Song Dir='Songs/Elemwarr Originals/[elemwarr] Skibidi/'/>
+<Steps Difficulty='Hard' StepsType='dance-single'/>
+<HighScore>
+<Name></Name>
+<Grade>Tier09</Grade>
+<Score>71</Score>
+<PercentDP>0.848500</PercentDP>
+<SurviveSeconds>122.170128</SurviveSeconds>
+<MaxCombo>178</MaxCombo>
+<StageAward></StageAward>
+<PeakComboAward></PeakComboAward>
+<Modifiers>NoHideLights, C575, 10% Mini, FailImmediateContinue, Overhead, Default</Modifiers>
+<DateTime>2025-07-05 13:24:09</DateTime>
+<PlayerGuid>4ad3a19834ee56bd</PlayerGuid>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<ProductID>1</ProductID>
+<TapNoteScores>
+<HitMine>3</HitMine>
+<AvoidMine>0</AvoidMine>
+<CheckpointMiss>0</CheckpointMiss>
+<Miss>1</Miss>
+<W5>1</W5>
+<W4>3</W4>
+<W3>52</W3>
+<W2>145</W2>
+<W1>225</W1>
+<CheckpointHit>0</CheckpointHit>
+</TapNoteScores>
+<HoldNoteScores>
+<LetGo>0</LetGo>
+<Held>51</Held>
+<MissedHold>0</MissedHold>
+</HoldNoteScores>
+<RadarValues>
+<Stream>0.869863</Stream>
+<Voltage>0.398428</Voltage>
+<Air>0.818182</Air>
+<Freeze>1.000000</Freeze>
+<Chaos>0.848536</Chaos>
+<Notes>436.000000</Notes>
+<TapsAndHolds>425</TapsAndHolds>
+<Jumps>11</Jumps>
+<Holds>32</Holds>
+<Mines>22</Mines>
+<Hands>0</Hands>
+<Rolls>19</Rolls>
+<Lifts>0</Lifts>
+<Fakes>0</Fakes>
+</RadarValues>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<Disqualified>0</Disqualified>
+<Pad>33</Pad>
+<StageGuid>c8f6f9f7-f837-4e73-ad2b-209d4f4e3a08</StageGuid>
+<Guid>8b3db687-71ef-49bb-a246-aa40e42813db</Guid>
+</HighScore>
+</HighScoreForASongAndSteps>
+</RecentSongScores>
+</Stats>

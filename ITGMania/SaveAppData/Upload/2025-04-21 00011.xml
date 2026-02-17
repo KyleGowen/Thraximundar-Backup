@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Stats>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<RecentSongScores>
+<HighScoreForASongAndSteps>
+<Song Dir='Songs/Ben Speirs&apos; SPEIRMIX GALAXY/Elastic Heart/'/>
+<Steps Difficulty='Easy' StepsType='dance-single'/>
+<HighScore>
+<Name></Name>
+<Grade>Tier13</Grade>
+<Score>32</Score>
+<PercentDP>0.686400</PercentDP>
+<SurviveSeconds>138.062958</SurviveSeconds>
+<MaxCombo>41</MaxCombo>
+<StageAward></StageAward>
+<PeakComboAward></PeakComboAward>
+<Modifiers>NoHideLights, m345, FailImmediateContinue, Overhead, Default</Modifiers>
+<DateTime>2025-04-21 17:44:42</DateTime>
+<PlayerGuid>d876307e83faa0ea</PlayerGuid>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<ProductID>1</ProductID>
+<TapNoteScores>
+<HitMine>0</HitMine>
+<AvoidMine>0</AvoidMine>
+<CheckpointMiss>0</CheckpointMiss>
+<Miss>5</Miss>
+<W5>5</W5>
+<W4>7</W4>
+<W3>44</W3>
+<W2>48</W2>
+<W1>86</W1>
+<CheckpointHit>0</CheckpointHit>
+</TapNoteScores>
+<HoldNoteScores>
+<LetGo>1</LetGo>
+<Held>38</Held>
+<MissedHold>2</MissedHold>
+</HoldNoteScores>
+<RadarValues>
+<Stream>0.690355</Stream>
+<Voltage>0.186746</Voltage>
+<Air>1.000000</Air>
+<Freeze>0.926829</Freeze>
+<Chaos>0.686441</Chaos>
+<Notes>187.000000</Notes>
+<TapsAndHolds>185</TapsAndHolds>
+<Jumps>2</Jumps>
+<Holds>38</Holds>
+<Mines>0</Mines>
+<Hands>0</Hands>
+<Rolls>0</Rolls>
+<Lifts>0</Lifts>
+<Fakes>0</Fakes>
+</RadarValues>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<Disqualified>0</Disqualified>
+<Pad>33</Pad>
+<StageGuid>8e29910f-babb-4195-a42c-b115adbfee09</StageGuid>
+<Guid>31fe3a3b-7e90-48ae-aaa7-6245acfe8bf3</Guid>
+</HighScore>
+</HighScoreForASongAndSteps>
+</RecentSongScores>
+</Stats>

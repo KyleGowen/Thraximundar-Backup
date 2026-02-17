@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Stats>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<RecentSongScores>
+<HighScoreForASongAndSteps>
+<Song Dir='Songs/Misc. Collected (DDR Ratings)/Kickstart My Heart -Dance With The Dead Remix-/'/>
+<Steps Difficulty='Challenge' StepsType='dance-single'/>
+<HighScore>
+<Name></Name>
+<Grade>Tier12</Grade>
+<Score>194</Score>
+<PercentDP>0.754000</PercentDP>
+<SurviveSeconds>237.424530</SurviveSeconds>
+<MaxCombo>229</MaxCombo>
+<StageAward></StageAward>
+<PeakComboAward></PeakComboAward>
+<Modifiers>NoHideLights, C580, 10% Mini, FailImmediateContinue, Overhead, Default</Modifiers>
+<DateTime>2025-07-13 16:46:53</DateTime>
+<PlayerGuid>4ad3a19834ee56bd</PlayerGuid>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<ProductID>1</ProductID>
+<TapNoteScores>
+<HitMine>0</HitMine>
+<AvoidMine>0</AvoidMine>
+<CheckpointMiss>0</CheckpointMiss>
+<Miss>21</Miss>
+<W5>13</W5>
+<W4>23</W4>
+<W3>201</W3>
+<W2>292</W2>
+<W1>605</W1>
+<CheckpointHit>0</CheckpointHit>
+</TapNoteScores>
+<HoldNoteScores>
+<LetGo>0</LetGo>
+<Held>73</Held>
+<MissedHold>0</MissedHold>
+</HoldNoteScores>
+<RadarValues>
+<Stream>0.770817</Stream>
+<Voltage>0.156100</Voltage>
+<Air>0.811321</Air>
+<Freeze>1.000000</Freeze>
+<Chaos>0.754072</Chaos>
+<Notes>1220.000000</Notes>
+<TapsAndHolds>1123</TapsAndHolds>
+<Jumps>103</Jumps>
+<Holds>73</Holds>
+<Mines>0</Mines>
+<Hands>0</Hands>
+<Rolls>0</Rolls>
+<Lifts>0</Lifts>
+<Fakes>0</Fakes>
+</RadarValues>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<Disqualified>0</Disqualified>
+<Pad>33</Pad>
+<StageGuid>0015a944-b590-4ab3-a4f4-34678f0dabdd</StageGuid>
+<Guid>13776dad-1d0d-449b-ac8b-a32566318b22</Guid>
+</HighScore>
+</HighScoreForASongAndSteps>
+</RecentSongScores>
+</Stats>

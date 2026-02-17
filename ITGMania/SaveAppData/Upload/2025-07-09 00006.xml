@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Stats>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<RecentSongScores>
+<HighScoreForASongAndSteps>
+<Song Dir='Songs/V&apos;s DDR Journey/Stay/'/>
+<Steps Difficulty='Beginner' StepsType='dance-single'/>
+<HighScore>
+<Name></Name>
+<Grade>Tier11</Grade>
+<Score>51</Score>
+<PercentDP>0.796300</PercentDP>
+<SurviveSeconds>139.136185</SurviveSeconds>
+<MaxCombo>145</MaxCombo>
+<StageAward></StageAward>
+<PeakComboAward></PeakComboAward>
+<Modifiers>NoHideLights, C380, FailImmediateContinue, Overhead, Default</Modifiers>
+<DateTime>2025-07-09 16:21:35</DateTime>
+<PlayerGuid>d876307e83faa0ea</PlayerGuid>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<ProductID>1</ProductID>
+<TapNoteScores>
+<HitMine>6</HitMine>
+<AvoidMine>0</AvoidMine>
+<CheckpointMiss>0</CheckpointMiss>
+<Miss>4</Miss>
+<W5>3</W5>
+<W4>3</W4>
+<W3>23</W3>
+<W2>56</W2>
+<W1>144</W1>
+<CheckpointHit>0</CheckpointHit>
+</TapNoteScores>
+<HoldNoteScores>
+<LetGo>0</LetGo>
+<Held>39</Held>
+<MissedHold>0</MissedHold>
+</HoldNoteScores>
+<RadarValues>
+<Stream>0.863971</Stream>
+<Voltage>0.460677</Voltage>
+<Air>0.948718</Air>
+<Freeze>1.000000</Freeze>
+<Chaos>0.796324</Chaos>
+<Notes>265.000000</Notes>
+<TapsAndHolds>227</TapsAndHolds>
+<Jumps>39</Jumps>
+<Holds>37</Holds>
+<Mines>14</Mines>
+<Hands>0</Hands>
+<Rolls>2</Rolls>
+<Lifts>0</Lifts>
+<Fakes>0</Fakes>
+</RadarValues>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<Disqualified>0</Disqualified>
+<Pad>33</Pad>
+<StageGuid>3de434b1-f7d5-4aa6-ad2e-eb212926a1ec</StageGuid>
+<Guid>eadc0dbd-dcea-45ff-a179-dddc5679854c</Guid>
+</HighScore>
+</HighScoreForASongAndSteps>
+</RecentSongScores>
+</Stats>

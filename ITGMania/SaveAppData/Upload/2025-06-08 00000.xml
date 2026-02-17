@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Stats>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<RecentSongScores>
+<HighScoreForASongAndSteps>
+<Song Dir='Songs/Ben Speirs&apos; SPEIRMIX GALAXY/Bad Blood/'/>
+<Steps Difficulty='Easy' StepsType='dance-single'/>
+<HighScore>
+<Name></Name>
+<Grade>Tier17</Grade>
+<Score>13</Score>
+<PercentDP>0.546800</PercentDP>
+<SurviveSeconds>140.997849</SurviveSeconds>
+<MaxCombo>24</MaxCombo>
+<StageAward></StageAward>
+<PeakComboAward></PeakComboAward>
+<Modifiers>NoHideLights, C350, FailImmediateContinue, Overhead</Modifiers>
+<DateTime>2025-06-08 18:23:45</DateTime>
+<PlayerGuid>2dde4d6e8737681e</PlayerGuid>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<ProductID>1</ProductID>
+<TapNoteScores>
+<HitMine>0</HitMine>
+<AvoidMine>0</AvoidMine>
+<CheckpointMiss>0</CheckpointMiss>
+<Miss>2</Miss>
+<W5>5</W5>
+<W4>6</W4>
+<W3>52</W3>
+<W2>29</W2>
+<W1>39</W1>
+<CheckpointHit>0</CheckpointHit>
+</TapNoteScores>
+<HoldNoteScores>
+<LetGo>4</LetGo>
+<Held>6</Held>
+<MissedHold>0</MissedHold>
+</HoldNoteScores>
+<RadarValues>
+<Stream>0.483871</Stream>
+<Voltage>0.138876</Voltage>
+<Air>0.272727</Air>
+<Freeze>0.600000</Freeze>
+<Chaos>0.546853</Chaos>
+<Notes>148.000000</Notes>
+<TapsAndHolds>127</TapsAndHolds>
+<Jumps>20</Jumps>
+<Holds>6</Holds>
+<Mines>0</Mines>
+<Hands>0</Hands>
+<Rolls>0</Rolls>
+<Lifts>0</Lifts>
+<Fakes>0</Fakes>
+</RadarValues>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<Disqualified>0</Disqualified>
+<Pad>33</Pad>
+<StageGuid>13cebc9b-542b-4b49-a0c6-75065ea5ad55</StageGuid>
+<Guid>1de0d653-61a6-45d3-a9d2-c03bcbc62489</Guid>
+</HighScore>
+</HighScoreForASongAndSteps>
+</RecentSongScores>
+</Stats>

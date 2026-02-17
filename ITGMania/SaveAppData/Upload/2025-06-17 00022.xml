@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Stats>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<RecentSongScores>
+<HighScoreForASongAndSteps>
+<Song Dir='Songs/JBEAN Originals - 2019/One Kiss/'/>
+<Steps Difficulty='Easy' StepsType='dance-single'/>
+<HighScore>
+<Name></Name>
+<Grade>Failed</Grade>
+<Score>6</Score>
+<PercentDP>0.336200</PercentDP>
+<SurviveSeconds>114.862984</SurviveSeconds>
+<MaxCombo>17</MaxCombo>
+<StageAward></StageAward>
+<PeakComboAward></PeakComboAward>
+<Modifiers>NoHideLights, C350, FailImmediateContinue, Overhead</Modifiers>
+<DateTime>2025-06-17 18:13:47</DateTime>
+<PlayerGuid>2dde4d6e8737681e</PlayerGuid>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<ProductID>1</ProductID>
+<TapNoteScores>
+<HitMine>0</HitMine>
+<AvoidMine>0</AvoidMine>
+<CheckpointMiss>0</CheckpointMiss>
+<Miss>4</Miss>
+<W5>7</W5>
+<W4>10</W4>
+<W3>41</W3>
+<W2>25</W2>
+<W1>16</W1>
+<CheckpointHit>0</CheckpointHit>
+</TapNoteScores>
+<HoldNoteScores>
+<LetGo>4</LetGo>
+<Held>6</Held>
+<MissedHold>3</MissedHold>
+</HoldNoteScores>
+<RadarValues>
+<Stream>0.386792</Stream>
+<Voltage>0.103192</Voltage>
+<Air>0.000000</Air>
+<Freeze>0.461538</Freeze>
+<Chaos>0.336207</Chaos>
+<Notes>95.000000</Notes>
+<TapsAndHolds>92</TapsAndHolds>
+<Jumps>2</Jumps>
+<Holds>6</Holds>
+<Mines>0</Mines>
+<Hands>0</Hands>
+<Rolls>0</Rolls>
+<Lifts>0</Lifts>
+<Fakes>0</Fakes>
+</RadarValues>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<Disqualified>0</Disqualified>
+<Pad>33</Pad>
+<StageGuid>b8683ac3-c528-46cc-a5d7-1f12e1bd1fdb</StageGuid>
+<Guid>4c47a3e2-f670-476a-ae9c-6397b0d4f4da</Guid>
+</HighScore>
+</HighScoreForASongAndSteps>
+</RecentSongScores>
+</Stats>

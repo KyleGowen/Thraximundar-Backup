@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Stats>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<RecentSongScores>
+<HighScoreForASongAndSteps>
+<Song Dir='Songs/Misc. Collected (DDR Ratings)/SUNSET (Michael Cassette Remix)/'/>
+<Steps Difficulty='Easy' StepsType='dance-single'/>
+<HighScore>
+<Name></Name>
+<Grade>Failed</Grade>
+<Score>11</Score>
+<PercentDP>0.070300</PercentDP>
+<SurviveSeconds>22.477427</SurviveSeconds>
+<MaxCombo>27</MaxCombo>
+<StageAward></StageAward>
+<PeakComboAward></PeakComboAward>
+<Modifiers>NoHideLights, C350, FailImmediateContinue, Overhead</Modifiers>
+<DateTime>2025-07-01 15:53:13</DateTime>
+<PlayerGuid>2dde4d6e8737681e</PlayerGuid>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<ProductID>1</ProductID>
+<TapNoteScores>
+<HitMine>0</HitMine>
+<AvoidMine>0</AvoidMine>
+<CheckpointMiss>0</CheckpointMiss>
+<Miss>30</Miss>
+<W5>10</W5>
+<W4>7</W4>
+<W3>38</W3>
+<W2>21</W2>
+<W1>28</W1>
+<CheckpointHit>0</CheckpointHit>
+</TapNoteScores>
+<HoldNoteScores>
+<LetGo>7</LetGo>
+<Held>19</Held>
+<MissedHold>5</MissedHold>
+</HoldNoteScores>
+<RadarValues>
+<Stream>0.388535</Stream>
+<Voltage>0.124603</Voltage>
+<Air>0.391304</Air>
+<Freeze>0.612903</Freeze>
+<Chaos>0.070303</Chaos>
+<Notes>115.000000</Notes>
+<TapsAndHolds>98</TapsAndHolds>
+<Jumps>17</Jumps>
+<Holds>19</Holds>
+<Mines>0</Mines>
+<Hands>0</Hands>
+<Rolls>0</Rolls>
+<Lifts>0</Lifts>
+<Fakes>0</Fakes>
+</RadarValues>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<Disqualified>0</Disqualified>
+<Pad>33</Pad>
+<StageGuid>3b86560b-05c6-4401-a913-2f28194c81ad</StageGuid>
+<Guid>104f1ed3-9f34-4449-ab59-8726e26b8bd6</Guid>
+</HighScore>
+</HighScoreForASongAndSteps>
+</RecentSongScores>
+</Stats>

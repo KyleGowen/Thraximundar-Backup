@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Stats>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<RecentSongScores>
+<HighScoreForASongAndSteps>
+<Song Dir='Songs/V&apos;s DDR Journey/Scientist/'/>
+<Steps Difficulty='Easy' StepsType='dance-single'/>
+<HighScore>
+<Name></Name>
+<Grade>Tier11</Grade>
+<Score>30</Score>
+<PercentDP>0.772500</PercentDP>
+<SurviveSeconds>143.785797</SurviveSeconds>
+<MaxCombo>129</MaxCombo>
+<StageAward></StageAward>
+<PeakComboAward></PeakComboAward>
+<Modifiers>NoHideLights, C380, FailImmediateContinue, Overhead, Default</Modifiers>
+<DateTime>2025-05-07 22:03:01</DateTime>
+<PlayerGuid>d876307e83faa0ea</PlayerGuid>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<ProductID>1</ProductID>
+<TapNoteScores>
+<HitMine>3</HitMine>
+<AvoidMine>0</AvoidMine>
+<CheckpointMiss>0</CheckpointMiss>
+<Miss>3</Miss>
+<W5>1</W5>
+<W4>1</W4>
+<W3>58</W3>
+<W2>84</W2>
+<W1>117</W1>
+<CheckpointHit>0</CheckpointHit>
+</TapNoteScores>
+<HoldNoteScores>
+<LetGo>4</LetGo>
+<Held>58</Held>
+<MissedHold>2</MissedHold>
+</HoldNoteScores>
+<RadarValues>
+<Stream>0.750853</Stream>
+<Voltage>0.459307</Voltage>
+<Air>0.689655</Air>
+<Freeze>0.906250</Freeze>
+<Chaos>0.772561</Chaos>
+<Notes>289.000000</Notes>
+<TapsAndHolds>260</TapsAndHolds>
+<Jumps>28</Jumps>
+<Holds>58</Holds>
+<Mines>5</Mines>
+<Hands>0</Hands>
+<Rolls>0</Rolls>
+<Lifts>0</Lifts>
+<Fakes>0</Fakes>
+</RadarValues>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<Disqualified>0</Disqualified>
+<Pad>33</Pad>
+<StageGuid>91d108da-03e7-4e6e-acde-733291867c78</StageGuid>
+<Guid>6f36e55d-7432-4899-ae0f-c1bdb6238690</Guid>
+</HighScore>
+</HighScoreForASongAndSteps>
+</RecentSongScores>
+</Stats>

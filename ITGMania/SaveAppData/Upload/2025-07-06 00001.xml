@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Stats>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<RecentSongScores>
+<HighScoreForASongAndSteps>
+<Song Dir='Songs/Misc. Collected/JOYRIDE/'/>
+<Steps Difficulty='Hard' StepsType='dance-single'/>
+<HighScore>
+<Name></Name>
+<Grade>Tier07</Grade>
+<Score>98</Score>
+<PercentDP>0.897300</PercentDP>
+<SurviveSeconds>151.730118</SurviveSeconds>
+<MaxCombo>230</MaxCombo>
+<StageAward></StageAward>
+<PeakComboAward></PeakComboAward>
+<Modifiers>NoHideLights, C575, 10% Mini, FailImmediateContinue, Overhead, Default</Modifiers>
+<DateTime>2025-07-06 10:30:52</DateTime>
+<PlayerGuid>4ad3a19834ee56bd</PlayerGuid>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<ProductID>1</ProductID>
+<TapNoteScores>
+<HitMine>0</HitMine>
+<AvoidMine>0</AvoidMine>
+<CheckpointMiss>0</CheckpointMiss>
+<Miss>2</Miss>
+<W5>0</W5>
+<W4>1</W4>
+<W3>40</W3>
+<W2>134</W2>
+<W1>312</W1>
+<CheckpointHit>0</CheckpointHit>
+</TapNoteScores>
+<HoldNoteScores>
+<LetGo>0</LetGo>
+<Held>82</Held>
+<MissedHold>0</MissedHold>
+</HoldNoteScores>
+<RadarValues>
+<Stream>0.909457</Stream>
+<Voltage>0.455834</Voltage>
+<Air>0.500000</Air>
+<Freeze>1.000000</Freeze>
+<Chaos>0.897373</Chaos>
+<Notes>495.000000</Notes>
+<TapsAndHolds>487</TapsAndHolds>
+<Jumps>8</Jumps>
+<Holds>82</Holds>
+<Mines>0</Mines>
+<Hands>0</Hands>
+<Rolls>0</Rolls>
+<Lifts>0</Lifts>
+<Fakes>0</Fakes>
+</RadarValues>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<Disqualified>0</Disqualified>
+<Pad>33</Pad>
+<StageGuid>ce8a3190-21c4-408e-a833-810bdbb5078f</StageGuid>
+<Guid>c3f02429-4040-4b84-a5fe-437ca6e4cfa4</Guid>
+</HighScore>
+</HighScoreForASongAndSteps>
+</RecentSongScores>
+</Stats>

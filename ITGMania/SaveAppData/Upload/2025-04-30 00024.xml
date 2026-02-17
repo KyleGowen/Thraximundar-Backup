@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Stats>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<RecentSongScores>
+<HighScoreForASongAndSteps>
+<Song Dir='Songs/Misc. Collected/Moon Trance/'/>
+<Steps Difficulty='Medium' StepsType='dance-single'/>
+<HighScore>
+<Name></Name>
+<Grade>Failed</Grade>
+<Score>39</Score>
+<PercentDP>0.105100</PercentDP>
+<SurviveSeconds>48.717255</SurviveSeconds>
+<MaxCombo>51</MaxCombo>
+<StageAward></StageAward>
+<PeakComboAward></PeakComboAward>
+<Modifiers>NoHideLights, m345, FailImmediateContinue, Overhead, Default</Modifiers>
+<DateTime>2025-04-30 19:34:30</DateTime>
+<PlayerGuid>d876307e83faa0ea</PlayerGuid>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<ProductID>1</ProductID>
+<TapNoteScores>
+<HitMine>0</HitMine>
+<AvoidMine>0</AvoidMine>
+<CheckpointMiss>0</CheckpointMiss>
+<Miss>36</Miss>
+<W5>7</W5>
+<W4>9</W4>
+<W3>85</W3>
+<W2>76</W2>
+<W1>113</W1>
+<CheckpointHit>0</CheckpointHit>
+</TapNoteScores>
+<HoldNoteScores>
+<LetGo>1</LetGo>
+<Held>57</Held>
+<MissedHold>2</MissedHold>
+</HoldNoteScores>
+<RadarValues>
+<Stream>0.589971</Stream>
+<Voltage>0.161639</Voltage>
+<Air>0.846154</Air>
+<Freeze>0.950000</Freeze>
+<Chaos>0.105181</Chaos>
+<Notes>296.000000</Notes>
+<TapsAndHolds>283</TapsAndHolds>
+<Jumps>13</Jumps>
+<Holds>57</Holds>
+<Mines>0</Mines>
+<Hands>0</Hands>
+<Rolls>0</Rolls>
+<Lifts>0</Lifts>
+<Fakes>0</Fakes>
+</RadarValues>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<Disqualified>0</Disqualified>
+<Pad>33</Pad>
+<StageGuid>33ae6210-a1bf-40ca-a86b-7082fa26e2a1</StageGuid>
+<Guid>06696374-d078-4651-a527-87e5dd773540</Guid>
+</HighScore>
+</HighScoreForASongAndSteps>
+</RecentSongScores>
+</Stats>

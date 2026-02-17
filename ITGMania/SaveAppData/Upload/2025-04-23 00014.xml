@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Stats>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<RecentSongScores>
+<HighScoreForASongAndSteps>
+<Song Dir='Songs/Ben Speirs&apos; SPEIRMIX GALAXY/Are You With Me/'/>
+<Steps Difficulty='Medium' StepsType='dance-single'/>
+<HighScore>
+<Name></Name>
+<Grade>Tier08</Grade>
+<Score>31</Score>
+<PercentDP>0.882300</PercentDP>
+<SurviveSeconds>120.833183</SurviveSeconds>
+<MaxCombo>151</MaxCombo>
+<StageAward></StageAward>
+<PeakComboAward></PeakComboAward>
+<Modifiers>NoHideLights, m345, FailImmediateContinue, Overhead, Default</Modifiers>
+<DateTime>2025-04-23 17:47:29</DateTime>
+<PlayerGuid>d876307e83faa0ea</PlayerGuid>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<ProductID>1</ProductID>
+<TapNoteScores>
+<HitMine>0</HitMine>
+<AvoidMine>0</AvoidMine>
+<CheckpointMiss>0</CheckpointMiss>
+<Miss>1</Miss>
+<W5>0</W5>
+<W4>0</W4>
+<W3>21</W3>
+<W2>40</W2>
+<W1>92</W1>
+<CheckpointHit>0</CheckpointHit>
+</TapNoteScores>
+<HoldNoteScores>
+<LetGo>1</LetGo>
+<Held>65</Held>
+<MissedHold>1</MissedHold>
+</HoldNoteScores>
+<RadarValues>
+<Stream>0.855346</Stream>
+<Voltage>0.927497</Voltage>
+<Air>0.800000</Air>
+<Freeze>0.970149</Freeze>
+<Chaos>0.882353</Chaos>
+<Notes>158.000000</Notes>
+<TapsAndHolds>153</TapsAndHolds>
+<Jumps>5</Jumps>
+<Holds>65</Holds>
+<Mines>0</Mines>
+<Hands>0</Hands>
+<Rolls>0</Rolls>
+<Lifts>0</Lifts>
+<Fakes>0</Fakes>
+</RadarValues>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<Disqualified>0</Disqualified>
+<Pad>33</Pad>
+<StageGuid>5b3a844e-b409-4614-ad83-ab1ccaec3111</StageGuid>
+<Guid>9f91aca8-8795-4a3c-aea4-0b93ab6e31e2</Guid>
+</HighScore>
+</HighScoreForASongAndSteps>
+</RecentSongScores>
+</Stats>

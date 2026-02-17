@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Stats>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<RecentSongScores>
+<HighScoreForASongAndSteps>
+<Song Dir='Songs/The Starter Pack of Stamina 2/Lolly Bomb - [StarrySergal]/'/>
+<Steps Difficulty='Beginner' StepsType='dance-single'/>
+<HighScore>
+<Name></Name>
+<Grade>Failed</Grade>
+<Score>21</Score>
+<PercentDP>0.019000</PercentDP>
+<SurviveSeconds>39.926170</SurviveSeconds>
+<MaxCombo>44</MaxCombo>
+<StageAward></StageAward>
+<PeakComboAward></PeakComboAward>
+<Modifiers>NoHideLights, C335, FailImmediateContinue, Overhead</Modifiers>
+<DateTime>2025-08-31 17:11:13</DateTime>
+<PlayerGuid>2dde4d6e8737681e</PlayerGuid>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<ProductID>1</ProductID>
+<TapNoteScores>
+<HitMine>0</HitMine>
+<AvoidMine>0</AvoidMine>
+<CheckpointMiss>0</CheckpointMiss>
+<Miss>171</Miss>
+<W5>30</W5>
+<W4>45</W4>
+<W3>125</W3>
+<W2>67</W2>
+<W1>76</W1>
+<CheckpointHit>0</CheckpointHit>
+</TapNoteScores>
+<HoldNoteScores>
+<LetGo>4</LetGo>
+<Held>21</Held>
+<MissedHold>8</MissedHold>
+</HoldNoteScores>
+<RadarValues>
+<Stream>0.286807</Stream>
+<Voltage>0.109508</Voltage>
+<Air>0.666667</Air>
+<Freeze>0.636364</Freeze>
+<Chaos>0.019013</Chaos>
+<Notes>322.000000</Notes>
+<TapsAndHolds>313</TapsAndHolds>
+<Jumps>8</Jumps>
+<Holds>21</Holds>
+<Mines>0</Mines>
+<Hands>0</Hands>
+<Rolls>0</Rolls>
+<Lifts>0</Lifts>
+<Fakes>0</Fakes>
+</RadarValues>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<Disqualified>0</Disqualified>
+<Pad>33</Pad>
+<StageGuid>31a43e79-4919-4e41-ae6a-b108f2326b04</StageGuid>
+<Guid>568b9c49-d073-4f49-a525-c5ae09d012dc</Guid>
+</HighScore>
+</HighScoreForASongAndSteps>
+</RecentSongScores>
+</Stats>

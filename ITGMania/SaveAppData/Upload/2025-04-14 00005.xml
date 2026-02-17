@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Stats>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<RecentSongScores>
+<HighScoreForASongAndSteps>
+<Song Dir='Songs/Misc. Collected/Future Club/'/>
+<Steps Difficulty='Easy' StepsType='dance-single'/>
+<HighScore>
+<Name></Name>
+<Grade>Tier14</Grade>
+<Score>15</Score>
+<PercentDP>0.646800</PercentDP>
+<SurviveSeconds>101.813507</SurviveSeconds>
+<MaxCombo>39</MaxCombo>
+<StageAward></StageAward>
+<PeakComboAward></PeakComboAward>
+<Modifiers>NoHideLights, C325, FailImmediateContinue, Overhead</Modifiers>
+<DateTime>2025-04-14 16:38:59</DateTime>
+<PlayerGuid>2dde4d6e8737681e</PlayerGuid>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<ProductID>1</ProductID>
+<TapNoteScores>
+<HitMine>0</HitMine>
+<AvoidMine>0</AvoidMine>
+<CheckpointMiss>0</CheckpointMiss>
+<Miss>1</Miss>
+<W5>2</W5>
+<W4>6</W4>
+<W3>58</W3>
+<W2>36</W2>
+<W1>41</W1>
+<CheckpointHit>0</CheckpointHit>
+</TapNoteScores>
+<HoldNoteScores>
+<LetGo>0</LetGo>
+<Held>14</Held>
+<MissedHold>0</MissedHold>
+</HoldNoteScores>
+<RadarValues>
+<Stream>0.546667</Stream>
+<Voltage>0.269583</Voltage>
+<Air>0.833333</Air>
+<Freeze>1.000000</Freeze>
+<Chaos>0.646835</Chaos>
+<Notes>147.000000</Notes>
+<TapsAndHolds>141</TapsAndHolds>
+<Jumps>6</Jumps>
+<Holds>14</Holds>
+<Mines>0</Mines>
+<Hands>0</Hands>
+<Rolls>0</Rolls>
+<Lifts>0</Lifts>
+<Fakes>0</Fakes>
+</RadarValues>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<Disqualified>0</Disqualified>
+<Pad>33</Pad>
+<StageGuid>1f6aa500-ee27-4e15-a150-d7c24c6b448c</StageGuid>
+<Guid>f6e8d244-f450-498d-a8e9-fe76497de798</Guid>
+</HighScore>
+</HighScoreForASongAndSteps>
+</RecentSongScores>
+</Stats>

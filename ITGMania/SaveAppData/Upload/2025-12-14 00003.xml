@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Stats>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<RecentSongScores>
+<HighScoreForASongAndSteps>
+<Song Dir='Songs/Misc. Collected/Oh L&apos;amour/'/>
+<Steps Difficulty='Challenge' StepsType='dance-single'/>
+<HighScore>
+<Name></Name>
+<Grade>Tier14</Grade>
+<Score>42</Score>
+<PercentDP>0.671000</PercentDP>
+<SurviveSeconds>92.631172</SurviveSeconds>
+<MaxCombo>190</MaxCombo>
+<StageAward></StageAward>
+<PeakComboAward></PeakComboAward>
+<Modifiers>NoHideLights, C585, 10% Mini, FailImmediateContinue, Overhead, Default</Modifiers>
+<DateTime>2025-12-14 12:58:37</DateTime>
+<PlayerGuid>4ad3a19834ee56bd</PlayerGuid>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<ProductID>1</ProductID>
+<TapNoteScores>
+<HitMine>0</HitMine>
+<AvoidMine>0</AvoidMine>
+<CheckpointMiss>0</CheckpointMiss>
+<Miss>10</Miss>
+<W5>9</W5>
+<W4>3</W4>
+<W3>64</W3>
+<W2>98</W2>
+<W1>163</W1>
+<CheckpointHit>0</CheckpointHit>
+</TapNoteScores>
+<HoldNoteScores>
+<LetGo>0</LetGo>
+<Held>2</Held>
+<MissedHold>0</MissedHold>
+</HoldNoteScores>
+<RadarValues>
+<Stream>0.741706</Stream>
+<Voltage>0.457184</Voltage>
+<Air>0.680000</Air>
+<Freeze>1.000000</Freeze>
+<Chaos>0.671060</Chaos>
+<Notes>397.000000</Notes>
+<TapsAndHolds>334</TapsAndHolds>
+<Jumps>69</Jumps>
+<Holds>2</Holds>
+<Mines>0</Mines>
+<Hands>1</Hands>
+<Rolls>0</Rolls>
+<Lifts>0</Lifts>
+<Fakes>0</Fakes>
+</RadarValues>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<Disqualified>0</Disqualified>
+<Pad>33</Pad>
+<StageGuid>3c29169f-8964-4f77-acf6-b2e8ec78d1f6</StageGuid>
+<Guid>79a66845-04bf-4256-a48e-fe4e775bd334</Guid>
+</HighScore>
+</HighScoreForASongAndSteps>
+</RecentSongScores>
+</Stats>

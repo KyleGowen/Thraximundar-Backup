@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Stats>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<RecentSongScores>
+<HighScoreForASongAndSteps>
+<Song Dir='Songs/Anthem Series - The Girls/Since U Been Gone/'/>
+<Steps Difficulty='Challenge' StepsType='dance-single'/>
+<HighScore>
+<Name></Name>
+<Grade>Tier10</Grade>
+<Score>76</Score>
+<PercentDP>0.828300</PercentDP>
+<SurviveSeconds>137.992874</SurviveSeconds>
+<MaxCombo>114</MaxCombo>
+<StageAward></StageAward>
+<PeakComboAward></PeakComboAward>
+<Modifiers>NoHideLights, C565, 10% Mini, FailImmediateContinue, Overhead, Default</Modifiers>
+<DateTime>2025-04-28 18:32:48</DateTime>
+<PlayerGuid>4ad3a19834ee56bd</PlayerGuid>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<ProductID>1</ProductID>
+<TapNoteScores>
+<HitMine>0</HitMine>
+<AvoidMine>0</AvoidMine>
+<CheckpointMiss>0</CheckpointMiss>
+<Miss>6</Miss>
+<W5>1</W5>
+<W4>2</W4>
+<W3>74</W3>
+<W2>146</W2>
+<W1>249</W1>
+<CheckpointHit>0</CheckpointHit>
+</TapNoteScores>
+<HoldNoteScores>
+<LetGo>0</LetGo>
+<Held>99</Held>
+<MissedHold>1</MissedHold>
+</HoldNoteScores>
+<RadarValues>
+<Stream>0.829615</Stream>
+<Voltage>0.267754</Voltage>
+<Air>0.533333</Air>
+<Freeze>0.989247</Freeze>
+<Chaos>0.828374</Chaos>
+<Notes>485.000000</Notes>
+<TapsAndHolds>471</TapsAndHolds>
+<Jumps>14</Jumps>
+<Holds>92</Holds>
+<Mines>0</Mines>
+<Hands>0</Hands>
+<Rolls>7</Rolls>
+<Lifts>0</Lifts>
+<Fakes>0</Fakes>
+</RadarValues>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<Disqualified>0</Disqualified>
+<Pad>33</Pad>
+<StageGuid>c62a8d9a-36f0-4c6b-ac9d-2274a8a591ae</StageGuid>
+<Guid>81fbaf88-9322-4b12-a81f-70bce05b681d</Guid>
+</HighScore>
+</HighScoreForASongAndSteps>
+</RecentSongScores>
+</Stats>

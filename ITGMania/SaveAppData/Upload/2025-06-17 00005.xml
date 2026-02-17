@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Stats>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<RecentSongScores>
+<HighScoreForASongAndSteps>
+<Song Dir='Songs/The Starter Pack of Stamina/Anubis - [Tuuc]/'/>
+<Steps Difficulty='Easy' StepsType='dance-single'/>
+<HighScore>
+<Name></Name>
+<Grade>Tier10</Grade>
+<Score>142</Score>
+<PercentDP>0.805800</PercentDP>
+<SurviveSeconds>179.555313</SurviveSeconds>
+<MaxCombo>282</MaxCombo>
+<StageAward></StageAward>
+<PeakComboAward></PeakComboAward>
+<Modifiers>NoHideLights, C565, 10% Mini, FailImmediateContinue, Overhead, Default</Modifiers>
+<DateTime>2025-06-17 16:36:40</DateTime>
+<PlayerGuid>4ad3a19834ee56bd</PlayerGuid>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<ProductID>1</ProductID>
+<TapNoteScores>
+<HitMine>0</HitMine>
+<AvoidMine>0</AvoidMine>
+<CheckpointMiss>0</CheckpointMiss>
+<Miss>5</Miss>
+<W5>5</W5>
+<W4>10</W4>
+<W3>132</W3>
+<W2>180</W2>
+<W1>422</W1>
+<CheckpointHit>0</CheckpointHit>
+</TapNoteScores>
+<HoldNoteScores>
+<LetGo>0</LetGo>
+<Held>35</Held>
+<MissedHold>0</MissedHold>
+</HoldNoteScores>
+<RadarValues>
+<Stream>0.800525</Stream>
+<Voltage>0.372836</Voltage>
+<Air>0.875000</Air>
+<Freeze>1.000000</Freeze>
+<Chaos>0.805830</Chaos>
+<Notes>752.000000</Notes>
+<TapsAndHolds>744</TapsAndHolds>
+<Jumps>8</Jumps>
+<Holds>35</Holds>
+<Mines>1</Mines>
+<Hands>0</Hands>
+<Rolls>0</Rolls>
+<Lifts>0</Lifts>
+<Fakes>0</Fakes>
+</RadarValues>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<Disqualified>0</Disqualified>
+<Pad>33</Pad>
+<StageGuid>4fa7dfe4-fbbf-4237-a792-9575c9b9c97b</StageGuid>
+<Guid>ba773030-1b69-4c0e-ae98-15100638c863</Guid>
+</HighScore>
+</HighScoreForASongAndSteps>
+</RecentSongScores>
+</Stats>

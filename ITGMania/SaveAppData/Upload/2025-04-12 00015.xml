@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Stats>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<RecentSongScores>
+<HighScoreForASongAndSteps>
+<Song Dir='Songs/JBEAN Originals - 2019/Spice Up Your Life/'/>
+<Steps Difficulty='Beginner' StepsType='dance-single'/>
+<HighScore>
+<Name></Name>
+<Grade>Tier17</Grade>
+<Score>7</Score>
+<PercentDP>0.160000</PercentDP>
+<SurviveSeconds>118.804993</SurviveSeconds>
+<MaxCombo>9</MaxCombo>
+<StageAward></StageAward>
+<PeakComboAward></PeakComboAward>
+<Modifiers>NoHideLights, C260, FailImmediateContinue, Overhead</Modifiers>
+<DateTime>2025-04-12 18:00:42</DateTime>
+<PlayerGuid>2dde4d6e8737681e</PlayerGuid>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<ProductID>1</ProductID>
+<TapNoteScores>
+<HitMine>0</HitMine>
+<AvoidMine>0</AvoidMine>
+<CheckpointMiss>0</CheckpointMiss>
+<Miss>5</Miss>
+<W5>6</W5>
+<W4>2</W4>
+<W3>21</W3>
+<W2>7</W2>
+<W1>14</W1>
+<CheckpointHit>0</CheckpointHit>
+</TapNoteScores>
+<HoldNoteScores>
+<LetGo>0</LetGo>
+<Held>0</Held>
+<MissedHold>0</MissedHold>
+</HoldNoteScores>
+<RadarValues>
+<Stream>0.393939</Stream>
+<Voltage>0.120703</Voltage>
+<Air>0.454545</Air>
+<Freeze>0.000000</Freeze>
+<Chaos>0.160000</Chaos>
+<Notes>53.000000</Notes>
+<TapsAndHolds>44</TapsAndHolds>
+<Jumps>9</Jumps>
+<Holds>0</Holds>
+<Mines>0</Mines>
+<Hands>0</Hands>
+<Rolls>0</Rolls>
+<Lifts>0</Lifts>
+<Fakes>0</Fakes>
+</RadarValues>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<Disqualified>0</Disqualified>
+<Pad>33</Pad>
+<StageGuid>282aca4f-2157-469e-a68c-325bab912141</StageGuid>
+<Guid>d3ed0643-66b4-46a0-a9ac-6b3e6e9b852e</Guid>
+</HighScore>
+</HighScoreForASongAndSteps>
+</RecentSongScores>
+</Stats>

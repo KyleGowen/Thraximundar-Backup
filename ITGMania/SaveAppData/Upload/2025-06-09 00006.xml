@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Stats>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<RecentSongScores>
+<HighScoreForASongAndSteps>
+<Song Dir='Songs/Cosmic Reincarnate/Baby Got Back/'/>
+<Steps Difficulty='Hard' StepsType='dance-single'/>
+<HighScore>
+<Name></Name>
+<Grade>Tier11</Grade>
+<Score>57</Score>
+<PercentDP>0.779400</PercentDP>
+<SurviveSeconds>121.491035</SurviveSeconds>
+<MaxCombo>104</MaxCombo>
+<StageAward></StageAward>
+<PeakComboAward></PeakComboAward>
+<Modifiers>NoHideLights, C565, 10% Mini, FailImmediateContinue, Overhead, Default</Modifiers>
+<DateTime>2025-06-09 17:32:48</DateTime>
+<PlayerGuid>4ad3a19834ee56bd</PlayerGuid>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<ProductID>1</ProductID>
+<TapNoteScores>
+<HitMine>0</HitMine>
+<AvoidMine>0</AvoidMine>
+<CheckpointMiss>0</CheckpointMiss>
+<Miss>2</Miss>
+<W5>1</W5>
+<W4>5</W4>
+<W3>74</W3>
+<W2>153</W2>
+<W1>170</W1>
+<CheckpointHit>0</CheckpointHit>
+</TapNoteScores>
+<HoldNoteScores>
+<LetGo>1</LetGo>
+<Held>2</Held>
+<MissedHold>0</MissedHold>
+</HoldNoteScores>
+<RadarValues>
+<Stream>0.798561</Stream>
+<Voltage>0.241066</Voltage>
+<Air>0.583333</Air>
+<Freeze>0.666667</Freeze>
+<Chaos>0.779412</Chaos>
+<Notes>414.000000</Notes>
+<TapsAndHolds>402</TapsAndHolds>
+<Jumps>11</Jumps>
+<Holds>2</Holds>
+<Mines>0</Mines>
+<Hands>1</Hands>
+<Rolls>0</Rolls>
+<Lifts>0</Lifts>
+<Fakes>0</Fakes>
+</RadarValues>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<Disqualified>0</Disqualified>
+<Pad>33</Pad>
+<StageGuid>0822c13f-3370-4d9b-a769-ec3d95167eb3</StageGuid>
+<Guid>24864df9-53c0-4074-aa80-e55f5327dd3c</Guid>
+</HighScore>
+</HighScoreForASongAndSteps>
+</RecentSongScores>
+</Stats>

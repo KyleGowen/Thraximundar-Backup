@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Stats>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<RecentSongScores>
+<HighScoreForASongAndSteps>
+<Song Dir='Songs/elemwarr originals/[elemwarr] Don&apos;t Fall Asleep on the Subway/'/>
+<Steps Difficulty='Challenge' StepsType='dance-single'/>
+<HighScore>
+<Name></Name>
+<Grade>Tier05</Grade>
+<Score>141</Score>
+<PercentDP>0.944200</PercentDP>
+<SurviveSeconds>176.729294</SurviveSeconds>
+<MaxCombo>452</MaxCombo>
+<StageAward></StageAward>
+<PeakComboAward></PeakComboAward>
+<Modifiers>NoHideLights, C610, 10% Mini, NoMines, FailImmediateContinue, Overhead, Default, No W5</Modifiers>
+<DateTime>2025-05-07 18:32:07</DateTime>
+<PlayerGuid>7d658d42d132c3a6</PlayerGuid>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<ProductID>1</ProductID>
+<TapNoteScores>
+<HitMine>0</HitMine>
+<AvoidMine>0</AvoidMine>
+<CheckpointMiss>0</CheckpointMiss>
+<Miss>5</Miss>
+<W5>0</W5>
+<W4>1</W4>
+<W3>17</W3>
+<W2>98</W2>
+<W1>611</W1>
+<CheckpointHit>0</CheckpointHit>
+</TapNoteScores>
+<HoldNoteScores>
+<LetGo>0</LetGo>
+<Held>142</Held>
+<MissedHold>1</MissedHold>
+</HoldNoteScores>
+<RadarValues>
+<Stream>0.972155</Stream>
+<Voltage>0.561932</Voltage>
+<Air>0.989362</Air>
+<Freeze>0.993007</Freeze>
+<Chaos>0.944229</Chaos>
+<Notes>821.000000</Notes>
+<TapsAndHolds>728</TapsAndHolds>
+<Jumps>94</Jumps>
+<Holds>142</Holds>
+<Mines>0</Mines>
+<Hands>0</Hands>
+<Rolls>0</Rolls>
+<Lifts>0</Lifts>
+<Fakes>0</Fakes>
+</RadarValues>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<Disqualified>0</Disqualified>
+<Pad>33</Pad>
+<StageGuid>15f1c563-9eb0-468d-a8bf-ab7ba7ee611c</StageGuid>
+<Guid>55cff458-ed96-4983-a58f-0d000584c799</Guid>
+</HighScore>
+</HighScoreForASongAndSteps>
+</RecentSongScores>
+</Stats>

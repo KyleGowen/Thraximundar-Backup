@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Stats>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<RecentSongScores>
+<HighScoreForASongAndSteps>
+<Song Dir='Songs/K-Pop Demon Hunters/How It&apos;s Done/'/>
+<Steps Difficulty='Easy' StepsType='dance-single'/>
+<HighScore>
+<Name></Name>
+<Grade>Tier08</Grade>
+<Score>63</Score>
+<PercentDP>0.868000</PercentDP>
+<SurviveSeconds>144.225983</SurviveSeconds>
+<MaxCombo>167</MaxCombo>
+<StageAward></StageAward>
+<PeakComboAward></PeakComboAward>
+<Modifiers>NoHideLights, C420, FailImmediateContinue, Overhead, Default</Modifiers>
+<DateTime>2025-09-20 08:18:56</DateTime>
+<PlayerGuid>d876307e83faa0ea</PlayerGuid>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<ProductID>1</ProductID>
+<TapNoteScores>
+<HitMine>0</HitMine>
+<AvoidMine>0</AvoidMine>
+<CheckpointMiss>0</CheckpointMiss>
+<Miss>4</Miss>
+<W5>0</W5>
+<W4>4</W4>
+<W3>48</W3>
+<W2>107</W2>
+<W1>203</W1>
+<CheckpointHit>0</CheckpointHit>
+</TapNoteScores>
+<HoldNoteScores>
+<LetGo>0</LetGo>
+<Held>174</Held>
+<MissedHold>4</MissedHold>
+</HoldNoteScores>
+<RadarValues>
+<Stream>0.827014</Stream>
+<Voltage>0.402591</Voltage>
+<Air>0.892857</Air>
+<Freeze>0.979021</Freeze>
+<Chaos>0.868015</Chaos>
+<Notes>418.000000</Notes>
+<TapsAndHolds>362</TapsAndHolds>
+<Jumps>56</Jumps>
+<Holds>140</Holds>
+<Mines>0</Mines>
+<Hands>0</Hands>
+<Rolls>34</Rolls>
+<Lifts>0</Lifts>
+<Fakes>0</Fakes>
+</RadarValues>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<Disqualified>0</Disqualified>
+<Pad>33</Pad>
+<StageGuid>f754d12b-3056-4547-a4fb-1bee4bdaf268</StageGuid>
+<Guid>415c56bb-37b0-4b94-a0c7-a2106ea0d6c8</Guid>
+</HighScore>
+</HighScoreForASongAndSteps>
+</RecentSongScores>
+</Stats>

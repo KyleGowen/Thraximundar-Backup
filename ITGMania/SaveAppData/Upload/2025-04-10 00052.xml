@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Stats>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<RecentSongScores>
+<HighScoreForASongAndSteps>
+<Song Dir='Songs/DDR Galaxy/Forever/'/>
+<Steps Difficulty='Easy' StepsType='dance-single'/>
+<HighScore>
+<Name></Name>
+<Grade>Tier12</Grade>
+<Score>48</Score>
+<PercentDP>0.720700</PercentDP>
+<SurviveSeconds>190.794220</SurviveSeconds>
+<MaxCombo>103</MaxCombo>
+<StageAward></StageAward>
+<PeakComboAward></PeakComboAward>
+<Modifiers>NoHideLights, C325, FailImmediateContinue, Overhead, Default</Modifiers>
+<DateTime>2025-04-10 22:16:25</DateTime>
+<PlayerGuid>d876307e83faa0ea</PlayerGuid>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<ProductID>1</ProductID>
+<TapNoteScores>
+<HitMine>0</HitMine>
+<AvoidMine>0</AvoidMine>
+<CheckpointMiss>0</CheckpointMiss>
+<Miss>7</Miss>
+<W5>2</W5>
+<W4>5</W4>
+<W3>65</W3>
+<W2>86</W2>
+<W1>113</W1>
+<CheckpointHit>0</CheckpointHit>
+</TapNoteScores>
+<HoldNoteScores>
+<LetGo>4</LetGo>
+<Held>55</Held>
+<MissedHold>1</MissedHold>
+</HoldNoteScores>
+<RadarValues>
+<Stream>0.726644</Stream>
+<Voltage>0.292141</Voltage>
+<Air>0.909091</Air>
+<Freeze>0.916667</Freeze>
+<Chaos>0.720710</Chaos>
+<Notes>280.000000</Notes>
+<TapsAndHolds>269</TapsAndHolds>
+<Jumps>11</Jumps>
+<Holds>55</Holds>
+<Mines>0</Mines>
+<Hands>0</Hands>
+<Rolls>0</Rolls>
+<Lifts>0</Lifts>
+<Fakes>0</Fakes>
+</RadarValues>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<Disqualified>0</Disqualified>
+<Pad>33</Pad>
+<StageGuid>199121a6-1b69-4bc5-ace2-32d0e69a22ec</StageGuid>
+<Guid>e524f084-3df9-4057-a5cc-276592913ebb</Guid>
+</HighScore>
+</HighScoreForASongAndSteps>
+</RecentSongScores>
+</Stats>

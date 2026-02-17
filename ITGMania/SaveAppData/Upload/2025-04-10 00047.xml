@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Stats>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<RecentSongScores>
+<HighScoreForASongAndSteps>
+<Song Dir='Songs/DDR Galaxy/Cure For Me/'/>
+<Steps Difficulty='Easy' StepsType='dance-single'/>
+<HighScore>
+<Name></Name>
+<Grade>Tier15</Grade>
+<Score>24</Score>
+<PercentDP>0.617600</PercentDP>
+<SurviveSeconds>146.667755</SurviveSeconds>
+<MaxCombo>42</MaxCombo>
+<StageAward></StageAward>
+<PeakComboAward></PeakComboAward>
+<Modifiers>NoHideLights, C325, FailImmediateContinue, Overhead, Default</Modifiers>
+<DateTime>2025-04-10 21:58:21</DateTime>
+<PlayerGuid>d876307e83faa0ea</PlayerGuid>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<ProductID>1</ProductID>
+<TapNoteScores>
+<HitMine>0</HitMine>
+<AvoidMine>0</AvoidMine>
+<CheckpointMiss>0</CheckpointMiss>
+<Miss>9</Miss>
+<W5>5</W5>
+<W4>7</W4>
+<W3>66</W3>
+<W2>58</W2>
+<W1>79</W1>
+<CheckpointHit>0</CheckpointHit>
+</TapNoteScores>
+<HoldNoteScores>
+<LetGo>0</LetGo>
+<Held>37</Held>
+<MissedHold>0</MissedHold>
+</HoldNoteScores>
+<RadarValues>
+<Stream>0.606195</Stream>
+<Voltage>0.189519</Voltage>
+<Air>0.500000</Air>
+<Freeze>1.000000</Freeze>
+<Chaos>0.617625</Chaos>
+<Notes>212.000000</Notes>
+<TapsAndHolds>210</TapsAndHolds>
+<Jumps>2</Jumps>
+<Holds>37</Holds>
+<Mines>0</Mines>
+<Hands>0</Hands>
+<Rolls>0</Rolls>
+<Lifts>0</Lifts>
+<Fakes>0</Fakes>
+</RadarValues>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<Disqualified>0</Disqualified>
+<Pad>33</Pad>
+<StageGuid>c3237352-2031-4ccf-a121-60f3ba59372b</StageGuid>
+<Guid>8e619e4f-42a2-445d-a6ef-4df937b38fb4</Guid>
+</HighScore>
+</HighScoreForASongAndSteps>
+</RecentSongScores>
+</Stats>

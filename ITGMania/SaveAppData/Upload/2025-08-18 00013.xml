@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Stats>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<RecentSongScores>
+<HighScoreForASongAndSteps>
+<Song Dir='Songs/Misc. Collected (DDR Ratings)/SKIBIDI (Romantic Version)/'/>
+<Steps Difficulty='Hard' StepsType='dance-single'/>
+<HighScore>
+<Name></Name>
+<Grade>Tier11</Grade>
+<Score>65</Score>
+<PercentDP>0.773400</PercentDP>
+<SurviveSeconds>111.467064</SurviveSeconds>
+<MaxCombo>152</MaxCombo>
+<StageAward></StageAward>
+<PeakComboAward></PeakComboAward>
+<Modifiers>NoHideLights, C580, 10% Mini, FailImmediateContinue, Overhead, Default</Modifiers>
+<DateTime>2025-08-18 18:37:16</DateTime>
+<PlayerGuid>4ad3a19834ee56bd</PlayerGuid>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<ProductID>1</ProductID>
+<TapNoteScores>
+<HitMine>7</HitMine>
+<AvoidMine>0</AvoidMine>
+<CheckpointMiss>0</CheckpointMiss>
+<Miss>8</Miss>
+<W5>2</W5>
+<W4>3</W4>
+<W3>52</W3>
+<W2>133</W2>
+<W1>216</W1>
+<CheckpointHit>0</CheckpointHit>
+</TapNoteScores>
+<HoldNoteScores>
+<LetGo>0</LetGo>
+<Held>31</Held>
+<MissedHold>0</MissedHold>
+</HoldNoteScores>
+<RadarValues>
+<Stream>0.845266</Stream>
+<Voltage>0.344581</Voltage>
+<Air>0.842105</Air>
+<Freeze>1.000000</Freeze>
+<Chaos>0.773483</Chaos>
+<Notes>423.000000</Notes>
+<TapsAndHolds>404</TapsAndHolds>
+<Jumps>19</Jumps>
+<Holds>31</Holds>
+<Mines>9</Mines>
+<Hands>0</Hands>
+<Rolls>0</Rolls>
+<Lifts>0</Lifts>
+<Fakes>0</Fakes>
+</RadarValues>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<Disqualified>0</Disqualified>
+<Pad>33</Pad>
+<StageGuid>0ff7360f-2da5-45e4-a9ac-0ab44132e1e9</StageGuid>
+<Guid>11d8a8b7-6f8e-4f28-a065-ec01da0699b2</Guid>
+</HighScore>
+</HighScoreForASongAndSteps>
+</RecentSongScores>
+</Stats>

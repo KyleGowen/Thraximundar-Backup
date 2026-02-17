@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Stats>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<RecentSongScores>
+<HighScoreForASongAndSteps>
+<Song Dir='Songs/JBEAN Originals - 2019/On A Night Like This/'/>
+<Steps Difficulty='Easy' StepsType='dance-single'/>
+<HighScore>
+<Name></Name>
+<Grade>Failed</Grade>
+<Score>12</Score>
+<PercentDP>0.014300</PercentDP>
+<SurviveSeconds>36.411640</SurviveSeconds>
+<MaxCombo>25</MaxCombo>
+<StageAward></StageAward>
+<PeakComboAward></PeakComboAward>
+<Modifiers>NoHideLights, C310, FailImmediateContinue, Overhead</Modifiers>
+<DateTime>2025-05-04 07:50:22</DateTime>
+<PlayerGuid>2dde4d6e8737681e</PlayerGuid>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<ProductID>1</ProductID>
+<TapNoteScores>
+<HitMine>0</HitMine>
+<AvoidMine>0</AvoidMine>
+<CheckpointMiss>0</CheckpointMiss>
+<Miss>32</Miss>
+<W5>11</W5>
+<W4>11</W4>
+<W3>36</W3>
+<W2>27</W2>
+<W1>39</W1>
+<CheckpointHit>0</CheckpointHit>
+</TapNoteScores>
+<HoldNoteScores>
+<LetGo>6</LetGo>
+<Held>4</Held>
+<MissedHold>1</MissedHold>
+</HoldNoteScores>
+<RadarValues>
+<Stream>0.398844</Stream>
+<Voltage>0.124559</Voltage>
+<Air>0.176471</Air>
+<Freeze>0.363636</Freeze>
+<Chaos>0.014371</Chaos>
+<Notes>125.000000</Notes>
+<TapsAndHolds>115</TapsAndHolds>
+<Jumps>10</Jumps>
+<Holds>4</Holds>
+<Mines>0</Mines>
+<Hands>0</Hands>
+<Rolls>0</Rolls>
+<Lifts>0</Lifts>
+<Fakes>0</Fakes>
+</RadarValues>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<Disqualified>0</Disqualified>
+<Pad>33</Pad>
+<StageGuid>490d65dc-b620-4a9c-a9e0-5db9754d2ffb</StageGuid>
+<Guid>b298b993-1c0f-4b16-ae47-bb5b13a4f693</Guid>
+</HighScore>
+</HighScoreForASongAndSteps>
+</RecentSongScores>
+</Stats>

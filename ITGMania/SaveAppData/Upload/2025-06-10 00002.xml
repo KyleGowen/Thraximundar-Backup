@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Stats>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<RecentSongScores>
+<HighScoreForASongAndSteps>
+<Song Dir='Songs/Misc. Collected/Gimme! Gimme! Gimme! (A Man After Midnight)/'/>
+<Steps Difficulty='Challenge' StepsType='dance-single'/>
+<HighScore>
+<Name></Name>
+<Grade>Tier16</Grade>
+<Score>26</Score>
+<PercentDP>0.597800</PercentDP>
+<SurviveSeconds>96.810982</SurviveSeconds>
+<MaxCombo>64</MaxCombo>
+<StageAward></StageAward>
+<PeakComboAward></PeakComboAward>
+<Modifiers>NoHideLights, C565, 10% Mini, FailImmediateContinue, Overhead, Default</Modifiers>
+<DateTime>2025-06-10 17:24:23</DateTime>
+<PlayerGuid>4ad3a19834ee56bd</PlayerGuid>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<ProductID>1</ProductID>
+<TapNoteScores>
+<HitMine>0</HitMine>
+<AvoidMine>0</AvoidMine>
+<CheckpointMiss>0</CheckpointMiss>
+<Miss>11</Miss>
+<W5>2</W5>
+<W4>15</W4>
+<W3>120</W3>
+<W2>101</W2>
+<W1>94</W1>
+<CheckpointHit>0</CheckpointHit>
+</TapNoteScores>
+<HoldNoteScores>
+<LetGo>1</LetGo>
+<Held>29</Held>
+<MissedHold>0</MissedHold>
+</HoldNoteScores>
+<RadarValues>
+<Stream>0.570270</Stream>
+<Voltage>0.203748</Voltage>
+<Air>0.444444</Air>
+<Freeze>0.966667</Freeze>
+<Chaos>0.597855</Chaos>
+<Notes>357.000000</Notes>
+<TapsAndHolds>331</TapsAndHolds>
+<Jumps>26</Jumps>
+<Holds>29</Holds>
+<Mines>0</Mines>
+<Hands>0</Hands>
+<Rolls>0</Rolls>
+<Lifts>0</Lifts>
+<Fakes>0</Fakes>
+</RadarValues>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<Disqualified>0</Disqualified>
+<Pad>33</Pad>
+<StageGuid>af9a327f-c6c8-48b2-a148-84d8248616a0</StageGuid>
+<Guid>9d4d2869-74bb-4a7d-ad57-016f48b8547e</Guid>
+</HighScore>
+</HighScoreForASongAndSteps>
+</RecentSongScores>
+</Stats>

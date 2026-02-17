@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Stats>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<RecentSongScores>
+<HighScoreForASongAndSteps>
+<Song Dir='Songs/JBEAN Originals - 2019/Do Your Thing/'/>
+<Steps Difficulty='Challenge' StepsType='dance-single'/>
+<HighScore>
+<Name></Name>
+<Grade>Tier11</Grade>
+<Score>99</Score>
+<PercentDP>0.794300</PercentDP>
+<SurviveSeconds>140.722778</SurviveSeconds>
+<MaxCombo>134</MaxCombo>
+<StageAward></StageAward>
+<PeakComboAward></PeakComboAward>
+<Modifiers>NoHideLights, C585, 10% Mini, FailImmediateContinue, Overhead, Default</Modifiers>
+<DateTime>2025-10-11 13:12:04</DateTime>
+<PlayerGuid>4ad3a19834ee56bd</PlayerGuid>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<ProductID>1</ProductID>
+<TapNoteScores>
+<HitMine>2</HitMine>
+<AvoidMine>0</AvoidMine>
+<CheckpointMiss>0</CheckpointMiss>
+<Miss>8</Miss>
+<W5>3</W5>
+<W4>4</W4>
+<W3>62</W3>
+<W2>156</W2>
+<W1>294</W1>
+<CheckpointHit>0</CheckpointHit>
+</TapNoteScores>
+<HoldNoteScores>
+<LetGo>0</LetGo>
+<Held>1</Held>
+<MissedHold>0</MissedHold>
+</HoldNoteScores>
+<RadarValues>
+<Stream>0.855219</Stream>
+<Voltage>0.202702</Voltage>
+<Air>0.890625</Air>
+<Freeze>1.000000</Freeze>
+<Chaos>0.794318</Chaos>
+<Notes>577.000000</Notes>
+<TapsAndHolds>517</TapsAndHolds>
+<Jumps>62</Jumps>
+<Holds>1</Holds>
+<Mines>25</Mines>
+<Hands>1</Hands>
+<Rolls>0</Rolls>
+<Lifts>0</Lifts>
+<Fakes>0</Fakes>
+</RadarValues>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<Disqualified>0</Disqualified>
+<Pad>33</Pad>
+<StageGuid>d11d46a4-53a9-47e7-a315-cbc9c220d2ce</StageGuid>
+<Guid>cb4f18ad-5416-47da-a839-225c15ccb0b3</Guid>
+</HighScore>
+</HighScoreForASongAndSteps>
+</RecentSongScores>
+</Stats>

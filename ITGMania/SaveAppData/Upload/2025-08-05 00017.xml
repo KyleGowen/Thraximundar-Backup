@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Stats>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<RecentSongScores>
+<HighScoreForASongAndSteps>
+<Song Dir='Songs/The Starter Pack of Stamina/Pogo - [StarrySergal&amp;Tuuc]/'/>
+<Steps Difficulty='Easy' StepsType='dance-single'/>
+<HighScore>
+<Name></Name>
+<Grade>Failed</Grade>
+<Score>142</Score>
+<PercentDP>0.760500</PercentDP>
+<SurviveSeconds>220.027695</SurviveSeconds>
+<MaxCombo>292</MaxCombo>
+<StageAward></StageAward>
+<PeakComboAward></PeakComboAward>
+<Modifiers>NoHideLights, C580, 10% Mini, FailImmediateContinue, Overhead, Default</Modifiers>
+<DateTime>2025-08-05 18:30:18</DateTime>
+<PlayerGuid>4ad3a19834ee56bd</PlayerGuid>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<ProductID>1</ProductID>
+<TapNoteScores>
+<HitMine>0</HitMine>
+<AvoidMine>0</AvoidMine>
+<CheckpointMiss>0</CheckpointMiss>
+<Miss>18</Miss>
+<W5>7</W5>
+<W4>9</W4>
+<W3>141</W3>
+<W2>320</W2>
+<W1>381</W1>
+<CheckpointHit>0</CheckpointHit>
+</TapNoteScores>
+<HoldNoteScores>
+<LetGo>0</LetGo>
+<Held>20</Held>
+<MissedHold>1</MissedHold>
+</HoldNoteScores>
+<RadarValues>
+<Stream>0.797282</Stream>
+<Voltage>0.363259</Voltage>
+<Air>0.857143</Air>
+<Freeze>0.952381</Freeze>
+<Chaos>0.760535</Chaos>
+<Notes>858.000000</Notes>
+<TapsAndHolds>851</TapsAndHolds>
+<Jumps>7</Jumps>
+<Holds>20</Holds>
+<Mines>0</Mines>
+<Hands>0</Hands>
+<Rolls>0</Rolls>
+<Lifts>0</Lifts>
+<Fakes>0</Fakes>
+</RadarValues>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<Disqualified>0</Disqualified>
+<Pad>33</Pad>
+<StageGuid>2e4851c4-9d91-4ed3-aa20-45c9c6afd6b3</StageGuid>
+<Guid>9e91a7ef-4d91-4173-a9aa-ccccb74f6e36</Guid>
+</HighScore>
+</HighScoreForASongAndSteps>
+</RecentSongScores>
+</Stats>

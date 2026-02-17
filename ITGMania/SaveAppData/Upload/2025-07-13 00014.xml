@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Stats>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<RecentSongScores>
+<HighScoreForASongAndSteps>
+<Song Dir='Songs/Elemwarr Misc/Where&apos;s The Exit/'/>
+<Steps Difficulty='Challenge' StepsType='dance-single'/>
+<HighScore>
+<Name></Name>
+<Grade>Tier04</Grade>
+<Score>89</Score>
+<PercentDP>0.972000</PercentDP>
+<SurviveSeconds>105.894226</SurviveSeconds>
+<MaxCombo>332</MaxCombo>
+<StageAward></StageAward>
+<PeakComboAward></PeakComboAward>
+<Modifiers>NoHideLights, C595, 15% Mini, NoMines, FailImmediateContinue, Overhead, Default, No W5</Modifiers>
+<DateTime>2025-07-13 16:31:18</DateTime>
+<PlayerGuid>7d658d42d132c3a6</PlayerGuid>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<ProductID>1</ProductID>
+<TapNoteScores>
+<HitMine>0</HitMine>
+<AvoidMine>0</AvoidMine>
+<CheckpointMiss>0</CheckpointMiss>
+<Miss>1</Miss>
+<W5>0</W5>
+<W4>1</W4>
+<W3>4</W3>
+<W2>38</W2>
+<W1>465</W1>
+<CheckpointHit>0</CheckpointHit>
+</TapNoteScores>
+<HoldNoteScores>
+<LetGo>0</LetGo>
+<Held>6</Held>
+<MissedHold>0</MissedHold>
+</HoldNoteScores>
+<RadarValues>
+<Stream>0.987387</Stream>
+<Voltage>0.575570</Voltage>
+<Air>1.000000</Air>
+<Freeze>1.000000</Freeze>
+<Chaos>0.972039</Chaos>
+<Notes>554.000000</Notes>
+<TapsAndHolds>509</TapsAndHolds>
+<Jumps>46</Jumps>
+<Holds>6</Holds>
+<Mines>0</Mines>
+<Hands>1</Hands>
+<Rolls>0</Rolls>
+<Lifts>0</Lifts>
+<Fakes>0</Fakes>
+</RadarValues>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<Disqualified>0</Disqualified>
+<Pad>33</Pad>
+<StageGuid>d7daa4d4-087a-4307-af6c-c6f69e60df64</StageGuid>
+<Guid>aed6b5aa-d93d-45a9-ade8-923b8a76edaf</Guid>
+</HighScore>
+</HighScoreForASongAndSteps>
+</RecentSongScores>
+</Stats>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Stats>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<RecentSongScores>
+<HighScoreForASongAndSteps>
+<Song Dir='Songs/Ben Speirs Galaxy/Never Stop/'/>
+<Steps Difficulty='Hard' StepsType='dance-single'/>
+<HighScore>
+<Name></Name>
+<Grade>Tier08</Grade>
+<Score>110</Score>
+<PercentDP>0.886700</PercentDP>
+<SurviveSeconds>122.827499</SurviveSeconds>
+<MaxCombo>220</MaxCombo>
+<StageAward></StageAward>
+<PeakComboAward></PeakComboAward>
+<Modifiers>NoHideLights, C565, 10% Mini, NoFakes, FailImmediateContinue, Overhead, Default, No W5</Modifiers>
+<DateTime>2025-04-10 18:12:50</DateTime>
+<PlayerGuid>4ad3a19834ee56bd</PlayerGuid>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<ProductID>1</ProductID>
+<TapNoteScores>
+<HitMine>0</HitMine>
+<AvoidMine>0</AvoidMine>
+<CheckpointMiss>0</CheckpointMiss>
+<Miss>2</Miss>
+<W5>0</W5>
+<W4>2</W4>
+<W3>41</W3>
+<W2>106</W2>
+<W1>301</W1>
+<CheckpointHit>0</CheckpointHit>
+</TapNoteScores>
+<HoldNoteScores>
+<LetGo>0</LetGo>
+<Held>38</Held>
+<MissedHold>1</MissedHold>
+</HoldNoteScores>
+<RadarValues>
+<Stream>0.900208</Stream>
+<Voltage>0.458353</Voltage>
+<Air>0.793103</Air>
+<Freeze>0.974359</Freeze>
+<Chaos>0.886762</Chaos>
+<Notes>479.000000</Notes>
+<TapsAndHolds>450</TapsAndHolds>
+<Jumps>29</Jumps>
+<Holds>38</Holds>
+<Mines>0</Mines>
+<Hands>0</Hands>
+<Rolls>0</Rolls>
+<Lifts>0</Lifts>
+<Fakes>0</Fakes>
+</RadarValues>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<Disqualified>0</Disqualified>
+<Pad>33</Pad>
+<StageGuid>957ea508-1f1c-4ef8-a6d0-9bb10b5cf830</StageGuid>
+<Guid>18a0fd70-b3b7-414e-a399-d403ff3877a2</Guid>
+</HighScore>
+</HighScoreForASongAndSteps>
+</RecentSongScores>
+</Stats>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Stats>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<RecentSongScores>
+<HighScoreForASongAndSteps>
+<Song Dir='Songs/DDR 1stMix-5thMix/IF YOU WERE HERE (B4 ZA BEAT MIX)/'/>
+<Steps Difficulty='Hard' StepsType='dance-single'/>
+<HighScore>
+<Name></Name>
+<Grade>Tier11</Grade>
+<Score>68</Score>
+<PercentDP>0.797700</PercentDP>
+<SurviveSeconds>93.087631</SurviveSeconds>
+<MaxCombo>107</MaxCombo>
+<StageAward></StageAward>
+<PeakComboAward></PeakComboAward>
+<Modifiers>NoHideLights, C555, 10% Mini, NoFakes, FailImmediateContinue, Overhead, Default, No W5</Modifiers>
+<DateTime>2025-04-10 16:36:04</DateTime>
+<PlayerGuid>4ad3a19834ee56bd</PlayerGuid>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<ProductID>1</ProductID>
+<TapNoteScores>
+<HitMine>0</HitMine>
+<AvoidMine>0</AvoidMine>
+<CheckpointMiss>0</CheckpointMiss>
+<Miss>8</Miss>
+<W5>0</W5>
+<W4>0</W4>
+<W3>40</W3>
+<W2>97</W2>
+<W1>204</W1>
+<CheckpointHit>0</CheckpointHit>
+</TapNoteScores>
+<HoldNoteScores>
+<LetGo>0</LetGo>
+<Held>0</Held>
+<MissedHold>0</MissedHold>
+</HoldNoteScores>
+<RadarValues>
+<Stream>0.866310</Stream>
+<Voltage>0.304445</Voltage>
+<Air>0.880000</Air>
+<Freeze>0.000000</Freeze>
+<Chaos>0.797708</Chaos>
+<Notes>366.000000</Notes>
+<TapsAndHolds>341</TapsAndHolds>
+<Jumps>25</Jumps>
+<Holds>0</Holds>
+<Mines>0</Mines>
+<Hands>0</Hands>
+<Rolls>0</Rolls>
+<Lifts>0</Lifts>
+<Fakes>0</Fakes>
+</RadarValues>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<Disqualified>0</Disqualified>
+<Pad>33</Pad>
+<StageGuid>8ad2409d-03d1-47a3-ae7b-6bd314ff7422</StageGuid>
+<Guid>49fd87d8-b0eb-41e5-aa14-e2959d00dbc3</Guid>
+</HighScore>
+</HighScoreForASongAndSteps>
+</RecentSongScores>
+</Stats>

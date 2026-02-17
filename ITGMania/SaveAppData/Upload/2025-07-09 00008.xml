@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Stats>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<RecentSongScores>
+<HighScoreForASongAndSteps>
+<Song Dir='Songs/Ben Speirs&apos; SPEIRMIX GALAXY/A Thousand Miles/'/>
+<Steps Difficulty='Easy' StepsType='dance-single'/>
+<HighScore>
+<Name></Name>
+<Grade>Tier16</Grade>
+<Score>11</Score>
+<PercentDP>0.593300</PercentDP>
+<SurviveSeconds>143.076950</SurviveSeconds>
+<MaxCombo>36</MaxCombo>
+<StageAward></StageAward>
+<PeakComboAward></PeakComboAward>
+<Modifiers>NoHideLights, C350, FailImmediateContinue, Overhead</Modifiers>
+<DateTime>2025-07-09 16:31:52</DateTime>
+<PlayerGuid>2dde4d6e8737681e</PlayerGuid>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<ProductID>1</ProductID>
+<TapNoteScores>
+<HitMine>0</HitMine>
+<AvoidMine>0</AvoidMine>
+<CheckpointMiss>0</CheckpointMiss>
+<Miss>2</Miss>
+<W5>3</W5>
+<W4>5</W4>
+<W3>39</W3>
+<W2>32</W2>
+<W1>31</W1>
+<CheckpointHit>0</CheckpointHit>
+</TapNoteScores>
+<HoldNoteScores>
+<LetGo>1</LetGo>
+<Held>8</Held>
+<MissedHold>0</MissedHold>
+</HoldNoteScores>
+<RadarValues>
+<Stream>0.551724</Stream>
+<Voltage>0.259988</Voltage>
+<Air>0.000000</Air>
+<Freeze>0.888889</Freeze>
+<Chaos>0.593388</Chaos>
+<Notes>110.000000</Notes>
+<TapsAndHolds>107</TapsAndHolds>
+<Jumps>3</Jumps>
+<Holds>8</Holds>
+<Mines>0</Mines>
+<Hands>0</Hands>
+<Rolls>0</Rolls>
+<Lifts>0</Lifts>
+<Fakes>0</Fakes>
+</RadarValues>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<Disqualified>0</Disqualified>
+<Pad>33</Pad>
+<StageGuid>d1423e0f-8b12-4d5e-a4cb-b8ca81af0350</StageGuid>
+<Guid>4509db5e-3c88-4dad-ac22-e6cc3026ce07</Guid>
+</HighScore>
+</HighScoreForASongAndSteps>
+</RecentSongScores>
+</Stats>

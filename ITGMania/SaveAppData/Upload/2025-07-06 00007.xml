@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Stats>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<RecentSongScores>
+<HighScoreForASongAndSteps>
+<Song Dir='Songs/Tech-Bit Adventures/Big Arms (from -Sonic the Hedgehog 3-)/'/>
+<Steps Difficulty='Medium' StepsType='dance-single'/>
+<HighScore>
+<Name></Name>
+<Grade>Tier10</Grade>
+<Score>74</Score>
+<PercentDP>0.829200</PercentDP>
+<SurviveSeconds>119.941208</SurviveSeconds>
+<MaxCombo>77</MaxCombo>
+<StageAward></StageAward>
+<PeakComboAward></PeakComboAward>
+<Modifiers>NoHideLights, C575, 10% Mini, FailImmediateContinue, Overhead, Default</Modifiers>
+<DateTime>2025-07-06 10:49:17</DateTime>
+<PlayerGuid>4ad3a19834ee56bd</PlayerGuid>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<ProductID>1</ProductID>
+<TapNoteScores>
+<HitMine>1</HitMine>
+<AvoidMine>0</AvoidMine>
+<CheckpointMiss>0</CheckpointMiss>
+<Miss>5</Miss>
+<W5>6</W5>
+<W4>4</W4>
+<W3>36</W3>
+<W2>100</W2>
+<W1>251</W1>
+<CheckpointHit>0</CheckpointHit>
+</TapNoteScores>
+<HoldNoteScores>
+<LetGo>0</LetGo>
+<Held>49</Held>
+<MissedHold>0</MissedHold>
+</HoldNoteScores>
+<RadarValues>
+<Stream>0.873810</Stream>
+<Voltage>0.149214</Voltage>
+<Air>0.944444</Air>
+<Freeze>1.000000</Freeze>
+<Chaos>0.829268</Chaos>
+<Notes>409.000000</Notes>
+<TapsAndHolds>391</TapsAndHolds>
+<Jumps>18</Jumps>
+<Holds>49</Holds>
+<Mines>19</Mines>
+<Hands>0</Hands>
+<Rolls>0</Rolls>
+<Lifts>0</Lifts>
+<Fakes>0</Fakes>
+</RadarValues>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<Disqualified>0</Disqualified>
+<Pad>33</Pad>
+<StageGuid>b7fa3ffa-425a-4b8f-a809-78b36e8cd0ba</StageGuid>
+<Guid>916b42cf-044f-40fd-a522-71a2f7ebdc27</Guid>
+</HighScore>
+</HighScoreForASongAndSteps>
+</RecentSongScores>
+</Stats>

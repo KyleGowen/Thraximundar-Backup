@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Stats>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<RecentSongScores>
+<HighScoreForASongAndSteps>
+<Song Dir='Songs/K-Pop Demon Hunters/Strategy/'/>
+<Steps Difficulty='Challenge' StepsType='dance-single'/>
+<HighScore>
+<Name></Name>
+<Grade>Tier14</Grade>
+<Score>61</Score>
+<PercentDP>0.659200</PercentDP>
+<SurviveSeconds>103.345711</SurviveSeconds>
+<MaxCombo>53</MaxCombo>
+<StageAward></StageAward>
+<PeakComboAward></PeakComboAward>
+<Modifiers>NoHideLights, C580, 10% Mini, FailImmediateContinue, Overhead, Default</Modifiers>
+<DateTime>2025-09-21 13:54:32</DateTime>
+<PlayerGuid>4ad3a19834ee56bd</PlayerGuid>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<ProductID>1</ProductID>
+<TapNoteScores>
+<HitMine>1</HitMine>
+<AvoidMine>0</AvoidMine>
+<CheckpointMiss>0</CheckpointMiss>
+<Miss>18</Miss>
+<W5>6</W5>
+<W4>10</W4>
+<W3>64</W3>
+<W2>94</W2>
+<W1>178</W1>
+<CheckpointHit>0</CheckpointHit>
+</TapNoteScores>
+<HoldNoteScores>
+<LetGo>0</LetGo>
+<Held>51</Held>
+<MissedHold>1</MissedHold>
+</HoldNoteScores>
+<RadarValues>
+<Stream>0.733668</Stream>
+<Voltage>0.117463</Voltage>
+<Air>0.680000</Air>
+<Freeze>0.980769</Freeze>
+<Chaos>0.659242</Chaos>
+<Notes>371.000000</Notes>
+<TapsAndHolds>348</TapsAndHolds>
+<Jumps>21</Jumps>
+<Holds>51</Holds>
+<Mines>15</Mines>
+<Hands>3</Hands>
+<Rolls>0</Rolls>
+<Lifts>0</Lifts>
+<Fakes>0</Fakes>
+</RadarValues>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<Disqualified>0</Disqualified>
+<Pad>33</Pad>
+<StageGuid>d2a701b7-06c0-48f4-a065-ebaa120ebd5f</StageGuid>
+<Guid>1fb67a3d-5a37-4d68-ad06-1662cd144efe</Guid>
+</HighScore>
+</HighScoreForASongAndSteps>
+</RecentSongScores>
+</Stats>

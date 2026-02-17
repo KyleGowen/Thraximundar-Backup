@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Stats>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<RecentSongScores>
+<HighScoreForASongAndSteps>
+<Song Dir='Songs/Misc. Collected/Jason - [StarrySergal]/'/>
+<Steps Difficulty='Hard' StepsType='dance-single'/>
+<HighScore>
+<Name></Name>
+<Grade>Tier10</Grade>
+<Score>62</Score>
+<PercentDP>0.804100</PercentDP>
+<SurviveSeconds>166.077133</SurviveSeconds>
+<MaxCombo>145</MaxCombo>
+<StageAward></StageAward>
+<PeakComboAward></PeakComboAward>
+<Modifiers>NoHideLights, C565, 10% Mini, FailImmediateContinue, Overhead, Default</Modifiers>
+<DateTime>2025-04-29 17:22:36</DateTime>
+<PlayerGuid>4ad3a19834ee56bd</PlayerGuid>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<ProductID>1</ProductID>
+<TapNoteScores>
+<HitMine>2</HitMine>
+<AvoidMine>0</AvoidMine>
+<CheckpointMiss>0</CheckpointMiss>
+<Miss>8</Miss>
+<W5>3</W5>
+<W4>8</W4>
+<W3>81</W3>
+<W2>135</W2>
+<W1>219</W1>
+<CheckpointHit>0</CheckpointHit>
+</TapNoteScores>
+<HoldNoteScores>
+<LetGo>1</LetGo>
+<Held>174</Held>
+<MissedHold>3</MissedHold>
+</HoldNoteScores>
+<RadarValues>
+<Stream>0.781182</Stream>
+<Voltage>0.283567</Voltage>
+<Air>0.666667</Air>
+<Freeze>0.976471</Freeze>
+<Chaos>0.804114</Chaos>
+<Notes>446.000000</Notes>
+<TapsAndHolds>443</TapsAndHolds>
+<Jumps>2</Jumps>
+<Holds>166</Holds>
+<Mines>8</Mines>
+<Hands>0</Hands>
+<Rolls>8</Rolls>
+<Lifts>0</Lifts>
+<Fakes>0</Fakes>
+</RadarValues>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<Disqualified>0</Disqualified>
+<Pad>33</Pad>
+<StageGuid>481a31e6-57f8-41fa-aca2-adb9205a9ad9</StageGuid>
+<Guid>5ad04706-bb3f-42d2-adf4-93183ae13863</Guid>
+</HighScore>
+</HighScoreForASongAndSteps>
+</RecentSongScores>
+</Stats>

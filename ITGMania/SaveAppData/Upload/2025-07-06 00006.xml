@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Stats>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<RecentSongScores>
+<HighScoreForASongAndSteps>
+<Song Dir='Songs/Tech-Bit Adventures/Aquatic Ambience/'/>
+<Steps Difficulty='Hard' StepsType='dance-single'/>
+<HighScore>
+<Name></Name>
+<Grade>Tier11</Grade>
+<Score>75</Score>
+<PercentDP>0.785700</PercentDP>
+<SurviveSeconds>137.529587</SurviveSeconds>
+<MaxCombo>153</MaxCombo>
+<StageAward></StageAward>
+<PeakComboAward></PeakComboAward>
+<Modifiers>NoHideLights, C575, 10% Mini, FailImmediateContinue, Overhead, Default</Modifiers>
+<DateTime>2025-07-06 10:46:41</DateTime>
+<PlayerGuid>4ad3a19834ee56bd</PlayerGuid>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<ProductID>1</ProductID>
+<TapNoteScores>
+<HitMine>2</HitMine>
+<AvoidMine>0</AvoidMine>
+<CheckpointMiss>0</CheckpointMiss>
+<Miss>8</Miss>
+<W5>2</W5>
+<W4>4</W4>
+<W3>62</W3>
+<W2>135</W2>
+<W1>221</W1>
+<CheckpointHit>0</CheckpointHit>
+</TapNoteScores>
+<HoldNoteScores>
+<LetGo>0</LetGo>
+<Held>45</Held>
+<MissedHold>0</MissedHold>
+</HoldNoteScores>
+<RadarValues>
+<Stream>0.824324</Stream>
+<Voltage>0.342156</Voltage>
+<Air>0.833333</Air>
+<Freeze>1.000000</Freeze>
+<Chaos>0.785744</Chaos>
+<Notes>433.000000</Notes>
+<TapsAndHolds>422</TapsAndHolds>
+<Jumps>10</Jumps>
+<Holds>45</Holds>
+<Mines>20</Mines>
+<Hands>0</Hands>
+<Rolls>0</Rolls>
+<Lifts>0</Lifts>
+<Fakes>0</Fakes>
+</RadarValues>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<Disqualified>0</Disqualified>
+<Pad>33</Pad>
+<StageGuid>6828e9f9-df04-470c-a9a6-e05fcee9f440</StageGuid>
+<Guid>6148cbb3-ae0d-459d-a2de-2a995ac90d39</Guid>
+</HighScore>
+</HighScoreForASongAndSteps>
+</RecentSongScores>
+</Stats>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Stats>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<RecentSongScores>
+<HighScoreForASongAndSteps>
+<Song Dir='Songs/80s Greatest Hits Volume 1/Take On Me/'/>
+<Steps Difficulty='Challenge' StepsType='dance-single'/>
+<HighScore>
+<Name></Name>
+<Grade>Failed</Grade>
+<Score>71</Score>
+<PercentDP>0.300900</PercentDP>
+<SurviveSeconds>69.228226</SurviveSeconds>
+<MaxCombo>87</MaxCombo>
+<StageAward></StageAward>
+<PeakComboAward></PeakComboAward>
+<Modifiers>NoHideLights, C565, 10% Mini, FailImmediateContinue, Overhead, Default</Modifiers>
+<DateTime>2025-06-24 16:38:59</DateTime>
+<PlayerGuid>4ad3a19834ee56bd</PlayerGuid>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<ProductID>1</ProductID>
+<TapNoteScores>
+<HitMine>1</HitMine>
+<AvoidMine>0</AvoidMine>
+<CheckpointMiss>0</CheckpointMiss>
+<Miss>119</Miss>
+<W5>13</W5>
+<W4>11</W4>
+<W3>139</W3>
+<W2>123</W2>
+<W1>208</W1>
+<CheckpointHit>0</CheckpointHit>
+</TapNoteScores>
+<HoldNoteScores>
+<LetGo>8</LetGo>
+<Held>66</Held>
+<MissedHold>16</MissedHold>
+</HoldNoteScores>
+<RadarValues>
+<Stream>0.540000</Stream>
+<Voltage>0.137886</Voltage>
+<Air>0.405405</Air>
+<Freeze>0.733333</Freeze>
+<Chaos>0.300996</Chaos>
+<Notes>513.000000</Notes>
+<TapsAndHolds>484</TapsAndHolds>
+<Jumps>29</Jumps>
+<Holds>66</Holds>
+<Mines>0</Mines>
+<Hands>0</Hands>
+<Rolls>0</Rolls>
+<Lifts>0</Lifts>
+<Fakes>0</Fakes>
+</RadarValues>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<Disqualified>0</Disqualified>
+<Pad>33</Pad>
+<StageGuid>c4d80e99-38c7-4e1e-aeef-e3fac9d4e1e2</StageGuid>
+<Guid>7f9712a9-565a-408b-a5e3-5b64a30f88dd</Guid>
+</HighScore>
+</HighScoreForASongAndSteps>
+</RecentSongScores>
+</Stats>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Stats>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<RecentSongScores>
+<HighScoreForASongAndSteps>
+<Song Dir='Songs/Misc. Collected/Daft Punk/'/>
+<Steps Difficulty='Easy' StepsType='dance-single'/>
+<HighScore>
+<Name></Name>
+<Grade>Failed</Grade>
+<Score>33</Score>
+<PercentDP>0.421400</PercentDP>
+<SurviveSeconds>186.446457</SurviveSeconds>
+<MaxCombo>40</MaxCombo>
+<StageAward></StageAward>
+<PeakComboAward></PeakComboAward>
+<Modifiers>NoHideLights, C335, FailImmediateContinue, Overhead</Modifiers>
+<DateTime>2025-08-14 15:27:07</DateTime>
+<PlayerGuid>2dde4d6e8737681e</PlayerGuid>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<ProductID>1</ProductID>
+<TapNoteScores>
+<HitMine>0</HitMine>
+<AvoidMine>0</AvoidMine>
+<CheckpointMiss>0</CheckpointMiss>
+<Miss>14</Miss>
+<W5>10</W5>
+<W4>17</W4>
+<W3>123</W3>
+<W2>69</W2>
+<W1>102</W1>
+<CheckpointHit>0</CheckpointHit>
+</TapNoteScores>
+<HoldNoteScores>
+<LetGo>8</LetGo>
+<Held>53</Held>
+<MissedHold>5</MissedHold>
+</HoldNoteScores>
+<RadarValues>
+<Stream>0.505495</Stream>
+<Voltage>0.128885</Voltage>
+<Air>0.275862</Air>
+<Freeze>0.803030</Freeze>
+<Chaos>0.421446</Chaos>
+<Notes>340.000000</Notes>
+<TapsAndHolds>313</TapsAndHolds>
+<Jumps>27</Jumps>
+<Holds>53</Holds>
+<Mines>0</Mines>
+<Hands>0</Hands>
+<Rolls>0</Rolls>
+<Lifts>0</Lifts>
+<Fakes>0</Fakes>
+</RadarValues>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<Disqualified>0</Disqualified>
+<Pad>33</Pad>
+<StageGuid>8b5a9aa1-e0c5-47e2-a3ae-8eef2758232d</StageGuid>
+<Guid>47c121ca-6fbc-48f5-aba7-90f92c5c3655</Guid>
+</HighScore>
+</HighScoreForASongAndSteps>
+</RecentSongScores>
+</Stats>

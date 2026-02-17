@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Stats>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<RecentSongScores>
+<HighScoreForASongAndSteps>
+<Song Dir='Songs/80s Greatest Hits Volume 1/Hot For Teacher/'/>
+<Steps Difficulty='Medium' StepsType='dance-single'/>
+<HighScore>
+<Name></Name>
+<Grade>Failed</Grade>
+<Score>17</Score>
+<PercentDP>0.071000</PercentDP>
+<SurviveSeconds>35.257671</SurviveSeconds>
+<MaxCombo>24</MaxCombo>
+<StageAward></StageAward>
+<PeakComboAward></PeakComboAward>
+<Modifiers>NoHideLights, C570, 10% Mini, FailImmediateContinue, Overhead, Default</Modifiers>
+<DateTime>2025-04-13 19:07:01</DateTime>
+<PlayerGuid>4ad3a19834ee56bd</PlayerGuid>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<ProductID>1</ProductID>
+<TapNoteScores>
+<HitMine>0</HitMine>
+<AvoidMine>0</AvoidMine>
+<CheckpointMiss>0</CheckpointMiss>
+<Miss>408</Miss>
+<W5>8</W5>
+<W4>13</W4>
+<W3>55</W3>
+<W2>33</W2>
+<W1>40</W1>
+<CheckpointHit>0</CheckpointHit>
+</TapNoteScores>
+<HoldNoteScores>
+<LetGo>0</LetGo>
+<Held>3</Held>
+<MissedHold>31</MissedHold>
+</HoldNoteScores>
+<RadarValues>
+<Stream>0.126957</Stream>
+<Voltage>0.032801</Voltage>
+<Air>0.055556</Air>
+<Freeze>0.088235</Freeze>
+<Chaos>0.071066</Chaos>
+<Notes>142.000000</Notes>
+<TapsAndHolds>141</TapsAndHolds>
+<Jumps>1</Jumps>
+<Holds>3</Holds>
+<Mines>0</Mines>
+<Hands>0</Hands>
+<Rolls>0</Rolls>
+<Lifts>0</Lifts>
+<Fakes>0</Fakes>
+</RadarValues>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<Disqualified>0</Disqualified>
+<Pad>33</Pad>
+<StageGuid>4613f54b-6bb2-40d6-a44f-f1f45920da70</StageGuid>
+<Guid>8565da82-6318-461a-ad13-a58d6d857fc3</Guid>
+</HighScore>
+</HighScoreForASongAndSteps>
+</RecentSongScores>
+</Stats>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Stats>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<RecentSongScores>
+<HighScoreForASongAndSteps>
+<Song Dir='Songs/DDR Galaxy/Shine/'/>
+<Steps Difficulty='Challenge' StepsType='dance-single'/>
+<HighScore>
+<Name></Name>
+<Grade>Tier10</Grade>
+<Score>86</Score>
+<PercentDP>0.804000</PercentDP>
+<SurviveSeconds>119.125076</SurviveSeconds>
+<MaxCombo>143</MaxCombo>
+<StageAward></StageAward>
+<PeakComboAward></PeakComboAward>
+<Modifiers>NoHideLights, C580, 10% Mini, FailImmediateContinue, Overhead, Default</Modifiers>
+<DateTime>2025-08-05 17:50:03</DateTime>
+<PlayerGuid>4ad3a19834ee56bd</PlayerGuid>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<ProductID>1</ProductID>
+<TapNoteScores>
+<HitMine>0</HitMine>
+<AvoidMine>0</AvoidMine>
+<CheckpointMiss>0</CheckpointMiss>
+<Miss>10</Miss>
+<W5>3</W5>
+<W4>7</W4>
+<W3>59</W3>
+<W2>106</W2>
+<W1>263</W1>
+<CheckpointHit>0</CheckpointHit>
+</TapNoteScores>
+<HoldNoteScores>
+<LetGo>1</LetGo>
+<Held>88</Held>
+<MissedHold>0</MissedHold>
+</HoldNoteScores>
+<RadarValues>
+<Stream>0.827368</Stream>
+<Voltage>0.354025</Voltage>
+<Air>0.666667</Air>
+<Freeze>0.987342</Freeze>
+<Chaos>0.804097</Chaos>
+<Notes>460.000000</Notes>
+<TapsAndHolds>436</TapsAndHolds>
+<Jumps>26</Jumps>
+<Holds>78</Holds>
+<Mines>0</Mines>
+<Hands>0</Hands>
+<Rolls>10</Rolls>
+<Lifts>0</Lifts>
+<Fakes>0</Fakes>
+</RadarValues>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<Disqualified>0</Disqualified>
+<Pad>33</Pad>
+<StageGuid>6b55ddf7-ffac-4397-a1a6-b69964893795</StageGuid>
+<Guid>1f65d2df-7531-40dd-a51d-08b7a9d811c5</Guid>
+</HighScore>
+</HighScoreForASongAndSteps>
+</RecentSongScores>
+</Stats>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Stats>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<RecentSongScores>
+<HighScoreForASongAndSteps>
+<Song Dir='Songs/Elemwarr Misc/Colours of the Rainbow/'/>
+<Steps Difficulty='Hard' StepsType='dance-single'/>
+<HighScore>
+<Name></Name>
+<Grade>Tier10</Grade>
+<Score>84</Score>
+<PercentDP>0.809900</PercentDP>
+<SurviveSeconds>152.463425</SurviveSeconds>
+<MaxCombo>126</MaxCombo>
+<StageAward></StageAward>
+<PeakComboAward></PeakComboAward>
+<Modifiers>NoHideLights, C420, FailImmediateContinue, Overhead, Default</Modifiers>
+<DateTime>2025-12-14 13:46:47</DateTime>
+<PlayerGuid>d876307e83faa0ea</PlayerGuid>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<ProductID>1</ProductID>
+<TapNoteScores>
+<HitMine>0</HitMine>
+<AvoidMine>0</AvoidMine>
+<CheckpointMiss>0</CheckpointMiss>
+<Miss>12</Miss>
+<W5>3</W5>
+<W4>6</W4>
+<W3>40</W3>
+<W2>125</W2>
+<W1>272</W1>
+<CheckpointHit>0</CheckpointHit>
+</TapNoteScores>
+<HoldNoteScores>
+<LetGo>1</LetGo>
+<Held>85</Held>
+<MissedHold>0</MissedHold>
+</HoldNoteScores>
+<RadarValues>
+<Stream>0.861284</Stream>
+<Voltage>0.264976</Voltage>
+<Air>0.880000</Air>
+<Freeze>0.988372</Freeze>
+<Chaos>0.809926</Chaos>
+<Notes>466.000000</Notes>
+<TapsAndHolds>443</TapsAndHolds>
+<Jumps>24</Jumps>
+<Holds>85</Holds>
+<Mines>20</Mines>
+<Hands>2</Hands>
+<Rolls>0</Rolls>
+<Lifts>0</Lifts>
+<Fakes>0</Fakes>
+</RadarValues>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<Disqualified>0</Disqualified>
+<Pad>33</Pad>
+<StageGuid>e8d71df4-c876-499f-a13f-d8c0b443393a</StageGuid>
+<Guid>7a7d3cae-1bdb-4439-a28e-963205a2f66d</Guid>
+</HighScore>
+</HighScoreForASongAndSteps>
+</RecentSongScores>
+</Stats>

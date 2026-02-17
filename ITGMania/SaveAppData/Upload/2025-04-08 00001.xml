@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Stats>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<RecentSongScores>
+<HighScoreForASongAndSteps>
+<Song Dir='Songs/Summer Vibes Vol. 3/Move Ya Body After Hours/'/>
+<Steps Difficulty='Medium' StepsType='dance-single'/>
+<HighScore>
+<Name></Name>
+<Grade>Failed</Grade>
+<Score>17</Score>
+<PercentDP>0.233400</PercentDP>
+<SurviveSeconds>76.362633</SurviveSeconds>
+<MaxCombo>40</MaxCombo>
+<StageAward></StageAward>
+<PeakComboAward></PeakComboAward>
+<Modifiers>NoHideLights, C450, Overhead</Modifiers>
+<DateTime>2025-04-08 22:40:47</DateTime>
+<PlayerGuid></PlayerGuid>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<ProductID>1</ProductID>
+<TapNoteScores>
+<HitMine>0</HitMine>
+<AvoidMine>0</AvoidMine>
+<CheckpointMiss>0</CheckpointMiss>
+<Miss>10</Miss>
+<W5>7</W5>
+<W4>13</W4>
+<W3>83</W3>
+<W2>40</W2>
+<W1>55</W1>
+<CheckpointHit>0</CheckpointHit>
+</TapNoteScores>
+<HoldNoteScores>
+<LetGo>3</LetGo>
+<Held>28</Held>
+<MissedHold>0</MissedHold>
+</HoldNoteScores>
+<RadarValues>
+<Stream>0.229117</Stream>
+<Voltage>0.092060</Voltage>
+<Air>0.333333</Air>
+<Freeze>0.368421</Freeze>
+<Chaos>0.233468</Chaos>
+<Notes>192.000000</Notes>
+<TapsAndHolds>191</TapsAndHolds>
+<Jumps>1</Jumps>
+<Holds>28</Holds>
+<Mines>0</Mines>
+<Hands>0</Hands>
+<Rolls>0</Rolls>
+<Lifts>0</Lifts>
+<Fakes>0</Fakes>
+</RadarValues>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<Disqualified>0</Disqualified>
+<Pad>33</Pad>
+<StageGuid>d04e3788-da51-43d1-af4a-e3e9d1ef4a7f</StageGuid>
+<Guid>6fc71b23-5c77-429c-a6f4-7b9177f8692d</Guid>
+</HighScore>
+</HighScoreForASongAndSteps>
+</RecentSongScores>
+</Stats>

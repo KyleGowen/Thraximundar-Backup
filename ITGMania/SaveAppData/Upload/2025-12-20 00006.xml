@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Stats>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<RecentSongScores>
+<HighScoreForASongAndSteps>
+<Song Dir='Songs/Everlasting Memories/TNT/'/>
+<Steps Difficulty='Hard' StepsType='dance-single'/>
+<HighScore>
+<Name></Name>
+<Grade>Failed</Grade>
+<Score>67</Score>
+<PercentDP>0.547100</PercentDP>
+<SurviveSeconds>112.499420</SurviveSeconds>
+<MaxCombo>107</MaxCombo>
+<StageAward></StageAward>
+<PeakComboAward></PeakComboAward>
+<Modifiers>NoHideLights, C585, 10% Mini, FailImmediateContinue, Overhead, Default</Modifiers>
+<DateTime>2025-12-20 13:54:23</DateTime>
+<PlayerGuid>4ad3a19834ee56bd</PlayerGuid>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<ProductID>1</ProductID>
+<TapNoteScores>
+<HitMine>0</HitMine>
+<AvoidMine>0</AvoidMine>
+<CheckpointMiss>0</CheckpointMiss>
+<Miss>84</Miss>
+<W5>3</W5>
+<W4>15</W4>
+<W3>81</W3>
+<W2>103</W2>
+<W1>229</W1>
+<CheckpointHit>0</CheckpointHit>
+</TapNoteScores>
+<HoldNoteScores>
+<LetGo>4</LetGo>
+<Held>50</Held>
+<MissedHold>14</MissedHold>
+</HoldNoteScores>
+<RadarValues>
+<Stream>0.612583</Stream>
+<Voltage>0.204110</Voltage>
+<Air>0.402597</Air>
+<Freeze>0.727273</Freeze>
+<Chaos>0.547170</Chaos>
+<Notes>485.000000</Notes>
+<TapsAndHolds>429</TapsAndHolds>
+<Jumps>49</Jumps>
+<Holds>48</Holds>
+<Mines>0</Mines>
+<Hands>16</Hands>
+<Rolls>2</Rolls>
+<Lifts>0</Lifts>
+<Fakes>6</Fakes>
+</RadarValues>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<Disqualified>0</Disqualified>
+<Pad>33</Pad>
+<StageGuid>f341ad42-2c22-4934-a009-be4eb670dcf1</StageGuid>
+<Guid>586e98ec-392b-4455-a8a4-fa41a0bda0ce</Guid>
+</HighScore>
+</HighScoreForASongAndSteps>
+</RecentSongScores>
+</Stats>

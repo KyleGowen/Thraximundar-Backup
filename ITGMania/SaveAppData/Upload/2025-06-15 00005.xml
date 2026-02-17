@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Stats>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<RecentSongScores>
+<HighScoreForASongAndSteps>
+<Song Dir='Songs/Misc. Collected/Halcyon and On and On/'/>
+<Steps Difficulty='Challenge' StepsType='dance-single'/>
+<HighScore>
+<Name></Name>
+<Grade>Tier12</Grade>
+<Score>90</Score>
+<PercentDP>0.750100</PercentDP>
+<SurviveSeconds>125.691887</SurviveSeconds>
+<MaxCombo>119</MaxCombo>
+<StageAward></StageAward>
+<PeakComboAward></PeakComboAward>
+<Modifiers>NoHideLights, C565, 10% Mini, FailImmediateContinue, Overhead, Default</Modifiers>
+<DateTime>2025-06-15 10:36:56</DateTime>
+<PlayerGuid>4ad3a19834ee56bd</PlayerGuid>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<ProductID>1</ProductID>
+<TapNoteScores>
+<HitMine>3</HitMine>
+<AvoidMine>0</AvoidMine>
+<CheckpointMiss>0</CheckpointMiss>
+<Miss>10</Miss>
+<W5>3</W5>
+<W4>6</W4>
+<W3>104</W3>
+<W2>114</W2>
+<W1>268</W1>
+<CheckpointHit>0</CheckpointHit>
+</TapNoteScores>
+<HoldNoteScores>
+<LetGo>3</LetGo>
+<Held>46</Held>
+<MissedHold>0</MissedHold>
+</HoldNoteScores>
+<RadarValues>
+<Stream>0.762357</Stream>
+<Voltage>0.292747</Voltage>
+<Air>0.571429</Air>
+<Freeze>0.938776</Freeze>
+<Chaos>0.750180</Chaos>
+<Notes>512.000000</Notes>
+<TapsAndHolds>492</TapsAndHolds>
+<Jumps>21</Jumps>
+<Holds>46</Holds>
+<Mines>7</Mines>
+<Hands>0</Hands>
+<Rolls>0</Rolls>
+<Lifts>0</Lifts>
+<Fakes>0</Fakes>
+</RadarValues>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<Disqualified>0</Disqualified>
+<Pad>33</Pad>
+<StageGuid>638c9a0a-a4b4-4e81-a5b4-21c35c9db434</StageGuid>
+<Guid>db1144eb-a8b4-453c-ae9e-1646d1a8c75e</Guid>
+</HighScore>
+</HighScoreForASongAndSteps>
+</RecentSongScores>
+</Stats>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Stats>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<RecentSongScores>
+<HighScoreForASongAndSteps>
+<Song Dir='Songs/Anthem Series - Garage Rewind/Sk8er Boi/'/>
+<Steps Difficulty='Challenge' StepsType='dance-single'/>
+<HighScore>
+<Name></Name>
+<Grade>Tier07</Grade>
+<Score>97</Score>
+<PercentDP>0.911700</PercentDP>
+<SurviveSeconds>148.800140</SurviveSeconds>
+<MaxCombo>170</MaxCombo>
+<StageAward></StageAward>
+<PeakComboAward></PeakComboAward>
+<Modifiers>NoHideLights, C585, 10% Mini, FailImmediateContinue, Overhead, Default</Modifiers>
+<DateTime>2025-12-14 14:50:55</DateTime>
+<PlayerGuid>4ad3a19834ee56bd</PlayerGuid>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<ProductID>1</ProductID>
+<TapNoteScores>
+<HitMine>0</HitMine>
+<AvoidMine>0</AvoidMine>
+<CheckpointMiss>0</CheckpointMiss>
+<Miss>5</Miss>
+<W5>1</W5>
+<W4>1</W4>
+<W3>26</W3>
+<W2>138</W2>
+<W1>355</W1>
+<CheckpointHit>0</CheckpointHit>
+</TapNoteScores>
+<HoldNoteScores>
+<LetGo>1</LetGo>
+<Held>203</Held>
+<MissedHold>0</MissedHold>
+</HoldNoteScores>
+<RadarValues>
+<Stream>0.939002</Stream>
+<Voltage>0.329464</Voltage>
+<Air>1.000000</Air>
+<Freeze>0.995049</Freeze>
+<Chaos>0.911781</Chaos>
+<Notes>535.000000</Notes>
+<TapsAndHolds>520</TapsAndHolds>
+<Jumps>15</Jumps>
+<Holds>201</Holds>
+<Mines>0</Mines>
+<Hands>1</Hands>
+<Rolls>2</Rolls>
+<Lifts>0</Lifts>
+<Fakes>0</Fakes>
+</RadarValues>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<Disqualified>0</Disqualified>
+<Pad>33</Pad>
+<StageGuid>d0a3d235-e4cc-4fee-a8ae-90b3ecfdb156</StageGuid>
+<Guid>7da1e775-accc-4a52-aad3-ebf670be3f68</Guid>
+</HighScore>
+</HighScoreForASongAndSteps>
+</RecentSongScores>
+</Stats>

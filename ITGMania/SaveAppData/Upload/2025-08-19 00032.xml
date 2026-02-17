@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Stats>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<RecentSongScores>
+<HighScoreForASongAndSteps>
+<Song Dir='Songs/Pendulum/The Island Pt.1/'/>
+<Steps Difficulty='Hard' StepsType='dance-single'/>
+<HighScore>
+<Name></Name>
+<Grade>Tier08</Grade>
+<Score>113</Score>
+<PercentDP>0.873700</PercentDP>
+<SurviveSeconds>190.360535</SurviveSeconds>
+<MaxCombo>129</MaxCombo>
+<StageAward></StageAward>
+<PeakComboAward></PeakComboAward>
+<Modifiers>NoHideLights, C580, 10% Mini, FailImmediateContinue, Overhead, Default</Modifiers>
+<DateTime>2025-08-19 18:36:19</DateTime>
+<PlayerGuid>4ad3a19834ee56bd</PlayerGuid>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<ProductID>1</ProductID>
+<TapNoteScores>
+<HitMine>2</HitMine>
+<AvoidMine>0</AvoidMine>
+<CheckpointMiss>0</CheckpointMiss>
+<Miss>5</Miss>
+<W5>4</W5>
+<W4>4</W4>
+<W3>79</W3>
+<W2>174</W2>
+<W1>385</W1>
+<CheckpointHit>0</CheckpointHit>
+</TapNoteScores>
+<HoldNoteScores>
+<LetGo>0</LetGo>
+<Held>255</Held>
+<MissedHold>0</MissedHold>
+</HoldNoteScores>
+<RadarValues>
+<Stream>0.848306</Stream>
+<Voltage>0.224838</Voltage>
+<Air>0.750000</Air>
+<Freeze>1.000000</Freeze>
+<Chaos>0.873731</Chaos>
+<Notes>667.000000</Notes>
+<TapsAndHolds>642</TapsAndHolds>
+<Jumps>26</Jumps>
+<Holds>253</Holds>
+<Mines>6</Mines>
+<Hands>8</Hands>
+<Rolls>2</Rolls>
+<Lifts>0</Lifts>
+<Fakes>0</Fakes>
+</RadarValues>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<Disqualified>0</Disqualified>
+<Pad>33</Pad>
+<StageGuid>f7d53f4f-3dec-41b2-ae76-019e69c32582</StageGuid>
+<Guid>52ce969e-97b9-4bad-ae93-b505b1ca3cf7</Guid>
+</HighScore>
+</HighScoreForASongAndSteps>
+</RecentSongScores>
+</Stats>

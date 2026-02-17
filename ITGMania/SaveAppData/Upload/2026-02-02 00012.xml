@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Stats>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<RecentSongScores>
+<HighScoreForASongAndSteps>
+<Song Dir='Songs/JBEAN Originals - 2022/Espectacular/'/>
+<Steps Difficulty='Challenge' StepsType='dance-single'/>
+<HighScore>
+<Name></Name>
+<Grade>Tier12</Grade>
+<Score>62</Score>
+<PercentDP>0.743000</PercentDP>
+<SurviveSeconds>117.913551</SurviveSeconds>
+<MaxCombo>116</MaxCombo>
+<StageAward></StageAward>
+<PeakComboAward></PeakComboAward>
+<Modifiers>NoHideLights, C590, 10% Mini, FailImmediateContinue, Overhead, Default</Modifiers>
+<DateTime>2026-02-02 16:32:25</DateTime>
+<PlayerGuid>4ad3a19834ee56bd</PlayerGuid>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<ProductID>1</ProductID>
+<TapNoteScores>
+<HitMine>0</HitMine>
+<AvoidMine>0</AvoidMine>
+<CheckpointMiss>0</CheckpointMiss>
+<Miss>3</Miss>
+<W5>6</W5>
+<W4>15</W4>
+<W3>93</W3>
+<W2>138</W2>
+<W1>217</W1>
+<CheckpointHit>0</CheckpointHit>
+</TapNoteScores>
+<HoldNoteScores>
+<LetGo>0</LetGo>
+<Held>2</Held>
+<MissedHold>0</MissedHold>
+</HoldNoteScores>
+<RadarValues>
+<Stream>0.755601</Stream>
+<Voltage>0.256883</Voltage>
+<Air>0.842105</Air>
+<Freeze>1.000000</Freeze>
+<Chaos>0.743038</Chaos>
+<Notes>482.000000</Notes>
+<TapsAndHolds>463</TapsAndHolds>
+<Jumps>19</Jumps>
+<Holds>2</Holds>
+<Mines>0</Mines>
+<Hands>0</Hands>
+<Rolls>0</Rolls>
+<Lifts>0</Lifts>
+<Fakes>0</Fakes>
+</RadarValues>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<Disqualified>0</Disqualified>
+<Pad>33</Pad>
+<StageGuid>f8ed808c-cb7b-4d6d-a9bd-f7624a7e65dd</StageGuid>
+<Guid>49381dff-cd84-4152-a677-4e153ffb6f6d</Guid>
+</HighScore>
+</HighScoreForASongAndSteps>
+</RecentSongScores>
+</Stats>

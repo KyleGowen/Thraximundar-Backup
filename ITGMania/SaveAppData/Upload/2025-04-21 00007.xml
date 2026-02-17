@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Stats>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<RecentSongScores>
+<HighScoreForASongAndSteps>
+<Song Dir='Songs/V&apos;s DDR Journey/Con Calma/'/>
+<Steps Difficulty='Easy' StepsType='dance-single'/>
+<HighScore>
+<Name></Name>
+<Grade>Tier10</Grade>
+<Score>61</Score>
+<PercentDP>0.803200</PercentDP>
+<SurviveSeconds>151.176010</SurviveSeconds>
+<MaxCombo>110</MaxCombo>
+<StageAward></StageAward>
+<PeakComboAward></PeakComboAward>
+<Modifiers>NoHideLights, C570, 10% Mini, FailImmediateContinue, Overhead, Default</Modifiers>
+<DateTime>2025-04-21 17:29:42</DateTime>
+<PlayerGuid>4ad3a19834ee56bd</PlayerGuid>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<ProductID>1</ProductID>
+<TapNoteScores>
+<HitMine>3</HitMine>
+<AvoidMine>0</AvoidMine>
+<CheckpointMiss>0</CheckpointMiss>
+<Miss>3</Miss>
+<W5>2</W5>
+<W4>3</W4>
+<W3>66</W3>
+<W2>105</W2>
+<W1>175</W1>
+<CheckpointHit>0</CheckpointHit>
+</TapNoteScores>
+<HoldNoteScores>
+<LetGo>1</LetGo>
+<Held>74</Held>
+<MissedHold>2</MissedHold>
+</HoldNoteScores>
+<RadarValues>
+<Stream>0.800000</Stream>
+<Voltage>0.300078</Voltage>
+<Air>1.000000</Air>
+<Freeze>0.950000</Freeze>
+<Chaos>0.803248</Chaos>
+<Notes>369.000000</Notes>
+<TapsAndHolds>349</TapsAndHolds>
+<Jumps>21</Jumps>
+<Holds>57</Holds>
+<Mines>0</Mines>
+<Hands>0</Hands>
+<Rolls>17</Rolls>
+<Lifts>0</Lifts>
+<Fakes>0</Fakes>
+</RadarValues>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<Disqualified>0</Disqualified>
+<Pad>33</Pad>
+<StageGuid>b7d95743-92ea-46f1-a334-a4500ed8388b</StageGuid>
+<Guid>9e4989b8-762a-4fb0-aea5-6b8255360226</Guid>
+</HighScore>
+</HighScoreForASongAndSteps>
+</RecentSongScores>
+</Stats>

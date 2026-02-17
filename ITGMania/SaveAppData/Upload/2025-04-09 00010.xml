@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Stats>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<RecentSongScores>
+<HighScoreForASongAndSteps>
+<Song Dir='Songs/Ben Speirs Galaxy/Advice/'/>
+<Steps Difficulty='Medium' StepsType='dance-single'/>
+<HighScore>
+<Name></Name>
+<Grade>Failed</Grade>
+<Score>17</Score>
+<PercentDP>0.013000</PercentDP>
+<SurviveSeconds>24.303719</SurviveSeconds>
+<MaxCombo>31</MaxCombo>
+<StageAward></StageAward>
+<PeakComboAward></PeakComboAward>
+<Modifiers>NoHideLights, C305, FailImmediateContinue, Overhead</Modifiers>
+<DateTime>2025-04-09 18:50:38</DateTime>
+<PlayerGuid></PlayerGuid>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<ProductID>1</ProductID>
+<TapNoteScores>
+<HitMine>0</HitMine>
+<AvoidMine>0</AvoidMine>
+<CheckpointMiss>0</CheckpointMiss>
+<Miss>73</Miss>
+<W5>13</W5>
+<W4>16</W4>
+<W3>84</W3>
+<W2>50</W2>
+<W1>43</W1>
+<CheckpointHit>0</CheckpointHit>
+</TapNoteScores>
+<HoldNoteScores>
+<LetGo>0</LetGo>
+<Held>35</Held>
+<MissedHold>7</MissedHold>
+</HoldNoteScores>
+<RadarValues>
+<Stream>0.350820</Stream>
+<Voltage>0.092305</Voltage>
+<Air>0.461538</Air>
+<Freeze>0.833333</Freeze>
+<Chaos>0.013084</Chaos>
+<Notes>216.000000</Notes>
+<TapsAndHolds>199</TapsAndHolds>
+<Jumps>23</Jumps>
+<Holds>35</Holds>
+<Mines>0</Mines>
+<Hands>0</Hands>
+<Rolls>0</Rolls>
+<Lifts>0</Lifts>
+<Fakes>0</Fakes>
+</RadarValues>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<Disqualified>0</Disqualified>
+<Pad>33</Pad>
+<StageGuid>bb49638f-b83d-46ad-ab45-31793978cd9d</StageGuid>
+<Guid>ce8903b9-390d-447b-ad93-550424d96b01</Guid>
+</HighScore>
+</HighScoreForASongAndSteps>
+</RecentSongScores>
+</Stats>

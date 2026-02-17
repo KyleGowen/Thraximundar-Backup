@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Stats>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<RecentSongScores>
+<HighScoreForASongAndSteps>
+<Song Dir='Songs/80s Greatest Hits Volume 1-20250408T070753Z-001/Im Gonna Be (500 Miles)/'/>
+<Steps Difficulty='Hard' StepsType='dance-single'/>
+<HighScore>
+<Name></Name>
+<Grade>Tier15</Grade>
+<Score>53</Score>
+<PercentDP>0.618900</PercentDP>
+<SurviveSeconds>148.109329</SurviveSeconds>
+<MaxCombo>61</MaxCombo>
+<StageAward></StageAward>
+<PeakComboAward></PeakComboAward>
+<Modifiers>NoHideLights, C535, 10% Mini, NoFakes, FailImmediateContinue, Overhead, Default, No W5</Modifiers>
+<DateTime>2025-04-09 21:17:01</DateTime>
+<PlayerGuid>4ad3a19834ee56bd</PlayerGuid>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<ProductID>1</ProductID>
+<TapNoteScores>
+<HitMine>0</HitMine>
+<AvoidMine>0</AvoidMine>
+<CheckpointMiss>0</CheckpointMiss>
+<Miss>21</Miss>
+<W5>0</W5>
+<W4>8</W4>
+<W3>127</W3>
+<W2>139</W2>
+<W1>134</W1>
+<CheckpointHit>0</CheckpointHit>
+</TapNoteScores>
+<HoldNoteScores>
+<LetGo>0</LetGo>
+<Held>62</Held>
+<MissedHold>6</MissedHold>
+</HoldNoteScores>
+<RadarValues>
+<Stream>0.653017</Stream>
+<Voltage>0.163237</Voltage>
+<Air>0.542857</Air>
+<Freeze>0.911765</Freeze>
+<Chaos>0.618913</Chaos>
+<Notes>443.000000</Notes>
+<TapsAndHolds>408</TapsAndHolds>
+<Jumps>34</Jumps>
+<Holds>62</Holds>
+<Mines>0</Mines>
+<Hands>0</Hands>
+<Rolls>0</Rolls>
+<Lifts>0</Lifts>
+<Fakes>0</Fakes>
+</RadarValues>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<Disqualified>0</Disqualified>
+<Pad>33</Pad>
+<StageGuid>a1f9b2f5-9816-4b33-a6be-e17964db59af</StageGuid>
+<Guid>a2777c38-f23c-4f85-a699-02b8ab932acd</Guid>
+</HighScore>
+</HighScoreForASongAndSteps>
+</RecentSongScores>
+</Stats>

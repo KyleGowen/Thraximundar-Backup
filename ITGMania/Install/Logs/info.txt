@@ -1,0 +1,105 @@
+ITGmania1.0.2
+Compiled 20250326 @ 04:56:59 (build 427484d100)
+Log starting 2026-02-16 19:47:13
+Loading window: win32
+Windows 10.0 (Win11) build 26200 []
+Memory: 16126MB total, 17150MB swap (7713MB swap avail)
+Video driver: Intel(R) Graphics [Intel Corporation]
+              32.0.101.5813, 7-16-2024 [PCI\VEN_8086&DEV_46D4]
+Drive: "NVMe    AirDisk 1TB SSD 4835" Driver: stornvme DMA: N/A
+Sound device 0: Speakers (USB Audio and HID), 128.7, MID 65535, PID 65535 
+Sound device 1: E32-D1 (2- HD Audio Driver for , 10.0, MID 1, PID 100 
+WARNING: ReadFile(Save/ThemePrefs.ini): No such file or directory
+WARNING: ReadFile(Save/ThemePrefs.ini): No such file or directory
+DirectSound Driver: Primary Sound Driver
+DirectSound Driver: Speakers (USB Audio and HID) {0.0.0.00000000}.{91449730-aab6-4f77-b429-010c114b70be}
+DirectSound Driver: E32-D1 (2- HD Audio Driver for Display Audio) {0.0.0.00000000}.{7bce3747-55bf-4bb9-800a-558d692cc341}
+DirectSound sample rates: 100..200000 (continuous)
+Software mixing at 44100 hz
+Sound driver: DirectSound-sw
+Lights driver: SystemMessage
+Lights driver: Export
+WARNING: Main title or music file for '/Songs/JBEAN Originals - 2025/#eurodab/' came up blank, forced to fall back on TidyUpData to fix title and paths.  Do not use # or ; in a song title.
+WARNING: Group::Group: Pack.ini version not set. Using default values.
+Video renderers: 'opengl,d3d'
+WARNING: EnumDisplaySettings failed (The operation completed successfully.)
+WARNING: EnumDisplaySettings failed (The operation completed successfully.)
+Mode: ICD 32 (888) 8 alpha 16 depth 64 accum 
+Paletted textures disabled: GL_EXT_paletted_texture missing.
+OGL Vendor: Intel
+OGL Renderer: Intel(R) Graphics
+OGL Version: 4.6.0 - Build 32.0.101.5813
+OGL Max texture size: 16384
+OGL Texture units: 8
+OGL Extensions:
+  GL_3DFX_texture_compression_FXT1
+  GL_AMD: depth_clamp_separate, vertex_shader_layer, vertex_shader_viewport_index
+  GL_ARB: ES2_compatibility, ES3_1_compatibility, ES3_compatibility, arrays_of_arrays, base_instance, 
+    bindless_texture, blend_func_extended, buffer_storage, cl_event, clear_buffer_object, clear_texture, 
+    clip_control, color_buffer_float, compatibility, compressed_texture_pixel_storage, compute_shader, 
+    conditional_render_inverted, conservative_depth, copy_buffer, copy_image, cull_distance, debug_output, 
+    depth_buffer_float, depth_clamp, depth_texture, derivative_control, direct_state_access, draw_buffers, 
+    draw_buffers_blend, draw_elements_base_vertex, draw_indirect, draw_instanced, enhanced_layouts, 
+    explicit_attrib_location, explicit_uniform_location, fragment_coord_conventions, fragment_layer_viewport, 
+    fragment_program, fragment_program_shadow, fragment_shader, fragment_shader_interlock, 
+    framebuffer_no_attachments, framebuffer_object, framebuffer_sRGB, geometry_shader4, get_program_binary, 
+    get_texture_sub_image, gl_spirv, gpu_shader5, gpu_shader_fp64, half_float_pixel, half_float_vertex, 
+    indirect_parameters, instanced_arrays, internalformat_query, internalformat_query2, invalidate_subdata, 
+    map_buffer_alignment, map_buffer_range, multi_bind, multi_draw_indirect, multisample, multitexture, 
+    occlusion_query, occlusion_query2, pipeline_statistics_query, pixel_buffer_object, point_parameters, 
+    point_sprite, polygon_offset_clamp, post_depth_coverage, program_interface_query, provoking_vertex, 
+    query_buffer_object, robust_buffer_access_behavior, robustness, robustness_isolation, sample_shading, 
+    sampler_objects, seamless_cube_map, seamless_cubemap_per_texture, separate_shader_objects, 
+    shader_atomic_counter_ops, shader_atomic_counters, shader_bit_encoding, shader_draw_parameters, 
+    shader_group_vote, shader_image_load_store, shader_image_size, shader_objects, shader_precision, 
+    shader_stencil_export, shader_storage_buffer_object, shader_subroutine, shader_texture_image_samples, 
+    shading_language_100, shading_language_420pack, shading_language_packing, shadow, spirv_extensions, 
+    stencil_texturing, sync, tessellation_shader, texture_barrier, texture_border_clamp, texture_buffer_object, 
+    texture_buffer_object_rgb32, texture_buffer_range, texture_compression, texture_compression_bptc, 
+    texture_compression_rgtc, texture_cube_map, texture_cube_map_array, texture_env_add, texture_env_combine, 
+    texture_env_crossbar, texture_env_dot3, texture_filter_anisotropic, texture_float, texture_gather, 
+    texture_mirror_clamp_to_edge, texture_mirrored_repeat, texture_multisample, texture_non_power_of_two, 
+    texture_query_levels, texture_query_lod, texture_rectangle, texture_rg, texture_rgb10_a2ui, texture_stencil8, 
+    texture_storage, texture_storage_multisample, texture_swizzle, texture_view, timer_query, transform_feedback2, 
+    transform_feedback3, transform_feedback_instanced, transform_feedback_overflow_query, transpose_matrix, 
+    uniform_buffer_object, vertex_array_bgra, vertex_array_object, vertex_attrib_64bit, vertex_attrib_binding, 
+    vertex_buffer_object, vertex_program, vertex_shader, vertex_type_10f_11f_11f_rev, vertex_type_2_10_10_10_rev, 
+    viewport_array, window_pos
+  GL_ATI_separate_stencil
+  GL_EXT: abgr, bgra, blend_color, blend_equation_separate, blend_func_separate, blend_minmax, blend_subtract, 
+    clip_volume_hint, compiled_vertex_array, depth_bounds_test, direct_state_access, draw_buffers2, 
+    draw_range_elements, fog_coord, framebuffer_blit, framebuffer_multisample, framebuffer_object, 
+    geometry_shader4, gpu_program_parameters, gpu_shader4, memory_object, memory_object_win32, multi_draw_arrays, 
+    packed_depth_stencil, packed_float, packed_pixels, polygon_offset_clamp, rescale_normal, secondary_color, 
+    semaphore, semaphore_win32, separate_specular_color, shader_framebuffer_fetch, shader_integer_mix, 
+    shadow_funcs, stencil_two_side, stencil_wrap, texture3D, texture_array, texture_compression_s3tc, 
+    texture_edge_clamp, texture_env_add, texture_env_combine, texture_filter_anisotropic, texture_integer, 
+    texture_lod_bias, texture_rectangle, texture_sRGB, texture_sRGB_decode, texture_shared_exponent, 
+    texture_snorm, texture_storage, texture_swizzle, timer_query, transform_feedback
+  GL_IBM_texture_mirrored_repeat
+  GL_INTEL: conservative_rasterization, fragment_shader_ordering, framebuffer_CMAA, map_texture, 
+    multi_rate_fragment_shader, performance_query
+  GL_KHR: blend_equation_advanced, blend_equation_advanced_coherent, context_flush_control, debug, no_error, 
+    shader_subgroup, shader_subgroup_arithmetic, shader_subgroup_ballot, shader_subgroup_basic, 
+    shader_subgroup_clustered, shader_subgroup_quad, shader_subgroup_shuffle, shader_subgroup_shuffle_relative, 
+    shader_subgroup_vote, texture_compression_astc_ldr
+  GL_NV: blend_square, conditional_render, primitive_restart, texgen_reflection, timeline_semaphore
+  GL_OVR_multiview
+  GL_SGIS: generate_mipmap, texture_edge_clamp, texture_lod
+  GL_SUN_multi_draw_arrays
+  GL_WIN_swap_hint
+  WGL_EXT_swap_control
+OpenGL Windowed 1280x720 32 color 32 texture 60Hz Vsync SmoothLines
+Found 0 XInput devices.
+DInput: Enumerating device - Type: 0x00000413 Instance Name: "Keyboard" Product Name: "Keyboard"
+DInput: Enumerating device - Type: 0x00000112 Instance Name: "Mouse" Product Name: "Mouse"
+Found 2 DirectInput devices:
+   0: 'Keyboard' axes: 0, hats: 0, buttons: 256 (buffered)
+   1: 'Mouse' axes: 3, hats: 0, buttons: 5 (buffered)
+Mixing 4350.342285 ahead in 30977 Mix() calls
+Mixing underruns: 1
+Players joined: none
+Lost focus to: Cursor.exe, Explorer.EXE
+Language: en
+Current renderer: OpenGL
+Theme: Simply Love

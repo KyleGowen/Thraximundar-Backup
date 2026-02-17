@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Stats>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<RecentSongScores>
+<HighScoreForASongAndSteps>
+<Song Dir='Songs/Ben Speirs Galaxy/Bills/'/>
+<Steps Difficulty='Hard' StepsType='dance-single'/>
+<HighScore>
+<Name></Name>
+<Grade>Failed</Grade>
+<Score>49</Score>
+<PercentDP>0.460500</PercentDP>
+<SurviveSeconds>114.486008</SurviveSeconds>
+<MaxCombo>68</MaxCombo>
+<StageAward></StageAward>
+<PeakComboAward></PeakComboAward>
+<Modifiers>NoHideLights, C515, FailImmediateContinue, Overhead</Modifiers>
+<DateTime>2025-04-09 18:59:20</DateTime>
+<PlayerGuid></PlayerGuid>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<ProductID>1</ProductID>
+<TapNoteScores>
+<HitMine>0</HitMine>
+<AvoidMine>0</AvoidMine>
+<CheckpointMiss>0</CheckpointMiss>
+<Miss>67</Miss>
+<W5>14</W5>
+<W4>9</W4>
+<W3>107</W3>
+<W2>112</W2>
+<W1>143</W1>
+<CheckpointHit>0</CheckpointHit>
+</TapNoteScores>
+<HoldNoteScores>
+<LetGo>0</LetGo>
+<Held>16</Held>
+<MissedHold>4</MissedHold>
+</HoldNoteScores>
+<RadarValues>
+<Stream>0.580645</Stream>
+<Voltage>0.155504</Voltage>
+<Air>0.477273</Air>
+<Freeze>0.800000</Freeze>
+<Chaos>0.460593</Chaos>
+<Notes>411.000000</Notes>
+<TapsAndHolds>375</TapsAndHolds>
+<Jumps>39</Jumps>
+<Holds>16</Holds>
+<Mines>0</Mines>
+<Hands>0</Hands>
+<Rolls>0</Rolls>
+<Lifts>0</Lifts>
+<Fakes>0</Fakes>
+</RadarValues>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<Disqualified>0</Disqualified>
+<Pad>33</Pad>
+<StageGuid>5a25fb62-c351-4346-a977-46d04205d0a1</StageGuid>
+<Guid>e2d1c058-a04a-4f9b-a85d-647320cc2e23</Guid>
+</HighScore>
+</HighScoreForASongAndSteps>
+</RecentSongScores>
+</Stats>

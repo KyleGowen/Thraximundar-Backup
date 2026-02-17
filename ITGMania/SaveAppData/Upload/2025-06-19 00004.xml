@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Stats>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<RecentSongScores>
+<HighScoreForASongAndSteps>
+<Song Dir='Songs/Misc. Collected/Training Season -Dua Lipa/'/>
+<Steps Difficulty='Challenge' StepsType='dance-single'/>
+<HighScore>
+<Name></Name>
+<Grade>Tier10</Grade>
+<Score>120</Score>
+<PercentDP>0.807700</PercentDP>
+<SurviveSeconds>215.176727</SurviveSeconds>
+<MaxCombo>140</MaxCombo>
+<StageAward></StageAward>
+<PeakComboAward></PeakComboAward>
+<Modifiers>NoHideLights, C565, 10% Mini, FailImmediateContinue, Overhead, Default</Modifiers>
+<DateTime>2025-06-19 13:36:27</DateTime>
+<PlayerGuid>4ad3a19834ee56bd</PlayerGuid>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<ProductID>1</ProductID>
+<TapNoteScores>
+<HitMine>24</HitMine>
+<AvoidMine>0</AvoidMine>
+<CheckpointMiss>0</CheckpointMiss>
+<Miss>8</Miss>
+<W5>5</W5>
+<W4>10</W4>
+<W3>108</W3>
+<W2>196</W2>
+<W1>396</W1>
+<CheckpointHit>0</CheckpointHit>
+</TapNoteScores>
+<HoldNoteScores>
+<LetGo>8</LetGo>
+<Held>269</Held>
+<MissedHold>4</MissedHold>
+</HoldNoteScores>
+<RadarValues>
+<Stream>0.820681</Stream>
+<Voltage>0.187153</Voltage>
+<Air>0.658537</Air>
+<Freeze>0.957295</Freeze>
+<Chaos>0.807769</Chaos>
+<Notes>751.000000</Notes>
+<TapsAndHolds>713</TapsAndHolds>
+<Jumps>40</Jumps>
+<Holds>269</Holds>
+<Mines>281</Mines>
+<Hands>19</Hands>
+<Rolls>0</Rolls>
+<Lifts>0</Lifts>
+<Fakes>0</Fakes>
+</RadarValues>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<Disqualified>0</Disqualified>
+<Pad>33</Pad>
+<StageGuid>cf692816-e86c-4e88-a9c1-6b9bd5104cf1</StageGuid>
+<Guid>23ce0579-57e8-43cb-a0b3-ca9a70ccf969</Guid>
+</HighScore>
+</HighScoreForASongAndSteps>
+</RecentSongScores>
+</Stats>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Stats>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<RecentSongScores>
+<HighScoreForASongAndSteps>
+<Song Dir='Songs/9guys1pack/Playstation 8/'/>
+<Steps Difficulty='Medium' StepsType='dance-single'/>
+<HighScore>
+<Name></Name>
+<Grade>Tier10</Grade>
+<Score>48</Score>
+<PercentDP>0.802600</PercentDP>
+<SurviveSeconds>132.373672</SurviveSeconds>
+<MaxCombo>124</MaxCombo>
+<StageAward></StageAward>
+<PeakComboAward></PeakComboAward>
+<Modifiers>NoHideLights, C380, FailImmediateContinue, Overhead, Default</Modifiers>
+<DateTime>2025-06-17 19:14:41</DateTime>
+<PlayerGuid>d876307e83faa0ea</PlayerGuid>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<ProductID>1</ProductID>
+<TapNoteScores>
+<HitMine>0</HitMine>
+<AvoidMine>0</AvoidMine>
+<CheckpointMiss>0</CheckpointMiss>
+<Miss>1</Miss>
+<W5>3</W5>
+<W4>6</W4>
+<W3>64</W3>
+<W2>92</W2>
+<W1>137</W1>
+<CheckpointHit>0</CheckpointHit>
+</TapNoteScores>
+<HoldNoteScores>
+<LetGo>0</LetGo>
+<Held>70</Held>
+<MissedHold>1</MissedHold>
+</HoldNoteScores>
+<RadarValues>
+<Stream>0.761290</Stream>
+<Voltage>0.388342</Voltage>
+<Air>0.857143</Air>
+<Freeze>0.983051</Freeze>
+<Chaos>0.802674</Chaos>
+<Notes>306.000000</Notes>
+<TapsAndHolds>299</TapsAndHolds>
+<Jumps>7</Jumps>
+<Holds>58</Holds>
+<Mines>1</Mines>
+<Hands>0</Hands>
+<Rolls>12</Rolls>
+<Lifts>0</Lifts>
+<Fakes>0</Fakes>
+</RadarValues>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<Disqualified>0</Disqualified>
+<Pad>33</Pad>
+<StageGuid>f83a61c8-6f26-4ddb-a432-a6f1072507ad</StageGuid>
+<Guid>53ed3a2c-0854-47a1-a536-4c30aa7a5772</Guid>
+</HighScore>
+</HighScoreForASongAndSteps>
+</RecentSongScores>
+</Stats>

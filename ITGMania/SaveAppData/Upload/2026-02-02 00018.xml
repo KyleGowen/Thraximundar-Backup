@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Stats>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<RecentSongScores>
+<HighScoreForASongAndSteps>
+<Song Dir='Songs/Misc. Collected/Stereo Love (Michael Mind Project Remix) [christalshizzle]/'/>
+<Steps Difficulty='Challenge' StepsType='dance-single'/>
+<HighScore>
+<Name></Name>
+<Grade>Failed</Grade>
+<Score>72</Score>
+<PercentDP>0.707100</PercentDP>
+<SurviveSeconds>108.059631</SurviveSeconds>
+<MaxCombo>109</MaxCombo>
+<StageAward></StageAward>
+<PeakComboAward></PeakComboAward>
+<Modifiers>NoHideLights, C590, 10% Mini, FailImmediateContinue, Overhead, Default</Modifiers>
+<DateTime>2026-02-02 16:54:44</DateTime>
+<PlayerGuid>4ad3a19834ee56bd</PlayerGuid>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<ProductID>1</ProductID>
+<TapNoteScores>
+<HitMine>17</HitMine>
+<AvoidMine>0</AvoidMine>
+<CheckpointMiss>0</CheckpointMiss>
+<Miss>25</Miss>
+<W5>3</W5>
+<W4>5</W4>
+<W3>76</W3>
+<W2>119</W2>
+<W1>225</W1>
+<CheckpointHit>0</CheckpointHit>
+</TapNoteScores>
+<HoldNoteScores>
+<LetGo>0</LetGo>
+<Held>73</Held>
+<MissedHold>2</MissedHold>
+</HoldNoteScores>
+<RadarValues>
+<Stream>0.761488</Stream>
+<Voltage>0.293666</Voltage>
+<Air>1.000000</Air>
+<Freeze>0.971831</Freeze>
+<Chaos>0.707197</Chaos>
+<Notes>429.000000</Notes>
+<TapsAndHolds>425</TapsAndHolds>
+<Jumps>4</Jumps>
+<Holds>69</Holds>
+<Mines>47</Mines>
+<Hands>0</Hands>
+<Rolls>4</Rolls>
+<Lifts>0</Lifts>
+<Fakes>0</Fakes>
+</RadarValues>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<Disqualified>0</Disqualified>
+<Pad>33</Pad>
+<StageGuid>8610a505-ea01-444b-a457-1b913be7ec12</StageGuid>
+<Guid>afde68bf-ca7d-47af-af4a-788e83bb1876</Guid>
+</HighScore>
+</HighScoreForASongAndSteps>
+</RecentSongScores>
+</Stats>

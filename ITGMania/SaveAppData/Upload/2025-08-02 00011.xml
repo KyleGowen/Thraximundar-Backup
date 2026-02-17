@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Stats>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<RecentSongScores>
+<HighScoreForASongAndSteps>
+<Song Dir='Songs/Anthem Series - The Boys/Moves Like Jagger/'/>
+<Steps Difficulty='Challenge' StepsType='dance-single'/>
+<HighScore>
+<Name></Name>
+<Grade>Tier06</Grade>
+<Score>92</Score>
+<PercentDP>0.920200</PercentDP>
+<SurviveSeconds>141.058014</SurviveSeconds>
+<MaxCombo>237</MaxCombo>
+<StageAward></StageAward>
+<PeakComboAward></PeakComboAward>
+<Modifiers>NoHideLights, C580, 10% Mini, FailImmediateContinue, Overhead, Default</Modifiers>
+<DateTime>2025-08-02 12:17:33</DateTime>
+<PlayerGuid>4ad3a19834ee56bd</PlayerGuid>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<ProductID>1</ProductID>
+<TapNoteScores>
+<HitMine>0</HitMine>
+<AvoidMine>0</AvoidMine>
+<CheckpointMiss>0</CheckpointMiss>
+<Miss>2</Miss>
+<W5>1</W5>
+<W4>4</W4>
+<W3>29</W3>
+<W2>97</W2>
+<W1>355</W1>
+<CheckpointHit>0</CheckpointHit>
+</TapNoteScores>
+<HoldNoteScores>
+<LetGo>0</LetGo>
+<Held>148</Held>
+<MissedHold>1</MissedHold>
+</HoldNoteScores>
+<RadarValues>
+<Stream>0.927419</Stream>
+<Voltage>0.457300</Voltage>
+<Air>1.000000</Air>
+<Freeze>0.992958</Freeze>
+<Chaos>0.920251</Chaos>
+<Notes>493.000000</Notes>
+<TapsAndHolds>486</TapsAndHolds>
+<Jumps>8</Jumps>
+<Holds>141</Holds>
+<Mines>0</Mines>
+<Hands>0</Hands>
+<Rolls>7</Rolls>
+<Lifts>0</Lifts>
+<Fakes>0</Fakes>
+</RadarValues>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<Disqualified>0</Disqualified>
+<Pad>33</Pad>
+<StageGuid>cf1b4d77-46e9-45d2-a7e0-cb5015cf90af</StageGuid>
+<Guid>fa825fcc-38c5-4414-ae4c-f60a96b7a665</Guid>
+</HighScore>
+</HighScoreForASongAndSteps>
+</RecentSongScores>
+</Stats>

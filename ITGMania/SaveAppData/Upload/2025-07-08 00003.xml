@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Stats>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<RecentSongScores>
+<HighScoreForASongAndSteps>
+<Song Dir='Songs/Misc. Collected/Suliman/'/>
+<Steps Difficulty='Challenge' StepsType='dance-single'/>
+<HighScore>
+<Name></Name>
+<Grade>Tier14</Grade>
+<Score>49</Score>
+<PercentDP>0.668900</PercentDP>
+<SurviveSeconds>108.728302</SurviveSeconds>
+<MaxCombo>66</MaxCombo>
+<StageAward></StageAward>
+<PeakComboAward></PeakComboAward>
+<Modifiers>NoHideLights, C580, 10% Mini, FailImmediateContinue, Overhead, Default</Modifiers>
+<DateTime>2025-07-08 17:45:52</DateTime>
+<PlayerGuid>4ad3a19834ee56bd</PlayerGuid>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<ProductID>1</ProductID>
+<TapNoteScores>
+<HitMine>1</HitMine>
+<AvoidMine>0</AvoidMine>
+<CheckpointMiss>0</CheckpointMiss>
+<Miss>5</Miss>
+<W5>10</W5>
+<W4>14</W4>
+<W3>112</W3>
+<W2>103</W2>
+<W1>160</W1>
+<CheckpointHit>0</CheckpointHit>
+</TapNoteScores>
+<HoldNoteScores>
+<LetGo>2</LetGo>
+<Held>31</Held>
+<MissedHold>1</MissedHold>
+</HoldNoteScores>
+<RadarValues>
+<Stream>0.652370</Stream>
+<Voltage>0.169195</Voltage>
+<Air>0.564103</Air>
+<Freeze>0.911765</Freeze>
+<Chaos>0.668950</Chaos>
+<Notes>426.000000</Notes>
+<TapsAndHolds>390</TapsAndHolds>
+<Jumps>37</Jumps>
+<Holds>31</Holds>
+<Mines>0</Mines>
+<Hands>13</Hands>
+<Rolls>0</Rolls>
+<Lifts>0</Lifts>
+<Fakes>0</Fakes>
+</RadarValues>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<Disqualified>0</Disqualified>
+<Pad>33</Pad>
+<StageGuid>94d39447-e3c2-42b1-a1a5-70c6cca8f293</StageGuid>
+<Guid>cdaa2588-e103-4da7-a7b0-1893a7db5026</Guid>
+</HighScore>
+</HighScoreForASongAndSteps>
+</RecentSongScores>
+</Stats>

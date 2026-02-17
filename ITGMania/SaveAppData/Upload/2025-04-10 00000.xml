@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Stats>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<RecentSongScores>
+<HighScoreForASongAndSteps>
+<Song Dir='Songs/V&apos;s DDR Journey/Dance the Night/'/>
+<Steps Difficulty='Beginner' StepsType='dance-single'/>
+<HighScore>
+<Name></Name>
+<Grade>Failed</Grade>
+<Score>10</Score>
+<PercentDP>0.000000</PercentDP>
+<SurviveSeconds>24.518225</SurviveSeconds>
+<MaxCombo>4</MaxCombo>
+<StageAward></StageAward>
+<PeakComboAward></PeakComboAward>
+<Modifiers>NoHideLights, m250, FailImmediateContinue, Overhead</Modifiers>
+<DateTime>2025-04-10 07:51:48</DateTime>
+<PlayerGuid></PlayerGuid>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<ProductID>1</ProductID>
+<TapNoteScores>
+<HitMine>0</HitMine>
+<AvoidMine>0</AvoidMine>
+<CheckpointMiss>0</CheckpointMiss>
+<Miss>72</Miss>
+<W5>16</W5>
+<W4>11</W4>
+<W3>26</W3>
+<W2>6</W2>
+<W1>14</W1>
+<CheckpointHit>0</CheckpointHit>
+</TapNoteScores>
+<HoldNoteScores>
+<LetGo>8</LetGo>
+<Held>4</Held>
+<MissedHold>17</MissedHold>
+</HoldNoteScores>
+<RadarValues>
+<Stream>0.151316</Stream>
+<Voltage>0.054045</Voltage>
+<Air>0.285714</Air>
+<Freeze>0.137931</Freeze>
+<Chaos>0.000000</Chaos>
+<Notes>63.000000</Notes>
+<TapsAndHolds>58</TapsAndHolds>
+<Jumps>5</Jumps>
+<Holds>4</Holds>
+<Mines>0</Mines>
+<Hands>0</Hands>
+<Rolls>0</Rolls>
+<Lifts>0</Lifts>
+<Fakes>0</Fakes>
+</RadarValues>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<Disqualified>0</Disqualified>
+<Pad>33</Pad>
+<StageGuid>ed7b3424-09cd-47fd-a497-1a33ea03514e</StageGuid>
+<Guid>6c3a6c80-7424-4edd-af79-d96a8aac1fbc</Guid>
+</HighScore>
+</HighScoreForASongAndSteps>
+</RecentSongScores>
+</Stats>

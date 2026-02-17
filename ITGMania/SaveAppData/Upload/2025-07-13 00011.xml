@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Stats>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<RecentSongScores>
+<HighScoreForASongAndSteps>
+<Song Dir='Songs/Elemwarr Misc/Ants/'/>
+<Steps Difficulty='Challenge' StepsType='dance-single'/>
+<HighScore>
+<Name></Name>
+<Grade>Tier06</Grade>
+<Score>94</Score>
+<PercentDP>0.935200</PercentDP>
+<SurviveSeconds>116.342522</SurviveSeconds>
+<MaxCombo>529</MaxCombo>
+<StageAward></StageAward>
+<PeakComboAward></PeakComboAward>
+<Modifiers>NoHideLights, 4.15x, 15% Mini, NoMines, FailImmediateContinue, Overhead, Default, No W5</Modifiers>
+<DateTime>2025-07-13 16:19:27</DateTime>
+<PlayerGuid>7d658d42d132c3a6</PlayerGuid>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<ProductID>1</ProductID>
+<TapNoteScores>
+<HitMine>0</HitMine>
+<AvoidMine>0</AvoidMine>
+<CheckpointMiss>0</CheckpointMiss>
+<Miss>1</Miss>
+<W5>0</W5>
+<W4>1</W4>
+<W3>21</W3>
+<W2>105</W2>
+<W1>408</W1>
+<CheckpointHit>0</CheckpointHit>
+</TapNoteScores>
+<HoldNoteScores>
+<LetGo>0</LetGo>
+<Held>51</Held>
+<MissedHold>0</MissedHold>
+</HoldNoteScores>
+<RadarValues>
+<Stream>0.954064</Stream>
+<Voltage>0.940703</Voltage>
+<Air>1.000000</Air>
+<Freeze>1.000000</Freeze>
+<Chaos>0.935264</Chaos>
+<Notes>565.000000</Notes>
+<TapsAndHolds>535</TapsAndHolds>
+<Jumps>30</Jumps>
+<Holds>45</Holds>
+<Mines>0</Mines>
+<Hands>0</Hands>
+<Rolls>6</Rolls>
+<Lifts>0</Lifts>
+<Fakes>0</Fakes>
+</RadarValues>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<Disqualified>0</Disqualified>
+<Pad>33</Pad>
+<StageGuid>ca5a1ec4-b2aa-4794-aaac-a30d24933f64</StageGuid>
+<Guid>161c4868-5e95-4250-a44e-8eccc3461313</Guid>
+</HighScore>
+</HighScoreForASongAndSteps>
+</RecentSongScores>
+</Stats>

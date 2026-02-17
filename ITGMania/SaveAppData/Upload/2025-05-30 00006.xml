@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Stats>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<RecentSongScores>
+<HighScoreForASongAndSteps>
+<Song Dir='Songs/Misc. Collected/MY SONGS KNOW WHAT YOU DID IN THE DARK (LIGHT &apos;EM UP)/'/>
+<Steps Difficulty='Hard' StepsType='dance-single'/>
+<HighScore>
+<Name></Name>
+<Grade>Tier14</Grade>
+<Score>45</Score>
+<PercentDP>0.673700</PercentDP>
+<SurviveSeconds>130.346863</SurviveSeconds>
+<MaxCombo>84</MaxCombo>
+<StageAward></StageAward>
+<PeakComboAward></PeakComboAward>
+<Modifiers>NoHideLights, C565, 10% Mini, FailImmediateContinue, Overhead, Default</Modifiers>
+<DateTime>2025-05-30 20:24:11</DateTime>
+<PlayerGuid>4ad3a19834ee56bd</PlayerGuid>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<ProductID>1</ProductID>
+<TapNoteScores>
+<HitMine>0</HitMine>
+<AvoidMine>0</AvoidMine>
+<CheckpointMiss>0</CheckpointMiss>
+<Miss>4</Miss>
+<W5>4</W5>
+<W4>16</W4>
+<W3>157</W3>
+<W2>120</W2>
+<W1>121</W1>
+<CheckpointHit>0</CheckpointHit>
+</TapNoteScores>
+<HoldNoteScores>
+<LetGo>1</LetGo>
+<Held>60</Held>
+<MissedHold>0</MissedHold>
+</HoldNoteScores>
+<RadarValues>
+<Stream>0.578261</Stream>
+<Voltage>0.196883</Voltage>
+<Air>0.289474</Air>
+<Freeze>0.983607</Freeze>
+<Chaos>0.673706</Chaos>
+<Notes>450.000000</Notes>
+<TapsAndHolds>415</TapsAndHolds>
+<Jumps>36</Jumps>
+<Holds>60</Holds>
+<Mines>0</Mines>
+<Hands>0</Hands>
+<Rolls>0</Rolls>
+<Lifts>0</Lifts>
+<Fakes>0</Fakes>
+</RadarValues>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<Disqualified>0</Disqualified>
+<Pad>33</Pad>
+<StageGuid>012dfb5b-edb4-4ae2-a97a-867dcea7c3bb</StageGuid>
+<Guid>1f2e0f80-49da-4b62-aba6-e8d01ba6fe42</Guid>
+</HighScore>
+</HighScoreForASongAndSteps>
+</RecentSongScores>
+</Stats>

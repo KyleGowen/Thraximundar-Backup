@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Stats>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<RecentSongScores>
+<HighScoreForASongAndSteps>
+<Song Dir='Songs/Mute Sims Anthology/Uhn Tiss Uhn Tiss Uhn Tiss/'/>
+<Steps Difficulty='Challenge' StepsType='dance-single'/>
+<HighScore>
+<Name></Name>
+<Grade>Failed</Grade>
+<Score>61</Score>
+<PercentDP>0.456200</PercentDP>
+<SurviveSeconds>88.026253</SurviveSeconds>
+<MaxCombo>134</MaxCombo>
+<StageAward></StageAward>
+<PeakComboAward></PeakComboAward>
+<Modifiers>NoHideLights, C585, 10% Mini, FailImmediateContinue, Overhead, Default</Modifiers>
+<DateTime>2025-10-26 12:05:29</DateTime>
+<PlayerGuid>4ad3a19834ee56bd</PlayerGuid>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<ProductID>1</ProductID>
+<TapNoteScores>
+<HitMine>0</HitMine>
+<AvoidMine>0</AvoidMine>
+<CheckpointMiss>0</CheckpointMiss>
+<Miss>263</Miss>
+<W5>5</W5>
+<W4>10</W4>
+<W3>79</W3>
+<W2>123</W2>
+<W1>232</W1>
+<CheckpointHit>0</CheckpointHit>
+</TapNoteScores>
+<HoldNoteScores>
+<LetGo>0</LetGo>
+<Held>16</Held>
+<MissedHold>4</MissedHold>
+</HoldNoteScores>
+<RadarValues>
+<Stream>0.498695</Stream>
+<Voltage>0.201300</Voltage>
+<Air>0.500000</Air>
+<Freeze>0.800000</Freeze>
+<Chaos>0.456284</Chaos>
+<Notes>473.000000</Notes>
+<TapsAndHolds>444</TapsAndHolds>
+<Jumps>29</Jumps>
+<Holds>16</Holds>
+<Mines>1</Mines>
+<Hands>0</Hands>
+<Rolls>0</Rolls>
+<Lifts>0</Lifts>
+<Fakes>0</Fakes>
+</RadarValues>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<Disqualified>0</Disqualified>
+<Pad>33</Pad>
+<StageGuid>369bb038-3453-4faf-aecf-30d6dd00ae03</StageGuid>
+<Guid>080c3868-0548-48d6-a2a6-33bff817df0d</Guid>
+</HighScore>
+</HighScoreForASongAndSteps>
+</RecentSongScores>
+</Stats>

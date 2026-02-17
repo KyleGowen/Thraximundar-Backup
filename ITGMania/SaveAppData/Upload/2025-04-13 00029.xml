@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Stats>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<RecentSongScores>
+<HighScoreForASongAndSteps>
+<Song Dir='Songs/Misc. Collected/Mods de Chocobo/'/>
+<Steps Difficulty='Hard' StepsType='dance-single'/>
+<HighScore>
+<Name></Name>
+<Grade>Failed</Grade>
+<Score>45</Score>
+<PercentDP>0.511000</PercentDP>
+<SurviveSeconds>102.528893</SurviveSeconds>
+<MaxCombo>46</MaxCombo>
+<StageAward></StageAward>
+<PeakComboAward></PeakComboAward>
+<Modifiers>NoHideLights, C570, 10% Mini, FailImmediateContinue, Overhead, Default</Modifiers>
+<DateTime>2025-04-13 11:48:07</DateTime>
+<PlayerGuid>4ad3a19834ee56bd</PlayerGuid>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<ProductID>1</ProductID>
+<TapNoteScores>
+<HitMine>0</HitMine>
+<AvoidMine>0</AvoidMine>
+<CheckpointMiss>0</CheckpointMiss>
+<Miss>55</Miss>
+<W5>7</W5>
+<W4>14</W4>
+<W3>112</W3>
+<W2>101</W2>
+<W1>136</W1>
+<CheckpointHit>0</CheckpointHit>
+</TapNoteScores>
+<HoldNoteScores>
+<LetGo>0</LetGo>
+<Held>13</Held>
+<MissedHold>7</MissedHold>
+</HoldNoteScores>
+<RadarValues>
+<Stream>0.574837</Stream>
+<Voltage>0.092606</Voltage>
+<Air>0.638889</Air>
+<Freeze>0.650000</Freeze>
+<Chaos>0.511011</Chaos>
+<Notes>396.000000</Notes>
+<TapsAndHolds>364</TapsAndHolds>
+<Jumps>33</Jumps>
+<Holds>13</Holds>
+<Mines>0</Mines>
+<Hands>0</Hands>
+<Rolls>0</Rolls>
+<Lifts>0</Lifts>
+<Fakes>0</Fakes>
+</RadarValues>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<Disqualified>0</Disqualified>
+<Pad>33</Pad>
+<StageGuid>4a16646d-ac0c-4702-a6d5-f0dea6da123f</StageGuid>
+<Guid>40d39009-c121-4d9c-ae5c-2f82c060dba7</Guid>
+</HighScore>
+</HighScoreForASongAndSteps>
+</RecentSongScores>
+</Stats>

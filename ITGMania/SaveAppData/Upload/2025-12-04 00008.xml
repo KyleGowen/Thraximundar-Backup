@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Stats>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<RecentSongScores>
+<HighScoreForASongAndSteps>
+<Song Dir='Songs/Elemwarr Originals/[elemwarr] Run Away/'/>
+<Steps Difficulty='Easy' StepsType='dance-single'/>
+<HighScore>
+<Name></Name>
+<Grade>Failed</Grade>
+<Score>81</Score>
+<PercentDP>0.465900</PercentDP>
+<SurviveSeconds>126.560547</SurviveSeconds>
+<MaxCombo>100</MaxCombo>
+<StageAward></StageAward>
+<PeakComboAward></PeakComboAward>
+<Modifiers>NoHideLights, C375, 10% Mini, NoMines, FailImmediateContinue, Overhead, Default</Modifiers>
+<DateTime>2025-12-04 19:26:18</DateTime>
+<PlayerGuid>df4984970b65a1fc</PlayerGuid>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<ProductID>1</ProductID>
+<TapNoteScores>
+<HitMine>0</HitMine>
+<AvoidMine>0</AvoidMine>
+<CheckpointMiss>0</CheckpointMiss>
+<Miss>32</Miss>
+<W5>5</W5>
+<W4>23</W4>
+<W3>178</W3>
+<W2>163</W2>
+<W1>242</W1>
+<CheckpointHit>0</CheckpointHit>
+</TapNoteScores>
+<HoldNoteScores>
+<LetGo>4</LetGo>
+<Held>69</Held>
+<MissedHold>12</MissedHold>
+</HoldNoteScores>
+<RadarValues>
+<Stream>0.626100</Stream>
+<Voltage>0.180750</Voltage>
+<Air>0.384615</Air>
+<Freeze>0.811765</Freeze>
+<Chaos>0.465934</Chaos>
+<Notes>638.000000</Notes>
+<TapsAndHolds>606</TapsAndHolds>
+<Jumps>31</Jumps>
+<Holds>69</Holds>
+<Mines>0</Mines>
+<Hands>0</Hands>
+<Rolls>0</Rolls>
+<Lifts>0</Lifts>
+<Fakes>0</Fakes>
+</RadarValues>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<Disqualified>0</Disqualified>
+<Pad>33</Pad>
+<StageGuid>c8e09f23-a315-4bbb-a74a-b6cb25d74c12</StageGuid>
+<Guid>b4ca5a09-5e69-4d48-ac9b-e962356e048d</Guid>
+</HighScore>
+</HighScoreForASongAndSteps>
+</RecentSongScores>
+</Stats>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Bookkeeping>
+	<Data>
+		<Coins Day='101' Hour='19' Year='2025'>1</Coins>
+		<Coins Day='126' Hour='22' Year='2025'>1</Coins>
+		<Coins Day='150' Hour='9' Year='2025'>1</Coins>
+		<Coins Day='155' Hour='18' Year='2025'>1</Coins>
+		<Coins Day='158' Hour='20' Year='2025'>1</Coins>
+		<Coins Day='164' Hour='14' Year='2025'>1</Coins>
+		<Coins Day='174' Hour='17' Year='2025'>1</Coins>
+		<Coins Day='177' Hour='14' Year='2025'>1</Coins>
+		<Coins Day='193' Hour='19' Year='2025'>1</Coins>
+		<Coins Day='235' Hour='21' Year='2025'>1</Coins>
+		<Coins Day='270' Hour='10' Year='2025'>1</Coins>
+		<Coins Day='304' Hour='10' Year='2025'>1</Coins>
+		<Coins Day='44' Hour='11' Year='2026'>1</Coins>
+	</Data>
+</Bookkeeping>

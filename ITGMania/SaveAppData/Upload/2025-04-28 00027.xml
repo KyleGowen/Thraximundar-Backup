@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Stats>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<RecentSongScores>
+<HighScoreForASongAndSteps>
+<Song Dir='Songs/Anthem Series - The Girls/Born this Way/'/>
+<Steps Difficulty='Challenge' StepsType='dance-single'/>
+<HighScore>
+<Name></Name>
+<Grade>Tier08</Grade>
+<Score>83</Score>
+<PercentDP>0.863500</PercentDP>
+<SurviveSeconds>156.157028</SurviveSeconds>
+<MaxCombo>304</MaxCombo>
+<StageAward></StageAward>
+<PeakComboAward></PeakComboAward>
+<Modifiers>NoHideLights, C565, 10% Mini, FailImmediateContinue, Overhead, Default</Modifiers>
+<DateTime>2025-04-28 18:38:55</DateTime>
+<PlayerGuid>4ad3a19834ee56bd</PlayerGuid>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<ProductID>1</ProductID>
+<TapNoteScores>
+<HitMine>0</HitMine>
+<AvoidMine>0</AvoidMine>
+<CheckpointMiss>0</CheckpointMiss>
+<Miss>4</Miss>
+<W5>0</W5>
+<W4>0</W4>
+<W3>70</W3>
+<W2>152</W2>
+<W1>290</W1>
+<CheckpointHit>0</CheckpointHit>
+</TapNoteScores>
+<HoldNoteScores>
+<LetGo>0</LetGo>
+<Held>127</Held>
+<MissedHold>2</MissedHold>
+</HoldNoteScores>
+<RadarValues>
+<Stream>0.863139</Stream>
+<Voltage>0.561085</Voltage>
+<Air>0.750000</Air>
+<Freeze>0.982906</Freeze>
+<Chaos>0.863566</Chaos>
+<Notes>544.000000</Notes>
+<TapsAndHolds>512</TapsAndHolds>
+<Jumps>32</Jumps>
+<Holds>115</Holds>
+<Mines>0</Mines>
+<Hands>0</Hands>
+<Rolls>12</Rolls>
+<Lifts>0</Lifts>
+<Fakes>0</Fakes>
+</RadarValues>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<Disqualified>0</Disqualified>
+<Pad>33</Pad>
+<StageGuid>dbfd5f67-ed4d-4198-a565-4ee7e626f1fc</StageGuid>
+<Guid>5e978404-58ac-4128-a4ad-8ec0539f29d2</Guid>
+</HighScore>
+</HighScoreForASongAndSteps>
+</RecentSongScores>
+</Stats>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Stats>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<RecentSongScores>
+<HighScoreForASongAndSteps>
+<Song Dir='Songs/Floor Filler/SACRIFICE/'/>
+<Steps Difficulty='Hard' StepsType='dance-single'/>
+<HighScore>
+<Name></Name>
+<Grade>Tier13</Grade>
+<Score>36</Score>
+<PercentDP>0.682700</PercentDP>
+<SurviveSeconds>115.156662</SurviveSeconds>
+<MaxCombo>74</MaxCombo>
+<StageAward></StageAward>
+<PeakComboAward></PeakComboAward>
+<Modifiers>NoHideLights, C495, FailImmediateContinue, Overhead</Modifiers>
+<DateTime>2025-04-09 18:39:11</DateTime>
+<PlayerGuid></PlayerGuid>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<ProductID>1</ProductID>
+<TapNoteScores>
+<HitMine>0</HitMine>
+<AvoidMine>0</AvoidMine>
+<CheckpointMiss>0</CheckpointMiss>
+<Miss>6</Miss>
+<W5>8</W5>
+<W4>7</W4>
+<W3>71</W3>
+<W2>90</W2>
+<W1>135</W1>
+<CheckpointHit>0</CheckpointHit>
+</TapNoteScores>
+<HoldNoteScores>
+<LetGo>0</LetGo>
+<Held>18</Held>
+<MissedHold>1</MissedHold>
+</HoldNoteScores>
+<RadarValues>
+<Stream>0.728045</Stream>
+<Voltage>0.222208</Voltage>
+<Air>0.777778</Air>
+<Freeze>0.947368</Freeze>
+<Chaos>0.682738</Chaos>
+<Notes>338.000000</Notes>
+<TapsAndHolds>303</TapsAndHolds>
+<Jumps>34</Jumps>
+<Holds>18</Holds>
+<Mines>0</Mines>
+<Hands>0</Hands>
+<Rolls>0</Rolls>
+<Lifts>0</Lifts>
+<Fakes>0</Fakes>
+</RadarValues>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<Disqualified>0</Disqualified>
+<Pad>33</Pad>
+<StageGuid>85e34a43-f2af-4b4c-af14-9cda87b2675c</StageGuid>
+<Guid>7e102a49-8fbd-4e54-ae1e-0565032671b4</Guid>
+</HighScore>
+</HighScoreForASongAndSteps>
+</RecentSongScores>
+</Stats>

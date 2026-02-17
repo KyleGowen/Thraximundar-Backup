@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Stats>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<RecentSongScores>
+<HighScoreForASongAndSteps>
+<Song Dir='Songs/9guys1pack/Cantina Band (Noize Tank Remix)/'/>
+<Steps Difficulty='Medium' StepsType='dance-single'/>
+<HighScore>
+<Name></Name>
+<Grade>Tier16</Grade>
+<Score>31</Score>
+<PercentDP>0.571500</PercentDP>
+<SurviveSeconds>126.796486</SurviveSeconds>
+<MaxCombo>48</MaxCombo>
+<StageAward></StageAward>
+<PeakComboAward></PeakComboAward>
+<Modifiers>NoHideLights, C470, 10% Mini, NoFakes, FailImmediateContinue, Distant, Metal, No W5</Modifiers>
+<DateTime>2025-04-10 23:21:00</DateTime>
+<PlayerGuid>4ad3a19834ee56bd</PlayerGuid>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<ProductID>1</ProductID>
+<TapNoteScores>
+<HitMine>0</HitMine>
+<AvoidMine>0</AvoidMine>
+<CheckpointMiss>0</CheckpointMiss>
+<Miss>12</Miss>
+<W5>0</W5>
+<W4>22</W4>
+<W3>107</W3>
+<W2>77</W2>
+<W1>78</W1>
+<CheckpointHit>0</CheckpointHit>
+</TapNoteScores>
+<HoldNoteScores>
+<LetGo>1</LetGo>
+<Held>39</Held>
+<MissedHold>1</MissedHold>
+</HoldNoteScores>
+<RadarValues>
+<Stream>0.518152</Stream>
+<Voltage>0.146104</Voltage>
+<Air>0.142857</Air>
+<Freeze>0.951219</Freeze>
+<Chaos>0.571513</Chaos>
+<Notes>291.000000</Notes>
+<TapsAndHolds>285</TapsAndHolds>
+<Jumps>7</Jumps>
+<Holds>39</Holds>
+<Mines>1</Mines>
+<Hands>0</Hands>
+<Rolls>0</Rolls>
+<Lifts>0</Lifts>
+<Fakes>0</Fakes>
+</RadarValues>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<Disqualified>0</Disqualified>
+<Pad>33</Pad>
+<StageGuid>b8e60bd2-fc8a-4025-a6a4-38a70ff86ba9</StageGuid>
+<Guid>721f21ad-61c7-4f33-aa7f-8f7f96cf91ca</Guid>
+</HighScore>
+</HighScoreForASongAndSteps>
+</RecentSongScores>
+</Stats>

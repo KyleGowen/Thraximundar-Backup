@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Stats>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<RecentSongScores>
+<HighScoreForASongAndSteps>
+<Song Dir='Songs/The Starter Pack of Stamina 2/U Got That - [ChasePines]/'/>
+<Steps Difficulty='Beginner' StepsType='dance-single'/>
+<HighScore>
+<Name></Name>
+<Grade>Tier12</Grade>
+<Score>63</Score>
+<PercentDP>0.748200</PercentDP>
+<SurviveSeconds>192.129425</SurviveSeconds>
+<MaxCombo>71</MaxCombo>
+<StageAward></StageAward>
+<PeakComboAward></PeakComboAward>
+<Modifiers>NoHideLights, C380, FailImmediateContinue, Overhead, Default</Modifiers>
+<DateTime>2025-06-24 17:55:32</DateTime>
+<PlayerGuid>d876307e83faa0ea</PlayerGuid>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<ProductID>1</ProductID>
+<TapNoteScores>
+<HitMine>0</HitMine>
+<AvoidMine>0</AvoidMine>
+<CheckpointMiss>0</CheckpointMiss>
+<Miss>11</Miss>
+<W5>12</W5>
+<W4>30</W4>
+<W3>144</W3>
+<W2>154</W2>
+<W1>185</W1>
+<CheckpointHit>0</CheckpointHit>
+</TapNoteScores>
+<HoldNoteScores>
+<LetGo>0</LetGo>
+<Held>323</Held>
+<MissedHold>7</MissedHold>
+</HoldNoteScores>
+<RadarValues>
+<Stream>0.632463</Stream>
+<Voltage>0.125097</Voltage>
+<Air>0.000000</Air>
+<Freeze>0.978788</Freeze>
+<Chaos>0.748268</Chaos>
+<Notes>513.000000</Notes>
+<TapsAndHolds>513</TapsAndHolds>
+<Jumps>0</Jumps>
+<Holds>323</Holds>
+<Mines>0</Mines>
+<Hands>0</Hands>
+<Rolls>0</Rolls>
+<Lifts>0</Lifts>
+<Fakes>0</Fakes>
+</RadarValues>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<Disqualified>0</Disqualified>
+<Pad>33</Pad>
+<StageGuid>adb30b6f-4355-4a92-a60d-dc3b3a34849c</StageGuid>
+<Guid>71e249f1-ff82-45a2-a706-ad44da5e09b2</Guid>
+</HighScore>
+</HighScoreForASongAndSteps>
+</RecentSongScores>
+</Stats>

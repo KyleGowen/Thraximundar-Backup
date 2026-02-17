@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Stats>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<RecentSongScores>
+<HighScoreForASongAndSteps>
+<Song Dir='Songs/Tech-Bit Adventures 5/Birabuto Kingdom/'/>
+<Steps Difficulty='Challenge' StepsType='dance-single'/>
+<HighScore>
+<Name></Name>
+<Grade>Failed</Grade>
+<Score>62</Score>
+<PercentDP>0.524300</PercentDP>
+<SurviveSeconds>83.891258</SurviveSeconds>
+<MaxCombo>140</MaxCombo>
+<StageAward></StageAward>
+<PeakComboAward></PeakComboAward>
+<Modifiers>NoHideLights, C585, 10% Mini, FailImmediateContinue, Overhead, Default</Modifiers>
+<DateTime>2026-01-09 16:18:58</DateTime>
+<PlayerGuid>4ad3a19834ee56bd</PlayerGuid>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<ProductID>1</ProductID>
+<TapNoteScores>
+<HitMine>6</HitMine>
+<AvoidMine>0</AvoidMine>
+<CheckpointMiss>0</CheckpointMiss>
+<Miss>124</Miss>
+<W5>6</W5>
+<W4>13</W4>
+<W3>74</W3>
+<W2>93</W2>
+<W1>193</W1>
+<CheckpointHit>0</CheckpointHit>
+</TapNoteScores>
+<HoldNoteScores>
+<LetGo>0</LetGo>
+<Held>69</Held>
+<MissedHold>7</MissedHold>
+</HoldNoteScores>
+<RadarValues>
+<Stream>0.572266</Stream>
+<Voltage>0.314663</Voltage>
+<Air>1.000000</Air>
+<Freeze>0.905405</Freeze>
+<Chaos>0.524352</Chaos>
+<Notes>380.000000</Notes>
+<TapsAndHolds>373</TapsAndHolds>
+<Jumps>9</Jumps>
+<Holds>67</Holds>
+<Mines>35</Mines>
+<Hands>0</Hands>
+<Rolls>2</Rolls>
+<Lifts>0</Lifts>
+<Fakes>0</Fakes>
+</RadarValues>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<Disqualified>0</Disqualified>
+<Pad>33</Pad>
+<StageGuid>df7b7eff-ab48-4598-a997-9dc7c670d13f</StageGuid>
+<Guid>4c7bd571-7c1f-4058-a5dc-6788a030e7ae</Guid>
+</HighScore>
+</HighScoreForASongAndSteps>
+</RecentSongScores>
+</Stats>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Stats>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<RecentSongScores>
+<HighScoreForASongAndSteps>
+<Song Dir='Songs/JBEAN Originals - 2018/You Spin Me Right Round (Like A Record) 2009/'/>
+<Steps Difficulty='Hard' StepsType='dance-single'/>
+<HighScore>
+<Name></Name>
+<Grade>Tier12</Grade>
+<Score>53</Score>
+<PercentDP>0.745900</PercentDP>
+<SurviveSeconds>128.093979</SurviveSeconds>
+<MaxCombo>208</MaxCombo>
+<StageAward></StageAward>
+<PeakComboAward></PeakComboAward>
+<Modifiers>NoHideLights, C365, 10% Mini, NoMines, FailImmediateContinue, Overhead, Default</Modifiers>
+<DateTime>2025-12-04 18:52:55</DateTime>
+<PlayerGuid>df4984970b65a1fc</PlayerGuid>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<ProductID>1</ProductID>
+<TapNoteScores>
+<HitMine>0</HitMine>
+<AvoidMine>0</AvoidMine>
+<CheckpointMiss>0</CheckpointMiss>
+<Miss>2</Miss>
+<W5>4</W5>
+<W4>6</W4>
+<W3>90</W3>
+<W2>111</W2>
+<W1>164</W1>
+<CheckpointHit>0</CheckpointHit>
+</TapNoteScores>
+<HoldNoteScores>
+<LetGo>0</LetGo>
+<Held>8</Held>
+<MissedHold>0</MissedHold>
+</HoldNoteScores>
+<RadarValues>
+<Stream>0.738693</Stream>
+<Voltage>0.530433</Voltage>
+<Air>0.904762</Air>
+<Freeze>1.000000</Freeze>
+<Chaos>0.745974</Chaos>
+<Notes>392.000000</Notes>
+<TapsAndHolds>371</TapsAndHolds>
+<Jumps>21</Jumps>
+<Holds>8</Holds>
+<Mines>0</Mines>
+<Hands>0</Hands>
+<Rolls>0</Rolls>
+<Lifts>0</Lifts>
+<Fakes>0</Fakes>
+</RadarValues>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<Disqualified>0</Disqualified>
+<Pad>33</Pad>
+<StageGuid>3474890f-c6de-4961-a5c1-631be049a90e</StageGuid>
+<Guid>1b63bfc4-483b-4d2a-a06a-07cb2b9ba1b9</Guid>
+</HighScore>
+</HighScoreForASongAndSteps>
+</RecentSongScores>
+</Stats>

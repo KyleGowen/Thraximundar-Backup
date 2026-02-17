@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Stats>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<RecentSongScores>
+<HighScoreForASongAndSteps>
+<Song Dir='Songs/Anthem Series - The Boys/Animals/'/>
+<Steps Difficulty='Challenge' StepsType='dance-single'/>
+<HighScore>
+<Name></Name>
+<Grade>Tier12</Grade>
+<Score>71</Score>
+<PercentDP>0.738100</PercentDP>
+<SurviveSeconds>130.775909</SurviveSeconds>
+<MaxCombo>140</MaxCombo>
+<StageAward></StageAward>
+<PeakComboAward></PeakComboAward>
+<Modifiers>NoHideLights, C575, 10% Mini, FailImmediateContinue, Overhead, Default</Modifiers>
+<DateTime>2025-07-06 11:59:53</DateTime>
+<PlayerGuid>4ad3a19834ee56bd</PlayerGuid>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<ProductID>1</ProductID>
+<TapNoteScores>
+<HitMine>0</HitMine>
+<AvoidMine>0</AvoidMine>
+<CheckpointMiss>0</CheckpointMiss>
+<Miss>13</Miss>
+<W5>4</W5>
+<W4>12</W4>
+<W3>105</W3>
+<W2>116</W2>
+<W1>235</W1>
+<CheckpointHit>0</CheckpointHit>
+</TapNoteScores>
+<HoldNoteScores>
+<LetGo>0</LetGo>
+<Held>98</Held>
+<MissedHold>2</MissedHold>
+</HoldNoteScores>
+<RadarValues>
+<Stream>0.721116</Stream>
+<Voltage>0.330519</Voltage>
+<Air>0.705882</Air>
+<Freeze>0.942857</Freeze>
+<Chaos>0.738120</Chaos>
+<Notes>482.000000</Notes>
+<TapsAndHolds>469</TapsAndHolds>
+<Jumps>16</Jumps>
+<Holds>33</Holds>
+<Mines>0</Mines>
+<Hands>0</Hands>
+<Rolls>65</Rolls>
+<Lifts>0</Lifts>
+<Fakes>0</Fakes>
+</RadarValues>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<Disqualified>0</Disqualified>
+<Pad>33</Pad>
+<StageGuid>aaa5e9e9-ad44-4bf6-a370-aad4cbaccd26</StageGuid>
+<Guid>6865b4a9-bad0-4fda-a380-675fb3fe4a24</Guid>
+</HighScore>
+</HighScoreForASongAndSteps>
+</RecentSongScores>
+</Stats>

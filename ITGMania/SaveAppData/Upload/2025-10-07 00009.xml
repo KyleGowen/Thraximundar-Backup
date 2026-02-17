@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Stats>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<RecentSongScores>
+<HighScoreForASongAndSteps>
+<Song Dir='Songs/K-Pop Demon Hunters/Golden/'/>
+<Steps Difficulty='Medium' StepsType='dance-single'/>
+<HighScore>
+<Name></Name>
+<Grade>Failed</Grade>
+<Score>9</Score>
+<PercentDP>0.000000</PercentDP>
+<SurviveSeconds>17.877134</SurviveSeconds>
+<MaxCombo>9</MaxCombo>
+<StageAward></StageAward>
+<PeakComboAward></PeakComboAward>
+<Modifiers>NoHideLights, C335, FailImmediateContinue, Overhead</Modifiers>
+<DateTime>2025-10-07 16:13:09</DateTime>
+<PlayerGuid>2dde4d6e8737681e</PlayerGuid>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<ProductID>1</ProductID>
+<TapNoteScores>
+<HitMine>0</HitMine>
+<AvoidMine>0</AvoidMine>
+<CheckpointMiss>0</CheckpointMiss>
+<Miss>78</Miss>
+<W5>31</W5>
+<W4>28</W4>
+<W3>79</W3>
+<W2>29</W2>
+<W1>32</W1>
+<CheckpointHit>0</CheckpointHit>
+</TapNoteScores>
+<HoldNoteScores>
+<LetGo>3</LetGo>
+<Held>15</Held>
+<MissedHold>2</MissedHold>
+</HoldNoteScores>
+<RadarValues>
+<Stream>0.225694</Stream>
+<Voltage>0.031977</Voltage>
+<Air>0.454545</Air>
+<Freeze>0.750000</Freeze>
+<Chaos>0.000000</Chaos>
+<Notes>179.000000</Notes>
+<TapsAndHolds>170</TapsAndHolds>
+<Jumps>11</Jumps>
+<Holds>15</Holds>
+<Mines>0</Mines>
+<Hands>0</Hands>
+<Rolls>0</Rolls>
+<Lifts>0</Lifts>
+<Fakes>0</Fakes>
+</RadarValues>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<Disqualified>0</Disqualified>
+<Pad>33</Pad>
+<StageGuid>9f7430d8-5c74-45ec-aa63-4a3edb3233bf</StageGuid>
+<Guid>d46bbf69-8125-4892-ad3a-f76c49fcd1ad</Guid>
+</HighScore>
+</HighScoreForASongAndSteps>
+</RecentSongScores>
+</Stats>

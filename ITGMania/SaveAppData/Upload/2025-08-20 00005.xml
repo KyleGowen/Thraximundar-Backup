@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Stats>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<RecentSongScores>
+<HighScoreForASongAndSteps>
+<Song Dir='Songs/Mungyodance/Dragostea Din Tei/'/>
+<Steps Difficulty='Hard' StepsType='dance-single'/>
+<HighScore>
+<Name></Name>
+<Grade>Tier12</Grade>
+<Score>46</Score>
+<PercentDP>0.757700</PercentDP>
+<SurviveSeconds>97.191391</SurviveSeconds>
+<MaxCombo>83</MaxCombo>
+<StageAward></StageAward>
+<PeakComboAward></PeakComboAward>
+<Modifiers>NoHideLights, C420, FailImmediateContinue, Overhead, Default</Modifiers>
+<DateTime>2025-08-20 17:44:10</DateTime>
+<PlayerGuid>d876307e83faa0ea</PlayerGuid>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<ProductID>1</ProductID>
+<TapNoteScores>
+<HitMine>0</HitMine>
+<AvoidMine>0</AvoidMine>
+<CheckpointMiss>0</CheckpointMiss>
+<Miss>8</Miss>
+<W5>5</W5>
+<W4>2</W4>
+<W3>30</W3>
+<W2>76</W2>
+<W1>175</W1>
+<CheckpointHit>0</CheckpointHit>
+</TapNoteScores>
+<HoldNoteScores>
+<LetGo>0</LetGo>
+<Held>7</Held>
+<MissedHold>0</MissedHold>
+</HoldNoteScores>
+<RadarValues>
+<Stream>0.857143</Stream>
+<Voltage>0.266773</Voltage>
+<Air>0.923077</Air>
+<Freeze>1.000000</Freeze>
+<Chaos>0.757756</Chaos>
+<Notes>309.000000</Notes>
+<TapsAndHolds>283</TapsAndHolds>
+<Jumps>25</Jumps>
+<Holds>7</Holds>
+<Mines>0</Mines>
+<Hands>2</Hands>
+<Rolls>0</Rolls>
+<Lifts>0</Lifts>
+<Fakes>0</Fakes>
+</RadarValues>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<Disqualified>0</Disqualified>
+<Pad>33</Pad>
+<StageGuid>bb73148d-a185-4784-a7dc-ef1a15b6345f</StageGuid>
+<Guid>2134de21-b1bb-443e-a730-2d0d6e7bc548</Guid>
+</HighScore>
+</HighScoreForASongAndSteps>
+</RecentSongScores>
+</Stats>

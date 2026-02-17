@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Stats>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<RecentSongScores>
+<HighScoreForASongAndSteps>
+<Song Dir='Songs/V&apos;s DDR Journey/Do You Wanna Taste It/'/>
+<Steps Difficulty='Hard' StepsType='dance-single'/>
+<HighScore>
+<Name></Name>
+<Grade>Failed</Grade>
+<Score>1</Score>
+<PercentDP>0.000000</PercentDP>
+<SurviveSeconds>17.183575</SurviveSeconds>
+<MaxCombo>3</MaxCombo>
+<StageAward></StageAward>
+<PeakComboAward></PeakComboAward>
+<Modifiers>NoHideLights, C545, 10% Mini, NoFakes, FailImmediateContinue, Overhead, Default, No W5</Modifiers>
+<DateTime>2025-04-09 23:48:24</DateTime>
+<PlayerGuid>4ad3a19834ee56bd</PlayerGuid>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<ProductID>1</ProductID>
+<TapNoteScores>
+<HitMine>0</HitMine>
+<AvoidMine>0</AvoidMine>
+<CheckpointMiss>0</CheckpointMiss>
+<Miss>267</Miss>
+<W5>0</W5>
+<W4>14</W4>
+<W3>15</W3>
+<W2>2</W2>
+<W1>6</W1>
+<CheckpointHit>0</CheckpointHit>
+</TapNoteScores>
+<HoldNoteScores>
+<LetGo>1</LetGo>
+<Held>4</Held>
+<MissedHold>32</MissedHold>
+</HoldNoteScores>
+<RadarValues>
+<Stream>0.034161</Stream>
+<Voltage>0.006468</Voltage>
+<Air>0.000000</Air>
+<Freeze>0.121212</Freeze>
+<Chaos>0.000000</Chaos>
+<Notes>41.000000</Notes>
+<TapsAndHolds>37</TapsAndHolds>
+<Jumps>2</Jumps>
+<Holds>4</Holds>
+<Mines>0</Mines>
+<Hands>0</Hands>
+<Rolls>0</Rolls>
+<Lifts>0</Lifts>
+<Fakes>0</Fakes>
+</RadarValues>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<Disqualified>0</Disqualified>
+<Pad>33</Pad>
+<StageGuid>92e0ae29-0a5a-4f89-ac7f-ce6a4d9abe0c</StageGuid>
+<Guid>d6d782f3-d583-4d61-ae20-a81463af8006</Guid>
+</HighScore>
+</HighScoreForASongAndSteps>
+</RecentSongScores>
+</Stats>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Stats>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<RecentSongScores>
+<HighScoreForASongAndSteps>
+<Song Dir='Songs/Anthem Series - The Boys/Beat It/'/>
+<Steps Difficulty='Challenge' StepsType='dance-single'/>
+<HighScore>
+<Name></Name>
+<Grade>Tier12</Grade>
+<Score>99</Score>
+<PercentDP>0.745400</PercentDP>
+<SurviveSeconds>158.392975</SurviveSeconds>
+<MaxCombo>82</MaxCombo>
+<StageAward></StageAward>
+<PeakComboAward></PeakComboAward>
+<Modifiers>NoHideLights, C565, 10% Mini, FailImmediateContinue, Overhead, Default</Modifiers>
+<DateTime>2025-04-29 18:56:08</DateTime>
+<PlayerGuid>4ad3a19834ee56bd</PlayerGuid>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<ProductID>1</ProductID>
+<TapNoteScores>
+<HitMine>0</HitMine>
+<AvoidMine>0</AvoidMine>
+<CheckpointMiss>0</CheckpointMiss>
+<Miss>15</Miss>
+<W5>1</W5>
+<W4>15</W4>
+<W3>143</W3>
+<W2>135</W2>
+<W1>299</W1>
+<CheckpointHit>0</CheckpointHit>
+</TapNoteScores>
+<HoldNoteScores>
+<LetGo>1</LetGo>
+<Held>109</Held>
+<MissedHold>1</MissedHold>
+</HoldNoteScores>
+<RadarValues>
+<Stream>0.711009</Stream>
+<Voltage>0.137931</Voltage>
+<Air>0.543478</Air>
+<Freeze>0.989247</Freeze>
+<Chaos>0.745480</Chaos>
+<Notes>637.000000</Notes>
+<TapsAndHolds>596</TapsAndHolds>
+<Jumps>43</Jumps>
+<Holds>92</Holds>
+<Mines>0</Mines>
+<Hands>0</Hands>
+<Rolls>17</Rolls>
+<Lifts>0</Lifts>
+<Fakes>0</Fakes>
+</RadarValues>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<Disqualified>0</Disqualified>
+<Pad>33</Pad>
+<StageGuid>4647b355-8906-498c-afb9-90d79a22b278</StageGuid>
+<Guid>02d60491-a0a2-48d1-a35e-e2d95344a1b5</Guid>
+</HighScore>
+</HighScoreForASongAndSteps>
+</RecentSongScores>
+</Stats>

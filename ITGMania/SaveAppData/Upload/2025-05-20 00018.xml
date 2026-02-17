@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Stats>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<RecentSongScores>
+<HighScoreForASongAndSteps>
+<Song Dir='Songs/Misc. Collected/Roses Are Red/'/>
+<Steps Difficulty='Challenge' StepsType='dance-single'/>
+<HighScore>
+<Name></Name>
+<Grade>Tier14</Grade>
+<Score>70</Score>
+<PercentDP>0.641900</PercentDP>
+<SurviveSeconds>135.910034</SurviveSeconds>
+<MaxCombo>76</MaxCombo>
+<StageAward></StageAward>
+<PeakComboAward></PeakComboAward>
+<Modifiers>NoHideLights, C565, 10% Mini, FailImmediateContinue, Overhead, Default</Modifiers>
+<DateTime>2025-05-20 18:12:11</DateTime>
+<PlayerGuid>4ad3a19834ee56bd</PlayerGuid>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<ProductID>1</ProductID>
+<TapNoteScores>
+<HitMine>0</HitMine>
+<AvoidMine>0</AvoidMine>
+<CheckpointMiss>0</CheckpointMiss>
+<Miss>12</Miss>
+<W5>9</W5>
+<W4>19</W4>
+<W3>157</W3>
+<W2>146</W2>
+<W1>213</W1>
+<CheckpointHit>0</CheckpointHit>
+</TapNoteScores>
+<HoldNoteScores>
+<LetGo>0</LetGo>
+<Held>11</Held>
+<MissedHold>0</MissedHold>
+</HoldNoteScores>
+<RadarValues>
+<Stream>0.643599</Stream>
+<Voltage>0.140835</Voltage>
+<Air>0.681818</Air>
+<Freeze>1.000000</Freeze>
+<Chaos>0.641975</Chaos>
+<Notes>556.000000</Notes>
+<TapsAndHolds>536</TapsAndHolds>
+<Jumps>22</Jumps>
+<Holds>9</Holds>
+<Mines>7</Mines>
+<Hands>0</Hands>
+<Rolls>2</Rolls>
+<Lifts>0</Lifts>
+<Fakes>0</Fakes>
+</RadarValues>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<Disqualified>0</Disqualified>
+<Pad>33</Pad>
+<StageGuid>93db1efb-6c7b-4acd-a7e5-e9966fc97d8e</StageGuid>
+<Guid>719f47cd-f8e3-4343-ac07-ee63deb5ab21</Guid>
+</HighScore>
+</HighScoreForASongAndSteps>
+</RecentSongScores>
+</Stats>

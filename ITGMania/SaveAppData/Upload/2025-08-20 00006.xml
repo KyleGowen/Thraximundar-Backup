@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Stats>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<RecentSongScores>
+<HighScoreForASongAndSteps>
+<Song Dir='Songs/Mungyodance/Dressed Up/'/>
+<Steps Difficulty='Hard' StepsType='dance-single'/>
+<HighScore>
+<Name></Name>
+<Grade>Tier12</Grade>
+<Score>51</Score>
+<PercentDP>0.733500</PercentDP>
+<SurviveSeconds>113.696716</SurviveSeconds>
+<MaxCombo>104</MaxCombo>
+<StageAward></StageAward>
+<PeakComboAward></PeakComboAward>
+<Modifiers>NoHideLights, C420, FailImmediateContinue, Overhead, Default</Modifiers>
+<DateTime>2025-08-20 17:46:20</DateTime>
+<PlayerGuid>d876307e83faa0ea</PlayerGuid>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<ProductID>1</ProductID>
+<TapNoteScores>
+<HitMine>0</HitMine>
+<AvoidMine>0</AvoidMine>
+<CheckpointMiss>0</CheckpointMiss>
+<Miss>14</Miss>
+<W5>5</W5>
+<W4>1</W4>
+<W3>26</W3>
+<W2>84</W2>
+<W1>202</W1>
+<CheckpointHit>0</CheckpointHit>
+</TapNoteScores>
+<HoldNoteScores>
+<LetGo>5</LetGo>
+<Held>27</Held>
+<MissedHold>0</MissedHold>
+</HoldNoteScores>
+<RadarValues>
+<Stream>0.877030</Stream>
+<Voltage>0.255275</Voltage>
+<Air>0.888889</Air>
+<Freeze>0.843750</Freeze>
+<Chaos>0.733516</Chaos>
+<Notes>412.000000</Notes>
+<TapsAndHolds>315</TapsAndHolds>
+<Jumps>95</Jumps>
+<Holds>27</Holds>
+<Mines>0</Mines>
+<Hands>1</Hands>
+<Rolls>0</Rolls>
+<Lifts>0</Lifts>
+<Fakes>0</Fakes>
+</RadarValues>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<Disqualified>0</Disqualified>
+<Pad>33</Pad>
+<StageGuid>eef5436a-2e91-4e06-ab5d-e5fcee1b326c</StageGuid>
+<Guid>42cb5421-aa12-4eba-a41d-ac9c1a7f5482</Guid>
+</HighScore>
+</HighScoreForASongAndSteps>
+</RecentSongScores>
+</Stats>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Stats>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<RecentSongScores>
+<HighScoreForASongAndSteps>
+<Song Dir='Songs/Misc. Collected/Maawrio Twinz/'/>
+<Steps Difficulty='Challenge' StepsType='dance-single'/>
+<HighScore>
+<Name></Name>
+<Grade>Failed</Grade>
+<Score>48</Score>
+<PercentDP>0.526100</PercentDP>
+<SurviveSeconds>80.945015</SurviveSeconds>
+<MaxCombo>88</MaxCombo>
+<StageAward></StageAward>
+<PeakComboAward></PeakComboAward>
+<Modifiers>NoHideLights, C580, 10% Mini, FailImmediateContinue, Overhead, Default</Modifiers>
+<DateTime>2025-08-02 12:48:25</DateTime>
+<PlayerGuid>4ad3a19834ee56bd</PlayerGuid>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<ProductID>1</ProductID>
+<TapNoteScores>
+<HitMine>1</HitMine>
+<AvoidMine>0</AvoidMine>
+<CheckpointMiss>0</CheckpointMiss>
+<Miss>94</Miss>
+<W5>4</W5>
+<W4>2</W4>
+<W3>47</W3>
+<W2>73</W2>
+<W1>148</W1>
+<CheckpointHit>0</CheckpointHit>
+</TapNoteScores>
+<HoldNoteScores>
+<LetGo>0</LetGo>
+<Held>23</Held>
+<MissedHold>10</MissedHold>
+</HoldNoteScores>
+<RadarValues>
+<Stream>0.600000</Stream>
+<Voltage>0.257062</Voltage>
+<Air>0.416667</Air>
+<Freeze>0.696970</Freeze>
+<Chaos>0.526185</Chaos>
+<Notes>278.000000</Notes>
+<TapsAndHolds>270</TapsAndHolds>
+<Jumps>8</Jumps>
+<Holds>23</Holds>
+<Mines>101</Mines>
+<Hands>0</Hands>
+<Rolls>0</Rolls>
+<Lifts>0</Lifts>
+<Fakes>0</Fakes>
+</RadarValues>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<Disqualified>0</Disqualified>
+<Pad>33</Pad>
+<StageGuid>270f8bc3-b171-4ca1-ac31-d167b7495c79</StageGuid>
+<Guid>19950933-6ff0-405a-ad6e-69fa34699ecc</Guid>
+</HighScore>
+</HighScoreForASongAndSteps>
+</RecentSongScores>
+</Stats>

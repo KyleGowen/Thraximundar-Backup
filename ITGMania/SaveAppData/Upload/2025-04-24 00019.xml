@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Stats>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<RecentSongScores>
+<HighScoreForASongAndSteps>
+<Song Dir='Songs/Tech-Bit Adventures/The Legend of Zelda - Main Theme (Overworld)/'/>
+<Steps Difficulty='Hard' StepsType='dance-single'/>
+<HighScore>
+<Name></Name>
+<Grade>Tier12</Grade>
+<Score>80</Score>
+<PercentDP>0.744500</PercentDP>
+<SurviveSeconds>138.884872</SurviveSeconds>
+<MaxCombo>76</MaxCombo>
+<StageAward></StageAward>
+<PeakComboAward></PeakComboAward>
+<Modifiers>NoHideLights, C570, 10% Mini, FailImmediateContinue, Overhead, Default</Modifiers>
+<DateTime>2025-04-24 19:30:58</DateTime>
+<PlayerGuid>4ad3a19834ee56bd</PlayerGuid>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<ProductID>1</ProductID>
+<TapNoteScores>
+<HitMine>0</HitMine>
+<AvoidMine>0</AvoidMine>
+<CheckpointMiss>0</CheckpointMiss>
+<Miss>13</Miss>
+<W5>4</W5>
+<W4>8</W4>
+<W3>85</W3>
+<W2>139</W2>
+<W1>231</W1>
+<CheckpointHit>0</CheckpointHit>
+</TapNoteScores>
+<HoldNoteScores>
+<LetGo>1</LetGo>
+<Held>76</Held>
+<MissedHold>2</MissedHold>
+</HoldNoteScores>
+<RadarValues>
+<Stream>0.774757</Stream>
+<Voltage>0.125559</Voltage>
+<Air>0.828571</Air>
+<Freeze>0.962025</Freeze>
+<Chaos>0.744544</Chaos>
+<Notes>494.000000</Notes>
+<TapsAndHolds>464</TapsAndHolds>
+<Jumps>34</Jumps>
+<Holds>76</Holds>
+<Mines>11</Mines>
+<Hands>0</Hands>
+<Rolls>0</Rolls>
+<Lifts>0</Lifts>
+<Fakes>0</Fakes>
+</RadarValues>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<Disqualified>0</Disqualified>
+<Pad>33</Pad>
+<StageGuid>ee6a0ec6-896f-4803-a9ec-e666e80d501b</StageGuid>
+<Guid>e63b96f9-6980-47b0-abd5-c83f39aee100</Guid>
+</HighScore>
+</HighScoreForASongAndSteps>
+</RecentSongScores>
+</Stats>

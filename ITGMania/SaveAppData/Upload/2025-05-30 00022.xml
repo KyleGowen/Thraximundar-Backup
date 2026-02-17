@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Stats>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<RecentSongScores>
+<HighScoreForASongAndSteps>
+<Song Dir='Songs/Tech-Bit Adventures 2/Slider (From Super Mario 64)/'/>
+<Steps Difficulty='Medium' StepsType='dance-single'/>
+<HighScore>
+<Name></Name>
+<Grade>Tier12</Grade>
+<Score>64</Score>
+<PercentDP>0.723900</PercentDP>
+<SurviveSeconds>141.492371</SurviveSeconds>
+<MaxCombo>88</MaxCombo>
+<StageAward></StageAward>
+<PeakComboAward></PeakComboAward>
+<Modifiers>NoHideLights, C565, 10% Mini, FailImmediateContinue, Overhead, Default</Modifiers>
+<DateTime>2025-05-30 21:22:30</DateTime>
+<PlayerGuid>4ad3a19834ee56bd</PlayerGuid>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<ProductID>1</ProductID>
+<TapNoteScores>
+<HitMine>4</HitMine>
+<AvoidMine>0</AvoidMine>
+<CheckpointMiss>0</CheckpointMiss>
+<Miss>13</Miss>
+<W5>6</W5>
+<W4>13</W4>
+<W3>136</W3>
+<W2>172</W2>
+<W1>164</W1>
+<CheckpointHit>0</CheckpointHit>
+</TapNoteScores>
+<HoldNoteScores>
+<LetGo>1</LetGo>
+<Held>207</Held>
+<MissedHold>6</MissedHold>
+</HoldNoteScores>
+<RadarValues>
+<Stream>0.667283</Stream>
+<Voltage>0.169696</Voltage>
+<Air>0.486486</Air>
+<Freeze>0.967290</Freeze>
+<Chaos>0.723955</Chaos>
+<Notes>521.000000</Notes>
+<TapsAndHolds>488</TapsAndHolds>
+<Jumps>35</Jumps>
+<Holds>207</Holds>
+<Mines>6</Mines>
+<Hands>27</Hands>
+<Rolls>0</Rolls>
+<Lifts>0</Lifts>
+<Fakes>0</Fakes>
+</RadarValues>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<Disqualified>0</Disqualified>
+<Pad>33</Pad>
+<StageGuid>aa1d1ba1-6d5c-44c9-a672-d66607d5e149</StageGuid>
+<Guid>3939781e-fad5-42fd-a70d-fe736e758f61</Guid>
+</HighScore>
+</HighScoreForASongAndSteps>
+</RecentSongScores>
+</Stats>

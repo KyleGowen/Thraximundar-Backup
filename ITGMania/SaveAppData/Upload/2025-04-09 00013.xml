@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Stats>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<RecentSongScores>
+<HighScoreForASongAndSteps>
+<Song Dir='Songs/DDR Galaxy/Blood for the Blood God/'/>
+<Steps Difficulty='Medium' StepsType='dance-single'/>
+<HighScore>
+<Name></Name>
+<Grade>Tier13</Grade>
+<Score>51</Score>
+<PercentDP>0.695400</PercentDP>
+<SurviveSeconds>151.864594</SurviveSeconds>
+<MaxCombo>74</MaxCombo>
+<StageAward></StageAward>
+<PeakComboAward></PeakComboAward>
+<Modifiers>NoHideLights, C515, FailImmediateContinue, Overhead</Modifiers>
+<DateTime>2025-04-09 19:03:13</DateTime>
+<PlayerGuid></PlayerGuid>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<ProductID>1</ProductID>
+<TapNoteScores>
+<HitMine>0</HitMine>
+<AvoidMine>0</AvoidMine>
+<CheckpointMiss>0</CheckpointMiss>
+<Miss>7</Miss>
+<W5>3</W5>
+<W4>4</W4>
+<W3>86</W3>
+<W2>98</W2>
+<W1>138</W1>
+<CheckpointHit>0</CheckpointHit>
+</TapNoteScores>
+<HoldNoteScores>
+<LetGo>0</LetGo>
+<Held>13</Held>
+<MissedHold>1</MissedHold>
+</HoldNoteScores>
+<RadarValues>
+<Stream>0.715084</Stream>
+<Voltage>0.162857</Voltage>
+<Air>0.727273</Air>
+<Freeze>0.928571</Freeze>
+<Chaos>0.695429</Chaos>
+<Notes>347.000000</Notes>
+<TapsAndHolds>327</TapsAndHolds>
+<Jumps>22</Jumps>
+<Holds>13</Holds>
+<Mines>0</Mines>
+<Hands>0</Hands>
+<Rolls>0</Rolls>
+<Lifts>0</Lifts>
+<Fakes>0</Fakes>
+</RadarValues>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<Disqualified>0</Disqualified>
+<Pad>33</Pad>
+<StageGuid>5a844a28-34f1-48d7-aca7-1e8283f23fd1</StageGuid>
+<Guid>b453da77-406d-4de5-a0e0-9ef7d02c935d</Guid>
+</HighScore>
+</HighScoreForASongAndSteps>
+</RecentSongScores>
+</Stats>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Stats>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<RecentSongScores>
+<HighScoreForASongAndSteps>
+<Song Dir='Songs/DDR Galaxy/We Don&apos;t Talk About Bruno (from Encanto)/'/>
+<Steps Difficulty='Beginner' StepsType='dance-single'/>
+<HighScore>
+<Name></Name>
+<Grade>Failed</Grade>
+<Score>8</Score>
+<PercentDP>0.000000</PercentDP>
+<SurviveSeconds>37.660885</SurviveSeconds>
+<MaxCombo>15</MaxCombo>
+<StageAward></StageAward>
+<PeakComboAward></PeakComboAward>
+<Modifiers>NoHideLights, C260, FailImmediateContinue, Overhead</Modifiers>
+<DateTime>2025-04-12 19:08:32</DateTime>
+<PlayerGuid>2dde4d6e8737681e</PlayerGuid>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<ProductID>1</ProductID>
+<TapNoteScores>
+<HitMine>0</HitMine>
+<AvoidMine>0</AvoidMine>
+<CheckpointMiss>0</CheckpointMiss>
+<Miss>25</Miss>
+<W5>13</W5>
+<W4>16</W4>
+<W3>45</W3>
+<W2>26</W2>
+<W1>27</W1>
+<CheckpointHit>0</CheckpointHit>
+</TapNoteScores>
+<HoldNoteScores>
+<LetGo>6</LetGo>
+<Held>5</Held>
+<MissedHold>4</MissedHold>
+</HoldNoteScores>
+<RadarValues>
+<Stream>0.353293</Stream>
+<Voltage>0.082336</Voltage>
+<Air>0.266667</Air>
+<Freeze>0.333333</Freeze>
+<Chaos>0.000000</Chaos>
+<Notes>126.000000</Notes>
+<TapsAndHolds>115</TapsAndHolds>
+<Jumps>10</Jumps>
+<Holds>5</Holds>
+<Mines>0</Mines>
+<Hands>0</Hands>
+<Rolls>0</Rolls>
+<Lifts>0</Lifts>
+<Fakes>0</Fakes>
+</RadarValues>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<Disqualified>0</Disqualified>
+<Pad>33</Pad>
+<StageGuid>299fab30-c1a8-4a98-a6bf-ed2f0980e89a</StageGuid>
+<Guid>9a0d1a64-cd21-434d-afe7-8cb371011194</Guid>
+</HighScore>
+</HighScoreForASongAndSteps>
+</RecentSongScores>
+</Stats>

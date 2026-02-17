@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Stats>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<RecentSongScores>
+<HighScoreForASongAndSteps>
+<Song Dir='Songs/K-Pop Demon Hunters/Soda Pop/'/>
+<Steps Difficulty='Challenge' StepsType='dance-single'/>
+<HighScore>
+<Name></Name>
+<Grade>Failed</Grade>
+<Score>81</Score>
+<PercentDP>0.623600</PercentDP>
+<SurviveSeconds>125.127113</SurviveSeconds>
+<MaxCombo>64</MaxCombo>
+<StageAward></StageAward>
+<PeakComboAward></PeakComboAward>
+<Modifiers>NoHideLights, C585, 10% Mini, FailImmediateContinue, Overhead, Default</Modifiers>
+<DateTime>2025-10-06 16:51:01</DateTime>
+<PlayerGuid>4ad3a19834ee56bd</PlayerGuid>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<ProductID>1</ProductID>
+<TapNoteScores>
+<HitMine>17</HitMine>
+<AvoidMine>0</AvoidMine>
+<CheckpointMiss>0</CheckpointMiss>
+<Miss>73</Miss>
+<W5>5</W5>
+<W4>13</W4>
+<W3>99</W3>
+<W2>135</W2>
+<W1>239</W1>
+<CheckpointHit>0</CheckpointHit>
+</TapNoteScores>
+<HoldNoteScores>
+<LetGo>0</LetGo>
+<Held>98</Held>
+<MissedHold>7</MissedHold>
+</HoldNoteScores>
+<RadarValues>
+<Stream>0.664384</Stream>
+<Voltage>0.143827</Voltage>
+<Air>0.650000</Air>
+<Freeze>0.933333</Freeze>
+<Chaos>0.623617</Chaos>
+<Notes>504.000000</Notes>
+<TapsAndHolds>486</TapsAndHolds>
+<Jumps>16</Jumps>
+<Holds>98</Holds>
+<Mines>16</Mines>
+<Hands>0</Hands>
+<Rolls>0</Rolls>
+<Lifts>0</Lifts>
+<Fakes>0</Fakes>
+</RadarValues>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<Disqualified>0</Disqualified>
+<Pad>33</Pad>
+<StageGuid>84d29e87-2c64-4963-a0e1-5c92e64cdec9</StageGuid>
+<Guid>0c806fa1-d77b-4c2d-aa25-7d3a9db84f48</Guid>
+</HighScore>
+</HighScoreForASongAndSteps>
+</RecentSongScores>
+</Stats>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Stats>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<RecentSongScores>
+<HighScoreForASongAndSteps>
+<Song Dir='Songs/Misc. Collected/Sonic 3 Mini Boss Theme/'/>
+<Steps Difficulty='Hard' StepsType='dance-single'/>
+<HighScore>
+<Name></Name>
+<Grade>Tier13</Grade>
+<Score>67</Score>
+<PercentDP>0.691100</PercentDP>
+<SurviveSeconds>83.642471</SurviveSeconds>
+<MaxCombo>63</MaxCombo>
+<StageAward></StageAward>
+<PeakComboAward></PeakComboAward>
+<Modifiers>NoHideLights, C585, 10% Mini, FailImmediateContinue, Overhead, Default</Modifiers>
+<DateTime>2025-10-06 16:39:40</DateTime>
+<PlayerGuid>4ad3a19834ee56bd</PlayerGuid>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<ProductID>1</ProductID>
+<TapNoteScores>
+<HitMine>0</HitMine>
+<AvoidMine>0</AvoidMine>
+<CheckpointMiss>0</CheckpointMiss>
+<Miss>18</Miss>
+<W5>8</W5>
+<W4>13</W4>
+<W3>76</W3>
+<W2>105</W2>
+<W1>186</W1>
+<CheckpointHit>0</CheckpointHit>
+</TapNoteScores>
+<HoldNoteScores>
+<LetGo>0</LetGo>
+<Held>118</Held>
+<MissedHold>5</MissedHold>
+</HoldNoteScores>
+<RadarValues>
+<Stream>0.711009</Stream>
+<Voltage>0.138246</Voltage>
+<Air>0.200000</Air>
+<Freeze>0.959350</Freeze>
+<Chaos>0.691115</Chaos>
+<Notes>409.000000</Notes>
+<TapsAndHolds>383</TapsAndHolds>
+<Jumps>26</Jumps>
+<Holds>118</Holds>
+<Mines>0</Mines>
+<Hands>13</Hands>
+<Rolls>0</Rolls>
+<Lifts>0</Lifts>
+<Fakes>0</Fakes>
+</RadarValues>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<Disqualified>0</Disqualified>
+<Pad>33</Pad>
+<StageGuid>e5f7ab34-b55e-4738-af4c-2ff634d2feaf</StageGuid>
+<Guid>3f8d5c11-4b28-400a-af98-a4a57ccf6d70</Guid>
+</HighScore>
+</HighScoreForASongAndSteps>
+</RecentSongScores>
+</Stats>

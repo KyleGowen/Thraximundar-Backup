@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Stats>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<RecentSongScores>
+<HighScoreForASongAndSteps>
+<Song Dir='Songs/Cosmic Evolution/GhettoMusick/'/>
+<Steps Difficulty='Challenge' StepsType='dance-single'/>
+<HighScore>
+<Name></Name>
+<Grade>Tier12</Grade>
+<Score>121</Score>
+<PercentDP>0.754700</PercentDP>
+<SurviveSeconds>170.864075</SurviveSeconds>
+<MaxCombo>104</MaxCombo>
+<StageAward></StageAward>
+<PeakComboAward></PeakComboAward>
+<Modifiers>NoHideLights, 4.4x, FailImmediateContinue, Overhead, Default</Modifiers>
+<DateTime>2025-04-13 19:00:19</DateTime>
+<PlayerGuid>d876307e83faa0ea</PlayerGuid>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<ProductID>1</ProductID>
+<TapNoteScores>
+<HitMine>6</HitMine>
+<AvoidMine>0</AvoidMine>
+<CheckpointMiss>0</CheckpointMiss>
+<Miss>20</Miss>
+<W5>7</W5>
+<W4>13</W4>
+<W3>138</W3>
+<W2>230</W2>
+<W1>420</W1>
+<CheckpointHit>0</CheckpointHit>
+</TapNoteScores>
+<HoldNoteScores>
+<LetGo>0</LetGo>
+<Held>132</Held>
+<MissedHold>4</MissedHold>
+</HoldNoteScores>
+<RadarValues>
+<Stream>0.786730</Stream>
+<Voltage>0.113015</Voltage>
+<Air>0.687500</Air>
+<Freeze>0.969925</Freeze>
+<Chaos>0.754772</Chaos>
+<Notes>817.000000</Notes>
+<TapsAndHolds>802</TapsAndHolds>
+<Jumps>15</Jumps>
+<Holds>129</Holds>
+<Mines>27</Mines>
+<Hands>0</Hands>
+<Rolls>3</Rolls>
+<Lifts>0</Lifts>
+<Fakes>0</Fakes>
+</RadarValues>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<Disqualified>0</Disqualified>
+<Pad>33</Pad>
+<StageGuid>9c07daad-cc5c-409c-a5f2-4301846da366</StageGuid>
+<Guid>aa60ecdf-d1bc-4f4e-a100-5ea093d31a05</Guid>
+</HighScore>
+</HighScoreForASongAndSteps>
+</RecentSongScores>
+</Stats>

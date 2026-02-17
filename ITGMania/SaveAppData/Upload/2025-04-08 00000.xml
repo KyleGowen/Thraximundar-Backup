@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Stats>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<RecentSongScores>
+<HighScoreForASongAndSteps>
+<Song Dir='Songs/Summer Vibes Vol. 2/Silk &amp; Cologne/'/>
+<Steps Difficulty='Medium' StepsType='dance-single'/>
+<HighScore>
+<Name></Name>
+<Grade>Failed</Grade>
+<Score>8</Score>
+<PercentDP>0.121100</PercentDP>
+<SurviveSeconds>48.173038</SurviveSeconds>
+<MaxCombo>30</MaxCombo>
+<StageAward></StageAward>
+<PeakComboAward></PeakComboAward>
+<Modifiers>NoHideLights, C450, Overhead</Modifiers>
+<DateTime>2025-04-08 22:38:45</DateTime>
+<PlayerGuid></PlayerGuid>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<ProductID>1</ProductID>
+<TapNoteScores>
+<HitMine>0</HitMine>
+<AvoidMine>0</AvoidMine>
+<CheckpointMiss>0</CheckpointMiss>
+<Miss>8</Miss>
+<W5>7</W5>
+<W4>14</W4>
+<W3>62</W3>
+<W2>15</W2>
+<W1>37</W1>
+<CheckpointHit>0</CheckpointHit>
+</TapNoteScores>
+<HoldNoteScores>
+<LetGo>0</LetGo>
+<Held>19</Held>
+<MissedHold>1</MissedHold>
+</HoldNoteScores>
+<RadarValues>
+<Stream>0.115942</Stream>
+<Voltage>0.061115</Voltage>
+<Air>0.333333</Air>
+<Freeze>0.283582</Freeze>
+<Chaos>0.121190</Chaos>
+<Notes>135.000000</Notes>
+<TapsAndHolds>128</TapsAndHolds>
+<Jumps>7</Jumps>
+<Holds>19</Holds>
+<Mines>9</Mines>
+<Hands>0</Hands>
+<Rolls>0</Rolls>
+<Lifts>0</Lifts>
+<Fakes>0</Fakes>
+</RadarValues>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<Disqualified>0</Disqualified>
+<Pad>33</Pad>
+<StageGuid>800530c9-85d4-4901-a072-d4a02f7f1aaf</StageGuid>
+<Guid>8a43080f-6f6c-4ea6-a004-f21ae32e506e</Guid>
+</HighScore>
+</HighScoreForASongAndSteps>
+</RecentSongScores>
+</Stats>

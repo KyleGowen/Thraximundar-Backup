@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Stats>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<RecentSongScores>
+<HighScoreForASongAndSteps>
+<Song Dir='Songs/Tech-Bit Adventures 2/Armored Armadillo Stage (From Mega Man X)/'/>
+<Steps Difficulty='Medium' StepsType='dance-single'/>
+<HighScore>
+<Name></Name>
+<Grade>Failed</Grade>
+<Score>102</Score>
+<PercentDP>0.582700</PercentDP>
+<SurviveSeconds>116.675461</SurviveSeconds>
+<MaxCombo>176</MaxCombo>
+<StageAward></StageAward>
+<PeakComboAward></PeakComboAward>
+<Modifiers>NoHideLights, C565, 10% Mini, FailImmediateContinue, Overhead, Default</Modifiers>
+<DateTime>2025-05-24 13:18:30</DateTime>
+<PlayerGuid>4ad3a19834ee56bd</PlayerGuid>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<ProductID>1</ProductID>
+<TapNoteScores>
+<HitMine>0</HitMine>
+<AvoidMine>0</AvoidMine>
+<CheckpointMiss>0</CheckpointMiss>
+<Miss>27</Miss>
+<W5>3</W5>
+<W4>5</W4>
+<W3>131</W3>
+<W2>205</W2>
+<W1>323</W1>
+<CheckpointHit>0</CheckpointHit>
+</TapNoteScores>
+<HoldNoteScores>
+<LetGo>0</LetGo>
+<Held>175</Held>
+<MissedHold>2</MissedHold>
+</HoldNoteScores>
+<RadarValues>
+<Stream>0.763305</Stream>
+<Voltage>0.233526</Voltage>
+<Air>0.650000</Air>
+<Freeze>0.988701</Freeze>
+<Chaos>0.582778</Chaos>
+<Notes>684.000000</Notes>
+<TapsAndHolds>664</TapsAndHolds>
+<Jumps>20</Jumps>
+<Holds>175</Holds>
+<Mines>14</Mines>
+<Hands>2</Hands>
+<Rolls>0</Rolls>
+<Lifts>0</Lifts>
+<Fakes>0</Fakes>
+</RadarValues>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<Disqualified>0</Disqualified>
+<Pad>33</Pad>
+<StageGuid>684b0396-45cf-4379-a429-f98601978a6e</StageGuid>
+<Guid>994f63f2-5e72-45e3-a22a-934981f4280c</Guid>
+</HighScore>
+</HighScoreForASongAndSteps>
+</RecentSongScores>
+</Stats>

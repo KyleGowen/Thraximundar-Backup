@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Stats>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<RecentSongScores>
+<HighScoreForASongAndSteps>
+<Song Dir='Songs/Anthem Series - The Boys/Everybody (Remix)/'/>
+<Steps Difficulty='Challenge' StepsType='dance-single'/>
+<HighScore>
+<Name></Name>
+<Grade>Tier09</Grade>
+<Score>74</Score>
+<PercentDP>0.842500</PercentDP>
+<SurviveSeconds>154.129791</SurviveSeconds>
+<MaxCombo>157</MaxCombo>
+<StageAward></StageAward>
+<PeakComboAward></PeakComboAward>
+<Modifiers>NoHideLights, C585, 10% Mini, FailImmediateContinue, Overhead, Default</Modifiers>
+<DateTime>2025-12-14 14:21:20</DateTime>
+<PlayerGuid>4ad3a19834ee56bd</PlayerGuid>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<ProductID>1</ProductID>
+<TapNoteScores>
+<HitMine>0</HitMine>
+<AvoidMine>0</AvoidMine>
+<CheckpointMiss>0</CheckpointMiss>
+<Miss>7</Miss>
+<W5>1</W5>
+<W4>11</W4>
+<W3>49</W3>
+<W2>134</W2>
+<W1>314</W1>
+<CheckpointHit>0</CheckpointHit>
+</TapNoteScores>
+<HoldNoteScores>
+<LetGo>0</LetGo>
+<Held>76</Held>
+<MissedHold>0</MissedHold>
+</HoldNoteScores>
+<RadarValues>
+<Stream>0.873239</Stream>
+<Voltage>0.249129</Voltage>
+<Air>0.934783</Air>
+<Freeze>1.000000</Freeze>
+<Chaos>0.842568</Chaos>
+<Notes>560.000000</Notes>
+<TapsAndHolds>510</TapsAndHolds>
+<Jumps>46</Jumps>
+<Holds>72</Holds>
+<Mines>0</Mines>
+<Hands>1</Hands>
+<Rolls>4</Rolls>
+<Lifts>0</Lifts>
+<Fakes>0</Fakes>
+</RadarValues>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<Disqualified>0</Disqualified>
+<Pad>33</Pad>
+<StageGuid>848edfa5-9729-435c-ae9f-764a25a8844e</StageGuid>
+<Guid>c66542da-311f-445a-afbc-e254d3f70f31</Guid>
+</HighScore>
+</HighScoreForASongAndSteps>
+</RecentSongScores>
+</Stats>

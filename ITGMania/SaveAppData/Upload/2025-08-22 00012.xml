@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Stats>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<RecentSongScores>
+<HighScoreForASongAndSteps>
+<Song Dir='Songs/Dr. Vactaire&apos;s Thesis (Volume 1)/Bittersweet Symphony┬á(Corn┬á&amp;┬áBeans┬áRemix)/'/>
+<Steps Difficulty='Hard' StepsType='dance-single'/>
+<HighScore>
+<Name></Name>
+<Grade>Tier08</Grade>
+<Score>65</Score>
+<PercentDP>0.870400</PercentDP>
+<SurviveSeconds>130.341858</SurviveSeconds>
+<MaxCombo>321</MaxCombo>
+<StageAward></StageAward>
+<PeakComboAward></PeakComboAward>
+<Modifiers>NoHideLights, C580, 10% Mini, FailImmediateContinue, Overhead, Default</Modifiers>
+<DateTime>2025-08-22 13:37:59</DateTime>
+<PlayerGuid>4ad3a19834ee56bd</PlayerGuid>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<ProductID>1</ProductID>
+<TapNoteScores>
+<HitMine>0</HitMine>
+<AvoidMine>0</AvoidMine>
+<CheckpointMiss>0</CheckpointMiss>
+<Miss>1</Miss>
+<W5>0</W5>
+<W4>2</W4>
+<W3>47</W3>
+<W2>82</W2>
+<W1>216</W1>
+<CheckpointHit>0</CheckpointHit>
+</TapNoteScores>
+<HoldNoteScores>
+<LetGo>3</LetGo>
+<Held>58</Held>
+<MissedHold>0</MissedHold>
+</HoldNoteScores>
+<RadarValues>
+<Stream>0.855670</Stream>
+<Voltage>0.854585</Voltage>
+<Air>0.925000</Air>
+<Freeze>0.945455</Freeze>
+<Chaos>0.870416</Chaos>
+<Notes>387.000000</Notes>
+<TapsAndHolds>347</TapsAndHolds>
+<Jumps>40</Jumps>
+<Holds>52</Holds>
+<Mines>0</Mines>
+<Hands>6</Hands>
+<Rolls>6</Rolls>
+<Lifts>0</Lifts>
+<Fakes>0</Fakes>
+</RadarValues>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<Disqualified>0</Disqualified>
+<Pad>33</Pad>
+<StageGuid>5d52d851-c4c5-4587-a3bf-41880b897ebd</StageGuid>
+<Guid>734d48a5-e153-4847-a2bf-3078a9a8582b</Guid>
+</HighScore>
+</HighScoreForASongAndSteps>
+</RecentSongScores>
+</Stats>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Stats>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<RecentSongScores>
+<HighScoreForASongAndSteps>
+<Song Dir='Songs/Misc. Collected/The Purified/'/>
+<Steps Difficulty='Medium' StepsType='dance-single'/>
+<HighScore>
+<Name></Name>
+<Grade>Tier11</Grade>
+<Score>79</Score>
+<PercentDP>0.795800</PercentDP>
+<SurviveSeconds>157.474991</SurviveSeconds>
+<MaxCombo>139</MaxCombo>
+<StageAward></StageAward>
+<PeakComboAward></PeakComboAward>
+<Modifiers>NoHideLights, C580, 10% Mini, FailImmediateContinue, Overhead, Default</Modifiers>
+<DateTime>2025-07-08 17:55:56</DateTime>
+<PlayerGuid>4ad3a19834ee56bd</PlayerGuid>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<ProductID>1</ProductID>
+<TapNoteScores>
+<HitMine>2</HitMine>
+<AvoidMine>0</AvoidMine>
+<CheckpointMiss>0</CheckpointMiss>
+<Miss>11</Miss>
+<W5>4</W5>
+<W4>3</W4>
+<W3>88</W3>
+<W2>144</W2>
+<W1>239</W1>
+<CheckpointHit>0</CheckpointHit>
+</TapNoteScores>
+<HoldNoteScores>
+<LetGo>0</LetGo>
+<Held>187</Held>
+<MissedHold>6</MissedHold>
+</HoldNoteScores>
+<RadarValues>
+<Stream>0.783939</Stream>
+<Voltage>0.305511</Voltage>
+<Air>0.750000</Air>
+<Freeze>0.969880</Freeze>
+<Chaos>0.795894</Chaos>
+<Notes>505.000000</Notes>
+<TapsAndHolds>476</TapsAndHolds>
+<Jumps>32</Jumps>
+<Holds>161</Holds>
+<Mines>2</Mines>
+<Hands>1</Hands>
+<Rolls>26</Rolls>
+<Lifts>0</Lifts>
+<Fakes>0</Fakes>
+</RadarValues>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<Disqualified>0</Disqualified>
+<Pad>33</Pad>
+<StageGuid>d9a85082-c1e5-4b69-a18f-891035d38b7a</StageGuid>
+<Guid>d3974b09-7427-4ec9-a1fc-14eda5dbe5a6</Guid>
+</HighScore>
+</HighScoreForASongAndSteps>
+</RecentSongScores>
+</Stats>

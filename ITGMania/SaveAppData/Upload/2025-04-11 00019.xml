@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Stats>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<RecentSongScores>
+<HighScoreForASongAndSteps>
+<Song Dir='Songs/Misc. Collected/Barbra Streisand/'/>
+<Steps Difficulty='Hard' StepsType='dance-single'/>
+<HighScore>
+<Name></Name>
+<Grade>Tier16</Grade>
+<Score>22</Score>
+<PercentDP>0.578600</PercentDP>
+<SurviveSeconds>89.928642</SurviveSeconds>
+<MaxCombo>56</MaxCombo>
+<StageAward></StageAward>
+<PeakComboAward></PeakComboAward>
+<Modifiers>NoHideLights, C550, FailImmediateContinue, Overhead</Modifiers>
+<DateTime>2025-04-11 20:59:40</DateTime>
+<PlayerGuid></PlayerGuid>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<ProductID>1</ProductID>
+<TapNoteScores>
+<HitMine>0</HitMine>
+<AvoidMine>0</AvoidMine>
+<CheckpointMiss>0</CheckpointMiss>
+<Miss>9</Miss>
+<W5>6</W5>
+<W4>7</W4>
+<W3>79</W3>
+<W2>61</W2>
+<W1>62</W1>
+<CheckpointHit>0</CheckpointHit>
+</TapNoteScores>
+<HoldNoteScores>
+<LetGo>0</LetGo>
+<Held>38</Held>
+<MissedHold>0</MissedHold>
+</HoldNoteScores>
+<RadarValues>
+<Stream>0.554113</Stream>
+<Voltage>0.228658</Voltage>
+<Air>0.285714</Air>
+<Freeze>1.000000</Freeze>
+<Chaos>0.578626</Chaos>
+<Notes>216.000000</Notes>
+<TapsAndHolds>210</TapsAndHolds>
+<Jumps>7</Jumps>
+<Holds>38</Holds>
+<Mines>0</Mines>
+<Hands>0</Hands>
+<Rolls>0</Rolls>
+<Lifts>0</Lifts>
+<Fakes>0</Fakes>
+</RadarValues>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<Disqualified>0</Disqualified>
+<Pad>33</Pad>
+<StageGuid>2808fb85-1cb4-4cce-ab86-9fc2ebe552ed</StageGuid>
+<Guid>3ae94715-06d7-49a3-a2a3-0be4c50e1cd6</Guid>
+</HighScore>
+</HighScoreForASongAndSteps>
+</RecentSongScores>
+</Stats>

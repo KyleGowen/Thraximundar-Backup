@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Stats>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<RecentSongScores>
+<HighScoreForASongAndSteps>
+<Song Dir='Songs/Ben Speirs&apos; SPEIRMIX GALAXY/Immortals/'/>
+<Steps Difficulty='Medium' StepsType='dance-single'/>
+<HighScore>
+<Name></Name>
+<Grade>Failed</Grade>
+<Score>35</Score>
+<PercentDP>0.599200</PercentDP>
+<SurviveSeconds>106.277191</SurviveSeconds>
+<MaxCombo>84</MaxCombo>
+<StageAward></StageAward>
+<PeakComboAward></PeakComboAward>
+<Modifiers>NoHideLights, m325, FailImmediateContinue, Overhead, Default</Modifiers>
+<DateTime>2025-04-15 17:32:13</DateTime>
+<PlayerGuid>d876307e83faa0ea</PlayerGuid>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<ProductID>1</ProductID>
+<TapNoteScores>
+<HitMine>0</HitMine>
+<AvoidMine>0</AvoidMine>
+<CheckpointMiss>0</CheckpointMiss>
+<Miss>17</Miss>
+<W5>5</W5>
+<W4>5</W4>
+<W3>40</W3>
+<W2>70</W2>
+<W1>102</W1>
+<CheckpointHit>0</CheckpointHit>
+</TapNoteScores>
+<HoldNoteScores>
+<LetGo>0</LetGo>
+<Held>38</Held>
+<MissedHold>0</MissedHold>
+</HoldNoteScores>
+<RadarValues>
+<Stream>0.709302</Stream>
+<Voltage>0.318462</Voltage>
+<Air>0.578947</Air>
+<Freeze>1.000000</Freeze>
+<Chaos>0.599278</Chaos>
+<Notes>234.000000</Notes>
+<TapsAndHolds>217</TapsAndHolds>
+<Jumps>15</Jumps>
+<Holds>38</Holds>
+<Mines>0</Mines>
+<Hands>0</Hands>
+<Rolls>0</Rolls>
+<Lifts>0</Lifts>
+<Fakes>0</Fakes>
+</RadarValues>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<Disqualified>0</Disqualified>
+<Pad>33</Pad>
+<StageGuid>6f11061b-78af-4d65-a037-4f75b5fc34c6</StageGuid>
+<Guid>f310dec0-1ca8-4352-a9ed-898ca0f55807</Guid>
+</HighScore>
+</HighScoreForASongAndSteps>
+</RecentSongScores>
+</Stats>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Stats>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<RecentSongScores>
+<HighScoreForASongAndSteps>
+<Song Dir='Songs/Ben Speirs&apos; SPEIRMIX/What&apos;s Up_ (Dougal &amp; Gammer Hardcore Remix)/'/>
+<Steps Difficulty='Medium' StepsType='dance-single'/>
+<HighScore>
+<Name></Name>
+<Grade>Failed</Grade>
+<Score>3</Score>
+<PercentDP>0.026000</PercentDP>
+<SurviveSeconds>25.140705</SurviveSeconds>
+<MaxCombo>17</MaxCombo>
+<StageAward></StageAward>
+<PeakComboAward></PeakComboAward>
+<Modifiers>NoHideLights, C350, NoMines, NoFakes, FailImmediateContinue, Overhead, Default</Modifiers>
+<DateTime>2025-07-13 17:08:48</DateTime>
+<PlayerGuid>860d52c775648af3</PlayerGuid>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<ProductID>1</ProductID>
+<TapNoteScores>
+<HitMine>0</HitMine>
+<AvoidMine>0</AvoidMine>
+<CheckpointMiss>0</CheckpointMiss>
+<Miss>4</Miss>
+<W5>2</W5>
+<W4>2</W4>
+<W3>15</W3>
+<W2>5</W2>
+<W1>9</W1>
+<CheckpointHit>0</CheckpointHit>
+</TapNoteScores>
+<HoldNoteScores>
+<LetGo>0</LetGo>
+<Held>0</Held>
+<MissedHold>2</MissedHold>
+</HoldNoteScores>
+<RadarValues>
+<Stream>0.061303</Stream>
+<Voltage>0.076913</Voltage>
+<Air>0.166667</Air>
+<Freeze>0.000000</Freeze>
+<Chaos>0.026022</Chaos>
+<Notes>36.000000</Notes>
+<TapsAndHolds>33</TapsAndHolds>
+<Jumps>2</Jumps>
+<Holds>0</Holds>
+<Mines>0</Mines>
+<Hands>0</Hands>
+<Rolls>0</Rolls>
+<Lifts>0</Lifts>
+<Fakes>0</Fakes>
+</RadarValues>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<Disqualified>0</Disqualified>
+<Pad>33</Pad>
+<StageGuid>e11e5956-bf75-4669-a208-c714ef5857fc</StageGuid>
+<Guid>cc14e9c3-a809-4a0e-a66e-b167ac081b36</Guid>
+</HighScore>
+</HighScoreForASongAndSteps>
+</RecentSongScores>
+</Stats>

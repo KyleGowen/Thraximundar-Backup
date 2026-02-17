@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Stats>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<RecentSongScores>
+<HighScoreForASongAndSteps>
+<Song Dir='Songs/Ben Speirs&apos; SPEIRMIX GALAXY/A Sky Full Of Stars/'/>
+<Steps Difficulty='Easy' StepsType='dance-single'/>
+<HighScore>
+<Name></Name>
+<Grade>Failed</Grade>
+<Score>11</Score>
+<PercentDP>0.047200</PercentDP>
+<SurviveSeconds>43.864548</SurviveSeconds>
+<MaxCombo>13</MaxCombo>
+<StageAward></StageAward>
+<PeakComboAward></PeakComboAward>
+<Modifiers>NoHideLights, C350, FailImmediateContinue, Overhead</Modifiers>
+<DateTime>2025-06-09 19:25:44</DateTime>
+<PlayerGuid>2dde4d6e8737681e</PlayerGuid>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<ProductID>1</ProductID>
+<TapNoteScores>
+<HitMine>0</HitMine>
+<AvoidMine>0</AvoidMine>
+<CheckpointMiss>0</CheckpointMiss>
+<Miss>14</Miss>
+<W5>14</W5>
+<W4>17</W4>
+<W3>49</W3>
+<W2>23</W2>
+<W1>31</W1>
+<CheckpointHit>0</CheckpointHit>
+</TapNoteScores>
+<HoldNoteScores>
+<LetGo>4</LetGo>
+<Held>39</Held>
+<MissedHold>8</MissedHold>
+</HoldNoteScores>
+<RadarValues>
+<Stream>0.361842</Stream>
+<Voltage>0.065763</Voltage>
+<Air>0.250000</Air>
+<Freeze>0.764706</Freeze>
+<Chaos>0.047236</Chaos>
+<Notes>122.000000</Notes>
+<TapsAndHolds>121</TapsAndHolds>
+<Jumps>2</Jumps>
+<Holds>39</Holds>
+<Mines>0</Mines>
+<Hands>0</Hands>
+<Rolls>0</Rolls>
+<Lifts>0</Lifts>
+<Fakes>0</Fakes>
+</RadarValues>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<Disqualified>0</Disqualified>
+<Pad>33</Pad>
+<StageGuid>48477e4a-6a94-4991-ac29-f542e050eeff</StageGuid>
+<Guid>72cbea8c-b5c4-483f-a286-329af28e2ca4</Guid>
+</HighScore>
+</HighScoreForASongAndSteps>
+</RecentSongScores>
+</Stats>

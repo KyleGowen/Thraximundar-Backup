@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Stats>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<RecentSongScores>
+<HighScoreForASongAndSteps>
+<Song Dir='Songs/Tech-Bit Adventures 5/Koopa Troopa Beach/'/>
+<Steps Difficulty='Hard' StepsType='dance-single'/>
+<HighScore>
+<Name></Name>
+<Grade>Failed</Grade>
+<Score>55</Score>
+<PercentDP>0.531500</PercentDP>
+<SurviveSeconds>107.890968</SurviveSeconds>
+<MaxCombo>60</MaxCombo>
+<StageAward></StageAward>
+<PeakComboAward></PeakComboAward>
+<Modifiers>NoHideLights, C585, 10% Mini, FailImmediateContinue, Overhead, Default</Modifiers>
+<DateTime>2026-01-09 16:25:32</DateTime>
+<PlayerGuid>4ad3a19834ee56bd</PlayerGuid>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<ProductID>1</ProductID>
+<TapNoteScores>
+<HitMine>5</HitMine>
+<AvoidMine>0</AvoidMine>
+<CheckpointMiss>0</CheckpointMiss>
+<Miss>117</Miss>
+<W5>7</W5>
+<W4>13</W4>
+<W3>82</W3>
+<W2>115</W2>
+<W1>189</W1>
+<CheckpointHit>0</CheckpointHit>
+</TapNoteScores>
+<HoldNoteScores>
+<LetGo>2</LetGo>
+<Held>24</Held>
+<MissedHold>3</MissedHold>
+</HoldNoteScores>
+<RadarValues>
+<Stream>0.577889</Stream>
+<Voltage>0.101530</Voltage>
+<Air>0.459459</Air>
+<Freeze>0.827586</Freeze>
+<Chaos>0.531522</Chaos>
+<Notes>452.000000</Notes>
+<TapsAndHolds>402</TapsAndHolds>
+<Jumps>50</Jumps>
+<Holds>24</Holds>
+<Mines>27</Mines>
+<Hands>0</Hands>
+<Rolls>0</Rolls>
+<Lifts>0</Lifts>
+<Fakes>0</Fakes>
+</RadarValues>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<Disqualified>0</Disqualified>
+<Pad>33</Pad>
+<StageGuid>36b83a6a-57d4-455e-a9ed-cef0efc2f758</StageGuid>
+<Guid>1e5b2ab8-e5af-460a-a3a1-c314f7478a0b</Guid>
+</HighScore>
+</HighScoreForASongAndSteps>
+</RecentSongScores>
+</Stats>

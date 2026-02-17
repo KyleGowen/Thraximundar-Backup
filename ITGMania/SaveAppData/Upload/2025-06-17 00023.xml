@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Stats>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<RecentSongScores>
+<HighScoreForASongAndSteps>
+<Song Dir='Songs/The Starter Pack of Stamina 2/Star Song - [ChasePines]/'/>
+<Steps Difficulty='Beginner' StepsType='dance-single'/>
+<HighScore>
+<Name></Name>
+<Grade>Tier13</Grade>
+<Score>91</Score>
+<PercentDP>0.687600</PercentDP>
+<SurviveSeconds>175.539703</SurviveSeconds>
+<MaxCombo>102</MaxCombo>
+<StageAward></StageAward>
+<PeakComboAward></PeakComboAward>
+<Modifiers>NoHideLights, C380, FailImmediateContinue, Overhead, Default</Modifiers>
+<DateTime>2025-06-17 18:27:28</DateTime>
+<PlayerGuid>d876307e83faa0ea</PlayerGuid>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<ProductID>1</ProductID>
+<TapNoteScores>
+<HitMine>0</HitMine>
+<AvoidMine>0</AvoidMine>
+<CheckpointMiss>0</CheckpointMiss>
+<Miss>27</Miss>
+<W5>6</W5>
+<W4>18</W4>
+<W3>86</W3>
+<W2>222</W2>
+<W1>254</W1>
+<CheckpointHit>0</CheckpointHit>
+</TapNoteScores>
+<HoldNoteScores>
+<LetGo>0</LetGo>
+<Held>108</Held>
+<MissedHold>9</MissedHold>
+</HoldNoteScores>
+<RadarValues>
+<Stream>0.776509</Stream>
+<Voltage>0.147717</Voltage>
+<Air>0.000000</Air>
+<Freeze>0.923077</Freeze>
+<Chaos>0.687671</Chaos>
+<Notes>580.000000</Notes>
+<TapsAndHolds>580</TapsAndHolds>
+<Jumps>0</Jumps>
+<Holds>108</Holds>
+<Mines>0</Mines>
+<Hands>0</Hands>
+<Rolls>0</Rolls>
+<Lifts>0</Lifts>
+<Fakes>0</Fakes>
+</RadarValues>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<Disqualified>0</Disqualified>
+<Pad>33</Pad>
+<StageGuid>e2c6a845-9729-4d0d-ace4-de16a9ef9443</StageGuid>
+<Guid>fbba35ea-f696-4346-a358-0c58bfa4852b</Guid>
+</HighScore>
+</HighScoreForASongAndSteps>
+</RecentSongScores>
+</Stats>

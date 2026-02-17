@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Stats>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<RecentSongScores>
+<HighScoreForASongAndSteps>
+<Song Dir='Songs/Pendulum/Propane Nightmares/'/>
+<Steps Difficulty='Easy' StepsType='dance-single'/>
+<HighScore>
+<Name></Name>
+<Grade>Tier07</Grade>
+<Score>195</Score>
+<PercentDP>0.893700</PercentDP>
+<SurviveSeconds>312.605865</SurviveSeconds>
+<MaxCombo>277</MaxCombo>
+<StageAward></StageAward>
+<PeakComboAward></PeakComboAward>
+<Modifiers>NoHideLights, C585, 10% Mini, FailImmediateContinue, Overhead, Default</Modifiers>
+<DateTime>2025-10-07 16:42:02</DateTime>
+<PlayerGuid>4ad3a19834ee56bd</PlayerGuid>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<ProductID>1</ProductID>
+<TapNoteScores>
+<HitMine>4</HitMine>
+<AvoidMine>0</AvoidMine>
+<CheckpointMiss>0</CheckpointMiss>
+<Miss>4</Miss>
+<W5>5</W5>
+<W4>7</W4>
+<W3>97</W3>
+<W2>261</W2>
+<W1>732</W1>
+<CheckpointHit>0</CheckpointHit>
+</TapNoteScores>
+<HoldNoteScores>
+<LetGo>2</LetGo>
+<Held>293</Held>
+<MissedHold>0</MissedHold>
+</HoldNoteScores>
+<RadarValues>
+<Stream>0.896705</Stream>
+<Voltage>0.264041</Voltage>
+<Air>0.882353</Air>
+<Freeze>0.992727</Freeze>
+<Chaos>0.893790</Chaos>
+<Notes>1113.000000</Notes>
+<TapsAndHolds>1097</TapsAndHolds>
+<Jumps>17</Jumps>
+<Holds>273</Holds>
+<Mines>448</Mines>
+<Hands>1</Hands>
+<Rolls>20</Rolls>
+<Lifts>0</Lifts>
+<Fakes>0</Fakes>
+</RadarValues>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<Disqualified>0</Disqualified>
+<Pad>33</Pad>
+<StageGuid>11f9ee53-1e09-481f-a728-2415697f7b92</StageGuid>
+<Guid>caf0feb5-83f8-44ce-a9b6-e263b65602a6</Guid>
+</HighScore>
+</HighScoreForASongAndSteps>
+</RecentSongScores>
+</Stats>

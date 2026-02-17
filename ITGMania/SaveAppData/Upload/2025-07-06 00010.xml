@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Stats>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<RecentSongScores>
+<HighScoreForASongAndSteps>
+<Song Dir='Songs/Tech-Bit Adventures/Oil Ocean Zone (From -Sonic the Hedgehog 2-)/'/>
+<Steps Difficulty='Hard' StepsType='dance-single'/>
+<HighScore>
+<Name></Name>
+<Grade>Tier11</Grade>
+<Score>77</Score>
+<PercentDP>0.792800</PercentDP>
+<SurviveSeconds>123.340874</SurviveSeconds>
+<MaxCombo>113</MaxCombo>
+<StageAward></StageAward>
+<PeakComboAward></PeakComboAward>
+<Modifiers>NoHideLights, C575, 10% Mini, FailImmediateContinue, Overhead, Default</Modifiers>
+<DateTime>2025-07-06 11:00:24</DateTime>
+<PlayerGuid>4ad3a19834ee56bd</PlayerGuid>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<ProductID>1</ProductID>
+<TapNoteScores>
+<HitMine>4</HitMine>
+<AvoidMine>0</AvoidMine>
+<CheckpointMiss>0</CheckpointMiss>
+<Miss>7</Miss>
+<W5>4</W5>
+<W4>7</W4>
+<W3>80</W3>
+<W2>129</W2>
+<W1>288</W1>
+<CheckpointHit>0</CheckpointHit>
+</TapNoteScores>
+<HoldNoteScores>
+<LetGo>2</LetGo>
+<Held>67</Held>
+<MissedHold>1</MissedHold>
+</HoldNoteScores>
+<RadarValues>
+<Stream>0.806950</Stream>
+<Voltage>0.219418</Voltage>
+<Air>1.000000</Air>
+<Freeze>0.978261</Freeze>
+<Chaos>0.792821</Chaos>
+<Notes>505.000000</Notes>
+<TapsAndHolds>504</TapsAndHolds>
+<Jumps>3</Jumps>
+<Holds>45</Holds>
+<Mines>32</Mines>
+<Hands>0</Hands>
+<Rolls>22</Rolls>
+<Lifts>0</Lifts>
+<Fakes>0</Fakes>
+</RadarValues>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<Disqualified>0</Disqualified>
+<Pad>33</Pad>
+<StageGuid>95234e31-ff4d-47b4-afc3-8829a0ce8733</StageGuid>
+<Guid>3b919f4b-6cbe-4dea-a298-8d43d4542075</Guid>
+</HighScore>
+</HighScoreForASongAndSteps>
+</RecentSongScores>
+</Stats>
