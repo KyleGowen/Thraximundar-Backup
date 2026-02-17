@@ -18,16 +18,16 @@
 <Song Dir=''/>
 <Course/>
 <CurrentCombo>0</CurrentCombo>
-<TotalSessions>2432</TotalSessions>
-<TotalSessionSeconds>1090836</TotalSessionSeconds>
-<TotalGameplaySeconds>537124</TotalGameplaySeconds>
+<TotalSessions>2433</TotalSessions>
+<TotalSessionSeconds>1090941</TotalSessionSeconds>
+<TotalGameplaySeconds>537217</TotalGameplaySeconds>
 <TotalCaloriesBurned>194005.484375</TotalCaloriesBurned>
 <GoalType>0</GoalType>
 <GoalCalories>0</GoalCalories>
 <GoalSeconds>0</GoalSeconds>
 <LastPlayedMachineGuid>403d15c592378cca</LastPlayedMachineGuid>
 <LastPlayedDate>2026-02-17</LastPlayedDate>
-<TotalDancePoints>7766781</TotalDancePoints>
+<TotalDancePoints>7765881</TotalDancePoints>
 <NumExtraStagesPassed>0</NumExtraStagesPassed>
 <NumExtraStagesFailed>0</NumExtraStagesFailed>
 <NumToasties>879</NumToasties>
@@ -41,20 +41,20 @@
 <DefaultModifiers/>
 <Unlocks/>
 <NumSongsPlayedByPlayMode>
-<Regular>3941</Regular>
+<Regular>3942</Regular>
 </NumSongsPlayedByPlayMode>
 <NumSongsPlayedByStyle>
-<Style Game='dance' Style='single'>2346</Style>
+<Style Game='dance' Style='single'>2347</Style>
 </NumSongsPlayedByStyle>
 <NumSongsPlayedByDifficulty>
-<Beginner>326</Beginner>
+<Beginner>327</Beginner>
 <Easy>652</Easy>
 <Medium>680</Medium>
 <Hard>1157</Hard>
 <Challenge>1126</Challenge>
 </NumSongsPlayedByDifficulty>
 <NumSongsPlayedByMeter>
-<Meter1>200</Meter1>
+<Meter1>201</Meter1>
 <Meter2>127</Meter2>
 <Meter3>273</Meter3>
 <Meter4>157</Meter4>
@@ -70,9 +70,9 @@
 <Meter14>22</Meter14>
 <Meter15>1</Meter15>
 </NumSongsPlayedByMeter>
-<NumTotalSongsPlayed>3941</NumTotalSongsPlayed>
+<NumTotalSongsPlayed>3942</NumTotalSongsPlayed>
 <NumStagesPassedByPlayMode>
-<Regular>3277</Regular>
+<Regular>3278</Regular>
 </NumStagesPassedByPlayMode>
 <NumStagesPassedByGrade>
 <Tier01>2</Tier01>
@@ -91,7 +91,7 @@
 <Tier14>118</Tier14>
 <Tier15>99</Tier15>
 <Tier16>73</Tier16>
-<Tier17>195</Tier17>
+<Tier17>196</Tier17>
 </NumStagesPassedByGrade>
 </GeneralData>
 <SongScores>
@@ -28093,6 +28093,14 @@
 <Steps Difficulty='Easy' StepsType='dance-single'>
 <HighScoreList>
 <NumTimesPlayed>2</NumTimesPlayed>
+<LastPlayed>2026-02-17</LastPlayed>
+</HighScoreList>
+</Steps>
+</Song>
+<Song Dir='Songs/DDR 2nd Mix/EL RITMO TROPICAL/'>
+<Steps Difficulty='Beginner' StepsType='dance-single'>
+<HighScoreList>
+<NumTimesPlayed>1</NumTimesPlayed>
 <LastPlayed>2026-02-17</LastPlayed>
 </HighScoreList>
 </Steps>
@@ -129013,8 +129021,8 @@
 <Week12Ago>0</Week12Ago>
 <Week13Ago>0</Week13Ago>
 <Week14Ago>0</Week14Ago>
-<Week15Ago>1</Week15Ago>
-<Week16Ago>0</Week16Ago>
+<Week15Ago>0</Week15Ago>
+<Week16Ago>1</Week16Ago>
 <Week17Ago>0</Week17Ago>
 <Week18Ago>0</Week18Ago>
 <Week19Ago>0</Week19Ago>
