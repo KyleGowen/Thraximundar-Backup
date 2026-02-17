@@ -18,22 +18,22 @@
 <Song Dir=''/>
 <Course/>
 <CurrentCombo>0</CurrentCombo>
-<TotalSessions>2399</TotalSessions>
-<TotalSessionSeconds>1089750</TotalSessionSeconds>
-<TotalGameplaySeconds>536340</TotalGameplaySeconds>
-<TotalCaloriesBurned>193888.437500</TotalCaloriesBurned>
+<TotalSessions>2407</TotalSessions>
+<TotalSessionSeconds>1089955</TotalSessionSeconds>
+<TotalGameplaySeconds>536473</TotalGameplaySeconds>
+<TotalCaloriesBurned>193925.000000</TotalCaloriesBurned>
 <GoalType>0</GoalType>
 <GoalCalories>0</GoalCalories>
 <GoalSeconds>0</GoalSeconds>
 <LastPlayedMachineGuid>403d15c592378cca</LastPlayedMachineGuid>
-<LastPlayedDate>2026-02-16</LastPlayedDate>
-<TotalDancePoints>7766584</TotalDancePoints>
+<LastPlayedDate>2026-02-17</LastPlayedDate>
+<TotalDancePoints>7767535</TotalDancePoints>
 <NumExtraStagesPassed>0</NumExtraStagesPassed>
 <NumExtraStagesFailed>0</NumExtraStagesFailed>
 <NumToasties>879</NumToasties>
-<TotalTapsAndHolds>1672151</TotalTapsAndHolds>
-<TotalJumps>103579</TotalJumps>
-<TotalHolds>162736</TotalHolds>
+<TotalTapsAndHolds>1672422</TotalTapsAndHolds>
+<TotalJumps>103624</TotalJumps>
+<TotalHolds>162765</TotalHolds>
 <TotalRolls>6541</TotalRolls>
 <TotalMines>69113</TotalMines>
 <TotalHands>3386</TotalHands>
@@ -41,15 +41,15 @@
 <DefaultModifiers/>
 <Unlocks/>
 <NumSongsPlayedByPlayMode>
-<Regular>3932</Regular>
+<Regular>3933</Regular>
 </NumSongsPlayedByPlayMode>
 <NumSongsPlayedByStyle>
-<Style Game='dance' Style='single'>2337</Style>
+<Style Game='dance' Style='single'>2338</Style>
 </NumSongsPlayedByStyle>
 <NumSongsPlayedByDifficulty>
 <Beginner>321</Beginner>
 <Easy>650</Easy>
-<Medium>678</Medium>
+<Medium>679</Medium>
 <Hard>1157</Hard>
 <Challenge>1126</Challenge>
 </NumSongsPlayedByDifficulty>
@@ -59,7 +59,7 @@
 <Meter3>272</Meter3>
 <Meter4>157</Meter4>
 <Meter5>169</Meter5>
-<Meter6>311</Meter6>
+<Meter6>312</Meter6>
 <Meter7>429</Meter7>
 <Meter8>519</Meter8>
 <Meter9>839</Meter9>
@@ -70,9 +70,9 @@
 <Meter14>22</Meter14>
 <Meter15>1</Meter15>
 </NumSongsPlayedByMeter>
-<NumTotalSongsPlayed>3932</NumTotalSongsPlayed>
+<NumTotalSongsPlayed>3933</NumTotalSongsPlayed>
 <NumStagesPassedByPlayMode>
-<Regular>3270</Regular>
+<Regular>3271</Regular>
 </NumStagesPassedByPlayMode>
 <NumStagesPassedByGrade>
 <Tier01>2</Tier01>
@@ -89,7 +89,7 @@
 <Tier12>262</Tier12>
 <Tier13>192</Tier13>
 <Tier14>118</Tier14>
-<Tier15>98</Tier15>
+<Tier15>99</Tier15>
 <Tier16>72</Tier16>
 <Tier17>190</Tier17>
 </NumStagesPassedByGrade>
@@ -65041,6 +65041,81 @@
 </HighScoreList>
 </Steps>
 </Song>
+<Song Dir='Songs/JBEAN Exclusives - 2011/1001 Arabian Nights/'>
+<Steps Difficulty='Challenge' StepsType='dance-single'>
+<HighScoreList>
+<NumTimesPlayed>1</NumTimesPlayed>
+<LastPlayed>2026-02-17</LastPlayed>
+</HighScoreList>
+</Steps>
+</Song>
+<Song Dir='Songs/JBEAN Exclusives - 2011/Barbie Girl/'>
+<Steps Difficulty='Medium' StepsType='dance-single'>
+<HighScoreList>
+<NumTimesPlayed>1</NumTimesPlayed>
+<LastPlayed>2026-02-17</LastPlayed>
+<HighGrade>Tier15</HighGrade>
+<HighScore>
+<Name>KYLE</Name>
+<Grade>Tier15</Grade>
+<Score>30</Score>
+<PercentDP>0.601800</PercentDP>
+<SurviveSeconds>133.997513</SurviveSeconds>
+<MaxCombo>73</MaxCombo>
+<StageAward></StageAward>
+<PeakComboAward></PeakComboAward>
+<Modifiers>NoHideLights, C590, 15% Mini, FailImmediateContinue, Overhead, Default</Modifiers>
+<DateTime>2026-02-17 00:10:04</DateTime>
+<PlayerGuid>4ad3a19834ee56bd</PlayerGuid>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<ProductID>1</ProductID>
+<TapNoteScores>
+<HitMine>0</HitMine>
+<AvoidMine>0</AvoidMine>
+<CheckpointMiss>0</CheckpointMiss>
+<Miss>8</Miss>
+<W5>9</W5>
+<W4>9</W4>
+<W3>89</W3>
+<W2>82</W2>
+<W1>90</W1>
+<CheckpointHit>0</CheckpointHit>
+</TapNoteScores>
+<HoldNoteScores>
+<LetGo>0</LetGo>
+<Held>29</Held>
+<MissedHold>0</MissedHold>
+</HoldNoteScores>
+<RadarValues>
+<Stream>0.616766</Stream>
+<Voltage>0.200764</Voltage>
+<Air>0.574468</Air>
+<Freeze>1.000000</Freeze>
+<Chaos>0.601899</Chaos>
+<Notes>316.000000</Notes>
+<TapsAndHolds>271</TapsAndHolds>
+<Jumps>45</Jumps>
+<Holds>29</Holds>
+<Mines>0</Mines>
+<Hands>0</Hands>
+<Rolls>0</Rolls>
+<Lifts>0</Lifts>
+<Fakes>0</Fakes>
+</RadarValues>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<Disqualified>0</Disqualified>
+</HighScore>
+</HighScoreList>
+</Steps>
+</Song>
+<Song Dir='Songs/JBEAN Exclusives - 2011/Bulletproof (Tiborg Remix)/'>
+<Steps Difficulty='Medium' StepsType='dance-single'>
+<HighScoreList>
+<NumTimesPlayed>1</NumTimesPlayed>
+<LastPlayed>2026-02-17</LastPlayed>
+</HighScoreList>
+</Steps>
+</Song>
 <Song Dir='Songs/JBEAN Originals - 2018/24 Karat 2016 (feat. Klara Elias)/'>
 <Steps Difficulty='Hard' StepsType='dance-single'>
 <HighScoreList>
@@ -128701,20 +128776,21 @@
 <CaloriesBurned Date='2026-02-09'>194.210266</CaloriesBurned>
 <CaloriesBurned Date='2026-02-14'>1732.880127</CaloriesBurned>
 <CaloriesBurned Date='2026-02-16'>1900.385742</CaloriesBurned>
+<CaloriesBurned Date='2026-02-17'>36.564735</CaloriesBurned>
 </CalorieData>
 <CoinData>
 <LastDays>
 <Today>0</Today>
 <Yesterday>0</Yesterday>
-<Day2Ago>1</Day2Ago>
-<Day3Ago>0</Day3Ago>
+<Day2Ago>0</Day2Ago>
+<Day3Ago>1</Day3Ago>
 <Day4Ago>0</Day4Ago>
 <Day5Ago>0</Day5Ago>
 <Day6Ago>0</Day6Ago>
 </LastDays>
 <LastWeeks>
-<ThisWeek>0</ThisWeek>
-<LastWeek>1</LastWeek>
+<ThisWeek>1</ThisWeek>
+<LastWeek>0</LastWeek>
 <Week02Ago>0</Week02Ago>
 <Week03Ago>0</Week03Ago>
 <Week04Ago>0</Week04Ago>
@@ -128728,8 +128804,8 @@
 <Week12Ago>0</Week12Ago>
 <Week13Ago>0</Week13Ago>
 <Week14Ago>0</Week14Ago>
-<Week15Ago>0</Week15Ago>
-<Week16Ago>1</Week16Ago>
+<Week15Ago>1</Week15Ago>
+<Week16Ago>0</Week16Ago>
 <Week17Ago>0</Week17Ago>
 <Week18Ago>0</Week18Ago>
 <Week19Ago>0</Week19Ago>
@@ -128748,17 +128824,17 @@
 <Week32Ago>0</Week32Ago>
 <Week33Ago>0</Week33Ago>
 <Week34Ago>2</Week34Ago>
-<Week35Ago>0</Week35Ago>
-<Week36Ago>2</Week36Ago>
-<Week37Ago>1</Week37Ago>
-<Week38Ago>1</Week38Ago>
+<Week35Ago>1</Week35Ago>
+<Week36Ago>1</Week36Ago>
+<Week37Ago>2</Week37Ago>
+<Week38Ago>0</Week38Ago>
 <Week39Ago>0</Week39Ago>
 <Week40Ago>0</Week40Ago>
 <Week41Ago>1</Week41Ago>
 <Week42Ago>0</Week42Ago>
 <Week43Ago>0</Week43Ago>
-<Week44Ago>0</Week44Ago>
-<Week45Ago>1</Week45Ago>
+<Week44Ago>1</Week44Ago>
+<Week45Ago>0</Week45Ago>
 <Week46Ago>0</Week46Ago>
 <Week47Ago>0</Week47Ago>
 <Week48Ago>0</Week48Ago>

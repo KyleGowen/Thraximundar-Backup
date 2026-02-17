@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Stats>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<RecentSongScores>
+<HighScoreForASongAndSteps>
+<Song Dir='Songs/JBEAN Exclusives - 2011/Barbie Girl/'/>
+<Steps Difficulty='Medium' StepsType='dance-single'/>
+<HighScore>
+<Name></Name>
+<Grade>Tier15</Grade>
+<Score>30</Score>
+<PercentDP>0.601800</PercentDP>
+<SurviveSeconds>133.997513</SurviveSeconds>
+<MaxCombo>73</MaxCombo>
+<StageAward></StageAward>
+<PeakComboAward></PeakComboAward>
+<Modifiers>NoHideLights, C590, 15% Mini, FailImmediateContinue, Overhead, Default</Modifiers>
+<DateTime>2026-02-17 00:10:04</DateTime>
+<PlayerGuid>4ad3a19834ee56bd</PlayerGuid>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<ProductID>1</ProductID>
+<TapNoteScores>
+<HitMine>0</HitMine>
+<AvoidMine>0</AvoidMine>
+<CheckpointMiss>0</CheckpointMiss>
+<Miss>8</Miss>
+<W5>9</W5>
+<W4>9</W4>
+<W3>89</W3>
+<W2>82</W2>
+<W1>90</W1>
+<CheckpointHit>0</CheckpointHit>
+</TapNoteScores>
+<HoldNoteScores>
+<LetGo>0</LetGo>
+<Held>29</Held>
+<MissedHold>0</MissedHold>
+</HoldNoteScores>
+<RadarValues>
+<Stream>0.616766</Stream>
+<Voltage>0.200764</Voltage>
+<Air>0.574468</Air>
+<Freeze>1.000000</Freeze>
+<Chaos>0.601899</Chaos>
+<Notes>316.000000</Notes>
+<TapsAndHolds>271</TapsAndHolds>
+<Jumps>45</Jumps>
+<Holds>29</Holds>
+<Mines>0</Mines>
+<Hands>0</Hands>
+<Rolls>0</Rolls>
+<Lifts>0</Lifts>
+<Fakes>0</Fakes>
+</RadarValues>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<Disqualified>0</Disqualified>
+<Pad>33</Pad>
+<StageGuid>d8963b77-8f7a-4291-aebf-024fc500a7fd</StageGuid>
+<Guid>2a77002f-06f0-4b28-a5e1-b0ca22b66623</Guid>
+</HighScore>
+</HighScoreForASongAndSteps>
+</RecentSongScores>
+</Stats>
