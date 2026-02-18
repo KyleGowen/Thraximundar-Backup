@@ -1,6 +1,6 @@
-# ITGMania Backup
+﻿# ITGMania Backup
 
-#### Last backup: Feb 17, 2026 at 10:53 PM
+#### Last backup: Feb 17, 2026 at 10:59 PM
 
 #### Next backup: Feb 18, 2026 at 3:00 AM
 
@@ -8,8 +8,8 @@
 
 ### 30-day play time (in songs)
 
-- **ðŸ”´ KYLE** 10m 20s
-- **ðŸ”µ LIZY** 3m 58s
+- **KYLE** 10m 20s
+- **LIZY** 3m 58s
 
 #### Feb 17, 2026 at 10:45 PM
 
