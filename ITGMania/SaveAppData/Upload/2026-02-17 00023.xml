@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Stats>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<RecentSongScores>
+<HighScoreForASongAndSteps>
+<Song Dir='Songs/DDR 2nd Mix/PARANOiA KCET ~clean mix~/'/>
+<Steps Difficulty='Beginner' StepsType='dance-single'/>
+<HighScore>
+<Name></Name>
+<Grade>Tier13</Grade>
+<Score>16</Score>
+<PercentDP>0.683800</PercentDP>
+<SurviveSeconds>97.126602</SurviveSeconds>
+<MaxCombo>30</MaxCombo>
+<StageAward></StageAward>
+<PeakComboAward></PeakComboAward>
+<Modifiers>NoHideLights, C590, 15% Mini, FailImmediateContinue, Overhead, Default</Modifiers>
+<DateTime>2026-02-17 23:03:42</DateTime>
+<PlayerGuid>4ad3a19834ee56bd</PlayerGuid>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<ProductID>1</ProductID>
+<TapNoteScores>
+<HitMine>0</HitMine>
+<AvoidMine>0</AvoidMine>
+<CheckpointMiss>0</CheckpointMiss>
+<Miss>0</Miss>
+<W5>2</W5>
+<W4>6</W4>
+<W3>36</W3>
+<W2>36</W2>
+<W1>44</W1>
+<CheckpointHit>0</CheckpointHit>
+</TapNoteScores>
+<HoldNoteScores>
+<LetGo>0</LetGo>
+<Held>0</Held>
+<MissedHold>0</MissedHold>
+</HoldNoteScores>
+<RadarValues>
+<Stream>0.645161</Stream>
+<Voltage>0.209199</Voltage>
+<Air>0.000000</Air>
+<Freeze>0.000000</Freeze>
+<Chaos>0.683871</Chaos>
+<Notes>122.000000</Notes>
+<TapsAndHolds>122</TapsAndHolds>
+<Jumps>0</Jumps>
+<Holds>0</Holds>
+<Mines>0</Mines>
+<Hands>0</Hands>
+<Rolls>0</Rolls>
+<Lifts>0</Lifts>
+<Fakes>0</Fakes>
+</RadarValues>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<Disqualified>0</Disqualified>
+<Pad>33</Pad>
+<StageGuid>a75a6ffb-0ef3-4078-a30e-9377b7f77e3c</StageGuid>
+<Guid>654e6ace-b72b-4c25-aff4-e36b557598a1</Guid>
+</HighScore>
+</HighScoreForASongAndSteps>
+</RecentSongScores>
+</Stats>

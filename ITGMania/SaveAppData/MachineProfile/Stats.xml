@@ -18,21 +18,21 @@
 <Song Dir=''/>
 <Course/>
 <CurrentCombo>0</CurrentCombo>
-<TotalSessions>2449</TotalSessions>
-<TotalSessionSeconds>1105237</TotalSessionSeconds>
-<TotalGameplaySeconds>538309</TotalGameplaySeconds>
-<TotalCaloriesBurned>194054.640625</TotalCaloriesBurned>
+<TotalSessions>2450</TotalSessions>
+<TotalSessionSeconds>1105566</TotalSessionSeconds>
+<TotalGameplaySeconds>538594</TotalGameplaySeconds>
+<TotalCaloriesBurned>194067.046875</TotalCaloriesBurned>
 <GoalType>0</GoalType>
 <GoalCalories>0</GoalCalories>
 <GoalSeconds>0</GoalSeconds>
 <LastPlayedMachineGuid>403d15c592378cca</LastPlayedMachineGuid>
 <LastPlayedDate>2026-02-17</LastPlayedDate>
-<TotalDancePoints>7766863</TotalDancePoints>
+<TotalDancePoints>7767497</TotalDancePoints>
 <NumExtraStagesPassed>0</NumExtraStagesPassed>
 <NumExtraStagesFailed>0</NumExtraStagesFailed>
 <NumToasties>879</NumToasties>
-<TotalTapsAndHolds>1673461</TotalTapsAndHolds>
-<TotalJumps>103702</TotalJumps>
+<TotalTapsAndHolds>1673670</TotalTapsAndHolds>
+<TotalJumps>103708</TotalJumps>
 <TotalHolds>162765</TotalHolds>
 <TotalRolls>6541</TotalRolls>
 <TotalMines>69113</TotalMines>
@@ -41,13 +41,13 @@
 <DefaultModifiers/>
 <Unlocks/>
 <NumSongsPlayedByPlayMode>
-<Regular>3954</Regular>
+<Regular>3957</Regular>
 </NumSongsPlayedByPlayMode>
 <NumSongsPlayedByStyle>
-<Style Game='dance' Style='single'>2359</Style>
+<Style Game='dance' Style='single'>2362</Style>
 </NumSongsPlayedByStyle>
 <NumSongsPlayedByDifficulty>
-<Beginner>339</Beginner>
+<Beginner>342</Beginner>
 <Easy>652</Easy>
 <Medium>680</Medium>
 <Hard>1157</Hard>
@@ -55,9 +55,9 @@
 </NumSongsPlayedByDifficulty>
 <NumSongsPlayedByMeter>
 <Meter1>205</Meter1>
-<Meter2>130</Meter2>
+<Meter2>132</Meter2>
 <Meter3>276</Meter3>
-<Meter4>158</Meter4>
+<Meter4>159</Meter4>
 <Meter5>170</Meter5>
 <Meter6>313</Meter6>
 <Meter7>431</Meter7>
@@ -70,9 +70,9 @@
 <Meter14>22</Meter14>
 <Meter15>1</Meter15>
 </NumSongsPlayedByMeter>
-<NumTotalSongsPlayed>3954</NumTotalSongsPlayed>
+<NumTotalSongsPlayed>3957</NumTotalSongsPlayed>
 <NumStagesPassedByPlayMode>
-<Regular>3285</Regular>
+<Regular>3287</Regular>
 </NumStagesPassedByPlayMode>
 <NumStagesPassedByGrade>
 <Tier01>2</Tier01>
@@ -87,9 +87,9 @@
 <Tier10>237</Tier10>
 <Tier11>285</Tier11>
 <Tier12>262</Tier12>
-<Tier13>192</Tier13>
+<Tier13>193</Tier13>
 <Tier14>118</Tier14>
-<Tier15>100</Tier15>
+<Tier15>101</Tier15>
 <Tier16>73</Tier16>
 <Tier17>202</Tier17>
 </NumStagesPassedByGrade>
@@ -28226,6 +28226,132 @@
 <HighScoreList>
 <NumTimesPlayed>1</NumTimesPlayed>
 <LastPlayed>2026-02-17</LastPlayed>
+</HighScoreList>
+</Steps>
+</Song>
+<Song Dir='Songs/DDR 2nd Mix/MAKE A JAM!/'>
+<Steps Difficulty='Beginner' StepsType='dance-single'>
+<HighScoreList>
+<NumTimesPlayed>1</NumTimesPlayed>
+<LastPlayed>2026-02-17</LastPlayed>
+</HighScoreList>
+</Steps>
+</Song>
+<Song Dir='Songs/DDR 2nd Mix/MAKE IT BETTER (So-REAL Mix)/'>
+<Steps Difficulty='Beginner' StepsType='dance-single'>
+<HighScoreList>
+<NumTimesPlayed>1</NumTimesPlayed>
+<LastPlayed>2026-02-17</LastPlayed>
+<HighGrade>Tier15</HighGrade>
+<HighScore>
+<Name>KYLE</Name>
+<Grade>Tier15</Grade>
+<Score>9</Score>
+<PercentDP>0.626600</PercentDP>
+<SurviveSeconds>91.946518</SurviveSeconds>
+<MaxCombo>32</MaxCombo>
+<StageAward></StageAward>
+<PeakComboAward></PeakComboAward>
+<Modifiers>NoHideLights, C590, 15% Mini, FailImmediateContinue, Overhead, Default</Modifiers>
+<DateTime>2026-02-17 23:01:53</DateTime>
+<PlayerGuid>4ad3a19834ee56bd</PlayerGuid>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<ProductID>1</ProductID>
+<TapNoteScores>
+<HitMine>0</HitMine>
+<AvoidMine>0</AvoidMine>
+<CheckpointMiss>0</CheckpointMiss>
+<Miss>0</Miss>
+<W5>3</W5>
+<W4>2</W4>
+<W3>32</W3>
+<W2>29</W2>
+<W1>24</W1>
+<CheckpointHit>0</CheckpointHit>
+</TapNoteScores>
+<HoldNoteScores>
+<LetGo>0</LetGo>
+<Held>0</Held>
+<MissedHold>0</MissedHold>
+</HoldNoteScores>
+<RadarValues>
+<Stream>0.593750</Stream>
+<Voltage>0.339873</Voltage>
+<Air>0.833333</Air>
+<Freeze>0.000000</Freeze>
+<Chaos>0.626667</Chaos>
+<Notes>93.000000</Notes>
+<TapsAndHolds>87</TapsAndHolds>
+<Jumps>6</Jumps>
+<Holds>0</Holds>
+<Mines>0</Mines>
+<Hands>0</Hands>
+<Rolls>0</Rolls>
+<Lifts>0</Lifts>
+<Fakes>0</Fakes>
+</RadarValues>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<Disqualified>0</Disqualified>
+</HighScore>
+</HighScoreList>
+</Steps>
+</Song>
+<Song Dir='Songs/DDR 2nd Mix/PARANOiA KCET ~clean mix~/'>
+<Steps Difficulty='Beginner' StepsType='dance-single'>
+<HighScoreList>
+<NumTimesPlayed>1</NumTimesPlayed>
+<LastPlayed>2026-02-17</LastPlayed>
+<HighGrade>Tier13</HighGrade>
+<HighScore>
+<Name>KYLE</Name>
+<Grade>Tier13</Grade>
+<Score>16</Score>
+<PercentDP>0.683800</PercentDP>
+<SurviveSeconds>97.126602</SurviveSeconds>
+<MaxCombo>30</MaxCombo>
+<StageAward></StageAward>
+<PeakComboAward></PeakComboAward>
+<Modifiers>NoHideLights, C590, 15% Mini, FailImmediateContinue, Overhead, Default</Modifiers>
+<DateTime>2026-02-17 23:03:42</DateTime>
+<PlayerGuid>4ad3a19834ee56bd</PlayerGuid>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<ProductID>1</ProductID>
+<TapNoteScores>
+<HitMine>0</HitMine>
+<AvoidMine>0</AvoidMine>
+<CheckpointMiss>0</CheckpointMiss>
+<Miss>0</Miss>
+<W5>2</W5>
+<W4>6</W4>
+<W3>36</W3>
+<W2>36</W2>
+<W1>44</W1>
+<CheckpointHit>0</CheckpointHit>
+</TapNoteScores>
+<HoldNoteScores>
+<LetGo>0</LetGo>
+<Held>0</Held>
+<MissedHold>0</MissedHold>
+</HoldNoteScores>
+<RadarValues>
+<Stream>0.645161</Stream>
+<Voltage>0.209199</Voltage>
+<Air>0.000000</Air>
+<Freeze>0.000000</Freeze>
+<Chaos>0.683871</Chaos>
+<Notes>122.000000</Notes>
+<TapsAndHolds>122</TapsAndHolds>
+<Jumps>0</Jumps>
+<Holds>0</Holds>
+<Mines>0</Mines>
+<Hands>0</Hands>
+<Rolls>0</Rolls>
+<Lifts>0</Lifts>
+<Fakes>0</Fakes>
+</RadarValues>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<Disqualified>0</Disqualified>
+</HighScore>
 </HighScoreList>
 </Steps>
 </Song>
@@ -129444,7 +129570,7 @@
 <CaloriesBurned Date='2026-02-09'>194.210266</CaloriesBurned>
 <CaloriesBurned Date='2026-02-14'>1732.880127</CaloriesBurned>
 <CaloriesBurned Date='2026-02-16'>1900.385742</CaloriesBurned>
-<CaloriesBurned Date='2026-02-17'>166.196152</CaloriesBurned>
+<CaloriesBurned Date='2026-02-17'>178.590149</CaloriesBurned>
 </CalorieData>
 <CoinData>
 <LastDays>
