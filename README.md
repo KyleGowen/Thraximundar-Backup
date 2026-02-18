@@ -1,6 +1,6 @@
 # ITGMania Backup
 
-#### Last backup: Feb 17, 2026 at 6:15 PM
+#### Last backup: Feb 17, 2026 at 8:18 PM
 
 #### Next backup: Feb 18, 2026 at 2:00 AM
 
@@ -31,122 +31,346 @@ Time in songs this run: **KYLE** 2m 49s.
 
 ## Changes since last backup
 
-### ITGMania/SaveAppData/MachineProfile/Stats.xml
+### ITGMania/PACK_LIST.md
 
-Machine-level profile and stats.
-
-```diff
-diff --git a/ITGMania/SaveAppData/MachineProfile/Stats.xml b/ITGMania/SaveAppData/MachineProfile/Stats.xml
-index 6379e38..f6ec345 100644
---- a/ITGMania/SaveAppData/MachineProfile/Stats.xml
-+++ b/ITGMania/SaveAppData/MachineProfile/Stats.xml
-@@ -18,16 +18,16 @@
- <Song Dir=''/>
- <Course/>
- <CurrentCombo>0</CurrentCombo>
--<TotalSessions>2445</TotalSessions>
--<TotalSessionSeconds>1091521</TotalSessionSeconds>
--<TotalGameplaySeconds>537620</TotalGameplaySeconds>
-+<TotalSessions>2446</TotalSessions>
-+<TotalSessionSeconds>1091629</TotalSessionSeconds>
-+<TotalGameplaySeconds>537709</TotalGameplaySeconds>
- <TotalCaloriesBurned>194033.953125</TotalCaloriesBurned>
- <GoalType>0</GoalType>
- <GoalCalories>0</GoalCalories>
- <GoalSeconds>0</GoalSeconds>
- <LastPlayedMachineGuid>403d15c592378cca</LastPlayedMachineGuid>
- <LastPlayedDate>2026-02-17</LastPlayedDate>
--<TotalDancePoints>7766479</TotalDancePoints>
-+<TotalDancePoints>7766407</TotalDancePoints>
- <NumExtraStagesPassed>0</NumExtraStagesPassed>
- <NumExtraStagesFailed>0</NumExtraStagesFailed>
- <NumToasties>879</NumToasties>
-@@ -41,13 +41,13 @@
- <DefaultModifiers/>
- <Unlocks/>
- <NumSongsPlayedByPlayMode>
--<Regular>3947</Regular>
-+<Regular>3948</Regular>
- </NumSongsPlayedByPlayMode>
- <NumSongsPlayedByStyle>
--<Style Game='dance' Style='single'>2352</Style>
-+<Style Game='dance' Style='single'>2353</Style>
- </NumSongsPlayedByStyle>
- <NumSongsPlayedByDifficulty>
--<Beginner>332</Beginner>
-+<Beginner>333</Beginner>
- <Easy>652</Easy>
- <Medium>680</Medium>
- <Hard>1157</Hard>
-@@ -57,7 +57,7 @@
- <Meter1>202</Meter1>
- <Meter2>129</Meter2>
- <Meter3>275</Meter3>
--<Meter4>157</Meter4>
-+<Meter4>158</Meter4>
- <Meter5>169</Meter5>
- <Meter6>313</Meter6>
- <Meter7>431</Meter7>
-@@ -70,7 +70,7 @@
- <Meter14>22</Meter14>
- <Meter15>1</Meter15>
- </NumSongsPlayedByMeter>
--<NumTotalSongsPlayed>3947</NumTotalSongsPlayed>
-+<NumTotalSongsPlayed>3948</NumTotalSongsPlayed>
- <NumStagesPassedByPlayMode>
- <Regular>3282</Regular>
- </NumStagesPassedByPlayMode>
-@@ -28231,6 +28231,14 @@
- </HighScoreList>
- </Steps>
- </Song>
-+<Song Dir='Songs/DDR 2nd Mix/SP-TRIP MACHINE~JUNGLE MIX~/'>
-+<Steps Difficulty='Beginner' StepsType='dance-single'>
-+<HighScoreList>
-+<NumTimesPlayed>1</NumTimesPlayed>
-+<LastPlayed>2026-02-17</LastPlayed>
-+</HighScoreList>
-+</Steps>
-+</Song>
- <Song Dir='Songs/DDR 2nd Mix/Smoke/'>
- <Steps Difficulty='Beginner' StepsType='dance-single'>
- <HighScoreList>
-```
-
-### ITGMania/SaveAppData/MachineProfile/Type.ini
-
-Machine-level profile and stats.
+Manifest of Songs folder structure (filenames only).
 
 ```diff
-diff --git a/ITGMania/SaveAppData/MachineProfile/Type.ini b/ITGMania/SaveAppData/MachineProfile/Type.ini
-index 3d67ac5..bc10774 100644
---- a/ITGMania/SaveAppData/MachineProfile/Type.ini
-+++ b/ITGMania/SaveAppData/MachineProfile/Type.ini
-@@ -1,5 +1,5 @@
- [ListPosition]
--LastPlayedDate=2026-02-17 17:47:38
-+LastPlayedDate=2026-02-17 17:57:38
- Priority=0
- Type=Normal
+diff --git a/ITGMania/PACK_LIST.md b/ITGMania/PACK_LIST.md
+index 122d4b5..10ace34 100644
+--- a/ITGMania/PACK_LIST.md
++++ b/ITGMania/PACK_LIST.md
+@@ -1,6 +1,6 @@
+ # Pack list
  
-```
-
-### ITGMania/SaveAppData/Upload/2026-02-17 00015.xml
-
-Replay/upload queue.
-
-```diff
-diff --git a/ITGMania/SaveAppData/Upload/2026-02-17 00015.xml b/ITGMania/SaveAppData/Upload/2026-02-17 00015.xml
-new file mode 100644
-index 0000000..c880e47
---- /dev/null
-+++ b/ITGMania/SaveAppData/Upload/2026-02-17 00015.xml	
-@@ -0,0 +1,6 @@
-+<?xml version="1.0" encoding="UTF-8" ?>
-+
-+<Stats>
-+<MachineGuid>403d15c592378cca</MachineGuid>
-+<RecentSongScores/>
-+</Stats>
+-Generated from InstallPath on 2026-02-17 18:14. Filenames only; contents not backed up.
++Generated from InstallPath on 2026-02-17 20:17. Filenames only; contents not backed up.
+ 
+ ## Songs
+ 
+@@ -16681,6 +16681,315 @@ Generated from InstallPath on 2026-02-17 18:14. Filenames only; contents not bac
+     - WORMHOLE-bg.png
+     - WORMHOLE-jacket.png
+   - FloorFiller - DIAMOND DISCO.png
++- **Freyja's Grimoire**
++  - **[M] Electronic Coke**
++    - Electric Coke 135 audio fix.ogg
++    - Electronic Coke.sm
++    - Electronic Coke.sm.old
++    - Electronic Coke.ssc
++    - Electronic Coke.ssc.old
++  - **[M] Eurobeat Meets Sharpnel**
++    - Eurobeat Mix.sm
++    - Eurobeat Mix.ssc
++    - Eurobeat of Sharpnel better.ogg
++  - **[M] Fugue de Noir**
++    - Faster Mix.sm
++    - Faster Mix.ssc
++    - Fugue de Noir.ogg
++  - **[M] How we Frustrate Benjamin at a Funeral**
++    - bn.png
++    - How we frustrate Benjamin at a Funeral 404.ogg
++    - How we frustrate Benjamin at a Funeral.sm
++    - How we frustrate Benjamin at a Funeral.sm.old
++    - How we frustrate Benjamin at a Funeral.ssc
++    - How we frustrate Benjamin at a Funeral.ssc.old
++  - **[M] Melodiam Insomnia**
++    - insomnia 12-2.ogg
++    - Melodiam Insomnia.sm
++    - Melodiam Insomnia.ssc
++  - **[M] Rapid Return (collab)**
++    - Rapid Return 130.ogg
++    - Rapid Return 130.sm
++    - Rapid Return 130.ssc
++  - **[M] Welcome to the Renaissance**
++    - Renaissance.ogg
++    - Welcome to the Renaissance.sm
++    - Welcome to the Renaissance.ssc
++  - **[M] Zomboy**
++    - zomboy full 1.ogg
++    - Zomboy1.sm
++    - Zomboy1.ssc
++  - **[M] Zomboy A**
++    - zomboy side a 10 15.ogg
++    - zomboy side a 10 15.sm
++    - zomboy side a 10 15.ssc
++  - **[M] Zomboy B**
++    - zomboy side b 140 10 25.ogg
++    - zomboy side b 140 10 25.sm
++    - zomboy side b 140 10 25.ssc
++  - **2 Die 4**
++    - 2 Die 4 118.ogg
++    - 2 Die 4.sm
++    - 2 Die 4.ssc
++  - **Armageddon**
++    - Armegeddon 150.ogg
++    - Armegeddon.sm
++    - Armegeddon.ssc
++  - **Asterism Streams (2019 VIP)**
++    - Asterism Streams (2019 VIP).sm
++    - Asterism Streams (2019 VIP).ssc
++    - BlackY - Asterism Streams (2019 VIP).ogg
++  - **Bangarang**
++    - bangarang 110.ogg
++    - Bangarang.sm
++    - Bangarang.ssc
++  - **Becoming Insane (Radio Mix) - cut**
++    - Becoming Insane cut.ogg
++    - becoming insane.sm
++    - becoming insane.ssc
++  - **Bleep Bloop**
++    - bleep bloop.ogg
++    - Bleep_Bloop.sm
++    - Bleep_Bloop.ssc
++  - **Bongo Song Shortcut**
++    - Bongo Song Short.ogg
++    - Bongo Song Short.sm
++    - Bongo Song Short.sm.old
++    - Bongo Song Short.ssc
++    - Bongo Song Short.ssc.old
++  - **Come Back Down**
++    - come back down 170.ogg
++    - Come_Back_Down.sm
++    - Come_Back_Down.ssc
++  - **conflict (lapix remix)**
++    - conflict.ogg
++    - Conflict.sm
++    - Conflict.ssc
++  - **FCKD**
++    - FCKD 100 bpm.ogg
++    - FCKD.sm
++    - FCKD.ssc
++  - **FIRE FIRE**
++    - FIRE FIRE.ogg
++    - FIRE FIRE.sm
++    - FIRE FIRE.ssc
++  - **Gunmetal Black**
++    - gunmetal black.ogg
++    - Gunmetal Black.sm
++    - Gunmetal Black.ssc
++  - **Hero**
++    - Hero cut 150.ogg
++    - hero.sm
++    - hero.ssc
++  - **Hex**
++    - hex.ogg
++    - Hex.sm
++    - Hex.ssc
++  - **Hobbits**
++    - Hobbits.ogg
++    - Hobbits.sm
++    - Hobbits.ssc
++  - **Hold on Tight**
++    - hold on tight.ogg
++    - Hold on Tight.sm
++    - Hold on Tight.ssc
++  - **Holy War**
++    - holy war.ogg
++    - Holy War.sm
++    - Holy War.ssc
++  - **Horsepower**
++    - horsepower cut.ogg
++    - Horsepower.sm
++    - Horsepower.ssc
++  - **Hung Up**
++    - **FB**
++      - hung up 133.ogg
++      - Hung Up.sm
++      - Hung Up.ssc
++    - hung up 125.ogg
++    - Hung Up.sm
++    - Hung Up.ssc
++  - **I Can't Stop Me**
++    - cant stop me.ogg
++    - Can't Stop Me.sm
++    - Can't Stop Me.ssc
++  - **Journey**
++    - Journey BG.png
++    - Journey BN.png
++    - Journey.ogg
++    - Journey.sm
++    - Journey.ssc
++  - **Journey pt 2**
++    - Journey Part II 158.ogg
++    - Journey Part II.sm
++    - Journey Part II.sm.old
++    - Journey Part II.ssc
++    - Journey Part II.ssc.old
++  - **Kodo (Inside the Sun Remix FB)**
++    - kodo 132 sped.ogg
++    - Kodo.sm
++    - Kodo.ssc
++  - **L**
++    - L.ogg
++    - L.sm
++    - L.ssc
++  - **La Di Da**
++    - la di da 164.ogg
++    - La Di Da.sm
++    - La Di Da.ssc
++  - **Lambada**
++    - lambada 122.ogg
++    - Lambada.sm
++    - Lambada.ssc
++  - **Love Bomb**
++    - love bomb 154.ogg
++    - Love Bomb.sm
++    - Love Bomb.ssc
++  - **LV.4 - HEX**
++    - LV.4 - HEX.ogg
++    - LV.4 - HEX.sm
++    - LV.4 - HEX.ssc
++  - **Mad World**
++    - mad world 142 slowdown.ogg
++    - Mad World.sm
++    - Mad World.ssc
++  - **Mahaon**
++    - mahaon.ogg
++    - Mahaon.sm
++    - Mahaon.ssc
++  - **MAISON**
++    - MAISON.ogg
++    - MAISON.sm
++    - MAISON.ssc
++  - **Malestorm**
++    - Malestorm.ogg
++    - Malestorm.sm
++    - Malestorm.ssc
++  - **MariannE - Dutch Remix -**
++    - MariannE -Dutch Psy Mix-.sm
++    - MariannE -Dutch Psy Mix-.ssc
++    - Marianne.ogg
++  - **Neo-Tokyo Dance**
++    - neo-tokyo dance.ogg
++    - Neo-Tokyo Dance.sm
++    - Neo-Tokyo Dance.ssc
++  - **Nocebo**
++    - Nocebo.ogg
++    - Nocebo.sm
++    - Nocebo.ssc
++  - **Now**
++    - Now.ogg
++    - Now.sm
++    - Now.ssc
++  - **Nyan Cat - meme v3**
++    - Nyan Cat.sm
++    - Nyan Cat.sm.old
++    - Nyan Cat.ssc
++    - Nyan Cat.ssc.old
++    - nyancat.ogg
++    - nyancat1.gif
++  - **Purple People Eater**
++    - purple people eater.ogg
++    - Purple People Eater.sm
++    - Purple People Eater.ssc
++  - **Rasputun (2023 Remix)**
++    - rasputin 2023 edit.ogg
++    - Rasputin.sm
++    - Rasputin.ssc
++  - **Resurrection edit**
++    - Resurrection new.sm
++    - Resurrection new.ssc
++    - resurrection.ogg
++  - **Riot**
++    - Riot.ogg
++    - Riot.sm
++    - Riot.ssc
++  - **Roll the Dice**
++    - roll the dice.ogg
++    - Roll the Dice.sm
++    - Roll the Dice.sm.old
++    - Roll the Dice.ssc
++    - Roll the Dice.ssc.old
++  - **Sa MaRichi**
++    - Gram vs HiTECH NINJA - Sa MaRichi.ogg
++    - Gram vs HiTECH NINJA - Sa MaRichi.sm
++    - Gram vs HiTECH NINJA - Sa MaRichi.ssc
++  - **Sana Molette ne Ente**
++    - Sana Molette ne Ente.ogg
++    - Sana Molette ne Ente.sm
++    - Sana Molette ne Ente.ssc
++  - **So**
++    - So 138.ogg
++    - So.sm
++    - So.ssc
++  - **Soul Train**
++    - Scooter - Soul Train.ogg
++    - Scooter - Soul Train.sm
++    - Scooter - Soul Train.ssc
++  - **Stellar**
++    - stellar.ogg
++    - Stellar.sm
++    - Stellar.ssc
++  - **Summer Rain (Alex K Remix)**
++    - summer rain.ogg
++    - Summer Rain.sm
++    - Summer Rain.ssc
++  - **Taste of You**
++    - taste of you.ogg
++    - Taste of You.sm
++    - Taste of You.ssc
++  - **The Encounter**
++    - The Encounter.ogg
++    - The Encounter.sm
++    - The Encounter.ssc
++  - **The Island Pt 2**
++    - the island part 2 final.ogg
++    - theislandptii.ssc
++  - **The Vulture**
++    - the vulture.ogg
++    - the_vulture.sm
++    - the_vulture.ssc
++  - **Tokyo Takedown**
++    - tokyo takedown 128.ogg
++    - Tokyo Takedown.sm
++    - Tokyo Takedown.ssc
++  - **Valhalla**
++    - Valhalla.ogg
++    - Valhalla.sm
++    - Valhalla.ssc
++  - **Vision**
++    - freyja11.png
++    - vision bg.png
++    - vision bn.png
++    - Vision.ogg
++    - Vision.sm
++    - Vision.ssc
++  - **War**
++    - War 114.ogg
++    - War.sm
++    - War.ssc
++  - **Wassap**
++    - Wassap 124.sm
++    - Wassap 124.ssc
++    - wassap cut.ogg
++  - **Whiskey Cola Tequila**
++    - whiskey cola 137 point 9.ogg
++    - Whiskey Cola Tequila.sm
++    - Whiskey Cola Tequila.ssc
++  - **You are the Miserable**
++    - yatm.ogg
++    - You are the Miserable.sm
++    - You are the Miserable.ssc
++  - bg.png
++  - bg1.jpg
++  - bg2.jpg
++  - bg2.png
++  - bn.png
++  - bn1.jpg
++  - bn2.jpg
++  - bn2.png
++  - CD.png
++  - Freyjas Grimoire Read Me.txt
+ - **In The Groove**
+   - **Anubis**
+     - **anubis**
+@@ -29050,6 +29359,7 @@ Generated from InstallPath on 2026-02-17 18:14. Filenames only; contents not bac
+     - Woman.png
+     - Woman.sm
+     - Woman-bg.png
++- Freyja's Grimoire.zip
+ - instructions.txt
+ 
+ ## AdditionalSongs
 ```
 
