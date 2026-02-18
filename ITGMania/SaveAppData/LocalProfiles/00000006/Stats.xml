@@ -12,28 +12,28 @@
 <IsMale>1</IsMale>
 <IsMachine>0</IsMachine>
 <Guid>2dde4d6e8737681e</Guid>
-<SortOrder>Artist</SortOrder>
-<LastDifficulty>Medium</LastDifficulty>
+<SortOrder>Group</SortOrder>
+<LastDifficulty>Beginner</LastDifficulty>
 <LastCourseDifficulty>Medium</LastCourseDifficulty>
 <LastStepsType>dance-single</LastStepsType>
-<Song Dir='Songs/Ben Speirs&apos; SPEIRMIX GALAXY/Bad Blood/'/>
+<Song Dir='Songs/Ben Speirs&apos; SPEIRMIX GALAXY/Are You With Me/'/>
 <Course/>
-<CurrentCombo>3</CurrentCombo>
+<CurrentCombo>0</CurrentCombo>
 <TotalSessions>0</TotalSessions>
-<TotalSessionSeconds>156241</TotalSessionSeconds>
-<TotalGameplaySeconds>60338</TotalGameplaySeconds>
-<TotalCaloriesBurned>7274.330078</TotalCaloriesBurned>
+<TotalSessionSeconds>156523</TotalSessionSeconds>
+<TotalGameplaySeconds>60576</TotalGameplaySeconds>
+<TotalCaloriesBurned>7276.869629</TotalCaloriesBurned>
 <GoalType>0</GoalType>
 <GoalCalories>0</GoalCalories>
 <GoalSeconds>0</GoalSeconds>
 <LastPlayedMachineGuid>403d15c592378cca</LastPlayedMachineGuid>
-<LastPlayedDate>2026-02-16</LastPlayedDate>
-<TotalDancePoints>118420</TotalDancePoints>
+<LastPlayedDate>2026-02-17</LastPlayedDate>
+<TotalDancePoints>118517</TotalDancePoints>
 <NumExtraStagesPassed>0</NumExtraStagesPassed>
 <NumExtraStagesFailed>0</NumExtraStagesFailed>
 <NumToasties>0</NumToasties>
-<TotalTapsAndHolds>58341</TotalTapsAndHolds>
-<TotalJumps>3470</TotalJumps>
+<TotalTapsAndHolds>58401</TotalTapsAndHolds>
+<TotalJumps>3475</TotalJumps>
 <TotalHolds>4305</TotalHolds>
 <TotalRolls>157</TotalRolls>
 <TotalMines>2</TotalMines>
@@ -44,19 +44,19 @@
 </DefaultModifiers>
 <Unlocks/>
 <NumSongsPlayedByPlayMode>
-<Regular>472</Regular>
+<Regular>474</Regular>
 </NumSongsPlayedByPlayMode>
 <NumSongsPlayedByStyle>
-<Style Game='dance' Style='single'>472</Style>
+<Style Game='dance' Style='single'>474</Style>
 </NumSongsPlayedByStyle>
 <NumSongsPlayedByDifficulty>
-<Beginner>187</Beginner>
+<Beginner>189</Beginner>
 <Easy>254</Easy>
 <Medium>27</Medium>
 <Hard>4</Hard>
 </NumSongsPlayedByDifficulty>
 <NumSongsPlayedByMeter>
-<Meter1>118</Meter1>
+<Meter1>120</Meter1>
 <Meter2>77</Meter2>
 <Meter3>141</Meter3>
 <Meter4>65</Meter4>
@@ -65,9 +65,9 @@
 <Meter7>3</Meter7>
 <Meter8>1</Meter8>
 </NumSongsPlayedByMeter>
-<NumTotalSongsPlayed>472</NumTotalSongsPlayed>
+<NumTotalSongsPlayed>474</NumTotalSongsPlayed>
 <NumStagesPassedByPlayMode>
-<Regular>253</Regular>
+<Regular>254</Regular>
 </NumStagesPassedByPlayMode>
 <NumStagesPassedByGrade>
 <Tier10>3</Tier10>
@@ -77,7 +77,7 @@
 <Tier14>29</Tier14>
 <Tier15>38</Tier15>
 <Tier16>30</Tier16>
-<Tier17>96</Tier17>
+<Tier17>97</Tier17>
 </NumStagesPassedByGrade>
 <UserTable></UserTable>
 </GeneralData>
@@ -1270,6 +1270,65 @@
 </HighScoreList>
 </Steps>
 </Song>
+<Song Dir='Songs/Ben Speirs&apos; SPEIRMIX GALAXY/Are You With Me/'>
+<Steps Difficulty='Beginner' StepsType='dance-single'>
+<HighScoreList>
+<NumTimesPlayed>1</NumTimesPlayed>
+<LastPlayed>2026-02-17</LastPlayed>
+<HighGrade>Failed</HighGrade>
+<HighScore>
+<Name>LIZY</Name>
+<Grade>Failed</Grade>
+<Score>0</Score>
+<PercentDP>0.000000</PercentDP>
+<SurviveSeconds>20.775986</SurviveSeconds>
+<MaxCombo>0</MaxCombo>
+<StageAward></StageAward>
+<PeakComboAward></PeakComboAward>
+<Modifiers>NoHideLights, C335, FailImmediateContinue, Overhead</Modifiers>
+<DateTime>2026-02-17 21:41:07</DateTime>
+<PlayerGuid>2dde4d6e8737681e</PlayerGuid>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<ProductID>1</ProductID>
+<TapNoteScores>
+<HitMine>0</HitMine>
+<AvoidMine>0</AvoidMine>
+<CheckpointMiss>0</CheckpointMiss>
+<Miss>75</Miss>
+<W5>0</W5>
+<W4>0</W4>
+<W3>0</W3>
+<W2>0</W2>
+<W1>0</W1>
+<CheckpointHit>0</CheckpointHit>
+</TapNoteScores>
+<HoldNoteScores>
+<LetGo>0</LetGo>
+<Held>0</Held>
+<MissedHold>0</MissedHold>
+</HoldNoteScores>
+<RadarValues>
+<Stream>0.000000</Stream>
+<Voltage>0.000000</Voltage>
+<Air>0.000000</Air>
+<Freeze>0.000000</Freeze>
+<Chaos>0.000000</Chaos>
+<Notes>0.000000</Notes>
+<TapsAndHolds>0</TapsAndHolds>
+<Jumps>0</Jumps>
+<Holds>0</Holds>
+<Mines>0</Mines>
+<Hands>0</Hands>
+<Rolls>0</Rolls>
+<Lifts>0</Lifts>
+<Fakes>0</Fakes>
+</RadarValues>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<Disqualified>0</Disqualified>
+</HighScore>
+</HighScoreList>
+</Steps>
+</Song>
 <Song Dir='Songs/Ben Speirs&apos; SPEIRMIX GALAXY/Army/'>
 <Steps Difficulty='Beginner' StepsType='dance-single'>
 <HighScoreList>
@@ -1316,6 +1375,65 @@
 <Notes>95.000000</Notes>
 <TapsAndHolds>92</TapsAndHolds>
 <Jumps>3</Jumps>
+<Holds>0</Holds>
+<Mines>0</Mines>
+<Hands>0</Hands>
+<Rolls>0</Rolls>
+<Lifts>0</Lifts>
+<Fakes>0</Fakes>
+</RadarValues>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<Disqualified>0</Disqualified>
+</HighScore>
+</HighScoreList>
+</Steps>
+</Song>
+<Song Dir='Songs/Ben Speirs&apos; SPEIRMIX GALAXY/Back 2 U/'>
+<Steps Difficulty='Beginner' StepsType='dance-single'>
+<HighScoreList>
+<NumTimesPlayed>1</NumTimesPlayed>
+<LastPlayed>2026-02-17</LastPlayed>
+<HighGrade>Tier17</HighGrade>
+<HighScore>
+<Name>LIZY</Name>
+<Grade>Tier17</Grade>
+<Score>4</Score>
+<PercentDP>0.528100</PercentDP>
+<SurviveSeconds>117.762184</SurviveSeconds>
+<MaxCombo>30</MaxCombo>
+<StageAward></StageAward>
+<PeakComboAward></PeakComboAward>
+<Modifiers>NoHideLights, C335, FailImmediateContinue, Overhead</Modifiers>
+<DateTime>2026-02-17 21:38:54</DateTime>
+<PlayerGuid>2dde4d6e8737681e</PlayerGuid>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<ProductID>1</ProductID>
+<TapNoteScores>
+<HitMine>0</HitMine>
+<AvoidMine>0</AvoidMine>
+<CheckpointMiss>0</CheckpointMiss>
+<Miss>0</Miss>
+<W5>4</W5>
+<W4>4</W4>
+<W3>24</W3>
+<W2>15</W2>
+<W1>17</W1>
+<CheckpointHit>0</CheckpointHit>
+</TapNoteScores>
+<HoldNoteScores>
+<LetGo>0</LetGo>
+<Held>0</Held>
+<MissedHold>0</MissedHold>
+</HoldNoteScores>
+<RadarValues>
+<Stream>0.507246</Stream>
+<Voltage>0.436446</Voltage>
+<Air>0.800000</Air>
+<Freeze>0.000000</Freeze>
+<Chaos>0.528125</Chaos>
+<Notes>65.000000</Notes>
+<TapsAndHolds>60</TapsAndHolds>
+<Jumps>5</Jumps>
 <Holds>0</Holds>
 <Mines>0</Mines>
 <Hands>0</Hands>
@@ -22834,5 +22952,6 @@
 <CaloriesBurned Date='2026-01-09'>39.964291</CaloriesBurned>
 <CaloriesBurned Date='2026-02-14'>56.354053</CaloriesBurned>
 <CaloriesBurned Date='2026-02-16'>67.579216</CaloriesBurned>
+<CaloriesBurned Date='2026-02-17'>2.539598</CaloriesBurned>
 </CalorieData>
 </Stats>

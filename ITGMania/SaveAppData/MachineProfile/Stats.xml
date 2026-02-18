@@ -18,21 +18,21 @@
 <Song Dir=''/>
 <Course/>
 <CurrentCombo>0</CurrentCombo>
-<TotalSessions>2446</TotalSessions>
-<TotalSessionSeconds>1091629</TotalSessionSeconds>
-<TotalGameplaySeconds>537709</TotalGameplaySeconds>
-<TotalCaloriesBurned>194033.953125</TotalCaloriesBurned>
+<TotalSessions>2447</TotalSessions>
+<TotalSessionSeconds>1105016</TotalSessionSeconds>
+<TotalGameplaySeconds>538116</TotalGameplaySeconds>
+<TotalCaloriesBurned>194043.484375</TotalCaloriesBurned>
 <GoalType>0</GoalType>
 <GoalCalories>0</GoalCalories>
 <GoalSeconds>0</GoalSeconds>
 <LastPlayedMachineGuid>403d15c592378cca</LastPlayedMachineGuid>
 <LastPlayedDate>2026-02-17</LastPlayedDate>
-<TotalDancePoints>7766407</TotalDancePoints>
+<TotalDancePoints>7766590</TotalDancePoints>
 <NumExtraStagesPassed>0</NumExtraStagesPassed>
 <NumExtraStagesFailed>0</NumExtraStagesFailed>
 <NumToasties>879</NumToasties>
-<TotalTapsAndHolds>1673197</TotalTapsAndHolds>
-<TotalJumps>103688</TotalJumps>
+<TotalTapsAndHolds>1673335</TotalTapsAndHolds>
+<TotalJumps>103696</TotalJumps>
 <TotalHolds>162765</TotalHolds>
 <TotalRolls>6541</TotalRolls>
 <TotalMines>69113</TotalMines>
@@ -41,22 +41,22 @@
 <DefaultModifiers/>
 <Unlocks/>
 <NumSongsPlayedByPlayMode>
-<Regular>3948</Regular>
+<Regular>3952</Regular>
 </NumSongsPlayedByPlayMode>
 <NumSongsPlayedByStyle>
-<Style Game='dance' Style='single'>2353</Style>
+<Style Game='dance' Style='single'>2357</Style>
 </NumSongsPlayedByStyle>
 <NumSongsPlayedByDifficulty>
-<Beginner>333</Beginner>
+<Beginner>337</Beginner>
 <Easy>652</Easy>
 <Medium>680</Medium>
 <Hard>1157</Hard>
 <Challenge>1126</Challenge>
 </NumSongsPlayedByDifficulty>
 <NumSongsPlayedByMeter>
-<Meter1>202</Meter1>
-<Meter2>129</Meter2>
-<Meter3>275</Meter3>
+<Meter1>204</Meter1>
+<Meter2>130</Meter2>
+<Meter3>276</Meter3>
 <Meter4>158</Meter4>
 <Meter5>169</Meter5>
 <Meter6>313</Meter6>
@@ -70,9 +70,9 @@
 <Meter14>22</Meter14>
 <Meter15>1</Meter15>
 </NumSongsPlayedByMeter>
-<NumTotalSongsPlayed>3948</NumTotalSongsPlayed>
+<NumTotalSongsPlayed>3952</NumTotalSongsPlayed>
 <NumStagesPassedByPlayMode>
-<Regular>3282</Regular>
+<Regular>3284</Regular>
 </NumStagesPassedByPlayMode>
 <NumStagesPassedByGrade>
 <Tier01>2</Tier01>
@@ -91,7 +91,7 @@
 <Tier14>118</Tier14>
 <Tier15>100</Tier15>
 <Tier16>73</Tier16>
-<Tier17>199</Tier17>
+<Tier17>201</Tier17>
 </NumStagesPassedByGrade>
 </GeneralData>
 <SongScores>
@@ -14395,8 +14395,8 @@
 <Song Dir='Songs/Ben Speirs&apos; SPEIRMIX GALAXY/Are You With Me/'>
 <Steps Difficulty='Beginner' StepsType='dance-single'>
 <HighScoreList>
-<NumTimesPlayed>1</NumTimesPlayed>
-<LastPlayed>2025-04-13</LastPlayed>
+<NumTimesPlayed>2</NumTimesPlayed>
+<LastPlayed>2026-02-17</LastPlayed>
 </HighScoreList>
 </Steps>
 <Steps Difficulty='Medium' StepsType='dance-single'>
@@ -14617,6 +14617,63 @@
 </Steps>
 </Song>
 <Song Dir='Songs/Ben Speirs&apos; SPEIRMIX GALAXY/Back 2 U/'>
+<Steps Difficulty='Beginner' StepsType='dance-single'>
+<HighScoreList>
+<NumTimesPlayed>1</NumTimesPlayed>
+<LastPlayed>2026-02-17</LastPlayed>
+<HighGrade>Tier17</HighGrade>
+<HighScore>
+<Name>LIZY</Name>
+<Grade>Tier17</Grade>
+<Score>4</Score>
+<PercentDP>0.528100</PercentDP>
+<SurviveSeconds>117.762184</SurviveSeconds>
+<MaxCombo>30</MaxCombo>
+<StageAward></StageAward>
+<PeakComboAward></PeakComboAward>
+<Modifiers>NoHideLights, C335, FailImmediateContinue, Overhead</Modifiers>
+<DateTime>2026-02-17 21:38:54</DateTime>
+<PlayerGuid>2dde4d6e8737681e</PlayerGuid>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<ProductID>1</ProductID>
+<TapNoteScores>
+<HitMine>0</HitMine>
+<AvoidMine>0</AvoidMine>
+<CheckpointMiss>0</CheckpointMiss>
+<Miss>0</Miss>
+<W5>4</W5>
+<W4>4</W4>
+<W3>24</W3>
+<W2>15</W2>
+<W1>17</W1>
+<CheckpointHit>0</CheckpointHit>
+</TapNoteScores>
+<HoldNoteScores>
+<LetGo>0</LetGo>
+<Held>0</Held>
+<MissedHold>0</MissedHold>
+</HoldNoteScores>
+<RadarValues>
+<Stream>0.507246</Stream>
+<Voltage>0.436446</Voltage>
+<Air>0.800000</Air>
+<Freeze>0.000000</Freeze>
+<Chaos>0.528125</Chaos>
+<Notes>65.000000</Notes>
+<TapsAndHolds>60</TapsAndHolds>
+<Jumps>5</Jumps>
+<Holds>0</Holds>
+<Mines>0</Mines>
+<Hands>0</Hands>
+<Rolls>0</Rolls>
+<Lifts>0</Lifts>
+<Fakes>0</Fakes>
+</RadarValues>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<Disqualified>0</Disqualified>
+</HighScore>
+</HighScoreList>
+</Steps>
 <Steps Difficulty='Hard' StepsType='dance-single'>
 <HighScoreList>
 <NumTimesPlayed>1</NumTimesPlayed>
@@ -28231,6 +28288,14 @@
 </HighScoreList>
 </Steps>
 </Song>
+<Song Dir='Songs/DDR 2nd Mix/PUT YOUR FAITH IN ME/'>
+<Steps Difficulty='Beginner' StepsType='dance-single'>
+<HighScoreList>
+<NumTimesPlayed>1</NumTimesPlayed>
+<LastPlayed>2026-02-17</LastPlayed>
+</HighScoreList>
+</Steps>
+</Song>
 <Song Dir='Songs/DDR 2nd Mix/SP-TRIP MACHINE~JUNGLE MIX~/'>
 <Steps Difficulty='Beginner' StepsType='dance-single'>
 <HighScoreList>
@@ -28242,8 +28307,59 @@
 <Song Dir='Songs/DDR 2nd Mix/Smoke/'>
 <Steps Difficulty='Beginner' StepsType='dance-single'>
 <HighScoreList>
-<NumTimesPlayed>1</NumTimesPlayed>
+<NumTimesPlayed>2</NumTimesPlayed>
 <LastPlayed>2026-02-17</LastPlayed>
+<HighGrade>Tier17</HighGrade>
+<HighScore>
+<Name>KYLE</Name>
+<Grade>Tier17</Grade>
+<Score>6</Score>
+<PercentDP>0.478700</PercentDP>
+<SurviveSeconds>82.197823</SurviveSeconds>
+<MaxCombo>7</MaxCombo>
+<StageAward></StageAward>
+<PeakComboAward></PeakComboAward>
+<Modifiers>NoHideLights, C590, 15% Mini, FailImmediateContinue, Overhead, Default</Modifiers>
+<DateTime>2026-02-17 21:34:13</DateTime>
+<PlayerGuid>4ad3a19834ee56bd</PlayerGuid>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<ProductID>1</ProductID>
+<TapNoteScores>
+<HitMine>0</HitMine>
+<AvoidMine>0</AvoidMine>
+<CheckpointMiss>0</CheckpointMiss>
+<Miss>0</Miss>
+<W5>4</W5>
+<W4>9</W4>
+<W3>22</W3>
+<W2>17</W2>
+<W1>14</W1>
+<CheckpointHit>0</CheckpointHit>
+</TapNoteScores>
+<HoldNoteScores>
+<LetGo>0</LetGo>
+<Held>0</Held>
+<MissedHold>0</MissedHold>
+</HoldNoteScores>
+<RadarValues>
+<Stream>0.449275</Stream>
+<Voltage>0.058311</Voltage>
+<Air>0.333333</Air>
+<Freeze>0.000000</Freeze>
+<Chaos>0.478788</Chaos>
+<Notes>65.000000</Notes>
+<TapsAndHolds>62</TapsAndHolds>
+<Jumps>3</Jumps>
+<Holds>0</Holds>
+<Mines>0</Mines>
+<Hands>0</Hands>
+<Rolls>0</Rolls>
+<Lifts>0</Lifts>
+<Fakes>0</Fakes>
+</RadarValues>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<Disqualified>0</Disqualified>
+</HighScore>
 </HighScoreList>
 </Steps>
 </Song>
@@ -129261,7 +129377,7 @@
 <CaloriesBurned Date='2026-02-09'>194.210266</CaloriesBurned>
 <CaloriesBurned Date='2026-02-14'>1732.880127</CaloriesBurned>
 <CaloriesBurned Date='2026-02-16'>1900.385742</CaloriesBurned>
-<CaloriesBurned Date='2026-02-17'>145.519745</CaloriesBurned>
+<CaloriesBurned Date='2026-02-17'>155.045746</CaloriesBurned>
 </CalorieData>
 <CoinData>
 <LastDays>
@@ -129318,8 +129434,8 @@
 <Week41Ago>1</Week41Ago>
 <Week42Ago>0</Week42Ago>
 <Week43Ago>0</Week43Ago>
-<Week44Ago>1</Week44Ago>
-<Week45Ago>0</Week45Ago>
+<Week44Ago>0</Week44Ago>
+<Week45Ago>1</Week45Ago>
 <Week46Ago>0</Week46Ago>
 <Week47Ago>0</Week47Ago>
 <Week48Ago>0</Week48Ago>
