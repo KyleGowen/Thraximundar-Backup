@@ -16,24 +16,24 @@
 <LastDifficulty>Beginner</LastDifficulty>
 <LastCourseDifficulty>Medium</LastCourseDifficulty>
 <LastStepsType>dance-single</LastStepsType>
-<Song Dir='Songs/DDR 2nd Mix/e-motion/'/>
+<Song Dir='Songs/DDR 2nd Mix/GENOM SCREAMS/'/>
 <Course FullTitle='Ben Speirs&apos; SPEIRMIX 2+3 [DDR Rating] Random'/>
-<CurrentCombo>4</CurrentCombo>
+<CurrentCombo>19</CurrentCombo>
 <TotalSessions>0</TotalSessions>
-<TotalSessionSeconds>278935</TotalSessionSeconds>
-<TotalGameplaySeconds>172520</TotalGameplaySeconds>
-<TotalCaloriesBurned>95529.000000</TotalCaloriesBurned>
+<TotalSessionSeconds>279028</TotalSessionSeconds>
+<TotalGameplaySeconds>172601</TotalGameplaySeconds>
+<TotalCaloriesBurned>95535.492188</TotalCaloriesBurned>
 <GoalType>0</GoalType>
 <GoalCalories>0</GoalCalories>
 <GoalSeconds>0</GoalSeconds>
 <LastPlayedMachineGuid>403d15c592378cca</LastPlayedMachineGuid>
 <LastPlayedDate>2026-02-17</LastPlayedDate>
-<TotalDancePoints>2602586</TotalDancePoints>
+<TotalDancePoints>2602792</TotalDancePoints>
 <NumExtraStagesPassed>0</NumExtraStagesPassed>
 <NumExtraStagesFailed>0</NumExtraStagesFailed>
 <NumToasties>16</NumToasties>
-<TotalTapsAndHolds>573820</TotalTapsAndHolds>
-<TotalJumps>28402</TotalJumps>
+<TotalTapsAndHolds>573899</TotalTapsAndHolds>
+<TotalJumps>28408</TotalJumps>
 <TotalHolds>50548</TotalHolds>
 <TotalRolls>2149</TotalRolls>
 <TotalMines>7659</TotalMines>
@@ -44,14 +44,14 @@
 </DefaultModifiers>
 <Unlocks/>
 <NumSongsPlayedByPlayMode>
-<Regular>1269</Regular>
+<Regular>1270</Regular>
 </NumSongsPlayedByPlayMode>
 <NumSongsPlayedByStyle>
-<Style Game='dance' Style='single'>1249</Style>
+<Style Game='dance' Style='single'>1250</Style>
 <Style Game='dance' Style='versus'>20</Style>
 </NumSongsPlayedByStyle>
 <NumSongsPlayedByDifficulty>
-<Beginner>18</Beginner>
+<Beginner>19</Beginner>
 <Easy>89</Easy>
 <Medium>181</Medium>
 <Hard>668</Hard>
@@ -60,7 +60,7 @@
 <NumSongsPlayedByMeter>
 <Meter1>8</Meter1>
 <Meter2>7</Meter2>
-<Meter3>7</Meter3>
+<Meter3>8</Meter3>
 <Meter4>4</Meter4>
 <Meter5>7</Meter5>
 <Meter6>23</Meter6>
@@ -73,9 +73,9 @@
 <Meter13>10</Meter13>
 <Meter14>3</Meter14>
 </NumSongsPlayedByMeter>
-<NumTotalSongsPlayed>1269</NumTotalSongsPlayed>
+<NumTotalSongsPlayed>1270</NumTotalSongsPlayed>
 <NumStagesPassedByPlayMode>
-<Regular>1155</Regular>
+<Regular>1156</Regular>
 </NumStagesPassedByPlayMode>
 <NumStagesPassedByGrade>
 <Tier04>8</Tier04>
@@ -91,7 +91,7 @@
 <Tier14>32</Tier14>
 <Tier15>17</Tier15>
 <Tier16>10</Tier16>
-<Tier17>11</Tier17>
+<Tier17>12</Tier17>
 </NumStagesPassedByGrade>
 <UserTable></UserTable>
 </GeneralData>
@@ -14053,6 +14053,65 @@
 <Notes>0.000000</Notes>
 <TapsAndHolds>0</TapsAndHolds>
 <Jumps>0</Jumps>
+<Holds>0</Holds>
+<Mines>0</Mines>
+<Hands>0</Hands>
+<Rolls>0</Rolls>
+<Lifts>0</Lifts>
+<Fakes>0</Fakes>
+</RadarValues>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<Disqualified>0</Disqualified>
+</HighScore>
+</HighScoreList>
+</Steps>
+</Song>
+<Song Dir='Songs/DDR 2nd Mix/GENOM SCREAMS/'>
+<Steps Difficulty='Beginner' StepsType='dance-single'>
+<HighScoreList>
+<NumTimesPlayed>1</NumTimesPlayed>
+<LastPlayed>2026-02-17</LastPlayed>
+<HighGrade>Tier17</HighGrade>
+<HighScore>
+<Name>KYLE</Name>
+<Grade>Tier17</Grade>
+<Score>5</Score>
+<PercentDP>0.490400</PercentDP>
+<SurviveSeconds>81.279953</SurviveSeconds>
+<MaxCombo>26</MaxCombo>
+<StageAward></StageAward>
+<PeakComboAward></PeakComboAward>
+<Modifiers>NoHideLights, C590, 15% Mini, FailImmediateContinue, Overhead, Default</Modifiers>
+<DateTime>2026-02-17 16:27:56</DateTime>
+<PlayerGuid>4ad3a19834ee56bd</PlayerGuid>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<ProductID>1</ProductID>
+<TapNoteScores>
+<HitMine>0</HitMine>
+<AvoidMine>0</AvoidMine>
+<CheckpointMiss>0</CheckpointMiss>
+<Miss>4</Miss>
+<W5>2</W5>
+<W4>5</W4>
+<W3>25</W3>
+<W2>24</W2>
+<W1>24</W1>
+<CheckpointHit>0</CheckpointHit>
+</TapNoteScores>
+<HoldNoteScores>
+<LetGo>0</LetGo>
+<Held>0</Held>
+<MissedHold>0</MissedHold>
+</HoldNoteScores>
+<RadarValues>
+<Stream>0.593407</Stream>
+<Voltage>0.261366</Voltage>
+<Air>0.285714</Air>
+<Freeze>0.000000</Freeze>
+<Chaos>0.490476</Chaos>
+<Notes>85.000000</Notes>
+<TapsAndHolds>79</TapsAndHolds>
+<Jumps>6</Jumps>
 <Holds>0</Holds>
 <Mines>0</Mines>
 <Hands>0</Hands>
@@ -64475,6 +64534,6 @@
 <CaloriesBurned Date='2026-02-08'>757.497070</CaloriesBurned>
 <CaloriesBurned Date='2026-02-14'>1548.884277</CaloriesBurned>
 <CaloriesBurned Date='2026-02-16'>1533.937012</CaloriesBurned>
-<CaloriesBurned Date='2026-02-17'>127.783348</CaloriesBurned>
+<CaloriesBurned Date='2026-02-17'>134.273956</CaloriesBurned>
 </CalorieData>
 </Stats>
