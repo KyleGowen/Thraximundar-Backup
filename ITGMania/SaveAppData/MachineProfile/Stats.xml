@@ -18,21 +18,21 @@
 <Song Dir=''/>
 <Course/>
 <CurrentCombo>0</CurrentCombo>
-<TotalSessions>2443</TotalSessions>
-<TotalSessionSeconds>1091119</TotalSessionSeconds>
-<TotalGameplaySeconds>537367</TotalGameplaySeconds>
-<TotalCaloriesBurned>194022.703125</TotalCaloriesBurned>
+<TotalSessions>2444</TotalSessions>
+<TotalSessionSeconds>1091252</TotalSessionSeconds>
+<TotalGameplaySeconds>537451</TotalGameplaySeconds>
+<TotalCaloriesBurned>194026.906250</TotalCaloriesBurned>
 <GoalType>0</GoalType>
 <GoalCalories>0</GoalCalories>
 <GoalSeconds>0</GoalSeconds>
 <LastPlayedMachineGuid>403d15c592378cca</LastPlayedMachineGuid>
 <LastPlayedDate>2026-02-17</LastPlayedDate>
-<TotalDancePoints>7766231</TotalDancePoints>
+<TotalDancePoints>7766439</TotalDancePoints>
 <NumExtraStagesPassed>0</NumExtraStagesPassed>
 <NumExtraStagesFailed>0</NumExtraStagesFailed>
 <NumToasties>879</NumToasties>
-<TotalTapsAndHolds>1673087</TotalTapsAndHolds>
-<TotalJumps>103681</TotalJumps>
+<TotalTapsAndHolds>1673152</TotalTapsAndHolds>
+<TotalJumps>103683</TotalJumps>
 <TotalHolds>162765</TotalHolds>
 <TotalRolls>6541</TotalRolls>
 <TotalMines>69113</TotalMines>
@@ -41,13 +41,13 @@
 <DefaultModifiers/>
 <Unlocks/>
 <NumSongsPlayedByPlayMode>
-<Regular>3944</Regular>
+<Regular>3945</Regular>
 </NumSongsPlayedByPlayMode>
 <NumSongsPlayedByStyle>
-<Style Game='dance' Style='single'>2349</Style>
+<Style Game='dance' Style='single'>2350</Style>
 </NumSongsPlayedByStyle>
 <NumSongsPlayedByDifficulty>
-<Beginner>329</Beginner>
+<Beginner>330</Beginner>
 <Easy>652</Easy>
 <Medium>680</Medium>
 <Hard>1157</Hard>
@@ -55,7 +55,7 @@
 </NumSongsPlayedByDifficulty>
 <NumSongsPlayedByMeter>
 <Meter1>201</Meter1>
-<Meter2>128</Meter2>
+<Meter2>129</Meter2>
 <Meter3>274</Meter3>
 <Meter4>157</Meter4>
 <Meter5>169</Meter5>
@@ -70,9 +70,9 @@
 <Meter14>22</Meter14>
 <Meter15>1</Meter15>
 </NumSongsPlayedByMeter>
-<NumTotalSongsPlayed>3944</NumTotalSongsPlayed>
+<NumTotalSongsPlayed>3945</NumTotalSongsPlayed>
 <NumStagesPassedByPlayMode>
-<Regular>3280</Regular>
+<Regular>3281</Regular>
 </NumStagesPassedByPlayMode>
 <NumStagesPassedByGrade>
 <Tier01>2</Tier01>
@@ -89,7 +89,7 @@
 <Tier12>262</Tier12>
 <Tier13>192</Tier13>
 <Tier14>118</Tier14>
-<Tier15>99</Tier15>
+<Tier15>100</Tier15>
 <Tier16>73</Tier16>
 <Tier17>198</Tier17>
 </NumStagesPassedByGrade>
@@ -28151,6 +28151,73 @@
 <Notes>85.000000</Notes>
 <TapsAndHolds>79</TapsAndHolds>
 <Jumps>6</Jumps>
+<Holds>0</Holds>
+<Mines>0</Mines>
+<Hands>0</Hands>
+<Rolls>0</Rolls>
+<Lifts>0</Lifts>
+<Fakes>0</Fakes>
+</RadarValues>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<Disqualified>0</Disqualified>
+</HighScore>
+</HighScoreList>
+</Steps>
+</Song>
+<Song Dir='Songs/DDR 2nd Mix/I Believe In Miracles (The Lisa Marie Experience Radio Edit)/'>
+<Steps Difficulty='Beginner' StepsType='dance-single'>
+<HighScoreList>
+<NumTimesPlayed>1</NumTimesPlayed>
+<LastPlayed>2026-02-17</LastPlayed>
+</HighScoreList>
+</Steps>
+</Song>
+<Song Dir='Songs/DDR 2nd Mix/PUT YOUR FAITH IN ME (Jazzy Groove)/'>
+<Steps Difficulty='Beginner' StepsType='dance-single'>
+<HighScoreList>
+<NumTimesPlayed>1</NumTimesPlayed>
+<LastPlayed>2026-02-17</LastPlayed>
+<HighGrade>Tier15</HighGrade>
+<HighScore>
+<Name>KYLE</Name>
+<Grade>Tier15</Grade>
+<Score>8</Score>
+<PercentDP>0.620800</PercentDP>
+<SurviveSeconds>84.393044</SurviveSeconds>
+<MaxCombo>43</MaxCombo>
+<StageAward></StageAward>
+<PeakComboAward></PeakComboAward>
+<Modifiers>NoHideLights, C590, 15% Mini, FailImmediateContinue, Overhead, Default</Modifiers>
+<DateTime>2026-02-17 16:46:48</DateTime>
+<PlayerGuid>4ad3a19834ee56bd</PlayerGuid>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<ProductID>1</ProductID>
+<TapNoteScores>
+<HitMine>0</HitMine>
+<AvoidMine>0</AvoidMine>
+<CheckpointMiss>0</CheckpointMiss>
+<Miss>0</Miss>
+<W5>2</W5>
+<W4>1</W4>
+<W3>30</W3>
+<W2>10</W2>
+<W1>24</W1>
+<CheckpointHit>0</CheckpointHit>
+</TapNoteScores>
+<HoldNoteScores>
+<LetGo>0</LetGo>
+<Held>0</Held>
+<MissedHold>0</MissedHold>
+</HoldNoteScores>
+<RadarValues>
+<Stream>0.514286</Stream>
+<Voltage>0.630349</Voltage>
+<Air>0.000000</Air>
+<Freeze>0.000000</Freeze>
+<Chaos>0.620896</Chaos>
+<Notes>68.000000</Notes>
+<TapsAndHolds>65</TapsAndHolds>
+<Jumps>2</Jumps>
 <Holds>0</Holds>
 <Mines>0</Mines>
 <Hands>0</Hands>
@@ -129111,7 +129178,7 @@
 <CaloriesBurned Date='2026-02-09'>194.210266</CaloriesBurned>
 <CaloriesBurned Date='2026-02-14'>1732.880127</CaloriesBurned>
 <CaloriesBurned Date='2026-02-16'>1900.385742</CaloriesBurned>
-<CaloriesBurned Date='2026-02-17'>134.273956</CaloriesBurned>
+<CaloriesBurned Date='2026-02-17'>138.477753</CaloriesBurned>
 </CalorieData>
 <CoinData>
 <LastDays>

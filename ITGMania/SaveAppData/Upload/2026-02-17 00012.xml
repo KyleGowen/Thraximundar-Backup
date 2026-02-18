@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Stats>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<RecentSongScores>
+<HighScoreForASongAndSteps>
+<Song Dir='Songs/DDR 2nd Mix/PUT YOUR FAITH IN ME (Jazzy Groove)/'/>
+<Steps Difficulty='Beginner' StepsType='dance-single'/>
+<HighScore>
+<Name></Name>
+<Grade>Tier15</Grade>
+<Score>8</Score>
+<PercentDP>0.620800</PercentDP>
+<SurviveSeconds>84.393044</SurviveSeconds>
+<MaxCombo>43</MaxCombo>
+<StageAward></StageAward>
+<PeakComboAward></PeakComboAward>
+<Modifiers>NoHideLights, C590, 15% Mini, FailImmediateContinue, Overhead, Default</Modifiers>
+<DateTime>2026-02-17 16:46:48</DateTime>
+<PlayerGuid>4ad3a19834ee56bd</PlayerGuid>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<ProductID>1</ProductID>
+<TapNoteScores>
+<HitMine>0</HitMine>
+<AvoidMine>0</AvoidMine>
+<CheckpointMiss>0</CheckpointMiss>
+<Miss>0</Miss>
+<W5>2</W5>
+<W4>1</W4>
+<W3>30</W3>
+<W2>10</W2>
+<W1>24</W1>
+<CheckpointHit>0</CheckpointHit>
+</TapNoteScores>
+<HoldNoteScores>
+<LetGo>0</LetGo>
+<Held>0</Held>
+<MissedHold>0</MissedHold>
+</HoldNoteScores>
+<RadarValues>
+<Stream>0.514286</Stream>
+<Voltage>0.630349</Voltage>
+<Air>0.000000</Air>
+<Freeze>0.000000</Freeze>
+<Chaos>0.620896</Chaos>
+<Notes>68.000000</Notes>
+<TapsAndHolds>65</TapsAndHolds>
+<Jumps>2</Jumps>
+<Holds>0</Holds>
+<Mines>0</Mines>
+<Hands>0</Hands>
+<Rolls>0</Rolls>
+<Lifts>0</Lifts>
+<Fakes>0</Fakes>
+</RadarValues>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<Disqualified>0</Disqualified>
+<Pad>33</Pad>
+<StageGuid>b7e284d8-e2f0-4609-a2a8-b90fcc79c245</StageGuid>
+<Guid>097960f8-d7d1-4cc4-ab89-64dc9c97361b</Guid>
+</HighScore>
+</HighScoreForASongAndSteps>
+</RecentSongScores>
+</Stats>
