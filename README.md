@@ -1,8 +1,8 @@
 ﻿# ITGMania Backup
 
-#### Last backup: Feb 25, 2026 at 3:02 AM
+#### Last backup: Feb 26, 2026 at 3:01 AM
 
-#### Next backup: Feb 26, 2026 at 3:00 AM
+#### Next backup: Feb 27, 2026 at 3:00 AM
 
 ## 30-day digest
 
@@ -412,4 +412,351 @@ Time in songs this run: **KYLE** 2m 49s.
 </details>
 
 ## Changes since last backup
+
+### ITGMania/SaveAppData/MachineProfile/Stats.xml
+
+Machine-level profile and stats.
+
+```diff
+diff --git a/ITGMania/SaveAppData/MachineProfile/Stats.xml b/ITGMania/SaveAppData/MachineProfile/Stats.xml
+index 5ad429d..67a89b7 100644
+--- a/ITGMania/SaveAppData/MachineProfile/Stats.xml
++++ b/ITGMania/SaveAppData/MachineProfile/Stats.xml
+@@ -18,20 +18,20 @@
+ <Song Dir=''/>
+ <Course/>
+ <CurrentCombo>0</CurrentCombo>
+-<TotalSessions>2450</TotalSessions>
+-<TotalSessionSeconds>1105566</TotalSessionSeconds>
+-<TotalGameplaySeconds>538594</TotalGameplaySeconds>
+-<TotalCaloriesBurned>194067.046875</TotalCaloriesBurned>
++<TotalSessions>2473</TotalSessions>
++<TotalSessionSeconds>1105977</TotalSessionSeconds>
++<TotalGameplaySeconds>538847</TotalGameplaySeconds>
++<TotalCaloriesBurned>194072.328125</TotalCaloriesBurned>
+ <GoalType>0</GoalType>
+ <GoalCalories>0</GoalCalories>
+ <GoalSeconds>0</GoalSeconds>
+ <LastPlayedMachineGuid>403d15c592378cca</LastPlayedMachineGuid>
+-<LastPlayedDate>2026-02-22</LastPlayedDate>
+-<TotalDancePoints>7767497</TotalDancePoints>
++<LastPlayedDate>2026-02-25</LastPlayedDate>
++<TotalDancePoints>7767561</TotalDancePoints>
+ <NumExtraStagesPassed>0</NumExtraStagesPassed>
+ <NumExtraStagesFailed>0</NumExtraStagesFailed>
+ <NumToasties>879</NumToasties>
+-<TotalTapsAndHolds>1673670</TotalTapsAndHolds>
++<TotalTapsAndHolds>1673800</TotalTapsAndHolds>
+ <TotalJumps>103708</TotalJumps>
+ <TotalHolds>162765</TotalHolds>
+ <TotalRolls>6541</TotalRolls>
+@@ -41,20 +41,20 @@
+ <DefaultModifiers/>
+ <Unlocks/>
+ <NumSongsPlayedByPlayMode>
+-<Regular>3957</Regular>
++<Regular>3959</Regular>
+ </NumSongsPlayedByPlayMode>
+ <NumSongsPlayedByStyle>
+-<Style Game='dance' Style='single'>2362</Style>
++<Style Game='dance' Style='single'>2364</Style>
+ </NumSongsPlayedByStyle>
+ <NumSongsPlayedByDifficulty>
+-<Beginner>342</Beginner>
++<Beginner>344</Beginner>
+ <Easy>652</Easy>
+ <Medium>680</Medium>
+ <Hard>1157</Hard>
+ <Challenge>1126</Challenge>
+ </NumSongsPlayedByDifficulty>
+ <NumSongsPlayedByMeter>
+-<Meter1>205</Meter1>
++<Meter1>207</Meter1>
+ <Meter2>132</Meter2>
+ <Meter3>276</Meter3>
+ <Meter4>159</Meter4>
+@@ -70,7 +70,7 @@
+ <Meter14>22</Meter14>
+ <Meter15>1</Meter15>
+ </NumSongsPlayedByMeter>
+-<NumTotalSongsPlayed>3957</NumTotalSongsPlayed>
++<NumTotalSongsPlayed>3959</NumTotalSongsPlayed>
+ <NumStagesPassedByPlayMode>
+ <Regular>3287</Regular>
+ </NumStagesPassedByPlayMode>
+@@ -73072,8 +73072,8 @@
+ <Song Dir='Songs/K-Pop Demon Hunters/Free/'>
+ <Steps Difficulty='Beginner' StepsType='dance-single'>
+ <HighScoreList>
+-<NumTimesPlayed>3</NumTimesPlayed>
+-<LastPlayed>2025-11-24</LastPlayed>
++<NumTimesPlayed>4</NumTimesPlayed>
++<LastPlayed>2026-02-25</LastPlayed>
+ <HighGrade>Tier13</HighGrade>
+ <HighScore>
+ <Name>LIZY</Name>
+@@ -73200,8 +73200,8 @@
+ <Song Dir='Songs/K-Pop Demon Hunters/Golden/'>
+ <Steps Difficulty='Beginner' StepsType='dance-single'>
+ <HighScoreList>
+-<NumTimesPlayed>5</NumTimesPlayed>
+-<LastPlayed>2025-12-23</LastPlayed>
++<NumTimesPlayed>6</NumTimesPlayed>
++<LastPlayed>2026-02-25</LastPlayed>
+ </HighScoreList>
+ </Steps>
+ <Steps Difficulty='Easy' StepsType='dance-single'>
+@@ -73915,8 +73915,8 @@
+ <Song Dir='Songs/K-Pop Demon Hunters/TAKEDOWN/'>
+ <Steps Difficulty='Beginner' StepsType='dance-single'>
+ <HighScoreList>
+-<NumTimesPlayed>2</NumTimesPlayed>
+-<LastPlayed>2025-12-23</LastPlayed>
++<NumTimesPlayed>4</NumTimesPlayed>
++<LastPlayed>2026-02-25</LastPlayed>
+ <HighGrade>Tier17</HighGrade>
+ <HighScore>
+ <Name></Name>
+@@ -129571,6 +129571,7 @@
+ <CaloriesBurned Date='2026-02-14'>1732.880127</CaloriesBurned>
+ <CaloriesBurned Date='2026-02-16'>1900.385742</CaloriesBurned>
+ <CaloriesBurned Date='2026-02-17'>178.590149</CaloriesBurned>
++<CaloriesBurned Date='2026-02-25'>5.291996</CaloriesBurned>
+ </CalorieData>
+ <CoinData>
+ <LastDays>
+```
+
+### ITGMania/SaveAppData/MachineProfile/Type.ini
+
+Machine-level profile and stats.
+
+```diff
+diff --git a/ITGMania/SaveAppData/MachineProfile/Type.ini b/ITGMania/SaveAppData/MachineProfile/Type.ini
+index c7792b0..871eab6 100644
+--- a/ITGMania/SaveAppData/MachineProfile/Type.ini
++++ b/ITGMania/SaveAppData/MachineProfile/Type.ini
+@@ -1,5 +1,5 @@
+ [ListPosition]
+-LastPlayedDate=2026-02-22 22:37:01
++LastPlayedDate=2026-02-25 19:07:35
+ Priority=0
+ Type=Normal
+ 
+```
+
+### ITGMania/SaveAppData/Preferences.ini
+
+Game preferences (theme, options, etc.).
+
+```diff
+diff --git a/ITGMania/SaveAppData/Preferences.ini b/ITGMania/SaveAppData/Preferences.ini
+index d4b59a2..5f1d4e3 100644
+--- a/ITGMania/SaveAppData/Preferences.ini
++++ b/ITGMania/SaveAppData/Preferences.ini
+@@ -50,7 +50,7 @@ CustomSongsMaxSeconds=120.000000
+ DebounceCoinInputTime=0.000000
+ DebugLights=0
+ DebugMenuEnabled=1
+-DefaultLocalProfileIDP1=00000002
++DefaultLocalProfileIDP1=
+ DefaultLocalProfileIDP2=
+ DefaultModifiers=NoHideLights, FailImmediateContinue, Overhead
+ DefaultRecordLength=4.000000
+@@ -66,9 +66,9 @@ DisableUploadDir=0
+ DisabledSongs=
+ DisplayAspectRatio=1.777778
+ DisplayColorDepth=32
+-DisplayHeight=768
++DisplayHeight=1080
+ DisplayId=\\.\DISPLAY2
+-DisplayWidth=1360
++DisplayWidth=1920
+ Disqualification=0
+ EasterEggs=1
+ EditClearPromptThreshold=50
+@@ -279,7 +279,7 @@ UseUnlockSystem=0
+ VideoRenderers=opengl,d3d
+ VisualDelaySeconds=0.000000
+ Vsync=1
+-Windowed=1
++Windowed=0
+ 
+ [Game-dance]
+ Announcer=
+```
+
+### ITGMania/SaveAppData/ThemePrefs.ini
+
+Backed up file.
+
+```diff
+diff --git a/ITGMania/SaveAppData/ThemePrefs.ini b/ITGMania/SaveAppData/ThemePrefs.ini
+index 2183965..80f1047 100644
+--- a/ITGMania/SaveAppData/ThemePrefs.ini
++++ b/ITGMania/SaveAppData/ThemePrefs.ini
+@@ -38,7 +38,7 @@ ScreenPlayerOptionsMenuTimer=90
+ ScreenSelectMusicCasualMenuTimer=300
+ ScreenSelectMusicMenuTimer=300
+ SeparateUnlocksByPlayer=false
+-SimplyLoveColor=8
++SimplyLoveColor=7
+ StepStats=Show
+ UseImageCache=false
+ VisualStyle=Technique
+```
+
+### ITGMania/SaveAppData/Upload/2026-02-25 00000.xml
+
+Replay/upload queue.
+
+```diff
+diff --git a/ITGMania/SaveAppData/Upload/2026-02-25 00000.xml b/ITGMania/SaveAppData/Upload/2026-02-25 00000.xml
+new file mode 100644
+index 0000000..58bcf2a
+--- /dev/null
++++ b/ITGMania/SaveAppData/Upload/2026-02-25 00000.xml	
+@@ -0,0 +1,64 @@
++<?xml version="1.0" encoding="UTF-8" ?>
++
++<Stats>
++<MachineGuid>403d15c592378cca</MachineGuid>
++<RecentSongScores>
++<HighScoreForASongAndSteps>
++<Song Dir='Songs/K-Pop Demon Hunters/TAKEDOWN/'/>
++<Steps Difficulty='Beginner' StepsType='dance-single'/>
++<HighScore>
++<Name></Name>
++<Grade>Failed</Grade>
++<Score>3</Score>
++<PercentDP>0.013000</PercentDP>
++<SurviveSeconds>63.393436</SurviveSeconds>
++<MaxCombo>12</MaxCombo>
++<StageAward></StageAward>
++<PeakComboAward></PeakComboAward>
++<Modifiers>NoHideLights, m250, FailImmediateContinue, Overhead</Modifiers>
++<DateTime>2026-02-25 19:05:03</DateTime>
++<PlayerGuid></PlayerGuid>
++<MachineGuid>403d15c592378cca</MachineGuid>
++<ProductID>1</ProductID>
++<TapNoteScores>
++<HitMine>0</HitMine>
++<AvoidMine>0</AvoidMine>
++<CheckpointMiss>0</CheckpointMiss>
++<Miss>11</Miss>
++<W5>3</W5>
++<W4>12</W4>
++<W3>38</W3>
++<W2>15</W2>
++<W1>12</W1>
++<CheckpointHit>0</CheckpointHit>
++</TapNoteScores>
++<HoldNoteScores>
++<LetGo>1</LetGo>
++<Held>0</Held>
++<MissedHold>0</MissedHold>
++</HoldNoteScores>
++<RadarValues>
++<Stream>0.296703</Stream>
++<Voltage>0.143573</Voltage>
++<Air>0.000000</Air>
++<Freeze>0.000000</Freeze>
++<Chaos>0.013043</Chaos>
++<Notes>77.000000</Notes>
++<TapsAndHolds>77</TapsAndHolds>
++<Jumps>0</Jumps>
++<Holds>0</Holds>
++<Mines>0</Mines>
++<Hands>0</Hands>
++<Rolls>0</Rolls>
++<Lifts>0</Lifts>
++<Fakes>0</Fakes>
++</RadarValues>
++<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
++<Disqualified>0</Disqualified>
++<Pad>33</Pad>
++<StageGuid>4d53c553-12a6-41f7-afc5-baf9efaca35f</StageGuid>
++<Guid>437c3105-5860-43b7-ab7c-81f4fb9b1c72</Guid>
++</HighScore>
++</HighScoreForASongAndSteps>
++</RecentSongScores>
++</Stats>
+```
+
+### ITGMania/SaveAppData/Upload/2026-02-25 00001.xml
+
+Replay/upload queue.
+
+```diff
+diff --git a/ITGMania/SaveAppData/Upload/2026-02-25 00001.xml b/ITGMania/SaveAppData/Upload/2026-02-25 00001.xml
+new file mode 100644
+index 0000000..e73ae09
+--- /dev/null
++++ b/ITGMania/SaveAppData/Upload/2026-02-25 00001.xml	
+@@ -0,0 +1,64 @@
++<?xml version="1.0" encoding="UTF-8" ?>
++
++<Stats>
++<MachineGuid>403d15c592378cca</MachineGuid>
++<RecentSongScores>
++<HighScoreForASongAndSteps>
++<Song Dir='Songs/K-Pop Demon Hunters/Golden/'/>
++<Steps Difficulty='Beginner' StepsType='dance-single'/>
++<HighScore>
++<Name></Name>
++<Grade>Failed</Grade>
++<Score>12</Score>
++<PercentDP>0.150600</PercentDP>
++<SurviveSeconds>67.777481</SurviveSeconds>
++<MaxCombo>8</MaxCombo>
++<StageAward></StageAward>
++<PeakComboAward></PeakComboAward>
++<Modifiers>NoHideLights, m250, FailImmediateContinue, Overhead</Modifiers>
++<DateTime>2026-02-25 19:07:34</DateTime>
++<PlayerGuid></PlayerGuid>
++<MachineGuid>403d15c592378cca</MachineGuid>
++<ProductID>1</ProductID>
++<TapNoteScores>
++<HitMine>0</HitMine>
++<AvoidMine>0</AvoidMine>
++<CheckpointMiss>0</CheckpointMiss>
++<Miss>20</Miss>
++<W5>4</W5>
++<W4>4</W4>
++<W3>20</W3>
++<W2>7</W2>
++<W1>22</W1>
++<CheckpointHit>0</CheckpointHit>
++</TapNoteScores>
++<HoldNoteScores>
++<LetGo>0</LetGo>
++<Held>0</Held>
++<MissedHold>0</MissedHold>
++</HoldNoteScores>
++<RadarValues>
++<Stream>0.371795</Stream>
++<Voltage>0.107354</Voltage>
++<Air>0.000000</Air>
++<Freeze>0.000000</Freeze>
++<Chaos>0.150649</Chaos>
++<Notes>53.000000</Notes>
++<TapsAndHolds>53</TapsAndHolds>
++<Jumps>0</Jumps>
++<Holds>0</Holds>
++<Mines>0</Mines>
++<Hands>0</Hands>
++<Rolls>0</Rolls>
++<Lifts>0</Lifts>
++<Fakes>0</Fakes>
++</RadarValues>
++<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
++<Disqualified>0</Disqualified>
++<Pad>33</Pad>
++<StageGuid>9fe6766f-62e1-4ba2-a5b6-3b2aeac6dd12</StageGuid>
++<Guid>d36bfc10-7e97-456e-a703-5a148947a343</Guid>
++</HighScore>
++</HighScoreForASongAndSteps>
++</RecentSongScores>
++</Stats>
+```
 

@@ -18,20 +18,20 @@
 <Song Dir=''/>
 <Course/>
 <CurrentCombo>0</CurrentCombo>
-<TotalSessions>2450</TotalSessions>
-<TotalSessionSeconds>1105566</TotalSessionSeconds>
-<TotalGameplaySeconds>538594</TotalGameplaySeconds>
-<TotalCaloriesBurned>194067.046875</TotalCaloriesBurned>
+<TotalSessions>2473</TotalSessions>
+<TotalSessionSeconds>1105977</TotalSessionSeconds>
+<TotalGameplaySeconds>538847</TotalGameplaySeconds>
+<TotalCaloriesBurned>194072.328125</TotalCaloriesBurned>
 <GoalType>0</GoalType>
 <GoalCalories>0</GoalCalories>
 <GoalSeconds>0</GoalSeconds>
 <LastPlayedMachineGuid>403d15c592378cca</LastPlayedMachineGuid>
-<LastPlayedDate>2026-02-22</LastPlayedDate>
-<TotalDancePoints>7767497</TotalDancePoints>
+<LastPlayedDate>2026-02-25</LastPlayedDate>
+<TotalDancePoints>7767561</TotalDancePoints>
 <NumExtraStagesPassed>0</NumExtraStagesPassed>
 <NumExtraStagesFailed>0</NumExtraStagesFailed>
 <NumToasties>879</NumToasties>
-<TotalTapsAndHolds>1673670</TotalTapsAndHolds>
+<TotalTapsAndHolds>1673800</TotalTapsAndHolds>
 <TotalJumps>103708</TotalJumps>
 <TotalHolds>162765</TotalHolds>
 <TotalRolls>6541</TotalRolls>
@@ -41,20 +41,20 @@
 <DefaultModifiers/>
 <Unlocks/>
 <NumSongsPlayedByPlayMode>
-<Regular>3957</Regular>
+<Regular>3959</Regular>
 </NumSongsPlayedByPlayMode>
 <NumSongsPlayedByStyle>
-<Style Game='dance' Style='single'>2362</Style>
+<Style Game='dance' Style='single'>2364</Style>
 </NumSongsPlayedByStyle>
 <NumSongsPlayedByDifficulty>
-<Beginner>342</Beginner>
+<Beginner>344</Beginner>
 <Easy>652</Easy>
 <Medium>680</Medium>
 <Hard>1157</Hard>
 <Challenge>1126</Challenge>
 </NumSongsPlayedByDifficulty>
 <NumSongsPlayedByMeter>
-<Meter1>205</Meter1>
+<Meter1>207</Meter1>
 <Meter2>132</Meter2>
 <Meter3>276</Meter3>
 <Meter4>159</Meter4>
@@ -70,7 +70,7 @@
 <Meter14>22</Meter14>
 <Meter15>1</Meter15>
 </NumSongsPlayedByMeter>
-<NumTotalSongsPlayed>3957</NumTotalSongsPlayed>
+<NumTotalSongsPlayed>3959</NumTotalSongsPlayed>
 <NumStagesPassedByPlayMode>
 <Regular>3287</Regular>
 </NumStagesPassedByPlayMode>
@@ -73072,8 +73072,8 @@
 <Song Dir='Songs/K-Pop Demon Hunters/Free/'>
 <Steps Difficulty='Beginner' StepsType='dance-single'>
 <HighScoreList>
-<NumTimesPlayed>3</NumTimesPlayed>
-<LastPlayed>2025-11-24</LastPlayed>
+<NumTimesPlayed>4</NumTimesPlayed>
+<LastPlayed>2026-02-25</LastPlayed>
 <HighGrade>Tier13</HighGrade>
 <HighScore>
 <Name>LIZY</Name>
@@ -73200,8 +73200,8 @@
 <Song Dir='Songs/K-Pop Demon Hunters/Golden/'>
 <Steps Difficulty='Beginner' StepsType='dance-single'>
 <HighScoreList>
-<NumTimesPlayed>5</NumTimesPlayed>
-<LastPlayed>2025-12-23</LastPlayed>
+<NumTimesPlayed>6</NumTimesPlayed>
+<LastPlayed>2026-02-25</LastPlayed>
 </HighScoreList>
 </Steps>
 <Steps Difficulty='Easy' StepsType='dance-single'>
@@ -73915,8 +73915,8 @@
 <Song Dir='Songs/K-Pop Demon Hunters/TAKEDOWN/'>
 <Steps Difficulty='Beginner' StepsType='dance-single'>
 <HighScoreList>
-<NumTimesPlayed>2</NumTimesPlayed>
-<LastPlayed>2025-12-23</LastPlayed>
+<NumTimesPlayed>4</NumTimesPlayed>
+<LastPlayed>2026-02-25</LastPlayed>
 <HighGrade>Tier17</HighGrade>
 <HighScore>
 <Name></Name>
@@ -129571,6 +129571,7 @@
 <CaloriesBurned Date='2026-02-14'>1732.880127</CaloriesBurned>
 <CaloriesBurned Date='2026-02-16'>1900.385742</CaloriesBurned>
 <CaloriesBurned Date='2026-02-17'>178.590149</CaloriesBurned>
+<CaloriesBurned Date='2026-02-25'>5.291996</CaloriesBurned>
 </CalorieData>
 <CoinData>
 <LastDays>
