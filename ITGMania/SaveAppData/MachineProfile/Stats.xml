@@ -18,7 +18,7 @@
 <Song Dir=''/>
 <Course/>
 <CurrentCombo>0</CurrentCombo>
-<TotalSessions>2474</TotalSessions>
+<TotalSessions>2475</TotalSessions>
 <TotalSessionSeconds>1105977</TotalSessionSeconds>
 <TotalGameplaySeconds>538847</TotalGameplaySeconds>
 <TotalCaloriesBurned>194072.328125</TotalCaloriesBurned>
@@ -26,7 +26,7 @@
 <GoalCalories>0</GoalCalories>
 <GoalSeconds>0</GoalSeconds>
 <LastPlayedMachineGuid>403d15c592378cca</LastPlayedMachineGuid>
-<LastPlayedDate>2026-02-26</LastPlayedDate>
+<LastPlayedDate>2026-02-27</LastPlayedDate>
 <TotalDancePoints>7767561</TotalDancePoints>
 <NumExtraStagesPassed>0</NumExtraStagesPassed>
 <NumExtraStagesFailed>0</NumExtraStagesFailed>
@@ -129585,8 +129585,8 @@
 </LastDays>
 <LastWeeks>
 <ThisWeek>0</ThisWeek>
-<LastWeek>0</LastWeek>
-<Week02Ago>1</Week02Ago>
+<LastWeek>1</LastWeek>
+<Week02Ago>0</Week02Ago>
 <Week03Ago>0</Week03Ago>
 <Week04Ago>0</Week04Ago>
 <Week05Ago>0</Week05Ago>
