@@ -1,8 +1,8 @@
 ﻿# ITGMania Backup
 
-#### Last backup: Feb 28, 2026 at 3:01 AM
+#### Last backup: Mar 1, 2026 at 3:01 AM
 
-#### Next backup: Mar 1, 2026 at 3:00 AM
+#### Next backup: Mar 2, 2026 at 3:00 AM
 
 ## 30-day digest
 
@@ -1142,62 +1142,4 @@ Time in songs this run: **KYLE** 2m 49s.
 </details>
 
 ## Changes since last backup
-
-### ITGMania/SaveAppData/MachineProfile/Stats.xml
-
-Machine-level profile and stats.
-
-```diff
-diff --git a/ITGMania/SaveAppData/MachineProfile/Stats.xml b/ITGMania/SaveAppData/MachineProfile/Stats.xml
-index ade53e2..a53283f 100644
---- a/ITGMania/SaveAppData/MachineProfile/Stats.xml
-+++ b/ITGMania/SaveAppData/MachineProfile/Stats.xml
-@@ -18,7 +18,7 @@
- <Song Dir=''/>
- <Course/>
- <CurrentCombo>0</CurrentCombo>
--<TotalSessions>2474</TotalSessions>
-+<TotalSessions>2475</TotalSessions>
- <TotalSessionSeconds>1105977</TotalSessionSeconds>
- <TotalGameplaySeconds>538847</TotalGameplaySeconds>
- <TotalCaloriesBurned>194072.328125</TotalCaloriesBurned>
-@@ -26,7 +26,7 @@
- <GoalCalories>0</GoalCalories>
- <GoalSeconds>0</GoalSeconds>
- <LastPlayedMachineGuid>403d15c592378cca</LastPlayedMachineGuid>
--<LastPlayedDate>2026-02-26</LastPlayedDate>
-+<LastPlayedDate>2026-02-27</LastPlayedDate>
- <TotalDancePoints>7767561</TotalDancePoints>
- <NumExtraStagesPassed>0</NumExtraStagesPassed>
- <NumExtraStagesFailed>0</NumExtraStagesFailed>
-@@ -129585,8 +129585,8 @@
- </LastDays>
- <LastWeeks>
- <ThisWeek>0</ThisWeek>
--<LastWeek>0</LastWeek>
--<Week02Ago>1</Week02Ago>
-+<LastWeek>1</LastWeek>
-+<Week02Ago>0</Week02Ago>
- <Week03Ago>0</Week03Ago>
- <Week04Ago>0</Week04Ago>
- <Week05Ago>0</Week05Ago>
-```
-
-### ITGMania/SaveAppData/MachineProfile/Type.ini
-
-Machine-level profile and stats.
-
-```diff
-diff --git a/ITGMania/SaveAppData/MachineProfile/Type.ini b/ITGMania/SaveAppData/MachineProfile/Type.ini
-index 1b299c9..4b9b042 100644
---- a/ITGMania/SaveAppData/MachineProfile/Type.ini
-+++ b/ITGMania/SaveAppData/MachineProfile/Type.ini
-@@ -1,5 +1,5 @@
- [ListPosition]
--LastPlayedDate=2026-02-26 13:52:17
-+LastPlayedDate=2026-02-27 11:15:24
- Priority=0
- Type=Normal
- 
-```
 
