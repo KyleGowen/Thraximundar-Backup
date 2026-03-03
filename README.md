@@ -1,8 +1,8 @@
 ﻿# ITGMania Backup
 
-#### Last backup: Mar 2, 2026 at 3:01 AM
+#### Last backup: Mar 3, 2026 at 3:01 AM
 
-#### Next backup: Mar 3, 2026 at 3:00 AM
+#### Next backup: Mar 4, 2026 at 3:00 AM
 
 ## 30-day digest
 
@@ -1142,40 +1142,4 @@ Time in songs this run: **KYLE** 2m 49s.
 </details>
 
 ## Changes since last backup
-
-### ITGMania/SaveAppData/Coin.ini
-
-Backed up file.
-
-```diff
-diff --git a/ITGMania/SaveAppData/Coin.ini b/ITGMania/SaveAppData/Coin.ini
-index 8f6eba1..9504941 100644
---- a/ITGMania/SaveAppData/Coin.ini
-+++ b/ITGMania/SaveAppData/Coin.ini
-@@ -1,3 +1,3 @@
- [Bookkeeping]
--Coins=17
-+Coins=19
- 
-```
-
-### ITGMania/SaveAppData/Preferences.ini
-
-Game preferences (theme, options, etc.).
-
-```diff
-diff --git a/ITGMania/SaveAppData/Preferences.ini b/ITGMania/SaveAppData/Preferences.ini
-index 5f1d4e3..6fab70e 100644
---- a/ITGMania/SaveAppData/Preferences.ini
-+++ b/ITGMania/SaveAppData/Preferences.ini
-@@ -50,7 +50,7 @@ CustomSongsMaxSeconds=120.000000
- DebounceCoinInputTime=0.000000
- DebugLights=0
- DebugMenuEnabled=1
--DefaultLocalProfileIDP1=
-+DefaultLocalProfileIDP1=00000002
- DefaultLocalProfileIDP2=
- DefaultModifiers=NoHideLights, FailImmediateContinue, Overhead
- DefaultRecordLength=4.000000
-```
 
