@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Stats>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<RecentSongScores>
+<HighScoreForASongAndSteps>
+<Song Dir='Songs/BHOP Ball/[T01] Boom Boom Pow/'/>
+<Steps Difficulty='Challenge' StepsType='dance-single'/>
+<HighScore>
+<Name></Name>
+<Grade>Tier07</Grade>
+<Score>51</Score>
+<PercentDP>0.901100</PercentDP>
+<SurviveSeconds>125.946541</SurviveSeconds>
+<MaxCombo>325</MaxCombo>
+<StageAward>FullComboW3</StageAward>
+<PeakComboAward></PeakComboAward>
+<Modifiers>NoHideLights, C590, 15% Mini, FailImmediateContinue, Overhead, Default</Modifiers>
+<DateTime>2026-03-09 15:04:58</DateTime>
+<PlayerGuid>4ad3a19834ee56bd</PlayerGuid>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<ProductID>1</ProductID>
+<TapNoteScores>
+<HitMine>3</HitMine>
+<AvoidMine>0</AvoidMine>
+<CheckpointMiss>0</CheckpointMiss>
+<Miss>0</Miss>
+<W5>0</W5>
+<W4>0</W4>
+<W3>31</W3>
+<W2>58</W2>
+<W1>206</W1>
+<CheckpointHit>0</CheckpointHit>
+</TapNoteScores>
+<HoldNoteScores>
+<LetGo>0</LetGo>
+<Held>47</Held>
+<MissedHold>0</MissedHold>
+</HoldNoteScores>
+<RadarValues>
+<Stream>0.898462</Stream>
+<Voltage>1.000000</Voltage>
+<Air>0.766667</Air>
+<Freeze>1.000000</Freeze>
+<Chaos>0.901170</Chaos>
+<Notes>325.000000</Notes>
+<TapsAndHolds>295</TapsAndHolds>
+<Jumps>30</Jumps>
+<Holds>17</Holds>
+<Mines>22</Mines>
+<Hands>0</Hands>
+<Rolls>30</Rolls>
+<Lifts>0</Lifts>
+<Fakes>0</Fakes>
+</RadarValues>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<Disqualified>0</Disqualified>
+<Pad>33</Pad>
+<StageGuid>f5c00a22-c0e8-4daa-a011-6dbe52a07a4f</StageGuid>
+<Guid>edec9b01-b0d3-4eb8-ad61-73a0ecaae836</Guid>
+</HighScore>
+</HighScoreForASongAndSteps>
+</RecentSongScores>
+</Stats>

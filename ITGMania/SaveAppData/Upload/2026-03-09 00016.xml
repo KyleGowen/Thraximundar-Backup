@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Stats>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<RecentSongScores>
+<HighScoreForASongAndSteps>
+<Song Dir='Songs/Freyja&apos;s Grimoire/The Vulture/'/>
+<Steps Difficulty='Easy' StepsType='dance-single'/>
+<HighScore>
+<Name></Name>
+<Grade>Tier07</Grade>
+<Score>139</Score>
+<PercentDP>0.900000</PercentDP>
+<SurviveSeconds>243.343552</SurviveSeconds>
+<MaxCombo>257</MaxCombo>
+<StageAward></StageAward>
+<PeakComboAward></PeakComboAward>
+<Modifiers>NoHideLights, C590, 15% Mini, FailImmediateContinue, Overhead, Default</Modifiers>
+<DateTime>2026-03-09 16:11:00</DateTime>
+<PlayerGuid>4ad3a19834ee56bd</PlayerGuid>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<ProductID>1</ProductID>
+<TapNoteScores>
+<HitMine>2</HitMine>
+<AvoidMine>0</AvoidMine>
+<CheckpointMiss>0</CheckpointMiss>
+<Miss>4</Miss>
+<W5>2</W5>
+<W4>7</W4>
+<W3>67</W3>
+<W2>158</W2>
+<W1>555</W1>
+<CheckpointHit>0</CheckpointHit>
+</TapNoteScores>
+<HoldNoteScores>
+<LetGo>2</LetGo>
+<Held>235</Held>
+<MissedHold>2</MissedHold>
+</HoldNoteScores>
+<RadarValues>
+<Stream>0.900249</Stream>
+<Voltage>0.332547</Voltage>
+<Air>1.000000</Air>
+<Freeze>0.990148</Freeze>
+<Chaos>0.900000</Chaos>
+<Notes>796.000000</Notes>
+<TapsAndHolds>787</TapsAndHolds>
+<Jumps>9</Jumps>
+<Holds>201</Holds>
+<Mines>1</Mines>
+<Hands>0</Hands>
+<Rolls>34</Rolls>
+<Lifts>0</Lifts>
+<Fakes>0</Fakes>
+</RadarValues>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<Disqualified>0</Disqualified>
+<Pad>33</Pad>
+<StageGuid>00248730-962f-4303-a9b8-c0635b2f1fe3</StageGuid>
+<Guid>1c879fe5-f9d5-41e5-ae15-8c6797623d3c</Guid>
+</HighScore>
+</HighScoreForASongAndSteps>
+</RecentSongScores>
+</Stats>

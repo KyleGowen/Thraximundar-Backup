@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Stats>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<RecentSongScores>
+<HighScoreForASongAndSteps>
+<Song Dir='Songs/Freyja&apos;s Grimoire/Bangarang/'/>
+<Steps Difficulty='Easy' StepsType='dance-single'/>
+<HighScore>
+<Name></Name>
+<Grade>Tier11</Grade>
+<Score>91</Score>
+<PercentDP>0.780000</PercentDP>
+<SurviveSeconds>146.331039</SurviveSeconds>
+<MaxCombo>340</MaxCombo>
+<StageAward></StageAward>
+<PeakComboAward></PeakComboAward>
+<Modifiers>NoHideLights, C590, 15% Mini, FailImmediateContinue, Overhead, Default</Modifiers>
+<DateTime>2026-03-09 15:47:07</DateTime>
+<PlayerGuid>4ad3a19834ee56bd</PlayerGuid>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<ProductID>1</ProductID>
+<TapNoteScores>
+<HitMine>0</HitMine>
+<AvoidMine>0</AvoidMine>
+<CheckpointMiss>0</CheckpointMiss>
+<Miss>14</Miss>
+<W5>9</W5>
+<W4>16</W4>
+<W3>125</W3>
+<W2>159</W2>
+<W1>314</W1>
+<CheckpointHit>0</CheckpointHit>
+</TapNoteScores>
+<HoldNoteScores>
+<LetGo>0</LetGo>
+<Held>249</Held>
+<MissedHold>6</MissedHold>
+</HoldNoteScores>
+<RadarValues>
+<Stream>0.746291</Stream>
+<Voltage>0.499463</Voltage>
+<Air>0.594595</Air>
+<Freeze>0.972028</Freeze>
+<Chaos>0.780045</Chaos>
+<Notes>650.000000</Notes>
+<TapsAndHolds>614</TapsAndHolds>
+<Jumps>35</Jumps>
+<Holds>139</Holds>
+<Mines>46</Mines>
+<Hands>0</Hands>
+<Rolls>110</Rolls>
+<Lifts>0</Lifts>
+<Fakes>0</Fakes>
+</RadarValues>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<Disqualified>0</Disqualified>
+<Pad>33</Pad>
+<StageGuid>ebb7f1c0-34f0-4b14-aa59-9492c8dc6b12</StageGuid>
+<Guid>5c1c392b-b56d-4760-ad74-c91f17738957</Guid>
+</HighScore>
+</HighScoreForASongAndSteps>
+</RecentSongScores>
+</Stats>

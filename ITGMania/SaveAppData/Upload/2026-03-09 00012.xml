@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Stats>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<RecentSongScores>
+<HighScoreForASongAndSteps>
+<Song Dir='Songs/BHOP Ball 4/[T01] Shady Business (SH)/'/>
+<Steps Difficulty='Challenge' StepsType='dance-single'/>
+<HighScore>
+<Name></Name>
+<Grade>Tier12</Grade>
+<Score>57</Score>
+<PercentDP>0.735700</PercentDP>
+<SurviveSeconds>112.526642</SurviveSeconds>
+<MaxCombo>131</MaxCombo>
+<StageAward></StageAward>
+<PeakComboAward></PeakComboAward>
+<Modifiers>NoHideLights, C420, FailImmediateContinue, Overhead, Default</Modifiers>
+<DateTime>2026-03-09 15:55:37</DateTime>
+<PlayerGuid>d876307e83faa0ea</PlayerGuid>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<ProductID>1</ProductID>
+<TapNoteScores>
+<HitMine>1</HitMine>
+<AvoidMine>0</AvoidMine>
+<CheckpointMiss>0</CheckpointMiss>
+<Miss>10</Miss>
+<W5>1</W5>
+<W4>5</W4>
+<W3>57</W3>
+<W2>114</W2>
+<W1>164</W1>
+<CheckpointHit>0</CheckpointHit>
+</TapNoteScores>
+<HoldNoteScores>
+<LetGo>1</LetGo>
+<Held>28</Held>
+<MissedHold>0</MissedHold>
+</HoldNoteScores>
+<RadarValues>
+<Stream>0.790368</Stream>
+<Voltage>0.347736</Voltage>
+<Air>0.500000</Air>
+<Freeze>0.961538</Freeze>
+<Chaos>0.735789</Chaos>
+<Notes>342.000000</Notes>
+<TapsAndHolds>340</TapsAndHolds>
+<Jumps>1</Jumps>
+<Holds>25</Holds>
+<Mines>3</Mines>
+<Hands>0</Hands>
+<Rolls>3</Rolls>
+<Lifts>0</Lifts>
+<Fakes>0</Fakes>
+</RadarValues>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<Disqualified>0</Disqualified>
+<Pad>33</Pad>
+<StageGuid>c8422cb8-6d10-4acf-a4fa-7ece6f723b0b</StageGuid>
+<Guid>86756337-3e58-4b6e-a2ae-9f4ad8e2ac6c</Guid>
+</HighScore>
+</HighScoreForASongAndSteps>
+</RecentSongScores>
+</Stats>
