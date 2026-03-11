@@ -1,8 +1,8 @@
 ﻿# ITGMania Backup
 
-#### Last backup: Mar 10, 2026 at 3:01 AM
+#### Last backup: Mar 11, 2026 at 3:01 AM
 
-#### Next backup: Mar 11, 2026 at 3:00 AM
+#### Next backup: Mar 12, 2026 at 3:00 AM
 
 ## 30-day digest
 
@@ -11,6 +11,645 @@
 - **KYLE** 49m 29s
 - **LIZY** 11m 27s
 - **SAM!** 24m 37s
+
+#### Mar 11, 2026 at 3:01 AM
+
+<details>
+<summary>Pack and song changes</summary>
+
+#### Pack and song changes
+
+**Added**
+- **Banzaitv's ITG1 Home**
+-- Arcadia
+-- Are You Serious
+-- Chicken Dance
+-- City Lights
+-- Clear Blue Water
+-- Death is the Only Way Out
+-- Do U Know
+-- Dreamland
+-- Fast Food Song
+-- Ghostbusters
+-- Global Thinking
+-- Hawaii Five-0
+-- Heaven's Earth
+-- Here In My Heart
+-- I Believe
+-- Inferno Fortress
+-- Jazzin' the Way You Know
+-- Ligaya
+-- Love is a Battlefield
+-- On the Move
+-- Open Your Eyes
+-- Relax
+-- Silent Running
+-- Star Wars
+-- Sweet Lullaby
+-- Sweetest Sin
+-- The A__hole Song
+-- The Cheeky Song
+-- The Sadist Nation
+-- Troy
+-- You're Free
+- **C0m37's Originals**
+-- Ba Kkwo
+-- Bliss
+-- Born To Lead
+-- Boten Anna
+-- Candy Pop
+-- Candyman
+-- Come
+-- Come Into My Dream
+-- Concept of Love
+-- Death Moon
+-- Ding Ding Dong Song
+-- Don't Lie
+-- Dota
+-- DXY
+-- Eh, Eh
+-- Forever Young
+-- Go Go Naruto!
+-- GO!
+-- Grand Prix
+-- Green Light
+-- Harmony and Lovely
+-- Human
+-- I Can't Stand It
+-- Ichi Nichi
+-- Ike Ike
+-- I'm In Heaven When You Kiss Me
+-- Jingle Bell Bass
+-- June
+-- Just A Girl
+-- Kachoufusetsu
+-- Kiko
+-- Kill the Rock
+-- Let Mom Sleep
+-- LOVE Tropicana
+-- More Than Words Can Say
+-- Must Be Dreaming
+-- MY
+-- Night Of Fire
+-- Night Of Fire (Hinoi)
+-- Nijiiro
+-- Nobody's Perfect
+-- One & Only
+-- One Thousand Cranes
+-- Puppet Master
+-- rainbow rainbow
+-- Raspberry Heart
+-- Rice & Curry
+-- Running In The 90's
+-- Safety Dance
+-- Sinister Rouge
+-- So Fabulous!!
+-- Soul Crash
+-- Still Waiting
+-- Strand Tylosand
+-- Streamline
+-- Strong And Strike
+-- Sunny Sunny Fun
+-- Sverige
+-- Teknopathetic
+-- Temple Of Love
+-- Tetris
+-- The Air That I Breathe
+-- The Take Over, The Break's Over
+-- The Wizard of Oz
+-- This Calling
+-- Thnks fr th Mmrs
+-- Truly Madly Deeply
+-- Tsugaru
+-- We're Going To Birdie
+-- Wham Bam Boogie
+-- What Do They Know
+-- World of Dreams
+- **PSYCH UP!**
+-- AAA (Renaissance)
+-- actualization of self (weaponized)
+-- Airport Shivers
+-- All Hail Shadow
+-- Another Planet
+-- Atlantis
+-- Big Boss
+-- Blame The Moon (Gammer's Cheesy Muffin Remix)
+-- Blaze It
+-- Blinding Lights
+-- Bye Bye
+-- Carte Blanche (Ferry Corsten & Vincent De Moor Remix)
+-- Crusade
+-- Dan (Old Skool Mix)
+-- Death Ecstasy
+-- Destination (Above & Beyond Remix)
+-- EternuS (King for Another Day Remix)
+-- Flaming June
+-- Follow You (Mike Shiver's Catching Sun Remix)
+-- GO! (Mahalo Mix)
+-- Granite
+-- How Many Sukkas
+-- Less Than Three
+-- Love Is Eternity
+-- Love You More
+-- Meant 2 Be
+-- Never Gone (Above & Beyond Respray)
+-- Pilgrim 2000
+-- Plasticworld
+-- Polovtsian Dances And Chorus
+- **The Classics Pack Vol 1**
+-- 2 Gether 4 Ever - [TheCosmicPope]
+-- A - [BeMaNiRuLeR]
+-- A.N.I.C - [2kM]
+-- Ageha - [Hayden]
+-- Ahh, Das Ist Musik - [pfx13AE]
+-- Air - [Reach]
+-- Animals - [C Jota]
+-- Another Planet - [Zaghurim]
+-- As the Rush Comes - [-joe-]
+-- Aztec Templing - [exige]
+-- Beautiful Synergy - [Izzy]
+-- Beethoven Virus - [Dan23]
+-- Best Friend - [Flash]
+-- Better Off Alone - [Cloud]
+-- Beyond the Earth - [b00mba]
+-- Bla Bla Bla - [LEET]
+-- Black Dragon - [DukAmok]
+-- Blade - [Reach]
+-- Blue Army - [HST]
+-- Bonecrusher - [Naota]
+-- Boom Boom Fire - [-joe-]
+-- Boss Machine - [Dan23]
+-- Boss On Parade JH - [TheCosmicPope]
+-- Boten Anna - [MIDI]
+-- Bullshit - [DTM]
+-- Candyman - [Tank101]
+-- Chemical Plant Zone 1 - [SulferDragon]
+-- Church - [Cloud]
+-- CIA Rave - [T.K.B.M]
+-- Cillit Bang - [Kewing DarkSun]
+-- Classical Insanity - [phenomega]
+-- Cold Breath - [dballin4]
+-- Cold Pizza - [Cynic]
+-- Cooking by the Book - [jAAAmes]
+-- Crank That - [C Jota]
+-- Cross Time - [MacGravel]
+-- Dancingbox - [r21freak]
+-- Delirium - [DukAmok]
+-- Disabled The Flaw - [Reach]
+-- Disregard - [Tear]
+-- Dokudenpa - [Skor]
+-- DOODOOCACA - [Bursurk Lurk]
+-- Dr. Doolittle - [Otter]
+-- E - [BlueChaos]
+-- Emerald Sword - [Skor]
+-- Epidermis - [Hayden]
+-- Eruption - [Melonman67]
+-- EXE - [Eggman]
+-- Explosive - [FoOby]
+-- Fart Challenge - [Skor]
+-- Fer Sure - [Flash]
+-- FIRE FIRE - [dimo]
+-- Fire! - [TheCosmicPope]
+-- Flight of the Bumblebee - [Arch0wl]
+-- Flower Forever - [HST]
+-- Fun Fun Pharaoh - [Zaghurim]
+-- Gargoyle - [Reach]
+-- gigadelic - [Reach]
+-- Go Berzerk - [OSC.Suicide]
+-- Go Beyond!! - [dimo]
+-- Guillaume Tell - [Skor]
+-- Hahaha - [Mootz]
+-- Halloween - [Reach]
+-- Happy Happy Shining Star!! - [Dan23]
+-- Hardstyle Drops - [Z Matrix]
+-- Heaven - [Dan23]
+-- Heaven Above - [Jimbo]
+-- He's a Pirate - [Rynker]
+-- Highspeedstar (PLWXRVM) - [C Jota]
+-- Hit 'n Slap - [Cynic]
+-- Holy Orders - [DukAmok]
+-- Holy Thunderforce - [Skor]
+-- I Can Walk On Water - [Mootz]
+-- I'm A Maid - [DTM]
+-- Injection Of Love - [eVILPeeR]
+-- Jump - [Flash]
+-- Kaleidoscope - [Joel Stud]
+-- Kan Kan - [Behemot]
+-- Kiss Me Thru The Phone - [Flash]
+-- La Luna - [djluminus]
+-- Lawn Wake IV - [pfx13AE]
+-- Loituma - [Insane Steve]
+-- Lonely - [-joe-]
+-- M.A.G.I.C Speed Ball - [Renard]
+-- Mei - [Hayden]
+-- moon_child - [Reach]
+-- Mosquito - [Brother Mojo, cmcm]
+-- Moulin Rouge - [Zaghurim]
+-- Nima Tribute - [-joe-]
+-- Omega - [aperson]
+-- One More Lovely - [Eggman]
+-- One Winged Angel - [Darkmage]
+-- Operation Ground and Pound - [TheCosmicPope]
+-- Otaku Speedvibe - [Skor]
+-- Over The Frail Dream - [cat]
+-- Pac-Man - [Tiza]
+-- Pollinosis - [Tiza]
+-- Princess Bride! - [DarthNemesis]
+-- Pulse - [BeMaNiRuLeR]
+-- Quasar - [Eggman]
+-- Respect the Wilderness - [TEEX]
+-- Return of Salieri - [DukAmok]
+-- Roppongi Carillon - [Ike Pie]
+-- Russia Privjet - [Cloud]
+-- Salieri Strikes Back - [DukAmok]
+-- Second Heaven - [BlueChaos]
+-- Shihen (Piece of Poetry) - [DTM]
+-- Shind Bad - [pfx13AE]
+-- Silikon - [r21freak]
+-- Since 1983 - [DukAmok]
+-- Smooth - [-joe-]
+-- Speedcore Dandy - [Omega]
+-- Star Wars - [phenomega]
+-- Strangeprogam - [DTM]
+-- Stunt Flying - [b00mba]
+-- Stunt Flying - [Hayden]
+-- Stunt Flying - [Reach]
+-- Summer Kamp - [TheCosmicPope]
+-- Teknopathetic - [c0m37]
+-- The a la Menthe - [Bahamut X]
+-- The Prototype - [MacGravel]
+-- The Safari - [dimo]
+-- Through the Fire and Flames - [TheCosmicPope]
+-- Tokyo Style Speedcore - [Reach]
+-- Tricky Disco - [MacGravel]
+-- Trolls In The Dark - [Observer]
+-- TSUPSEUDOGAMUSH - [Family Farce]
+-- Ub3r R4ve - [-joe-]
+-- V - [BeMaNiRuLeR]
+-- Vertex ALPHA - [HST]
+-- Vertex BETA - [HST]
+-- VINYL! - [Monst3rjoe]
+-- War Game - [Arch0wl]
+-- We Gotz Game - [pfx13AE]
+-- We Met Dat Night - [Vospi]
+-- Will O' The Wisp - [Arch0wl]
+-- Winnipeg is Fucking Over - [DTM]
+-- Wizards in Winter - [-joe-]
+-- You Fill Me Up - [Flash]
+-- Z - [Snap]
+
+**Removed**
+- **BHOP Ball**
+-- [T01] Bad Apple!! (SM)
+-- [T01] Boom Boom Pow
+-- [T01] Disco Pop (SH)
+-- [T01] Dreaming Days [SM]
+-- [T01] Dynamite [SH]
+-- [T01] Llego El Pavo
+-- [T01] Rather Be [SH]
+-- [T01] Tacos
+-- [T01] Waiting for Tonight (SM)
+-- [T02] 9mm [SH]
+-- [T02] A Cybers World
+-- [T02] Bubblegum K.K
+-- [T02] Coconut Mall
+-- [T02] Desert
+-- [T02] I Hold Still (No CMOD)
+-- [T02] IO [SH]
+-- [T02] ON FIRE
+-- [T02] Simple and Clean
+-- [T03] Bad Boy Birdwatch
+-- [T03] Bounce
+-- [T03] burbank house
+-- [T03] Let me be with you
+-- [T03] Levitating [SX]
+-- [T03] So Am I [SX]
+-- [T03] Sweet Clapper [SX]
+-- [T03] Sweet Witch Girl
+-- [T03] Vindication (No CMOD)
+-- [T04] $100 Bills
+-- [T04] Awake
+-- [T04] Dazzlin Darlin
+-- [T04] File Select
+-- [T04] Gemini in Clockland (No CMOD)
+-- [T04] Let_s Groove
+-- [T04] Mr. Toot
+-- [T04] Poems Are Forever [SX]
+-- [T04] Yoru ni Kakeru
+-- [T05] 3n3ergizer
+-- [T05] Cherry Blossom
+-- [T05] Cracks (No CMOD)
+-- [T05] Freezing Hot
+-- [T05] Light Switch (No CMOD)
+-- [T05] Make Eggs, Eat Eggs
+-- [T05] Midnight Hour
+-- [T05] Sex
+-- [T05] Smokin Out The Window
+-- [T06] ABC
+-- [T06] Banger Machine
+-- [T06] Blue Love
+-- [T06] Krotona Days
+-- [T06] PROTECT ME
+-- [T06] Riddle (No CMOD)
+-- [T06] S-Bahn
+-- [T06] TURBO
+-- [T06] Zora
+-- [T07] 6FINGERDEATHPUNCH
+-- [T07] Ants (No CMOD)
+-- [T07] BOSSY
+-- [T07] Dawgs in Da House
+-- [T07] Funny Funky Freaky
+-- [T07] Hold On
+-- [T07] Le Club
+-- [T07] Metro Night
+-- [T07] Wiggle Wop
+-- [T08] Arabian Nights
+-- [T08] B L A C K - R A Y
+-- [T08] clairvoyance
+-- [T08] Fuego
+-- [T08] Moony eyes
+-- [T08] Pinwheel
+-- [T08] POT (No CMOD)
+-- [T08] PUMPIN  JUMPIN
+-- [T08] smooooch [SX]
+-- [T09] Chicane [SX]
+-- [T09] Cloud 9 [SX]
+-- [T09] Coconut
+-- [T09] Ego Death
+-- [T09] Get Down [SH]
+-- [T09] GIMMICK
+-- [T09] JITTER FANTA
+-- [T09] Sound Chimera (No CMOD)
+-- [T09] Weeble Wobble VIP
+-- [T10] Arcology on Permafrost
+-- [T10] bipolar
+-- [T10] Central Utopia
+-- [T10] Elevator
+-- [T10] Feral (No CMOD)
+-- [T10] Field of View
+-- [T10] Rainbow Rave Parade
+-- [T10] Revolver
+-- [T10] Wormhole
+-- lua
+- **BHOP Ball 2**
+-- [T01] Coconut Mall
+-- [T01] Deep Down (SH) [Shpadoinkle]
+-- [T01] ETA (SX) [VincentITG]
+-- [T01] FALL (SX) [Hubert]
+-- [T01] Gorilla Glue
+-- [T01] I Cant Stop Me (SX) [Freyja]
+-- [T01] Tacos
+-- [T02] Beautiful Sky (SM) [mdx]
+-- [T02] Cockroach Cooking (SM) [Talkion]
+-- [T02] Issa Vibe
+-- [T02] Love You Back
+-- [T02] ON FIRE (No CMOD)
+-- [T02] Simple and Clean
+-- [T02] Unbelievable (SH) [Tony S.]
+-- [T03] Bullet Waiting for Me (SH) [Sangyule]
+-- [T03] Imma Bee
+-- [T03] Lucky Love (SX) [StoryTime]
+-- [T03] Memories of You
+-- [T03] Sweet Clapper [SX]
+-- [T03] The Ghost (No CMOD)
+-- [T03] Wander
+-- [T04] Fear Grows (SX) [Mirin]
+-- [T04] File Select
+-- [T04] Let You Go
+-- [T04] Melt
+-- [T04] ringtone (No CMOD) (SX) [valgrind]
+-- [T04] Singularity
+-- [T04] Summer Days - (No CMOD)
+-- [T05] Dashstar VIP
+-- [T05] Huracan
+-- [T05] Light Switch (No CMOD)
+-- [T05] Midnight Hour
+-- [T05] Multi-Thread
+-- [T05] Sex
+-- [T05] Smokin Out The Window
+-- [T06] Banger Machine
+-- [T06] Bitch Im Nice
+-- [T06] Dirty Vibe (SX) [mute]
+-- [T06] Force Buy (SX) [Exschwasion]
+-- [T06] Goosebumps (SX) [Feraligatr]
+-- [T06] Got You
+-- [T06] Y (No CMOD)
+-- [T07] Ants (No CMOD)
+-- [T07] Ascent (SX) [Talkion]
+-- [T07] Dame
+-- [T07] Mantis
+-- [T07] Moony eyes
+-- [T07] Random Encounter (SH) [Exschwasion]
+-- [T07] Time Goes By
+-- [T08] $1.78
+-- [T08] Arrasando (SX) [J. Nero]
+-- [T08] Elemental Ethnic (SX) [cmmf]
+-- [T08] Le Bleury (SX) [cmmf & BrotherMojo]
+-- [T08] Levitate
+-- [T08] Sound Chimera (No CMOD)
+-- [T08] Stupid Hoe (No CMOD)
+-- [T09] Aetherborne (SX) [A. Astral]
+-- [T09] B L A C K - R A Y
+-- [T09] Coconut
+-- [T09] Gravedigger Saint Punk Remix [SX]
+-- [T09] JITTER FANTA
+-- [T09] Shamshir (SX) [Mirin]
+-- [T09] Summerblue (SX) [Zaia]
+-- [T10) Monke Rave (SX) [dimo]
+-- [T10] Blacksphere
+-- [T10] Feral (No CMOD) [SX]
+-- [T10] Leviathan [SX]
+-- [T10] Lighthouse
+-- [T10] Rainbow Rave Parade
+-- [T10] XENA (SX) [Zaia]
+-- lua
+- **BHOP Ball 3**
+-- [T01] drop pop candy
+-- [T01] Dynamite (SH)
+-- [T01] Houdini
+-- [T01] Issa Vibe
+-- [T01] LRAD
+-- [T01] Never Ever (SH)
+-- [T01] Tacos
+-- [T01] Teleportation (SM)
+-- [T01] Upshift - (NO CMOD)
+-- [T02] Baja Blast (SH)
+-- [T02] Calabria 2007
+-- [T02] Cockroach Cooking (SM)
+-- [T02] Desert
+-- [T02] Euphoria (SH)
+-- [T02] I Like To Move It
+-- [T02] it boy
+-- [T02] LOVELY BASTARDS
+-- [T02] Unbelievable (SH)
+-- [T03] Addicted
+-- [T03] Bounce
+-- [T03] burbank house
+-- [T03] Chemicals (SH)
+-- [T03] Freaky Deaky
+-- [T03] Killa (SM)
+-- [T03] Kissing Game
+-- [T03] Lucky Love
+-- [T03] Sweet Clapper
+-- [T04] Cherry Blossom
+-- [T04] Forever
+-- [T04] Lover Online
+-- [T04] Problem
+-- [T04] Summer Days - (No CMOD)
+-- [T04] The Way I Are
+-- [T04] Uchuu Yuuei
+-- [T04] Wassap (SM)
+-- [T04] Where Have You Been
+-- [T05] dashstar
+-- [T05] edamame
+-- [T05] Here to Stay
+-- [T05] Jumpin Jumpin
+-- [T05] Light Switch - (No CMOD)
+-- [T05] No Sass
+-- [T05] roppongi EVOLVED ver A+B (SH)
+-- [T05] Set Me Free
+-- [T05] Surface
+-- [T06] Dame
+-- [T06] Dirty Vibe
+-- [T06] Force Buy
+-- [T06] Got You
+-- [T06] PUMPIN JUMPIN
+-- [T06] S-Bahn
+-- [T06] ShatterBox
+-- [T06] Uchuu SAMURAI
+-- [T06] Y - (No CMOD)
+-- [T07] Ants - (No CMOD)
+-- [T07] DIABLOSIS NAGA
+-- [T07] Elemental Ethnic
+-- [T07] Get Down (SH)
+-- [T07] Gorgetech
+-- [T07] If
+-- [T07] Inner Spirit
+-- [T07] Mantis
+-- [T07] Random Encounter (SH)
+-- [T08] $1.78
+-- [T08] B L A C K - R A Y
+-- [T08] EMBRYOGLYPH
+-- [T08] Fuego
+-- [T08] Knots
+-- [T08] pseudonymph
+-- [T08] REDLINE
+-- [T08] Summerblue
+-- [T08] Tricolor circuS
+-- [T09] Aetherborne
+-- [T09] ass out
+-- [T09] Good Time
+-- [T09] Honey Trap
+-- [T09] MEXICAN RIDDIM
+-- [T09] Orca
+-- [T09] OVERFLOW
+-- [T09] Testify
+-- [T09] Watch and Learn (SH)
+-- [T10] $100 Bills
+-- [T10] Coconut
+-- [T10] Fantasie-Celeritas (SH)
+-- [T10] Feral - (No CMOD)
+-- [T10] logicx-1 wav
+-- [T10] na
+-- [T10] Nothing Left
+-- [T10] STICKY HELIX
+-- [T10] Void Virus
+-- __bias-check
+-- lua
+- **BHOP Ball 4**
+-- [T01] Artificial Chariot [SH]
+-- [T01] Break Through Myself (SE)
+-- [T01] drop pop candy (SX)
+-- [T01] God-ish (SH)
+-- [T01] Limbo (SX)
+-- [T01] MADELINE (SM)
+-- [T01] Shady Business (SH)
+-- [T01] Sorry (SX)
+-- [T01] Swing (SH)
+-- [T02] Bubblegum K.K (SX)
+-- [T02] Chewingood!!! (SM)
+-- [T02] Cockroach Cooking (SM)
+-- [T02] Honeypie (SH)
+-- [T02] Hyperlapse (SM)
+-- [T02] Kissing Game (SX)
+-- [T02] Laid Back Journey (SH)
+-- [T02] Playstation 8 (SH)
+-- [T02] Pleasure Seeker VIP (SM) (No CMOD)
+-- [T03] Bad Boy Birdwatch [SH]
+-- [T03] BIBBIDIBA (SH)
+-- [T03] Butterfly Twist (SH)
+-- [T03] Chemicals [SH]
+-- [T03] GIMMICK (SM)
+-- [T03] Lucky Love (SX)
+-- [T03] Magnetic (SX)
+-- [T03] Rasputin (SX)
+-- [T03] unlucky number (SH)
+-- [T04] Cha Cha Cha (SX)
+-- [T04] chipotle (SX)
+-- [T04] edamame (SH)
+-- [T04] Gemini in Clockland (No CMOD) (SH)
+-- [T04] Groove District (SH)
+-- [T04] Lover Online (SX)
+-- [T04] ON FIRE (No CMOD) (SH)
+-- [T04] Uchu Yuuei (SH)
+-- [T04] Virus Funk (SX)
+-- [T05] Agitate (SX)
+-- [T05] Chromatically (SX)
+-- [T05] Crystallized Silver (SX)
+-- [T05] Multitalents (SM)
+-- [T05] No Sass (SX)
+-- [T05] Overjoy OVERDOSE (SX)
+-- [T05] Override (SH)
+-- [T05] Tell Me (SX)
+-- [T05] Wicked Fate (SX)
+-- [T06] All I Need VIP (SX)
+-- [T06] Boomshakalaka (SX)
+-- [T06] CoMAAAAAAA (SX)
+-- [T06] Dirty Vibe (SX)
+-- [T06] Don't Go (SX)
+-- [T06] GIGA OMEGA VIP (SX)
+-- [T06] Like This (SX)
+-- [T06] Quixotic (SX)
+-- [T06] Voxel (SX)
+-- [T07] Ascent (SX)
+-- [T07] Color of Science (SX)
+-- [T07] Elemental Ethnic (SX)
+-- [T07] Gorgetech (No CMOD) (SX)
+-- [T07] MEXICAN RIDDIM (SH)
+-- [T07] Punch Box (SX)
+-- [T07] Sector (SX)
+-- [T07] Sky Seeker (SX)
+-- [T07] Swampgator (SX)
+-- [T08] $1.78 (SX)
+-- [T08] GETAWAY (SX)
+-- [T08] Gravedigger Saint Punk Remix [SX]
+-- [T08] Headspace (SX)
+-- [T08] PUSH UR T3MPRR (Edit)
+-- [T08] Shakkiiin!! (SX)
+-- [T08] The Virus (SX)
+-- [T08] Tricolor circuS (SX)
+-- [T08] Whiteout (No CMOD) (SX)
+-- [T09] Astray (SX)
+-- [T09] Disorder (SX)
+-- [T09] Duplication (SX)
+-- [T09] Elbow Grease (SX)
+-- [T09] Flechette (SX)
+-- [T09] Rumble (telemist bootleg) (SX)
+-- [T09] Timelock (SX)
+-- [T09] Voice 2 Voice n Voice (SX)
+-- [T09] We Could Get More Machinegun (SX)
+-- [T10] 100 Bills (SX)
+-- [T10] ass out (SX)
+-- [T10] bipolar (SX)
+-- [T10] Clinozoisite (SX)
+-- [T10] deadeye (SX)
+-- [T10] Feral (No CMOD) [SX]
+-- [T10] Godslain (SX)
+-- [T10] Laserbeam (SX)
+-- [T10] Myths You Forgot (SX)
+-- lua
+
+</details>
 
 #### Mar 10, 2026 at 3:01 AM
 
@@ -701,371 +1340,299 @@ Time in songs this run: **KYLE** 2m 49s.
 **Added**
 
 <details>
-<summary>BHOP Ball</summary>
+<summary>Banzaitv's ITG1 Home</summary>
 
--- [T01] Bad Apple!! (SM)
--- [T01] Boom Boom Pow
--- [T01] Disco Pop (SH)
--- [T01] Dreaming Days [SM]
--- [T01] Dynamite [SH]
--- [T01] Llego El Pavo
--- [T01] Rather Be [SH]
--- [T01] Tacos
--- [T01] Waiting for Tonight (SM)
--- [T02] 9mm [SH]
--- [T02] A Cybers World
--- [T02] Bubblegum K.K
--- [T02] Coconut Mall
--- [T02] Desert
--- [T02] I Hold Still (No CMOD)
--- [T02] IO [SH]
--- [T02] ON FIRE
--- [T02] Simple and Clean
--- [T03] Bad Boy Birdwatch
--- [T03] Bounce
--- [T03] burbank house
--- [T03] Let me be with you
--- [T03] Levitating [SX]
--- [T03] So Am I [SX]
--- [T03] Sweet Clapper [SX]
--- [T03] Sweet Witch Girl
--- [T03] Vindication (No CMOD)
--- [T04] $100 Bills
--- [T04] Awake
--- [T04] Dazzlin Darlin
--- [T04] File Select
--- [T04] Gemini in Clockland (No CMOD)
--- [T04] Let_s Groove
--- [T04] Mr. Toot
--- [T04] Poems Are Forever [SX]
--- [T04] Yoru ni Kakeru
--- [T05] 3n3ergizer
--- [T05] Cherry Blossom
--- [T05] Cracks (No CMOD)
--- [T05] Freezing Hot
--- [T05] Light Switch (No CMOD)
--- [T05] Make Eggs, Eat Eggs
--- [T05] Midnight Hour
--- [T05] Sex
--- [T05] Smokin Out The Window
--- [T06] ABC
--- [T06] Banger Machine
--- [T06] Blue Love
--- [T06] Krotona Days
--- [T06] PROTECT ME
--- [T06] Riddle (No CMOD)
--- [T06] S-Bahn
--- [T06] TURBO
--- [T06] Zora
--- [T07] 6FINGERDEATHPUNCH
--- [T07] Ants (No CMOD)
--- [T07] BOSSY
--- [T07] Dawgs in Da House
--- [T07] Funny Funky Freaky
--- [T07] Hold On
--- [T07] Le Club
--- [T07] Metro Night
--- [T07] Wiggle Wop
--- [T08] Arabian Nights
--- [T08] B L A C K - R A Y
--- [T08] clairvoyance
--- [T08] Fuego
--- [T08] Moony eyes
--- [T08] Pinwheel
--- [T08] POT (No CMOD)
--- [T08] PUMPIN  JUMPIN
--- [T08] smooooch [SX]
--- [T09] Chicane [SX]
--- [T09] Cloud 9 [SX]
--- [T09] Coconut
--- [T09] Ego Death
--- [T09] Get Down [SH]
--- [T09] GIMMICK
--- [T09] JITTER FANTA
--- [T09] Sound Chimera (No CMOD)
--- [T09] Weeble Wobble VIP
--- [T10] Arcology on Permafrost
--- [T10] bipolar
--- [T10] Central Utopia
--- [T10] Elevator
--- [T10] Feral (No CMOD)
--- [T10] Field of View
--- [T10] Rainbow Rave Parade
--- [T10] Revolver
--- [T10] Wormhole
--- lua
+-- Arcadia
+-- Are You Serious
+-- Chicken Dance
+-- City Lights
+-- Clear Blue Water
+-- Death is the Only Way Out
+-- Do U Know
+-- Dreamland
+-- Fast Food Song
+-- Ghostbusters
+-- Global Thinking
+-- Hawaii Five-0
+-- Heaven's Earth
+-- Here In My Heart
+-- I Believe
+-- Inferno Fortress
+-- Jazzin' the Way You Know
+-- Ligaya
+-- Love is a Battlefield
+-- On the Move
+-- Open Your Eyes
+-- Relax
+-- Silent Running
+-- Star Wars
+-- Sweet Lullaby
+-- Sweetest Sin
+-- The A__hole Song
+-- The Cheeky Song
+-- The Sadist Nation
+-- Troy
+-- You're Free
 
 </details>
 
 <details>
-<summary>BHOP Ball 2</summary>
+<summary>C0m37's Originals</summary>
 
--- [T01] Coconut Mall
--- [T01] Deep Down (SH) [Shpadoinkle]
--- [T01] ETA (SX) [VincentITG]
--- [T01] FALL (SX) [Hubert]
--- [T01] Gorilla Glue
--- [T01] I Cant Stop Me (SX) [Freyja]
--- [T01] Tacos
--- [T02] Beautiful Sky (SM) [mdx]
--- [T02] Cockroach Cooking (SM) [Talkion]
--- [T02] Issa Vibe
--- [T02] Love You Back
--- [T02] ON FIRE (No CMOD)
--- [T02] Simple and Clean
--- [T02] Unbelievable (SH) [Tony S.]
--- [T03] Bullet Waiting for Me (SH) [Sangyule]
--- [T03] Imma Bee
--- [T03] Lucky Love (SX) [StoryTime]
--- [T03] Memories of You
--- [T03] Sweet Clapper [SX]
--- [T03] The Ghost (No CMOD)
--- [T03] Wander
--- [T04] Fear Grows (SX) [Mirin]
--- [T04] File Select
--- [T04] Let You Go
--- [T04] Melt
--- [T04] ringtone (No CMOD) (SX) [valgrind]
--- [T04] Singularity
--- [T04] Summer Days - (No CMOD)
--- [T05] Dashstar VIP
--- [T05] Huracan
--- [T05] Light Switch (No CMOD)
--- [T05] Midnight Hour
--- [T05] Multi-Thread
--- [T05] Sex
--- [T05] Smokin Out The Window
--- [T06] Banger Machine
--- [T06] Bitch Im Nice
--- [T06] Dirty Vibe (SX) [mute]
--- [T06] Force Buy (SX) [Exschwasion]
--- [T06] Goosebumps (SX) [Feraligatr]
--- [T06] Got You
--- [T06] Y (No CMOD)
--- [T07] Ants (No CMOD)
--- [T07] Ascent (SX) [Talkion]
--- [T07] Dame
--- [T07] Mantis
--- [T07] Moony eyes
--- [T07] Random Encounter (SH) [Exschwasion]
--- [T07] Time Goes By
--- [T08] $1.78
--- [T08] Arrasando (SX) [J. Nero]
--- [T08] Elemental Ethnic (SX) [cmmf]
--- [T08] Le Bleury (SX) [cmmf & BrotherMojo]
--- [T08] Levitate
--- [T08] Sound Chimera (No CMOD)
--- [T08] Stupid Hoe (No CMOD)
--- [T09] Aetherborne (SX) [A. Astral]
--- [T09] B L A C K - R A Y
--- [T09] Coconut
--- [T09] Gravedigger Saint Punk Remix [SX]
--- [T09] JITTER FANTA
--- [T09] Shamshir (SX) [Mirin]
--- [T09] Summerblue (SX) [Zaia]
--- [T10) Monke Rave (SX) [dimo]
--- [T10] Blacksphere
--- [T10] Feral (No CMOD) [SX]
--- [T10] Leviathan [SX]
--- [T10] Lighthouse
--- [T10] Rainbow Rave Parade
--- [T10] XENA (SX) [Zaia]
--- lua
-
-</details>
-
-<details>
-<summary>BHOP Ball 3</summary>
-
--- [T01] drop pop candy
--- [T01] Dynamite (SH)
--- [T01] Houdini
--- [T01] Issa Vibe
--- [T01] LRAD
--- [T01] Never Ever (SH)
--- [T01] Tacos
--- [T01] Teleportation (SM)
--- [T01] Upshift - (NO CMOD)
--- [T02] Baja Blast (SH)
--- [T02] Calabria 2007
--- [T02] Cockroach Cooking (SM)
--- [T02] Desert
--- [T02] Euphoria (SH)
--- [T02] I Like To Move It
--- [T02] it boy
--- [T02] LOVELY BASTARDS
--- [T02] Unbelievable (SH)
--- [T03] Addicted
--- [T03] Bounce
--- [T03] burbank house
--- [T03] Chemicals (SH)
--- [T03] Freaky Deaky
--- [T03] Killa (SM)
--- [T03] Kissing Game
--- [T03] Lucky Love
--- [T03] Sweet Clapper
--- [T04] Cherry Blossom
--- [T04] Forever
--- [T04] Lover Online
--- [T04] Problem
--- [T04] Summer Days - (No CMOD)
--- [T04] The Way I Are
--- [T04] Uchuu Yuuei
--- [T04] Wassap (SM)
--- [T04] Where Have You Been
--- [T05] dashstar
--- [T05] edamame
--- [T05] Here to Stay
--- [T05] Jumpin Jumpin
--- [T05] Light Switch - (No CMOD)
--- [T05] No Sass
--- [T05] roppongi EVOLVED ver A+B (SH)
--- [T05] Set Me Free
--- [T05] Surface
--- [T06] Dame
--- [T06] Dirty Vibe
--- [T06] Force Buy
--- [T06] Got You
--- [T06] PUMPIN JUMPIN
--- [T06] S-Bahn
--- [T06] ShatterBox
--- [T06] Uchuu SAMURAI
--- [T06] Y - (No CMOD)
--- [T07] Ants - (No CMOD)
--- [T07] DIABLOSIS NAGA
--- [T07] Elemental Ethnic
--- [T07] Get Down (SH)
--- [T07] Gorgetech
--- [T07] If
--- [T07] Inner Spirit
--- [T07] Mantis
--- [T07] Random Encounter (SH)
--- [T08] $1.78
--- [T08] B L A C K - R A Y
--- [T08] EMBRYOGLYPH
--- [T08] Fuego
--- [T08] Knots
--- [T08] pseudonymph
--- [T08] REDLINE
--- [T08] Summerblue
--- [T08] Tricolor circuS
--- [T09] Aetherborne
--- [T09] ass out
--- [T09] Good Time
--- [T09] Honey Trap
--- [T09] MEXICAN RIDDIM
--- [T09] Orca
--- [T09] OVERFLOW
--- [T09] Testify
--- [T09] Watch and Learn (SH)
--- [T10] $100 Bills
--- [T10] Coconut
--- [T10] Fantasie-Celeritas (SH)
--- [T10] Feral - (No CMOD)
--- [T10] logicx-1 wav
--- [T10] na
--- [T10] Nothing Left
--- [T10] STICKY HELIX
--- [T10] Void Virus
--- __bias-check
--- lua
+-- Ba Kkwo
+-- Bliss
+-- Born To Lead
+-- Boten Anna
+-- Candy Pop
+-- Candyman
+-- Come
+-- Come Into My Dream
+-- Concept of Love
+-- Death Moon
+-- Ding Ding Dong Song
+-- Don't Lie
+-- Dota
+-- DXY
+-- Eh, Eh
+-- Forever Young
+-- Go Go Naruto!
+-- GO!
+-- Grand Prix
+-- Green Light
+-- Harmony and Lovely
+-- Human
+-- I Can't Stand It
+-- Ichi Nichi
+-- Ike Ike
+-- I'm In Heaven When You Kiss Me
+-- Jingle Bell Bass
+-- June
+-- Just A Girl
+-- Kachoufusetsu
+-- Kiko
+-- Kill the Rock
+-- Let Mom Sleep
+-- LOVE Tropicana
+-- More Than Words Can Say
+-- Must Be Dreaming
+-- MY
+-- Night Of Fire
+-- Night Of Fire (Hinoi)
+-- Nijiiro
+-- Nobody's Perfect
+-- One & Only
+-- One Thousand Cranes
+-- Puppet Master
+-- rainbow rainbow
+-- Raspberry Heart
+-- Rice & Curry
+-- Running In The 90's
+-- Safety Dance
+-- Sinister Rouge
+-- So Fabulous!!
+-- Soul Crash
+-- Still Waiting
+-- Strand Tylosand
+-- Streamline
+-- Strong And Strike
+-- Sunny Sunny Fun
+-- Sverige
+-- Teknopathetic
+-- Temple Of Love
+-- Tetris
+-- The Air That I Breathe
+-- The Take Over, The Break's Over
+-- The Wizard of Oz
+-- This Calling
+-- Thnks fr th Mmrs
+-- Truly Madly Deeply
+-- Tsugaru
+-- We're Going To Birdie
+-- Wham Bam Boogie
+-- What Do They Know
+-- World of Dreams
 
 </details>
 
 <details>
-<summary>BHOP Ball 4</summary>
+<summary>PSYCH UP!</summary>
 
--- [T01] Artificial Chariot [SH]
--- [T01] Break Through Myself (SE)
--- [T01] drop pop candy (SX)
--- [T01] God-ish (SH)
--- [T01] Limbo (SX)
--- [T01] MADELINE (SM)
--- [T01] Shady Business (SH)
--- [T01] Sorry (SX)
--- [T01] Swing (SH)
--- [T02] Bubblegum K.K (SX)
--- [T02] Chewingood!!! (SM)
--- [T02] Cockroach Cooking (SM)
--- [T02] Honeypie (SH)
--- [T02] Hyperlapse (SM)
--- [T02] Kissing Game (SX)
--- [T02] Laid Back Journey (SH)
--- [T02] Playstation 8 (SH)
--- [T02] Pleasure Seeker VIP (SM) (No CMOD)
--- [T03] Bad Boy Birdwatch [SH]
--- [T03] BIBBIDIBA (SH)
--- [T03] Butterfly Twist (SH)
--- [T03] Chemicals [SH]
--- [T03] GIMMICK (SM)
--- [T03] Lucky Love (SX)
--- [T03] Magnetic (SX)
--- [T03] Rasputin (SX)
--- [T03] unlucky number (SH)
--- [T04] Cha Cha Cha (SX)
--- [T04] chipotle (SX)
--- [T04] edamame (SH)
--- [T04] Gemini in Clockland (No CMOD) (SH)
--- [T04] Groove District (SH)
--- [T04] Lover Online (SX)
--- [T04] ON FIRE (No CMOD) (SH)
--- [T04] Uchu Yuuei (SH)
--- [T04] Virus Funk (SX)
--- [T05] Agitate (SX)
--- [T05] Chromatically (SX)
--- [T05] Crystallized Silver (SX)
--- [T05] Multitalents (SM)
--- [T05] No Sass (SX)
--- [T05] Overjoy OVERDOSE (SX)
--- [T05] Override (SH)
--- [T05] Tell Me (SX)
--- [T05] Wicked Fate (SX)
--- [T06] All I Need VIP (SX)
--- [T06] Boomshakalaka (SX)
--- [T06] CoMAAAAAAA (SX)
--- [T06] Dirty Vibe (SX)
--- [T06] Don't Go (SX)
--- [T06] GIGA OMEGA VIP (SX)
--- [T06] Like This (SX)
--- [T06] Quixotic (SX)
--- [T06] Voxel (SX)
--- [T07] Ascent (SX)
--- [T07] Color of Science (SX)
--- [T07] Elemental Ethnic (SX)
--- [T07] Gorgetech (No CMOD) (SX)
--- [T07] MEXICAN RIDDIM (SH)
--- [T07] Punch Box (SX)
--- [T07] Sector (SX)
--- [T07] Sky Seeker (SX)
--- [T07] Swampgator (SX)
--- [T08] $1.78 (SX)
--- [T08] GETAWAY (SX)
--- [T08] Gravedigger Saint Punk Remix [SX]
--- [T08] Headspace (SX)
--- [T08] PUSH UR T3MPRR (Edit)
--- [T08] Shakkiiin!! (SX)
--- [T08] The Virus (SX)
--- [T08] Tricolor circuS (SX)
--- [T08] Whiteout (No CMOD) (SX)
--- [T09] Astray (SX)
--- [T09] Disorder (SX)
--- [T09] Duplication (SX)
--- [T09] Elbow Grease (SX)
--- [T09] Flechette (SX)
--- [T09] Rumble (telemist bootleg) (SX)
--- [T09] Timelock (SX)
--- [T09] Voice 2 Voice n Voice (SX)
--- [T09] We Could Get More Machinegun (SX)
--- [T10] 100 Bills (SX)
--- [T10] ass out (SX)
--- [T10] bipolar (SX)
--- [T10] Clinozoisite (SX)
--- [T10] deadeye (SX)
--- [T10] Feral (No CMOD) [SX]
--- [T10] Godslain (SX)
--- [T10] Laserbeam (SX)
--- [T10] Myths You Forgot (SX)
--- lua
+-- AAA (Renaissance)
+-- actualization of self (weaponized)
+-- Airport Shivers
+-- All Hail Shadow
+-- Another Planet
+-- Atlantis
+-- Big Boss
+-- Blame The Moon (Gammer's Cheesy Muffin Remix)
+-- Blaze It
+-- Blinding Lights
+-- Bye Bye
+-- Carte Blanche (Ferry Corsten & Vincent De Moor Remix)
+-- Crusade
+-- Dan (Old Skool Mix)
+-- Death Ecstasy
+-- Destination (Above & Beyond Remix)
+-- EternuS (King for Another Day Remix)
+-- Flaming June
+-- Follow You (Mike Shiver's Catching Sun Remix)
+-- GO! (Mahalo Mix)
+-- Granite
+-- How Many Sukkas
+-- Less Than Three
+-- Love Is Eternity
+-- Love You More
+-- Meant 2 Be
+-- Never Gone (Above & Beyond Respray)
+-- Pilgrim 2000
+-- Plasticworld
+-- Polovtsian Dances And Chorus
+
+</details>
+
+<details>
+<summary>The Classics Pack Vol 1</summary>
+
+-- 2 Gether 4 Ever - [TheCosmicPope]
+-- A - [BeMaNiRuLeR]
+-- A.N.I.C - [2kM]
+-- Ageha - [Hayden]
+-- Ahh, Das Ist Musik - [pfx13AE]
+-- Air - [Reach]
+-- Animals - [C Jota]
+-- Another Planet - [Zaghurim]
+-- As the Rush Comes - [-joe-]
+-- Aztec Templing - [exige]
+-- Beautiful Synergy - [Izzy]
+-- Beethoven Virus - [Dan23]
+-- Best Friend - [Flash]
+-- Better Off Alone - [Cloud]
+-- Beyond the Earth - [b00mba]
+-- Bla Bla Bla - [LEET]
+-- Black Dragon - [DukAmok]
+-- Blade - [Reach]
+-- Blue Army - [HST]
+-- Bonecrusher - [Naota]
+-- Boom Boom Fire - [-joe-]
+-- Boss Machine - [Dan23]
+-- Boss On Parade JH - [TheCosmicPope]
+-- Boten Anna - [MIDI]
+-- Bullshit - [DTM]
+-- Candyman - [Tank101]
+-- Chemical Plant Zone 1 - [SulferDragon]
+-- Church - [Cloud]
+-- CIA Rave - [T.K.B.M]
+-- Cillit Bang - [Kewing DarkSun]
+-- Classical Insanity - [phenomega]
+-- Cold Breath - [dballin4]
+-- Cold Pizza - [Cynic]
+-- Cooking by the Book - [jAAAmes]
+-- Crank That - [C Jota]
+-- Cross Time - [MacGravel]
+-- Dancingbox - [r21freak]
+-- Delirium - [DukAmok]
+-- Disabled The Flaw - [Reach]
+-- Disregard - [Tear]
+-- Dokudenpa - [Skor]
+-- DOODOOCACA - [Bursurk Lurk]
+-- Dr. Doolittle - [Otter]
+-- E - [BlueChaos]
+-- Emerald Sword - [Skor]
+-- Epidermis - [Hayden]
+-- Eruption - [Melonman67]
+-- EXE - [Eggman]
+-- Explosive - [FoOby]
+-- Fart Challenge - [Skor]
+-- Fer Sure - [Flash]
+-- FIRE FIRE - [dimo]
+-- Fire! - [TheCosmicPope]
+-- Flight of the Bumblebee - [Arch0wl]
+-- Flower Forever - [HST]
+-- Fun Fun Pharaoh - [Zaghurim]
+-- Gargoyle - [Reach]
+-- gigadelic - [Reach]
+-- Go Berzerk - [OSC.Suicide]
+-- Go Beyond!! - [dimo]
+-- Guillaume Tell - [Skor]
+-- Hahaha - [Mootz]
+-- Halloween - [Reach]
+-- Happy Happy Shining Star!! - [Dan23]
+-- Hardstyle Drops - [Z Matrix]
+-- Heaven - [Dan23]
+-- Heaven Above - [Jimbo]
+-- He's a Pirate - [Rynker]
+-- Highspeedstar (PLWXRVM) - [C Jota]
+-- Hit 'n Slap - [Cynic]
+-- Holy Orders - [DukAmok]
+-- Holy Thunderforce - [Skor]
+-- I Can Walk On Water - [Mootz]
+-- I'm A Maid - [DTM]
+-- Injection Of Love - [eVILPeeR]
+-- Jump - [Flash]
+-- Kaleidoscope - [Joel Stud]
+-- Kan Kan - [Behemot]
+-- Kiss Me Thru The Phone - [Flash]
+-- La Luna - [djluminus]
+-- Lawn Wake IV - [pfx13AE]
+-- Loituma - [Insane Steve]
+-- Lonely - [-joe-]
+-- M.A.G.I.C Speed Ball - [Renard]
+-- Mei - [Hayden]
+-- moon_child - [Reach]
+-- Mosquito - [Brother Mojo, cmcm]
+-- Moulin Rouge - [Zaghurim]
+-- Nima Tribute - [-joe-]
+-- Omega - [aperson]
+-- One More Lovely - [Eggman]
+-- One Winged Angel - [Darkmage]
+-- Operation Ground and Pound - [TheCosmicPope]
+-- Otaku Speedvibe - [Skor]
+-- Over The Frail Dream - [cat]
+-- Pac-Man - [Tiza]
+-- Pollinosis - [Tiza]
+-- Princess Bride! - [DarthNemesis]
+-- Pulse - [BeMaNiRuLeR]
+-- Quasar - [Eggman]
+-- Respect the Wilderness - [TEEX]
+-- Return of Salieri - [DukAmok]
+-- Roppongi Carillon - [Ike Pie]
+-- Russia Privjet - [Cloud]
+-- Salieri Strikes Back - [DukAmok]
+-- Second Heaven - [BlueChaos]
+-- Shihen (Piece of Poetry) - [DTM]
+-- Shind Bad - [pfx13AE]
+-- Silikon - [r21freak]
+-- Since 1983 - [DukAmok]
+-- Smooth - [-joe-]
+-- Speedcore Dandy - [Omega]
+-- Star Wars - [phenomega]
+-- Strangeprogam - [DTM]
+-- Stunt Flying - [b00mba]
+-- Stunt Flying - [Hayden]
+-- Stunt Flying - [Reach]
+-- Summer Kamp - [TheCosmicPope]
+-- Teknopathetic - [c0m37]
+-- The a la Menthe - [Bahamut X]
+-- The Prototype - [MacGravel]
+-- The Safari - [dimo]
+-- Through the Fire and Flames - [TheCosmicPope]
+-- Tokyo Style Speedcore - [Reach]
+-- Tricky Disco - [MacGravel]
+-- Trolls In The Dark - [Observer]
+-- TSUPSEUDOGAMUSH - [Family Farce]
+-- Ub3r R4ve - [-joe-]
+-- V - [BeMaNiRuLeR]
+-- Vertex ALPHA - [HST]
+-- Vertex BETA - [HST]
+-- VINYL! - [Monst3rjoe]
+-- War Game - [Arch0wl]
+-- We Gotz Game - [pfx13AE]
+-- We Met Dat Night - [Vospi]
+-- Will O' The Wisp - [Arch0wl]
+-- Winnipeg is Fucking Over - [DTM]
+-- Wizards in Winter - [-joe-]
+-- You Fill Me Up - [Flash]
+-- Z - [Snap]
 
 </details>
 
@@ -1168,2410 +1735,3900 @@ Time in songs this run: **KYLE** 2m 49s.
 
 ## Changes since last backup
 
-### ITGMania/SaveAppData/Coins.xml
+### ITGMania/PACK_LIST.md
 
-Backed up file.
-
-```diff
-diff --git a/ITGMania/SaveAppData/Coins.xml b/ITGMania/SaveAppData/Coins.xml
-index 97f9317..42ca2fe 100644
---- a/ITGMania/SaveAppData/Coins.xml
-+++ b/ITGMania/SaveAppData/Coins.xml
-@@ -15,5 +15,6 @@
- 		<Coins Day='270' Hour='10' Year='2025'>1</Coins>
- 		<Coins Day='304' Hour='10' Year='2025'>1</Coins>
- 		<Coins Day='44' Hour='11' Year='2026'>1</Coins>
-+		<Coins Day='59' Hour='15' Year='2026'>2</Coins>
- 	</Data>
- </Bookkeeping>
-```
-
-### ITGMania/SaveAppData/LocalProfiles/00000002/Simply Love UserPrefs.ini
-
-Per-profile save data.
+Manifest of Songs folder structure (filenames only).
 
 ```diff
-diff --git a/ITGMania/SaveAppData/LocalProfiles/00000002/Simply Love UserPrefs.ini b/ITGMania/SaveAppData/LocalProfiles/00000002/Simply Love UserPrefs.ini
-index c5e292b..019401a 100644
---- a/ITGMania/SaveAppData/LocalProfiles/00000002/Simply Love UserPrefs.ini	
-+++ b/ITGMania/SaveAppData/LocalProfiles/00000002/Simply Love UserPrefs.ini	
-@@ -34,11 +34,11 @@ NoteFieldOffsetX=0
- NoteFieldOffsetY=0
- NoteSkin=default
- Pacemaker=false
--PlayerOptionsString=NoHideLights, C590, 15% Mini, FailImmediateContinue, Overhead, Default
-+PlayerOptionsString=NoHideLights, C600, 15% Mini, FailImmediateContinue, Overhead, Default
- ShowExScore=false
- ShowFaPlusPane=false
- ShowFaPlusWindow=false
--SpeedMod=590
-+SpeedMod=600
- SpeedModType=C
- SubtractiveScoring=false
- TargetScore=11
-```
-
-### ITGMania/SaveAppData/LocalProfiles/00000002/Stats.xml
-
-Per-profile stats and score history.
-
-```diff
-diff --git a/ITGMania/SaveAppData/LocalProfiles/00000002/Stats.xml b/ITGMania/SaveAppData/LocalProfiles/00000002/Stats.xml
-index 59bafe0..4f0e621 100644
---- a/ITGMania/SaveAppData/LocalProfiles/00000002/Stats.xml
-+++ b/ITGMania/SaveAppData/LocalProfiles/00000002/Stats.xml
-@@ -13,49 +13,49 @@
- <IsMachine>0</IsMachine>
- <Guid>4ad3a19834ee56bd</Guid>
- <SortOrder>Group</SortOrder>
--<LastDifficulty>Beginner</LastDifficulty>
-+<LastDifficulty>Challenge</LastDifficulty>
- <LastCourseDifficulty>Medium</LastCourseDifficulty>
- <LastStepsType>dance-single</LastStepsType>
--<Song Dir='Songs/DDR 2nd Mix/MAKE A JAM!/'/>
-+<Song Dir='Songs/Anthem Series - Garage Rewind/1985/'/>
- <Course FullTitle='Ben Speirs&apos; SPEIRMIX 2+3 [DDR Rating] Random'/>
--<CurrentCombo>0</CurrentCombo>
-+<CurrentCombo>5</CurrentCombo>
- <TotalSessions>0</TotalSessions>
--<TotalSessionSeconds>293193</TotalSessionSeconds>
--<TotalGameplaySeconds>173590</TotalGameplaySeconds>
--<TotalCaloriesBurned>95577.257812</TotalCaloriesBurned>
-+<TotalSessionSeconds>296265</TotalSessionSeconds>
-+<TotalGameplaySeconds>175654</TotalGameplaySeconds>
-+<TotalCaloriesBurned>96829.609375</TotalCaloriesBurned>
- <GoalType>0</GoalType>
- <GoalCalories>0</GoalCalories>
- <GoalSeconds>0</GoalSeconds>
- <LastPlayedMachineGuid>403d15c592378cca</LastPlayedMachineGuid>
--<LastPlayedDate>2026-02-17</LastPlayedDate>
--<TotalDancePoints>2603961</TotalDancePoints>
-+<LastPlayedDate>2026-03-09</LastPlayedDate>
-+<TotalDancePoints>2642482</TotalDancePoints>
- <NumExtraStagesPassed>0</NumExtraStagesPassed>
- <NumExtraStagesFailed>0</NumExtraStagesFailed>
- <NumToasties>16</NumToasties>
--<TotalTapsAndHolds>574422</TotalTapsAndHolds>
--<TotalJumps>28430</TotalJumps>
--<TotalHolds>50548</TotalHolds>
--<TotalRolls>2149</TotalRolls>
--<TotalMines>7659</TotalMines>
--<TotalHands>424</TotalHands>
-+<TotalTapsAndHolds>581827</TotalTapsAndHolds>
-+<TotalJumps>28678</TotalJumps>
-+<TotalHolds>51825</TotalHolds>
-+<TotalRolls>2365</TotalRolls>
-+<TotalMines>7820</TotalMines>
-+<TotalHands>428</TotalHands>
- <TotalLifts>0</TotalLifts>
- <DefaultModifiers>
--<dance>NoHideLights, C590, Overhead, Default</dance>
-+<dance>NoHideLights, C600, Overhead, Default</dance>
- </DefaultModifiers>
- <Unlocks/>
- <NumSongsPlayedByPlayMode>
--<Regular>1281</Regular>
-+<Regular>1295</Regular>
- </NumSongsPlayedByPlayMode>
- <NumSongsPlayedByStyle>
--<Style Game='dance' Style='single'>1261</Style>
-+<Style Game='dance' Style='single'>1275</Style>
- <Style Game='dance' Style='versus'>20</Style>
- </NumSongsPlayedByStyle>
- <NumSongsPlayedByDifficulty>
- <Beginner>30</Beginner>
--<Easy>89</Easy>
-+<Easy>94</Easy>
- <Medium>181</Medium>
- <Hard>668</Hard>
--<Challenge>313</Challenge>
-+<Challenge>322</Challenge>
- </NumSongsPlayedByDifficulty>
- <NumSongsPlayedByMeter>
- <Meter1>10</Meter1>
-@@ -65,27 +65,27 @@
- <Meter5>8</Meter5>
- <Meter6>23</Meter6>
- <Meter7>134</Meter7>
--<Meter8>399</Meter8>
--<Meter9>475</Meter9>
--<Meter10>154</Meter10>
-+<Meter8>400</Meter8>
-+<Meter9>484</Meter9>
-+<Meter10>158</Meter10>
- <Meter11>23</Meter11>
- <Meter12>15</Meter12>
- <Meter13>10</Meter13>
- <Meter14>3</Meter14>
- </NumSongsPlayedByMeter>
--<NumTotalSongsPlayed>1281</NumTotalSongsPlayed>
-+<NumTotalSongsPlayed>1295</NumTotalSongsPlayed>
- <NumStagesPassedByPlayMode>
--<Regular>1162</Regular>
-+<Regular>1175</Regular>
- </NumStagesPassedByPlayMode>
- <NumStagesPassedByGrade>
- <Tier04>8</Tier04>
- <Tier05>26</Tier05>
--<Tier06>80</Tier06>
--<Tier07>176</Tier07>
--<Tier08>181</Tier08>
--<Tier09>168</Tier09>
-+<Tier06>81</Tier06>
-+<Tier07>179</Tier07>
-+<Tier08>187</Tier08>
-+<Tier09>170</Tier09>
- <Tier10>134</Tier10>
--<Tier11>141</Tier11>
-+<Tier11>142</Tier11>
- <Tier12>109</Tier12>
- <Tier13>63</Tier13>
- <Tier14>32</Tier14>
-@@ -4868,16 +4868,67 @@
- <Song Dir='Songs/Anthem Series - Garage Rewind/1985/'>
- <Steps Difficulty='Challenge' StepsType='dance-single'>
- <HighScoreList>
--<NumTimesPlayed>1</NumTimesPlayed>
--<LastPlayed>2025-05-07</LastPlayed>
-+<NumTimesPlayed>2</NumTimesPlayed>
-+<LastPlayed>2026-03-09</LastPlayed>
-+<HighGrade>Tier08</HighGrade>
-+<HighScore>
-+<Name>KYLE</Name>
-+<Grade>Tier08</Grade>
-+<Score>84</Score>
-+<PercentDP>0.870800</PercentDP>
-+<SurviveSeconds>130.083313</SurviveSeconds>
-+<MaxCombo>196</MaxCombo>
-+<StageAward></StageAward>
-+<PeakComboAward></PeakComboAward>
-+<Modifiers>NoHideLights, C600, 15% Mini, FailImmediateContinue, Overhead, Default</Modifiers>
-+<DateTime>2026-03-09 16:52:02</DateTime>
-+<PlayerGuid>4ad3a19834ee56bd</PlayerGuid>
-+<MachineGuid>403d15c592378cca</MachineGuid>
-+<ProductID>1</ProductID>
-+<TapNoteScores>
-+<HitMine>0</HitMine>
-+<AvoidMine>0</AvoidMine>
-+<CheckpointMiss>0</CheckpointMiss>
-+<Miss>4</Miss>
-+<W5>1</W5>
-+<W4>6</W4>
-+<W3>38</W3>
-+<W2>131</W2>
-+<W1>309</W1>
-+<CheckpointHit>0</CheckpointHit>
-+</TapNoteScores>
-+<HoldNoteScores>
-+<LetGo>0</LetGo>
-+<Held>86</Held>
-+<MissedHold>4</MissedHold>
-+</HoldNoteScores>
-+<RadarValues>
-+<Stream>0.899795</Stream>
-+<Voltage>0.391698</Voltage>
-+<Air>0.000000</Air>
-+<Freeze>0.955556</Freeze>
-+<Chaos>0.870812</Chaos>
-+<Notes>484.000000</Notes>
-+<TapsAndHolds>484</TapsAndHolds>
-+<Jumps>0</Jumps>
-+<Holds>86</Holds>
-+<Mines>0</Mines>
-+<Hands>1</Hands>
-+<Rolls>0</Rolls>
-+<Lifts>0</Lifts>
-+<Fakes>0</Fakes>
-+</RadarValues>
-+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
-+<Disqualified>0</Disqualified>
-+</HighScore>
- </HighScoreList>
- </Steps>
- </Song>
- <Song Dir='Songs/Anthem Series - Garage Rewind/All The Small Things/'>
- <Steps Difficulty='Challenge' StepsType='dance-single'>
- <HighScoreList>
--<NumTimesPlayed>5</NumTimesPlayed>
--<LastPlayed>2025-12-20</LastPlayed>
-+<NumTimesPlayed>6</NumTimesPlayed>
-+<LastPlayed>2026-03-09</LastPlayed>
- <HighGrade>Tier09</HighGrade>
- <HighScore>
- <Name>KYLE</Name>
-@@ -4932,14 +4983,14 @@
- <HighScore>
- <Name>KYLE</Name>
- <Grade>Tier09</Grade>
--<Score>106</Score>
--<PercentDP>0.842300</PercentDP>
--<SurviveSeconds>152.864441</SurviveSeconds>
--<MaxCombo>122</MaxCombo>
-+<Score>85</Score>
-+<PercentDP>0.842600</PercentDP>
-+<SurviveSeconds>152.844818</SurviveSeconds>
-+<MaxCombo>135</MaxCombo>
- <StageAward></StageAward>
- <PeakComboAward></PeakComboAward>
--<Modifiers>NoHideLights, C585, 10% Mini, FailImmediateContinue, Overhead, Default</Modifiers>
--<DateTime>2025-12-20 14:14:10</DateTime>
-+<Modifiers>NoHideLights, C590, 15% Mini, FailImmediateContinue, Overhead, Default</Modifiers>
-+<DateTime>2026-03-09 16:25:48</DateTime>
- <PlayerGuid>4ad3a19834ee56bd</PlayerGuid>
- <MachineGuid>403d15c592378cca</MachineGuid>
- <ProductID>1</ProductID>
-@@ -4947,29 +4998,29 @@
- <HitMine>0</HitMine>
- <AvoidMine>0</AvoidMine>
- <CheckpointMiss>0</CheckpointMiss>
--<Miss>9</Miss>
--<W5>1</W5>
--<W4>6</W4>
--<W3>72</W3>
--<W2>138</W2>
--<W1>377</W1>
-+<Miss>6</Miss>
-+<W5>4</W5>
-+<W4>2</W4>
-+<W3>74</W3>
-+<W2>174</W2>
-+<W1>343</W1>
- <CheckpointHit>0</CheckpointHit>
- </TapNoteScores>
- <HoldNoteScores>
- <LetGo>0</LetGo>
--<Held>103</Held>
--<MissedHold>2</MissedHold>
-+<Held>104</Held>
-+<MissedHold>1</MissedHold>
- </HoldNoteScores>
- <RadarValues>
--<Stream>0.855346</Stream>
--<Voltage>0.180366</Voltage>
--<Air>0.696970</Air>
--<Freeze>0.980952</Freeze>
--<Chaos>0.842373</Chaos>
-+<Stream>0.858491</Stream>
-+<Voltage>0.218281</Voltage>
-+<Air>0.787879</Air>
-+<Freeze>0.990476</Freeze>
-+<Chaos>0.842655</Chaos>
- <Notes>626.000000</Notes>
--<TapsAndHolds>595</TapsAndHolds>
-+<TapsAndHolds>594</TapsAndHolds>
- <Jumps>32</Jumps>
--<Holds>103</Holds>
-+<Holds>104</Holds>
- <Mines>0</Mines>
- <Hands>0</Hands>
- <Rolls>0</Rolls>
-@@ -4981,15 +5032,15 @@
- </HighScore>
- <HighScore>
- <Name>KYLE</Name>
--<Grade>Tier11</Grade>
--<Score>93</Score>
--<PercentDP>0.764600</PercentDP>
--<SurviveSeconds>152.827118</SurviveSeconds>
--<MaxCombo>141</MaxCombo>
-+<Grade>Tier09</Grade>
-+<Score>106</Score>
-+<PercentDP>0.842300</PercentDP>
-+<SurviveSeconds>152.864441</SurviveSeconds>
-+<MaxCombo>122</MaxCombo>
- <StageAward></StageAward>
- <PeakComboAward></PeakComboAward>
--<Modifiers>NoHideLights, C565, 10% Mini, FailImmediateContinue, Overhead, Default</Modifiers>
--<DateTime>2025-06-27 16:48:56</DateTime>
-+<Modifiers>NoHideLights, C585, 10% Mini, FailImmediateContinue, Overhead, Default</Modifiers>
-+<DateTime>2025-12-20 14:14:10</DateTime>
- <PlayerGuid>4ad3a19834ee56bd</PlayerGuid>
- <MachineGuid>403d15c592378cca</MachineGuid>
- <ProductID>1</ProductID>
-@@ -4997,29 +5048,29 @@
- <HitMine>0</HitMine>
- <AvoidMine>0</AvoidMine>
- <CheckpointMiss>0</CheckpointMiss>
--<Miss>10</Miss>
--<W5>11</W5>
--<W4>5</W4>
--<W3>110</W3>
--<W2>172</W2>
--<W1>295</W1>
-+<Miss>9</Miss>
-+<W5>1</W5>
-+<W4>6</W4>
-+<W3>72</W3>
-+<W2>138</W2>
-+<W1>377</W1>
- <CheckpointHit>0</CheckpointHit>
- </TapNoteScores>
- <HoldNoteScores>
- <LetGo>0</LetGo>
--<Held>102</Held>
--<MissedHold>3</MissedHold>
-+<Held>103</Held>
-+<MissedHold>2</MissedHold>
- </HoldNoteScores>
- <RadarValues>
--<Stream>0.770440</Stream>
--<Voltage>0.232915</Voltage>
--<Air>0.515152</Air>
--<Freeze>0.971429</Freeze>
--<Chaos>0.764689</Chaos>
--<Notes>614.000000</Notes>
--<TapsAndHolds>584</TapsAndHolds>
--<Jumps>30</Jumps>
--<Holds>102</Holds>
-+<Stream>0.855346</Stream>
-+<Voltage>0.180366</Voltage>
-+<Air>0.696970</Air>
-+<Freeze>0.980952</Freeze>
-+<Chaos>0.842373</Chaos>
-+<Notes>626.000000</Notes>
-+<TapsAndHolds>595</TapsAndHolds>
-+<Jumps>32</Jumps>
-+<Holds>103</Holds>
- <Mines>0</Mines>
- <Hands>0</Hands>
- <Rolls>0</Rolls>
-@@ -5144,8 +5195,8 @@
- <Song Dir='Songs/Anthem Series - Garage Rewind/Dance Dance/'>
- <Steps Difficulty='Challenge' StepsType='dance-single'>
- <HighScoreList>
--<NumTimesPlayed>2</NumTimesPlayed>
--<LastPlayed>2025-12-14</LastPlayed>
-+<NumTimesPlayed>3</NumTimesPlayed>
-+<LastPlayed>2026-03-09</LastPlayed>
- <HighGrade>Tier06</HighGrade>
- <HighScore>
- <Name>KYLE</Name>
-@@ -5199,6 +5250,56 @@
- </HighScore>
- <HighScore>
- <Name>KYLE</Name>
-+<Grade>Tier06</Grade>
-+<Score>99</Score>
-+<PercentDP>0.925900</PercentDP>
-+<SurviveSeconds>126.032486</SurviveSeconds>
-+<MaxCombo>280</MaxCombo>
-+<StageAward></StageAward>
-+<PeakComboAward></PeakComboAward>
-+<Modifiers>NoHideLights, C590, 15% Mini, FailImmediateContinue, Overhead, Default</Modifiers>
-+<DateTime>2026-03-09 16:28:18</DateTime>
-+<PlayerGuid>4ad3a19834ee56bd</PlayerGuid>
-+<MachineGuid>403d15c592378cca</MachineGuid>
-+<ProductID>1</ProductID>
-+<TapNoteScores>
-+<HitMine>0</HitMine>
-+<AvoidMine>0</AvoidMine>
-+<CheckpointMiss>0</CheckpointMiss>
-+<Miss>1</Miss>
-+<W5>0</W5>
-+<W4>1</W4>
-+<W3>36</W3>
-+<W2>116</W2>
-+<W1>335</W1>
-+<CheckpointHit>0</CheckpointHit>
-+</TapNoteScores>
-+<HoldNoteScores>
-+<LetGo>0</LetGo>
-+<Held>175</Held>
-+<MissedHold>0</MissedHold>
-+</HoldNoteScores>
-+<RadarValues>
-+<Stream>0.924152</Stream>
-+<Voltage>0.561388</Voltage>
-+<Air>1.000000</Air>
-+<Freeze>1.000000</Freeze>
-+<Chaos>0.925904</Chaos>
-+<Notes>500.000000</Notes>
-+<TapsAndHolds>488</TapsAndHolds>
-+<Jumps>12</Jumps>
-+<Holds>175</Holds>
-+<Mines>0</Mines>
-+<Hands>0</Hands>
-+<Rolls>0</Rolls>
-+<Lifts>0</Lifts>
-+<Fakes>0</Fakes>
-+</RadarValues>
-+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
-+<Disqualified>0</Disqualified>
-+</HighScore>
-+<HighScore>
-+<Name>KYLE</Name>
- <Grade>Tier08</Grade>
- <Score>83</Score>
- <PercentDP>0.875000</PercentDP>
-@@ -5913,11 +6014,70 @@
- </HighScoreList>
- </Steps>
- </Song>
-+<Song Dir='Songs/Anthem Series - Garage Rewind/Still into You/'>
-+<Steps Difficulty='Challenge' StepsType='dance-single'>
-+<HighScoreList>
-+<NumTimesPlayed>1</NumTimesPlayed>
-+<LastPlayed>2026-03-09</LastPlayed>
-+<HighGrade>Tier08</HighGrade>
-+<HighScore>
-+<Name>KYLE</Name>
-+<Grade>Tier08</Grade>
-+<Score>103</Score>
-+<PercentDP>0.881000</PercentDP>
-+<SurviveSeconds>141.180389</SurviveSeconds>
-+<MaxCombo>267</MaxCombo>
-+<StageAward></StageAward>
-+<PeakComboAward></PeakComboAward>
-+<Modifiers>NoHideLights, C600, 15% Mini, FailImmediateContinue, Overhead, Default</Modifiers>
-+<DateTime>2026-03-09 16:49:18</DateTime>
-+<PlayerGuid>4ad3a19834ee56bd</PlayerGuid>
-+<MachineGuid>403d15c592378cca</MachineGuid>
-+<ProductID>1</ProductID>
-+<TapNoteScores>
-+<HitMine>0</HitMine>
-+<AvoidMine>0</AvoidMine>
-+<CheckpointMiss>0</CheckpointMiss>
-+<Miss>4</Miss>
-+<W5>0</W5>
-+<W4>3</W4>
-+<W3>54</W3>
-+<W2>139</W2>
-+<W1>355</W1>
-+<CheckpointHit>0</CheckpointHit>
-+</TapNoteScores>
-+<HoldNoteScores>
-+<LetGo>0</LetGo>
-+<Held>98</Held>
-+<MissedHold>1</MissedHold>
-+</HoldNoteScores>
-+<RadarValues>
-+<Stream>0.888889</Stream>
-+<Voltage>0.499677</Voltage>
-+<Air>1.000000</Air>
-+<Freeze>0.989899</Freeze>
-+<Chaos>0.881040</Chaos>
-+<Notes>572.000000</Notes>
-+<TapsAndHolds>551</TapsAndHolds>
-+<Jumps>21</Jumps>
-+<Holds>98</Holds>
-+<Mines>0</Mines>
-+<Hands>0</Hands>
-+<Rolls>0</Rolls>
-+<Lifts>0</Lifts>
-+<Fakes>0</Fakes>
-+</RadarValues>
-+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
-+<Disqualified>0</Disqualified>
-+</HighScore>
-+</HighScoreList>
-+</Steps>
-+</Song>
- <Song Dir='Songs/Anthem Series - Garage Rewind/The Anthem/'>
- <Steps Difficulty='Challenge' StepsType='dance-single'>
- <HighScoreList>
--<NumTimesPlayed>2</NumTimesPlayed>
--<LastPlayed>2025-12-14</LastPlayed>
-+<NumTimesPlayed>3</NumTimesPlayed>
-+<LastPlayed>2026-03-09</LastPlayed>
- <HighGrade>Tier08</HighGrade>
- <HighScore>
- <Name>KYLE</Name>
-@@ -5971,6 +6131,56 @@
- </HighScore>
- <HighScore>
- <Name>KYLE</Name>
-+<Grade>Tier09</Grade>
-+<Score>69</Score>
-+<PercentDP>0.834500</PercentDP>
-+<SurviveSeconds>121.634308</SurviveSeconds>
-+<MaxCombo>194</MaxCombo>
-+<StageAward></StageAward>
-+<PeakComboAward></PeakComboAward>
-+<Modifiers>NoHideLights, C600, 15% Mini, FailImmediateContinue, Overhead, Default</Modifiers>
-+<DateTime>2026-03-09 16:46:11</DateTime>
-+<PlayerGuid>4ad3a19834ee56bd</PlayerGuid>
-+<MachineGuid>403d15c592378cca</MachineGuid>
-+<ProductID>1</ProductID>
-+<TapNoteScores>
-+<HitMine>0</HitMine>
-+<AvoidMine>0</AvoidMine>
-+<CheckpointMiss>0</CheckpointMiss>
-+<Miss>6</Miss>
-+<W5>3</W5>
-+<W4>6</W4>
-+<W3>49</W3>
-+<W2>138</W2>
-+<W1>254</W1>
-+<CheckpointHit>0</CheckpointHit>
-+</TapNoteScores>
-+<HoldNoteScores>
-+<LetGo>0</LetGo>
-+<Held>88</Held>
-+<MissedHold>0</MissedHold>
-+</HoldNoteScores>
-+<RadarValues>
-+<Stream>0.864017</Stream>
-+<Voltage>0.383277</Voltage>
-+<Air>0.909091</Air>
-+<Freeze>1.000000</Freeze>
-+<Chaos>0.834559</Chaos>
-+<Notes>469.000000</Notes>
-+<TapsAndHolds>447</TapsAndHolds>
-+<Jumps>22</Jumps>
-+<Holds>87</Holds>
-+<Mines>0</Mines>
-+<Hands>0</Hands>
-+<Rolls>1</Rolls>
-+<Lifts>0</Lifts>
-+<Fakes>0</Fakes>
-+</RadarValues>
-+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
-+<Disqualified>0</Disqualified>
-+</HighScore>
-+<HighScore>
-+<Name>KYLE</Name>
- <Grade>Tier11</Grade>
- <Score>76</Score>
- <PercentDP>0.778600</PercentDP>
-@@ -6084,12 +6294,62 @@
- <Song Dir='Songs/Anthem Series - Garage Rewind/Without Me/'>
- <Steps Difficulty='Challenge' StepsType='dance-single'>
- <HighScoreList>
--<NumTimesPlayed>6</NumTimesPlayed>
--<LastPlayed>2025-12-14</LastPlayed>
-+<NumTimesPlayed>7</NumTimesPlayed>
-+<LastPlayed>2026-03-09</LastPlayed>
- <HighGrade>Tier07</HighGrade>
- <HighScore>
- <Name>KYLE</Name>
- <Grade>Tier07</Grade>
-+<Score>116</Score>
-+<PercentDP>0.916100</PercentDP>
-+<SurviveSeconds>161.063293</SurviveSeconds>
-+<MaxCombo>671</MaxCombo>
-+<StageAward>FullComboW3</StageAward>
-+<PeakComboAward></PeakComboAward>
-+<Modifiers>NoHideLights, C600, 15% Mini, FailImmediateContinue, Overhead, Default</Modifiers>
-+<DateTime>2026-03-09 16:32:06</DateTime>
-+<PlayerGuid>4ad3a19834ee56bd</PlayerGuid>
-+<MachineGuid>403d15c592378cca</MachineGuid>
-+<ProductID>1</ProductID>
-+<TapNoteScores>
-+<HitMine>0</HitMine>
-+<AvoidMine>0</AvoidMine>
-+<CheckpointMiss>0</CheckpointMiss>
-+<Miss>0</Miss>
-+<W5>0</W5>
-+<W4>0</W4>
-+<W3>65</W3>
-+<W2>147</W2>
-+<W1>441</W1>
-+<CheckpointHit>0</CheckpointHit>
-+</TapNoteScores>
-+<HoldNoteScores>
-+<LetGo>0</LetGo>
-+<Held>163</Held>
-+<MissedHold>0</MissedHold>
-+</HoldNoteScores>
-+<RadarValues>
-+<Stream>0.898659</Stream>
-+<Voltage>1.000000</Voltage>
-+<Air>0.777778</Air>
-+<Freeze>1.000000</Freeze>
-+<Chaos>0.916176</Chaos>
-+<Notes>671.000000</Notes>
-+<TapsAndHolds>653</TapsAndHolds>
-+<Jumps>18</Jumps>
-+<Holds>160</Holds>
-+<Mines>4</Mines>
-+<Hands>0</Hands>
-+<Rolls>3</Rolls>
-+<Lifts>0</Lifts>
-+<Fakes>1</Fakes>
-+</RadarValues>
-+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
-+<Disqualified>0</Disqualified>
-+</HighScore>
-+<HighScore>
-+<Name>KYLE</Name>
-+<Grade>Tier07</Grade>
- <Score>127</Score>
- <PercentDP>0.911500</PercentDP>
- <SurviveSeconds>161.033020</SurviveSeconds>
-@@ -9759,6 +10019,191 @@
- </HighScoreList>
- </Steps>
- </Song>
-+<Song Dir='Songs/BHOP Ball/[T01] Boom Boom Pow/'>
-+<Steps Difficulty='Challenge' StepsType='dance-single'>
-+<HighScoreList>
-+<NumTimesPlayed>2</NumTimesPlayed>
-+<LastPlayed>2026-03-09</LastPlayed>
-+<HighGrade>Tier07</HighGrade>
-+<HighScore>
-+<Name>KYLE</Name>
-+<Grade>Tier07</Grade>
-+<Score>51</Score>
-+<PercentDP>0.901100</PercentDP>
-+<SurviveSeconds>125.946541</SurviveSeconds>
-+<MaxCombo>325</MaxCombo>
-+<StageAward>FullComboW3</StageAward>
-+<PeakComboAward></PeakComboAward>
-+<Modifiers>NoHideLights, C590, 15% Mini, FailImmediateContinue, Overhead, Default</Modifiers>
-+<DateTime>2026-03-09 15:04:58</DateTime>
-+<PlayerGuid>4ad3a19834ee56bd</PlayerGuid>
-+<MachineGuid>403d15c592378cca</MachineGuid>
-+<ProductID>1</ProductID>
-+<TapNoteScores>
-+<HitMine>3</HitMine>
-+<AvoidMine>0</AvoidMine>
-+<CheckpointMiss>0</CheckpointMiss>
-+<Miss>0</Miss>
-+<W5>0</W5>
-+<W4>0</W4>
-+<W3>31</W3>
-+<W2>58</W2>
-+<W1>206</W1>
-+<CheckpointHit>0</CheckpointHit>
-+</TapNoteScores>
-+<HoldNoteScores>
-+<LetGo>0</LetGo>
-+<Held>47</Held>
-+<MissedHold>0</MissedHold>
-+</HoldNoteScores>
-+<RadarValues>
-+<Stream>0.898462</Stream>
-+<Voltage>1.000000</Voltage>
-+<Air>0.766667</Air>
-+<Freeze>1.000000</Freeze>
-+<Chaos>0.901170</Chaos>
-+<Notes>325.000000</Notes>
-+<TapsAndHolds>295</TapsAndHolds>
-+<Jumps>30</Jumps>
-+<Holds>17</Holds>
-+<Mines>22</Mines>
-+<Hands>0</Hands>
-+<Rolls>30</Rolls>
-+<Lifts>0</Lifts>
-+<Fakes>0</Fakes>
-+</RadarValues>
-+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
-+<Disqualified>0</Disqualified>
-+</HighScore>
-+</HighScoreList>
-+</Steps>
-+</Song>
-+<Song Dir='Songs/BHOP Ball/[T02] ON FIRE/'>
-+<Steps Difficulty='Challenge' StepsType='dance-single'>
-+<HighScoreList>
-+<NumTimesPlayed>1</NumTimesPlayed>
-+<LastPlayed>2026-03-09</LastPlayed>
-+<HighGrade>Tier08</HighGrade>
-+<HighScore>
-+<Name>KYLE</Name>
-+<Grade>Tier08</Grade>
-+<Score>106</Score>
-+<PercentDP>0.885900</PercentDP>
-+<SurviveSeconds>112.381607</SurviveSeconds>
-+<MaxCombo>254</MaxCombo>
-+<StageAward></StageAward>
-+<PeakComboAward></PeakComboAward>
-+<Modifiers>NoHideLights, C590, 15% Mini, FailImmediateContinue, Overhead, Default</Modifiers>
-+<DateTime>2026-03-09 15:08:27</DateTime>
-+<PlayerGuid>4ad3a19834ee56bd</PlayerGuid>
-+<MachineGuid>403d15c592378cca</MachineGuid>
-+<ProductID>1</ProductID>
-+<TapNoteScores>
-+<HitMine>0</HitMine>
-+<AvoidMine>0</AvoidMine>
-+<CheckpointMiss>0</CheckpointMiss>
-+<Miss>0</Miss>
-+<W5>1</W5>
-+<W4>1</W4>
-+<W3>48</W3>
-+<W2>145</W2>
-+<W1>291</W1>
-+<CheckpointHit>0</CheckpointHit>
-+</TapNoteScores>
-+<HoldNoteScores>
-+<LetGo>0</LetGo>
-+<Held>49</Held>
-+<MissedHold>0</MissedHold>
-+</HoldNoteScores>
-+<RadarValues>
-+<Stream>0.897959</Stream>
-+<Voltage>0.533294</Voltage>
-+<Air>1.000000</Air>
-+<Freeze>1.000000</Freeze>
-+<Chaos>0.885981</Chaos>
-+<Notes>489.000000</Notes>
-+<TapsAndHolds>485</TapsAndHolds>
-+<Jumps>4</Jumps>
-+<Holds>38</Holds>
-+<Mines>0</Mines>
-+<Hands>0</Hands>
-+<Rolls>11</Rolls>
-+<Lifts>0</Lifts>
-+<Fakes>0</Fakes>
-+</RadarValues>
-+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
-+<Disqualified>0</Disqualified>
-+</HighScore>
-+</HighScoreList>
-+</Steps>
-+</Song>
-+<Song Dir='Songs/BHOP Ball/[T03] Levitating [SX]/'>
-+<Steps Difficulty='Challenge' StepsType='dance-single'>
-+<HighScoreList>
-+<NumTimesPlayed>1</NumTimesPlayed>
-+<LastPlayed>2026-03-09</LastPlayed>
-+</HighScoreList>
-+</Steps>
-+</Song>
-+<Song Dir='Songs/BHOP Ball/[T04] Mr. Toot/'>
-+<Steps Difficulty='Challenge' StepsType='dance-single'>
-+<HighScoreList>
-+<NumTimesPlayed>1</NumTimesPlayed>
-+<LastPlayed>2026-03-09</LastPlayed>
-+<HighGrade>Failed</HighGrade>
-+<HighScore>
-+<Name>KYLE</Name>
-+<Grade>Failed</Grade>
-+<Score>65</Score>
-+<PercentDP>0.539800</PercentDP>
-+<SurviveSeconds>114.998779</SurviveSeconds>
-+<MaxCombo>100</MaxCombo>
-+<StageAward></StageAward>
-+<PeakComboAward></PeakComboAward>
-+<Modifiers>NoHideLights, C590, 15% Mini, FailImmediateContinue, Overhead, Default</Modifiers>
-+<DateTime>2026-03-09 15:12:57</DateTime>
-+<PlayerGuid>4ad3a19834ee56bd</PlayerGuid>
-+<MachineGuid>403d15c592378cca</MachineGuid>
-+<ProductID>1</ProductID>
-+<TapNoteScores>
-+<HitMine>4</HitMine>
-+<AvoidMine>0</AvoidMine>
-+<CheckpointMiss>0</CheckpointMiss>
-+<Miss>36</Miss>
-+<W5>9</W5>
-+<W4>16</W4>
-+<W3>122</W3>
-+<W2>118</W2>
-+<W1>180</W1>
-+<CheckpointHit>0</CheckpointHit>
-+</TapNoteScores>
-+<HoldNoteScores>
-+<LetGo>0</LetGo>
-+<Held>39</Held>
-+<MissedHold>5</MissedHold>
-+</HoldNoteScores>
-+<RadarValues>
-+<Stream>0.619850</Stream>
-+<Voltage>0.204012</Voltage>
-+<Air>0.551020</Air>
-+<Freeze>0.880952</Freeze>
-+<Chaos>0.539810</Chaos>
-+<Notes>482.000000</Notes>
-+<TapsAndHolds>437</TapsAndHolds>
-+<Jumps>43</Jumps>
-+<Holds>37</Holds>
-+<Mines>45</Mines>
-+<Hands>3</Hands>
-+<Rolls>2</Rolls>
-+<Lifts>0</Lifts>
-+<Fakes>0</Fakes>
-+</RadarValues>
-+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
-+<Disqualified>0</Disqualified>
-+</HighScore>
-+</HighScoreList>
-+</Steps>
-+</Song>
- <Song Dir='Songs/Bangers Only 3/Take My Breath/'>
- <Steps Difficulty='Hard' StepsType='dance-single'>
- <HighScoreList>
-@@ -21674,6 +22119,301 @@
- </HighScoreList>
- </Steps>
- </Song>
-+<Song Dir='Songs/Freyja&apos;s Grimoire/2 Die 4/'>
-+<Steps Difficulty='Easy' StepsType='dance-single'>
-+<HighScoreList>
-+<NumTimesPlayed>1</NumTimesPlayed>
-+<LastPlayed>2026-03-09</LastPlayed>
-+<HighGrade>Tier08</HighGrade>
-+<HighScore>
-+<Name>KYLE</Name>
-+<Grade>Tier08</Grade>
-+<Score>114</Score>
-+<PercentDP>0.881800</PercentDP>
-+<SurviveSeconds>186.927933</SurviveSeconds>
-+<MaxCombo>326</MaxCombo>
-+<StageAward></StageAward>
-+<PeakComboAward></PeakComboAward>
-+<Modifiers>NoHideLights, C590, 15% Mini, FailImmediateContinue, Overhead, Default</Modifiers>
-+<DateTime>2026-03-09 15:43:49</DateTime>
-+<PlayerGuid>4ad3a19834ee56bd</PlayerGuid>
-+<MachineGuid>403d15c592378cca</MachineGuid>
-+<ProductID>1</ProductID>
-+<TapNoteScores>
-+<HitMine>0</HitMine>
-+<AvoidMine>0</AvoidMine>
-+<CheckpointMiss>0</CheckpointMiss>
-+<Miss>3</Miss>
-+<W5>2</W5>
-+<W4>0</W4>
-+<W3>54</W3>
-+<W2>175</W2>
-+<W1>388</W1>
-+<CheckpointHit>0</CheckpointHit>
-+</TapNoteScores>
-+<HoldNoteScores>
-+<LetGo>0</LetGo>
-+<Held>72</Held>
-+<MissedHold>0</MissedHold>
-+</HoldNoteScores>
-+<RadarValues>
-+<Stream>0.905901</Stream>
-+<Voltage>0.490807</Voltage>
-+<Air>1.000000</Air>
-+<Freeze>1.000000</Freeze>
-+<Chaos>0.881844</Chaos>
-+<Notes>622.000000</Notes>
-+<TapsAndHolds>617</TapsAndHolds>
-+<Jumps>5</Jumps>
-+<Holds>69</Holds>
-+<Mines>43</Mines>
-+<Hands>0</Hands>
-+<Rolls>3</Rolls>
-+<Lifts>0</Lifts>
-+<Fakes>0</Fakes>
-+</RadarValues>
-+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
-+<Disqualified>0</Disqualified>
-+</HighScore>
-+</HighScoreList>
-+</Steps>
-+</Song>
-+<Song Dir='Songs/Freyja&apos;s Grimoire/Bangarang/'>
-+<Steps Difficulty='Easy' StepsType='dance-single'>
-+<HighScoreList>
-+<NumTimesPlayed>2</NumTimesPlayed>
-+<LastPlayed>2026-03-09</LastPlayed>
-+<HighGrade>Tier11</HighGrade>
-+<HighScore>
-+<Name>KYLE</Name>
-+<Grade>Tier11</Grade>
-+<Score>91</Score>
-+<PercentDP>0.780000</PercentDP>
-+<SurviveSeconds>146.331039</SurviveSeconds>
-+<MaxCombo>340</MaxCombo>
-+<StageAward></StageAward>
-+<PeakComboAward></PeakComboAward>
-+<Modifiers>NoHideLights, C590, 15% Mini, FailImmediateContinue, Overhead, Default</Modifiers>
-+<DateTime>2026-03-09 15:47:07</DateTime>
-+<PlayerGuid>4ad3a19834ee56bd</PlayerGuid>
-+<MachineGuid>403d15c592378cca</MachineGuid>
-+<ProductID>1</ProductID>
-+<TapNoteScores>
-+<HitMine>0</HitMine>
-+<AvoidMine>0</AvoidMine>
-+<CheckpointMiss>0</CheckpointMiss>
-+<Miss>14</Miss>
-+<W5>9</W5>
-+<W4>16</W4>
-+<W3>125</W3>
-+<W2>159</W2>
-+<W1>314</W1>
-+<CheckpointHit>0</CheckpointHit>
-+</TapNoteScores>
-+<HoldNoteScores>
-+<LetGo>0</LetGo>
-+<Held>249</Held>
-+<MissedHold>6</MissedHold>
-+</HoldNoteScores>
-+<RadarValues>
-+<Stream>0.746291</Stream>
-+<Voltage>0.499463</Voltage>
-+<Air>0.594595</Air>
-+<Freeze>0.972028</Freeze>
-+<Chaos>0.780045</Chaos>
-+<Notes>650.000000</Notes>
-+<TapsAndHolds>614</TapsAndHolds>
-+<Jumps>35</Jumps>
-+<Holds>139</Holds>
-+<Mines>46</Mines>
-+<Hands>0</Hands>
-+<Rolls>110</Rolls>
-+<Lifts>0</Lifts>
-+<Fakes>0</Fakes>
-+</RadarValues>
-+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
-+<Disqualified>0</Disqualified>
-+</HighScore>
-+</HighScoreList>
-+</Steps>
-+</Song>
-+<Song Dir='Songs/Freyja&apos;s Grimoire/Becoming Insane (Radio Mix) - cut/'>
-+<Steps Difficulty='Easy' StepsType='dance-single'>
-+<HighScoreList>
-+<NumTimesPlayed>1</NumTimesPlayed>
-+<LastPlayed>2026-03-09</LastPlayed>
-+<HighGrade>Tier08</HighGrade>
-+<HighScore>
-+<Name>KYLE</Name>
-+<Grade>Tier08</Grade>
-+<Score>88</Score>
-+<PercentDP>0.874600</PercentDP>
-+<SurviveSeconds>139.829544</SurviveSeconds>
-+<MaxCombo>183</MaxCombo>
-+<StageAward></StageAward>
-+<PeakComboAward></PeakComboAward>
-+<Modifiers>NoHideLights, C590, 15% Mini, FailImmediateContinue, Overhead, Default</Modifiers>
-+<DateTime>2026-03-09 16:05:03</DateTime>
-+<PlayerGuid>4ad3a19834ee56bd</PlayerGuid>
-+<MachineGuid>403d15c592378cca</MachineGuid>
-+<ProductID>1</ProductID>
-+<TapNoteScores>
-+<HitMine>0</HitMine>
-+<AvoidMine>0</AvoidMine>
-+<CheckpointMiss>0</CheckpointMiss>
-+<Miss>2</Miss>
-+<W5>2</W5>
-+<W4>1</W4>
-+<W3>47</W3>
-+<W2>134</W2>
-+<W1>284</W1>
-+<CheckpointHit>0</CheckpointHit>
-+</TapNoteScores>
-+<HoldNoteScores>
-+<LetGo>0</LetGo>
-+<Held>66</Held>
-+<MissedHold>0</MissedHold>
-+</HoldNoteScores>
-+<RadarValues>
-+<Stream>0.890947</Stream>
-+<Voltage>0.385532</Voltage>
-+<Air>0.875000</Air>
-+<Freeze>1.000000</Freeze>
-+<Chaos>0.874627</Chaos>
-+<Notes>482.000000</Notes>
-+<TapsAndHolds>466</TapsAndHolds>
-+<Jumps>16</Jumps>
-+<Holds>44</Holds>
-+<Mines>0</Mines>
-+<Hands>0</Hands>
-+<Rolls>22</Rolls>
-+<Lifts>0</Lifts>
-+<Fakes>0</Fakes>
-+</RadarValues>
-+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
-+<Disqualified>0</Disqualified>
-+</HighScore>
-+</HighScoreList>
-+</Steps>
-+</Song>
-+<Song Dir='Songs/Freyja&apos;s Grimoire/Mad World/'>
-+<Steps Difficulty='Easy' StepsType='dance-single'>
-+<HighScoreList>
-+<NumTimesPlayed>1</NumTimesPlayed>
-+<LastPlayed>2026-03-09</LastPlayed>
-+<HighGrade>Tier08</HighGrade>
-+<HighScore>
-+<Name>KYLE</Name>
-+<Grade>Tier08</Grade>
-+<Score>83</Score>
-+<PercentDP>0.860600</PercentDP>
-+<SurviveSeconds>153.481308</SurviveSeconds>
-+<MaxCombo>288</MaxCombo>
-+<StageAward></StageAward>
-+<PeakComboAward></PeakComboAward>
-+<Modifiers>NoHideLights, C590, 15% Mini, FailImmediateContinue, Overhead, Default</Modifiers>
-+<DateTime>2026-03-09 15:51:11</DateTime>
-+<PlayerGuid>4ad3a19834ee56bd</PlayerGuid>
-+<MachineGuid>403d15c592378cca</MachineGuid>
-+<ProductID>1</ProductID>
-+<TapNoteScores>
-+<HitMine>0</HitMine>
-+<AvoidMine>0</AvoidMine>
-+<CheckpointMiss>0</CheckpointMiss>
-+<Miss>2</Miss>
-+<W5>0</W5>
-+<W4>3</W4>
-+<W3>55</W3>
-+<W2>142</W2>
-+<W1>287</W1>
-+<CheckpointHit>0</CheckpointHit>
-+</TapNoteScores>
-+<HoldNoteScores>
-+<LetGo>0</LetGo>
-+<Held>22</Held>
-+<MissedHold>0</MissedHold>
-+</HoldNoteScores>
-+<RadarValues>
-+<Stream>0.877551</Stream>
-+<Voltage>0.646772</Voltage>
-+<Air>1.000000</Air>
-+<Freeze>1.000000</Freeze>
-+<Chaos>0.860665</Chaos>
-+<Notes>488.000000</Notes>
-+<TapsAndHolds>487</TapsAndHolds>
-+<Jumps>1</Jumps>
-+<Holds>22</Holds>
-+<Mines>0</Mines>
-+<Hands>0</Hands>
-+<Rolls>0</Rolls>
-+<Lifts>0</Lifts>
-+<Fakes>0</Fakes>
-+</RadarValues>
-+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
-+<Disqualified>0</Disqualified>
-+</HighScore>
-+</HighScoreList>
-+</Steps>
-+</Song>
-+<Song Dir='Songs/Freyja&apos;s Grimoire/The Vulture/'>
-+<Steps Difficulty='Easy' StepsType='dance-single'>
-+<HighScoreList>
-+<NumTimesPlayed>1</NumTimesPlayed>
-+<LastPlayed>2026-03-09</LastPlayed>
-+<HighGrade>Tier07</HighGrade>
-+<HighScore>
-+<Name>KYLE</Name>
-+<Grade>Tier07</Grade>
-+<Score>139</Score>
-+<PercentDP>0.900000</PercentDP>
-+<SurviveSeconds>243.343552</SurviveSeconds>
-+<MaxCombo>257</MaxCombo>
-+<StageAward></StageAward>
-+<PeakComboAward></PeakComboAward>
-+<Modifiers>NoHideLights, C590, 15% Mini, FailImmediateContinue, Overhead, Default</Modifiers>
-+<DateTime>2026-03-09 16:11:00</DateTime>
-+<PlayerGuid>4ad3a19834ee56bd</PlayerGuid>
-+<MachineGuid>403d15c592378cca</MachineGuid>
-+<ProductID>1</ProductID>
-+<TapNoteScores>
-+<HitMine>2</HitMine>
-+<AvoidMine>0</AvoidMine>
-+<CheckpointMiss>0</CheckpointMiss>
-+<Miss>4</Miss>
-+<W5>2</W5>
-+<W4>7</W4>
-+<W3>67</W3>
-+<W2>158</W2>
-+<W1>555</W1>
-+<CheckpointHit>0</CheckpointHit>
-+</TapNoteScores>
-+<HoldNoteScores>
-+<LetGo>2</LetGo>
-+<Held>235</Held>
-+<MissedHold>2</MissedHold>
-+</HoldNoteScores>
-+<RadarValues>
-+<Stream>0.900249</Stream>
-+<Voltage>0.332547</Voltage>
-+<Air>1.000000</Air>
-+<Freeze>0.990148</Freeze>
-+<Chaos>0.900000</Chaos>
-+<Notes>796.000000</Notes>
-+<TapsAndHolds>787</TapsAndHolds>
-+<Jumps>9</Jumps>
-+<Holds>201</Holds>
-+<Mines>1</Mines>
-+<Hands>0</Hands>
-+<Rolls>34</Rolls>
-+<Lifts>0</Lifts>
-+<Fakes>0</Fakes>
-+</RadarValues>
-+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
-+<Disqualified>0</Disqualified>
-+</HighScore>
-+</HighScoreList>
-+</Steps>
-+</Song>
- <Song Dir='Songs/GG Basics/Instanbul/'>
- <Steps Difficulty='Hard' StepsType='dance-single'>
- <HighScoreList>
-@@ -65192,5 +65932,6 @@
- <CaloriesBurned Date='2026-02-14'>1548.884277</CaloriesBurned>
- <CaloriesBurned Date='2026-02-16'>1533.937012</CaloriesBurned>
- <CaloriesBurned Date='2026-02-17'>176.050568</CaloriesBurned>
-+<CaloriesBurned Date='2026-03-09'>1252.341309</CaloriesBurned>
- </CalorieData>
- </Stats>
-```
-
-### ITGMania/SaveAppData/LocalProfiles/00000002/Type.ini
-
-Per-profile save data.
-
-```diff
-diff --git a/ITGMania/SaveAppData/LocalProfiles/00000002/Type.ini b/ITGMania/SaveAppData/LocalProfiles/00000002/Type.ini
-index b2777dc..a85d988 100644
---- a/ITGMania/SaveAppData/LocalProfiles/00000002/Type.ini
-+++ b/ITGMania/SaveAppData/LocalProfiles/00000002/Type.ini
-@@ -1,5 +1,5 @@
- [ListPosition]
--LastPlayedDate=2026-02-17 23:05:45
-+LastPlayedDate=2026-03-09 16:52:22
- Priority=2
- Type=Normal
+diff --git a/ITGMania/PACK_LIST.md b/ITGMania/PACK_LIST.md
+index 83ef356..78871be 100644
+--- a/ITGMania/PACK_LIST.md
++++ b/ITGMania/PACK_LIST.md
+@@ -1,6 +1,6 @@
+ # Pack list
  
-```
-
-### ITGMania/SaveAppData/LocalProfiles/00000005/Stats.xml
-
-Per-profile stats and score history.
-
-```diff
-diff --git a/ITGMania/SaveAppData/LocalProfiles/00000005/Stats.xml b/ITGMania/SaveAppData/LocalProfiles/00000005/Stats.xml
-index b50c09a..eff9d9a 100644
---- a/ITGMania/SaveAppData/LocalProfiles/00000005/Stats.xml
-+++ b/ITGMania/SaveAppData/LocalProfiles/00000005/Stats.xml
-@@ -16,27 +16,27 @@
- <LastDifficulty>Hard</LastDifficulty>
- <LastCourseDifficulty>Medium</LastCourseDifficulty>
- <LastStepsType>dance-single</LastStepsType>
--<Song Dir='Songs/Misc. Collected/Clap Snap/'/>
-+<Song Dir='Songs/Elemwarr Misc/Luminous Intensity (Radio Edit)/'/>
- <Course/>
--<CurrentCombo>43</CurrentCombo>
-+<CurrentCombo>0</CurrentCombo>
- <TotalSessions>0</TotalSessions>
--<TotalSessionSeconds>195197</TotalSessionSeconds>
--<TotalGameplaySeconds>77489</TotalGameplaySeconds>
--<TotalCaloriesBurned>11309.167969</TotalCaloriesBurned>
-+<TotalSessionSeconds>197460</TotalSessionSeconds>
-+<TotalGameplaySeconds>78966</TotalGameplaySeconds>
-+<TotalCaloriesBurned>11590.742188</TotalCaloriesBurned>
- <GoalType>0</GoalType>
- <GoalCalories>0</GoalCalories>
- <GoalSeconds>0</GoalSeconds>
- <LastPlayedMachineGuid>403d15c592378cca</LastPlayedMachineGuid>
--<LastPlayedDate>2026-02-16</LastPlayedDate>
--<TotalDancePoints>691384</TotalDancePoints>
-+<LastPlayedDate>2026-03-09</LastPlayedDate>
-+<TotalDancePoints>710194</TotalDancePoints>
- <NumExtraStagesPassed>0</NumExtraStagesPassed>
- <NumExtraStagesFailed>0</NumExtraStagesFailed>
- <NumToasties>0</NumToasties>
--<TotalTapsAndHolds>169671</TotalTapsAndHolds>
--<TotalJumps>12667</TotalJumps>
--<TotalHolds>15551</TotalHolds>
--<TotalRolls>278</TotalRolls>
--<TotalMines>309</TotalMines>
-+<TotalTapsAndHolds>173997</TotalTapsAndHolds>
-+<TotalJumps>12822</TotalJumps>
-+<TotalHolds>15803</TotalHolds>
-+<TotalRolls>305</TotalRolls>
-+<TotalMines>378</TotalMines>
- <TotalHands>18</TotalHands>
- <TotalLifts>0</TotalLifts>
- <DefaultModifiers>
-@@ -44,17 +44,17 @@
- </DefaultModifiers>
- <Unlocks/>
- <NumSongsPlayedByPlayMode>
--<Regular>607</Regular>
-+<Regular>619</Regular>
- </NumSongsPlayedByPlayMode>
- <NumSongsPlayedByStyle>
--<Style Game='dance' Style='single'>607</Style>
-+<Style Game='dance' Style='single'>619</Style>
- </NumSongsPlayedByStyle>
- <NumSongsPlayedByDifficulty>
- <Beginner>29</Beginner>
- <Easy>101</Easy>
--<Medium>322</Medium>
--<Hard>154</Hard>
--<Challenge>1</Challenge>
-+<Medium>323</Medium>
-+<Hard>161</Hard>
-+<Challenge>5</Challenge>
- </NumSongsPlayedByDifficulty>
- <NumSongsPlayedByMeter>
- <Meter1>9</Meter1>
-@@ -63,27 +63,27 @@
- <Meter4>47</Meter4>
- <Meter5>99</Meter5>
- <Meter6>230</Meter6>
--<Meter7>195</Meter7>
--<Meter8>5</Meter8>
-+<Meter7>202</Meter7>
-+<Meter8>10</Meter8>
- <Meter9>2</Meter9>
- <Meter10>2</Meter10>
- <Meter11>1</Meter11>
- </NumSongsPlayedByMeter>
--<NumTotalSongsPlayed>607</NumTotalSongsPlayed>
-+<NumTotalSongsPlayed>619</NumTotalSongsPlayed>
- <NumStagesPassedByPlayMode>
--<Regular>534</Regular>
-+<Regular>546</Regular>
- </NumStagesPassedByPlayMode>
- <NumStagesPassedByGrade>
--<Tier06>2</Tier06>
--<Tier07>19</Tier07>
--<Tier08>57</Tier08>
--<Tier09>74</Tier09>
--<Tier10>71</Tier10>
-+<Tier06>3</Tier06>
-+<Tier07>20</Tier07>
-+<Tier08>59</Tier08>
-+<Tier09>75</Tier09>
-+<Tier10>74</Tier10>
- <Tier11>102</Tier11>
--<Tier12>83</Tier12>
-+<Tier12>86</Tier12>
- <Tier13>60</Tier13>
- <Tier14>30</Tier14>
--<Tier15>15</Tier15>
-+<Tier15>16</Tier15>
- <Tier16>9</Tier16>
- <Tier17>12</Tier17>
- </NumStagesPassedByGrade>
-@@ -2185,6 +2185,301 @@
- </HighScoreList>
- </Steps>
- </Song>
-+<Song Dir='Songs/BHOP Ball 3/[T02] Calabria 2007/'>
-+<Steps Difficulty='Challenge' StepsType='dance-single'>
-+<HighScoreList>
-+<NumTimesPlayed>1</NumTimesPlayed>
-+<LastPlayed>2026-03-09</LastPlayed>
-+<HighGrade>Tier12</HighGrade>
-+<HighScore>
-+<Name>SAM!</Name>
-+<Grade>Tier12</Grade>
-+<Score>64</Score>
-+<PercentDP>0.756300</PercentDP>
-+<SurviveSeconds>132.493332</SurviveSeconds>
-+<MaxCombo>67</MaxCombo>
-+<StageAward></StageAward>
-+<PeakComboAward></PeakComboAward>
-+<Modifiers>NoHideLights, C420, FailImmediateContinue, Overhead, Default</Modifiers>
-+<DateTime>2026-03-09 15:59:16</DateTime>
-+<PlayerGuid>d876307e83faa0ea</PlayerGuid>
-+<MachineGuid>403d15c592378cca</MachineGuid>
-+<ProductID>1</ProductID>
-+<TapNoteScores>
-+<HitMine>1</HitMine>
-+<AvoidMine>0</AvoidMine>
-+<CheckpointMiss>0</CheckpointMiss>
-+<Miss>7</Miss>
-+<W5>4</W5>
-+<W4>15</W4>
-+<W3>88</W3>
-+<W2>140</W2>
-+<W1>188</W1>
-+<CheckpointHit>0</CheckpointHit>
-+</TapNoteScores>
-+<HoldNoteScores>
-+<LetGo>0</LetGo>
-+<Held>93</Held>
-+<MissedHold>1</MissedHold>
-+</HoldNoteScores>
-+<RadarValues>
-+<Stream>0.742664</Stream>
-+<Voltage>0.136046</Voltage>
-+<Air>1.000000</Air>
-+<Freeze>0.989362</Freeze>
-+<Chaos>0.756343</Chaos>
-+<Notes>432.000000</Notes>
-+<TapsAndHolds>431</TapsAndHolds>
-+<Jumps>1</Jumps>
-+<Holds>93</Holds>
-+<Mines>13</Mines>
-+<Hands>0</Hands>
-+<Rolls>0</Rolls>
-+<Lifts>0</Lifts>
-+<Fakes>0</Fakes>
-+</RadarValues>
-+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
-+<Disqualified>0</Disqualified>
-+</HighScore>
-+</HighScoreList>
-+</Steps>
-+</Song>
-+<Song Dir='Songs/BHOP Ball 3/[T02] it boy/'>
-+<Steps Difficulty='Challenge' StepsType='dance-single'>
-+<HighScoreList>
-+<NumTimesPlayed>1</NumTimesPlayed>
-+<LastPlayed>2026-03-09</LastPlayed>
-+<HighGrade>Tier08</HighGrade>
-+<HighScore>
-+<Name>SAM!</Name>
-+<Grade>Tier08</Grade>
-+<Score>84</Score>
-+<PercentDP>0.862100</PercentDP>
-+<SurviveSeconds>133.096161</SurviveSeconds>
-+<MaxCombo>238</MaxCombo>
-+<StageAward></StageAward>
-+<PeakComboAward></PeakComboAward>
-+<Modifiers>NoHideLights, C420, FailImmediateContinue, Overhead, Default</Modifiers>
-+<DateTime>2026-03-09 16:02:03</DateTime>
-+<PlayerGuid>d876307e83faa0ea</PlayerGuid>
-+<MachineGuid>403d15c592378cca</MachineGuid>
-+<ProductID>1</ProductID>
-+<TapNoteScores>
-+<HitMine>0</HitMine>
-+<AvoidMine>0</AvoidMine>
-+<CheckpointMiss>0</CheckpointMiss>
-+<Miss>3</Miss>
-+<W5>1</W5>
-+<W4>1</W4>
-+<W3>36</W3>
-+<W2>164</W2>
-+<W1>255</W1>
-+<CheckpointHit>0</CheckpointHit>
-+</TapNoteScores>
-+<HoldNoteScores>
-+<LetGo>0</LetGo>
-+<Held>32</Held>
-+<MissedHold>0</MissedHold>
-+</HoldNoteScores>
-+<RadarValues>
-+<Stream>0.903689</Stream>
-+<Voltage>0.505151</Voltage>
-+<Air>0.928571</Air>
-+<Freeze>1.000000</Freeze>
-+<Chaos>0.862195</Chaos>
-+<Notes>484.000000</Notes>
-+<TapsAndHolds>456</TapsAndHolds>
-+<Jumps>27</Jumps>
-+<Holds>17</Holds>
-+<Mines>0</Mines>
-+<Hands>0</Hands>
-+<Rolls>15</Rolls>
-+<Lifts>0</Lifts>
-+<Fakes>0</Fakes>
-+</RadarValues>
-+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
-+<Disqualified>0</Disqualified>
-+</HighScore>
-+</HighScoreList>
-+</Steps>
-+</Song>
-+<Song Dir='Songs/BHOP Ball 4/[T01] Shady Business (SH)/'>
-+<Steps Difficulty='Challenge' StepsType='dance-single'>
-+<HighScoreList>
-+<NumTimesPlayed>1</NumTimesPlayed>
-+<LastPlayed>2026-03-09</LastPlayed>
-+<HighGrade>Tier12</HighGrade>
-+<HighScore>
-+<Name>SAM!</Name>
-+<Grade>Tier12</Grade>
-+<Score>57</Score>
-+<PercentDP>0.735700</PercentDP>
-+<SurviveSeconds>112.526642</SurviveSeconds>
-+<MaxCombo>131</MaxCombo>
-+<StageAward></StageAward>
-+<PeakComboAward></PeakComboAward>
-+<Modifiers>NoHideLights, C420, FailImmediateContinue, Overhead, Default</Modifiers>
-+<DateTime>2026-03-09 15:55:37</DateTime>
-+<PlayerGuid>d876307e83faa0ea</PlayerGuid>
-+<MachineGuid>403d15c592378cca</MachineGuid>
-+<ProductID>1</ProductID>
-+<TapNoteScores>
-+<HitMine>1</HitMine>
-+<AvoidMine>0</AvoidMine>
-+<CheckpointMiss>0</CheckpointMiss>
-+<Miss>10</Miss>
-+<W5>1</W5>
-+<W4>5</W4>
-+<W3>57</W3>
-+<W2>114</W2>
-+<W1>164</W1>
-+<CheckpointHit>0</CheckpointHit>
-+</TapNoteScores>
-+<HoldNoteScores>
-+<LetGo>1</LetGo>
-+<Held>28</Held>
-+<MissedHold>0</MissedHold>
-+</HoldNoteScores>
-+<RadarValues>
-+<Stream>0.790368</Stream>
-+<Voltage>0.347736</Voltage>
-+<Air>0.500000</Air>
-+<Freeze>0.961538</Freeze>
-+<Chaos>0.735789</Chaos>
-+<Notes>342.000000</Notes>
-+<TapsAndHolds>340</TapsAndHolds>
-+<Jumps>1</Jumps>
-+<Holds>25</Holds>
-+<Mines>3</Mines>
-+<Hands>0</Hands>
-+<Rolls>3</Rolls>
-+<Lifts>0</Lifts>
-+<Fakes>0</Fakes>
-+</RadarValues>
-+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
-+<Disqualified>0</Disqualified>
-+</HighScore>
-+</HighScoreList>
-+</Steps>
-+</Song>
-+<Song Dir='Songs/BHOP Ball/[T01] Disco Pop (SH)/'>
-+<Steps Difficulty='Hard' StepsType='dance-single'>
-+<HighScoreList>
-+<NumTimesPlayed>1</NumTimesPlayed>
-+<LastPlayed>2026-03-09</LastPlayed>
-+<HighGrade>Tier08</HighGrade>
-+<HighScore>
-+<Name>SAM!</Name>
-+<Grade>Tier08</Grade>
-+<Score>73</Score>
-+<PercentDP>0.887600</PercentDP>
-+<SurviveSeconds>127.179901</SurviveSeconds>
-+<MaxCombo>317</MaxCombo>
-+<StageAward></StageAward>
-+<PeakComboAward></PeakComboAward>
-+<Modifiers>NoHideLights, C420, FailImmediateContinue, Overhead, Default</Modifiers>
-+<DateTime>2026-03-09 15:35:11</DateTime>
-+<PlayerGuid>d876307e83faa0ea</PlayerGuid>
-+<MachineGuid>403d15c592378cca</MachineGuid>
-+<ProductID>1</ProductID>
-+<TapNoteScores>
-+<HitMine>0</HitMine>
-+<AvoidMine>0</AvoidMine>
-+<CheckpointMiss>0</CheckpointMiss>
-+<Miss>0</Miss>
-+<W5>1</W5>
-+<W4>0</W4>
-+<W3>27</W3>
-+<W2>140</W2>
-+<W1>234</W1>
-+<CheckpointHit>0</CheckpointHit>
-+</TapNoteScores>
-+<HoldNoteScores>
-+<LetGo>0</LetGo>
-+<Held>11</Held>
-+<MissedHold>0</MissedHold>
-+</HoldNoteScores>
-+<RadarValues>
-+<Stream>0.928218</Stream>
-+<Voltage>0.794955</Voltage>
-+<Air>1.000000</Air>
-+<Freeze>1.000000</Freeze>
-+<Chaos>0.887651</Chaos>
-+<Notes>403.000000</Notes>
-+<TapsAndHolds>401</TapsAndHolds>
-+<Jumps>2</Jumps>
-+<Holds>11</Holds>
-+<Mines>0</Mines>
-+<Hands>0</Hands>
-+<Rolls>0</Rolls>
-+<Lifts>0</Lifts>
-+<Fakes>0</Fakes>
-+</RadarValues>
-+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
-+<Disqualified>0</Disqualified>
-+</HighScore>
-+</HighScoreList>
-+</Steps>
-+</Song>
-+<Song Dir='Songs/BHOP Ball/[T02] Coconut Mall/'>
-+<Steps Difficulty='Challenge' StepsType='dance-single'>
-+<HighScoreList>
-+<NumTimesPlayed>1</NumTimesPlayed>
-+<LastPlayed>2026-03-09</LastPlayed>
-+<HighGrade>Tier12</HighGrade>
-+<HighScore>
-+<Name>SAM!</Name>
-+<Grade>Tier12</Grade>
-+<Score>94</Score>
-+<PercentDP>0.722000</PercentDP>
-+<SurviveSeconds>123.900490</SurviveSeconds>
-+<MaxCombo>94</MaxCombo>
-+<StageAward></StageAward>
-+<PeakComboAward></PeakComboAward>
-+<Modifiers>NoHideLights, C420, FailImmediateContinue, Overhead, Default</Modifiers>
-+<DateTime>2026-03-09 15:37:52</DateTime>
-+<PlayerGuid>d876307e83faa0ea</PlayerGuid>
-+<MachineGuid>403d15c592378cca</MachineGuid>
-+<ProductID>1</ProductID>
-+<TapNoteScores>
-+<HitMine>0</HitMine>
-+<AvoidMine>0</AvoidMine>
-+<CheckpointMiss>0</CheckpointMiss>
-+<Miss>14</Miss>
-+<W5>6</W5>
-+<W4>8</W4>
-+<W3>57</W3>
-+<W2>123</W2>
-+<W1>231</W1>
-+<CheckpointHit>0</CheckpointHit>
-+</TapNoteScores>
-+<HoldNoteScores>
-+<LetGo>0</LetGo>
-+<Held>20</Held>
-+<MissedHold>0</MissedHold>
-+</HoldNoteScores>
-+<RadarValues>
-+<Stream>0.806742</Stream>
-+<Voltage>0.212583</Voltage>
-+<Air>0.833333</Air>
-+<Freeze>1.000000</Freeze>
-+<Chaos>0.722004</Chaos>
-+<Notes>425.000000</Notes>
-+<TapsAndHolds>419</TapsAndHolds>
-+<Jumps>6</Jumps>
-+<Holds>11</Holds>
-+<Mines>0</Mines>
-+<Hands>0</Hands>
-+<Rolls>9</Rolls>
-+<Lifts>0</Lifts>
-+<Fakes>0</Fakes>
-+</RadarValues>
-+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
-+<Disqualified>0</Disqualified>
-+</HighScore>
-+</HighScoreList>
-+</Steps>
-+</Song>
- <Song Dir='Songs/Bangers Only 3/Don&apos;t Need You/'>
- <Steps Difficulty='Medium' StepsType='dance-single'>
- <HighScoreList>
-@@ -13754,9 +14049,59 @@
- </Steps>
- <Steps Difficulty='Hard' StepsType='dance-single'>
- <HighScoreList>
--<NumTimesPlayed>2</NumTimesPlayed>
--<LastPlayed>2025-09-23</LastPlayed>
--<HighGrade>Tier12</HighGrade>
-+<NumTimesPlayed>3</NumTimesPlayed>
-+<LastPlayed>2026-03-09</LastPlayed>
-+<HighGrade>Tier10</HighGrade>
-+<HighScore>
-+<Name>SAM!</Name>
-+<Grade>Tier10</Grade>
-+<Score>61</Score>
-+<PercentDP>0.804900</PercentDP>
-+<SurviveSeconds>120.866043</SurviveSeconds>
-+<MaxCombo>168</MaxCombo>
-+<StageAward></StageAward>
-+<PeakComboAward></PeakComboAward>
-+<Modifiers>NoHideLights, C420, FailImmediateContinue, Overhead, Default</Modifiers>
-+<DateTime>2026-03-09 16:14:18</DateTime>
-+<PlayerGuid>d876307e83faa0ea</PlayerGuid>
-+<MachineGuid>403d15c592378cca</MachineGuid>
-+<ProductID>1</ProductID>
-+<TapNoteScores>
-+<HitMine>0</HitMine>
-+<AvoidMine>0</AvoidMine>
-+<CheckpointMiss>0</CheckpointMiss>
-+<Miss>1</Miss>
-+<W5>0</W5>
-+<W4>2</W4>
-+<W3>66</W3>
-+<W2>128</W2>
-+<W1>164</W1>
-+<CheckpointHit>0</CheckpointHit>
-+</TapNoteScores>
-+<HoldNoteScores>
-+<LetGo>0</LetGo>
-+<Held>1</Held>
-+<MissedHold>0</MissedHold>
-+</HoldNoteScores>
-+<RadarValues>
-+<Stream>0.789189</Stream>
-+<Voltage>0.465907</Voltage>
-+<Air>0.333333</Air>
-+<Freeze>1.000000</Freeze>
-+<Chaos>0.804972</Chaos>
-+<Notes>369.000000</Notes>
-+<TapsAndHolds>360</TapsAndHolds>
-+<Jumps>9</Jumps>
-+<Holds>1</Holds>
-+<Mines>29</Mines>
-+<Hands>0</Hands>
-+<Rolls>0</Rolls>
-+<Lifts>0</Lifts>
-+<Fakes>0</Fakes>
-+</RadarValues>
-+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
-+<Disqualified>0</Disqualified>
-+</HighScore>
- <HighScore>
- <Name>SAM!</Name>
- <Grade>Tier12</Grade>
-@@ -13990,9 +14335,59 @@
- <Song Dir='Songs/Cosmic Reincarnate/He&apos;s a Pirate (Remix)/'>
- <Steps Difficulty='Hard' StepsType='dance-single'>
- <HighScoreList>
--<NumTimesPlayed>1</NumTimesPlayed>
--<LastPlayed>2025-09-23</LastPlayed>
--<HighGrade>Tier11</HighGrade>
-+<NumTimesPlayed>2</NumTimesPlayed>
-+<LastPlayed>2026-03-09</LastPlayed>
-+<HighGrade>Tier06</HighGrade>
-+<HighScore>
-+<Name>SAM!</Name>
-+<Grade>Tier06</Grade>
-+<Score>51</Score>
-+<PercentDP>0.932300</PercentDP>
-+<SurviveSeconds>106.543800</SurviveSeconds>
-+<MaxCombo>268</MaxCombo>
-+<StageAward>FullComboW3</StageAward>
-+<PeakComboAward></PeakComboAward>
-+<Modifiers>NoHideLights, C420, FailImmediateContinue, Overhead, Default</Modifiers>
-+<DateTime>2026-03-09 16:17:41</DateTime>
-+<PlayerGuid>d876307e83faa0ea</PlayerGuid>
-+<MachineGuid>403d15c592378cca</MachineGuid>
-+<ProductID>1</ProductID>
-+<TapNoteScores>
-+<HitMine>0</HitMine>
-+<AvoidMine>0</AvoidMine>
-+<CheckpointMiss>0</CheckpointMiss>
-+<Miss>0</Miss>
-+<W5>0</W5>
-+<W4>0</W4>
-+<W3>12</W3>
-+<W2>52</W2>
-+<W1>195</W1>
-+<CheckpointHit>0</CheckpointHit>
-+</TapNoteScores>
-+<HoldNoteScores>
-+<LetGo>0</LetGo>
-+<Held>1</Held>
-+<MissedHold>0</MissedHold>
-+</HoldNoteScores>
-+<RadarValues>
-+<Stream>0.940298</Stream>
-+<Voltage>1.000000</Voltage>
-+<Air>0.777778</Air>
-+<Freeze>1.000000</Freeze>
-+<Chaos>0.932308</Chaos>
-+<Notes>268.000000</Notes>
-+<TapsAndHolds>259</TapsAndHolds>
-+<Jumps>9</Jumps>
-+<Holds>1</Holds>
-+<Mines>24</Mines>
-+<Hands>0</Hands>
-+<Rolls>0</Rolls>
-+<Lifts>0</Lifts>
-+<Fakes>0</Fakes>
-+</RadarValues>
-+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
-+<Disqualified>0</Disqualified>
-+</HighScore>
- <HighScore>
- <Name>SAM!</Name>
- <Grade>Tier11</Grade>
-@@ -14108,9 +14503,59 @@
- <Song Dir='Songs/Cosmic Reincarnate/Licky Licky/'>
- <Steps Difficulty='Hard' StepsType='dance-single'>
- <HighScoreList>
--<NumTimesPlayed>1</NumTimesPlayed>
--<LastPlayed>2025-09-23</LastPlayed>
--<HighGrade>Tier11</HighGrade>
-+<NumTimesPlayed>2</NumTimesPlayed>
-+<LastPlayed>2026-03-09</LastPlayed>
-+<HighGrade>Tier07</HighGrade>
-+<HighScore>
-+<Name>SAM!</Name>
-+<Grade>Tier07</Grade>
-+<Score>76</Score>
-+<PercentDP>0.907200</PercentDP>
-+<SurviveSeconds>148.082718</SurviveSeconds>
-+<MaxCombo>245</MaxCombo>
-+<StageAward></StageAward>
-+<PeakComboAward></PeakComboAward>
-+<Modifiers>NoHideLights, C420, FailImmediateContinue, Overhead, Default</Modifiers>
-+<DateTime>2026-03-09 16:20:29</DateTime>
-+<PlayerGuid>d876307e83faa0ea</PlayerGuid>
-+<MachineGuid>403d15c592378cca</MachineGuid>
-+<ProductID>1</ProductID>
-+<TapNoteScores>
-+<HitMine>0</HitMine>
-+<AvoidMine>0</AvoidMine>
-+<CheckpointMiss>0</CheckpointMiss>
-+<Miss>0</Miss>
-+<W5>1</W5>
-+<W4>1</W4>
-+<W3>22</W3>
-+<W2>72</W2>
-+<W1>236</W1>
-+<CheckpointHit>0</CheckpointHit>
-+</TapNoteScores>
-+<HoldNoteScores>
-+<LetGo>0</LetGo>
-+<Held>0</Held>
-+<MissedHold>0</MissedHold>
-+</HoldNoteScores>
-+<RadarValues>
-+<Stream>0.919540</Stream>
-+<Voltage>0.710627</Voltage>
-+<Air>0.875000</Air>
-+<Freeze>0.000000</Freeze>
-+<Chaos>0.907229</Chaos>
-+<Notes>347.000000</Notes>
-+<TapsAndHolds>331</TapsAndHolds>
-+<Jumps>16</Jumps>
-+<Holds>0</Holds>
-+<Mines>0</Mines>
-+<Hands>0</Hands>
-+<Rolls>0</Rolls>
-+<Lifts>0</Lifts>
-+<Fakes>0</Fakes>
-+</RadarValues>
-+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
-+<Disqualified>0</Disqualified>
-+</HighScore>
- <HighScore>
- <Name>SAM!</Name>
- <Grade>Tier11</Grade>
-@@ -18425,6 +18870,65 @@
- </HighScoreList>
- </Steps>
- </Song>
-+<Song Dir='Songs/Elemwarr Misc/Animals/'>
-+<Steps Difficulty='Hard' StepsType='dance-single'>
-+<HighScoreList>
-+<NumTimesPlayed>2</NumTimesPlayed>
-+<LastPlayed>2026-03-09</LastPlayed>
-+<HighGrade>Tier10</HighGrade>
-+<HighScore>
-+<Name>SAM!</Name>
-+<Grade>Tier10</Grade>
-+<Score>51</Score>
-+<PercentDP>0.801900</PercentDP>
-+<SurviveSeconds>110.813637</SurviveSeconds>
-+<MaxCombo>155</MaxCombo>
-+<StageAward></StageAward>
-+<PeakComboAward></PeakComboAward>
-+<Modifiers>NoHideLights, C420, FailImmediateContinue, Overhead, Default</Modifiers>
-+<DateTime>2026-03-09 16:36:32</DateTime>
-+<PlayerGuid>d876307e83faa0ea</PlayerGuid>
-+<MachineGuid>403d15c592378cca</MachineGuid>
-+<ProductID>1</ProductID>
-+<TapNoteScores>
-+<HitMine>0</HitMine>
-+<AvoidMine>0</AvoidMine>
-+<CheckpointMiss>0</CheckpointMiss>
-+<Miss>2</Miss>
-+<W5>0</W5>
-+<W4>3</W4>
-+<W3>53</W3>
-+<W2>94</W2>
-+<W1>146</W1>
-+<CheckpointHit>0</CheckpointHit>
-+</TapNoteScores>
-+<HoldNoteScores>
-+<LetGo>0</LetGo>
-+<Held>7</Held>
-+<MissedHold>0</MissedHold>
-+</HoldNoteScores>
-+<RadarValues>
-+<Stream>0.806020</Stream>
-+<Voltage>0.576798</Voltage>
-+<Air>1.000000</Air>
-+<Freeze>1.000000</Freeze>
-+<Chaos>0.801967</Chaos>
-+<Notes>297.000000</Notes>
-+<TapsAndHolds>296</TapsAndHolds>
-+<Jumps>1</Jumps>
-+<Holds>7</Holds>
-+<Mines>0</Mines>
-+<Hands>0</Hands>
-+<Rolls>0</Rolls>
-+<Lifts>0</Lifts>
-+<Fakes>0</Fakes>
-+</RadarValues>
-+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
-+<Disqualified>0</Disqualified>
-+</HighScore>
-+</HighScoreList>
-+</Steps>
-+</Song>
- <Song Dir='Songs/Elemwarr Misc/Colours of the Rainbow/'>
- <Steps Difficulty='Hard' StepsType='dance-single'>
- <HighScoreList>
-@@ -18543,6 +19047,124 @@
- </HighScoreList>
- </Steps>
- </Song>
-+<Song Dir='Songs/Elemwarr Misc/Luminous Intensity (Radio Edit)/'>
-+<Steps Difficulty='Hard' StepsType='dance-single'>
-+<HighScoreList>
-+<NumTimesPlayed>1</NumTimesPlayed>
-+<LastPlayed>2026-03-09</LastPlayed>
-+<HighGrade>Tier15</HighGrade>
-+<HighScore>
-+<Name>SAM!</Name>
-+<Grade>Tier15</Grade>
-+<Score>50</Score>
-+<PercentDP>0.632100</PercentDP>
-+<SurviveSeconds>119.413750</SurviveSeconds>
-+<MaxCombo>102</MaxCombo>
-+<StageAward></StageAward>
-+<PeakComboAward></PeakComboAward>
-+<Modifiers>NoHideLights, C420, FailImmediateContinue, Overhead, Default</Modifiers>
-+<DateTime>2026-03-09 16:43:22</DateTime>
-+<PlayerGuid>d876307e83faa0ea</PlayerGuid>
-+<MachineGuid>403d15c592378cca</MachineGuid>
-+<ProductID>1</ProductID>
-+<TapNoteScores>
-+<HitMine>0</HitMine>
-+<AvoidMine>0</AvoidMine>
-+<CheckpointMiss>0</CheckpointMiss>
-+<Miss>18</Miss>
-+<W5>4</W5>
-+<W4>5</W4>
-+<W3>68</W3>
-+<W2>85</W2>
-+<W1>178</W1>
-+<CheckpointHit>0</CheckpointHit>
-+</TapNoteScores>
-+<HoldNoteScores>
-+<LetGo>0</LetGo>
-+<Held>3</Held>
-+<MissedHold>0</MissedHold>
-+</HoldNoteScores>
-+<RadarValues>
-+<Stream>0.737265</Stream>
-+<Voltage>0.274667</Voltage>
-+<Air>0.866667</Air>
-+<Freeze>1.000000</Freeze>
-+<Chaos>0.632133</Chaos>
-+<Notes>351.000000</Notes>
-+<TapsAndHolds>336</TapsAndHolds>
-+<Jumps>15</Jumps>
-+<Holds>3</Holds>
-+<Mines>0</Mines>
-+<Hands>0</Hands>
-+<Rolls>0</Rolls>
-+<Lifts>0</Lifts>
-+<Fakes>0</Fakes>
-+</RadarValues>
-+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
-+<Disqualified>0</Disqualified>
-+</HighScore>
-+</HighScoreList>
-+</Steps>
-+</Song>
-+<Song Dir='Songs/Elemwarr Misc/call me maybe/'>
-+<Steps Difficulty='Medium' StepsType='dance-single'>
-+<HighScoreList>
-+<NumTimesPlayed>1</NumTimesPlayed>
-+<LastPlayed>2026-03-09</LastPlayed>
-+<HighGrade>Tier09</HighGrade>
-+<HighScore>
-+<Name>SAM!</Name>
-+<Grade>Tier09</Grade>
-+<Score>81</Score>
-+<PercentDP>0.831800</PercentDP>
-+<SurviveSeconds>126.764397</SurviveSeconds>
-+<MaxCombo>297</MaxCombo>
-+<StageAward></StageAward>
-+<PeakComboAward></PeakComboAward>
-+<Modifiers>NoHideLights, C420, FailImmediateContinue, Overhead, Default</Modifiers>
-+<DateTime>2026-03-09 16:39:09</DateTime>
-+<PlayerGuid>d876307e83faa0ea</PlayerGuid>
-+<MachineGuid>403d15c592378cca</MachineGuid>
-+<ProductID>1</ProductID>
-+<TapNoteScores>
-+<HitMine>0</HitMine>
-+<AvoidMine>0</AvoidMine>
-+<CheckpointMiss>0</CheckpointMiss>
-+<Miss>2</Miss>
-+<W5>1</W5>
-+<W4>2</W4>
-+<W3>69</W3>
-+<W2>124</W2>
-+<W1>188</W1>
-+<CheckpointHit>0</CheckpointHit>
-+</TapNoteScores>
-+<HoldNoteScores>
-+<LetGo>0</LetGo>
-+<Held>73</Held>
-+<MissedHold>0</MissedHold>
-+</HoldNoteScores>
-+<RadarValues>
-+<Stream>0.795620</Stream>
-+<Voltage>0.732666</Voltage>
-+<Air>0.760000</Air>
-+<Freeze>1.000000</Freeze>
-+<Chaos>0.831808</Chaos>
-+<Notes>408.000000</Notes>
-+<TapsAndHolds>383</TapsAndHolds>
-+<Jumps>25</Jumps>
-+<Holds>73</Holds>
-+<Mines>0</Mines>
-+<Hands>0</Hands>
-+<Rolls>0</Rolls>
-+<Lifts>0</Lifts>
-+<Fakes>0</Fakes>
-+</RadarValues>
-+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
-+<Disqualified>0</Disqualified>
-+</HighScore>
-+</HighScoreList>
-+</Steps>
-+</Song>
- <Song Dir='Songs/Elemwarr Originals/[elemwarr] Friday Night/'>
- <Steps Difficulty='Medium' StepsType='dance-single'>
- <HighScoreList>
-@@ -23655,9 +24277,59 @@
- </Steps>
- <Steps Difficulty='Hard' StepsType='dance-single'>
- <HighScoreList>
--<NumTimesPlayed>4</NumTimesPlayed>
--<LastPlayed>2026-02-16</LastPlayed>
--<HighGrade>Tier11</HighGrade>
-+<NumTimesPlayed>5</NumTimesPlayed>
-+<LastPlayed>2026-03-09</LastPlayed>
-+<HighGrade>Tier10</HighGrade>
-+<HighScore>
-+<Name>SAM!</Name>
-+<Grade>Tier10</Grade>
-+<Score>59</Score>
-+<PercentDP>0.808500</PercentDP>
-+<SurviveSeconds>121.534454</SurviveSeconds>
-+<MaxCombo>170</MaxCombo>
-+<StageAward></StageAward>
-+<PeakComboAward></PeakComboAward>
-+<Modifiers>NoHideLights, C420, FailImmediateContinue, Overhead, Default</Modifiers>
-+<DateTime>2026-03-09 15:32:17</DateTime>
-+<PlayerGuid>d876307e83faa0ea</PlayerGuid>
-+<MachineGuid>403d15c592378cca</MachineGuid>
-+<ProductID>1</ProductID>
-+<TapNoteScores>
-+<HitMine>0</HitMine>
-+<AvoidMine>0</AvoidMine>
-+<CheckpointMiss>0</CheckpointMiss>
-+<Miss>4</Miss>
-+<W5>0</W5>
-+<W4>1</W4>
-+<W3>44</W3>
-+<W2>109</W2>
-+<W1>160</W1>
-+<CheckpointHit>0</CheckpointHit>
-+</TapNoteScores>
-+<HoldNoteScores>
-+<LetGo>0</LetGo>
-+<Held>10</Held>
-+<MissedHold>0</MissedHold>
-+</HoldNoteScores>
-+<RadarValues>
-+<Stream>0.833795</Stream>
-+<Voltage>0.459276</Voltage>
-+<Air>0.953488</Air>
-+<Freeze>1.000000</Freeze>
-+<Chaos>0.808537</Chaos>
-+<Notes>357.000000</Notes>
-+<TapsAndHolds>314</TapsAndHolds>
-+<Jumps>43</Jumps>
-+<Holds>10</Holds>
-+<Mines>0</Mines>
-+<Hands>0</Hands>
-+<Rolls>0</Rolls>
-+<Lifts>0</Lifts>
-+<Fakes>0</Fakes>
-+</RadarValues>
-+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
-+<Disqualified>0</Disqualified>
-+</HighScore>
- <HighScore>
- <Name>SAM!</Name>
- <Grade>Tier11</Grade>
-@@ -23758,56 +24430,6 @@
- <LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
- <Disqualified>0</Disqualified>
- </HighScore>
--<HighScore>
--<Name>SAM!</Name>
--<Grade>Tier12</Grade>
--<Score>47</Score>
--<PercentDP>0.725000</PercentDP>
--<SurviveSeconds>121.525009</SurviveSeconds>
--<MaxCombo>143</MaxCombo>
--<StageAward></StageAward>
--<PeakComboAward></PeakComboAward>
--<Modifiers>NoHideLights, C420, FailImmediateContinue, Overhead, Default</Modifiers>
--<DateTime>2025-08-05 18:02:59</DateTime>
--<PlayerGuid>d876307e83faa0ea</PlayerGuid>
--<MachineGuid>403d15c592378cca</MachineGuid>
--<ProductID>1</ProductID>
--<TapNoteScores>
--<HitMine>0</HitMine>
--<AvoidMine>0</AvoidMine>
--<CheckpointMiss>0</CheckpointMiss>
--<Miss>10</Miss>
--<W5>3</W5>
--<W4>0</W4>
--<W3>50</W3>
--<W2>98</W2>
--<W1>157</W1>
--<CheckpointHit>0</CheckpointHit>
--</TapNoteScores>
--<HoldNoteScores>
--<LetGo>0</LetGo>
--<Held>10</Held>
--<MissedHold>0</MissedHold>
--</HoldNoteScores>
--<RadarValues>
--<Stream>0.803324</Stream>
--<Voltage>0.400771</Voltage>
--<Air>0.906977</Air>
--<Freeze>1.000000</Freeze>
--<Chaos>0.725000</Chaos>
--<Notes>347.000000</Notes>
--<TapsAndHolds>305</TapsAndHolds>
--<Jumps>43</Jumps>
--<Holds>10</Holds>
--<Mines>0</Mines>
--<Hands>0</Hands>
--<Rolls>0</Rolls>
--<Lifts>0</Lifts>
--<Fakes>0</Fakes>
--</RadarValues>
--<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
--<Disqualified>0</Disqualified>
--</HighScore>
- </HighScoreList>
- </Steps>
- </Song>
-@@ -33853,5 +34475,6 @@
- <CaloriesBurned Date='2026-02-09'>194.210266</CaloriesBurned>
- <CaloriesBurned Date='2026-02-14'>127.641891</CaloriesBurned>
- <CaloriesBurned Date='2026-02-16'>298.869751</CaloriesBurned>
-+<CaloriesBurned Date='2026-03-09'>281.574188</CaloriesBurned>
- </CalorieData>
- </Stats>
-```
-
-### ITGMania/SaveAppData/LocalProfiles/00000005/Type.ini
-
-Per-profile save data.
-
-```diff
-diff --git a/ITGMania/SaveAppData/LocalProfiles/00000005/Type.ini b/ITGMania/SaveAppData/LocalProfiles/00000005/Type.ini
-index d2af7d0..eac4c00 100644
---- a/ITGMania/SaveAppData/LocalProfiles/00000005/Type.ini
-+++ b/ITGMania/SaveAppData/LocalProfiles/00000005/Type.ini
-@@ -1,5 +1,5 @@
- [ListPosition]
--LastPlayedDate=2026-02-16 16:25:33
-+LastPlayedDate=2026-03-09 16:43:35
- Priority=5
- Type=Normal
+-Generated from InstallPath on 2026-03-10 03:00. Filenames only; contents not backed up.
++Generated from InstallPath on 2026-03-11 03:00. Filenames only; contents not backed up.
  
-```
-
-### ITGMania/SaveAppData/LocalProfiles/00000006/Stats.xml
-
-Per-profile stats and score history.
-
-```diff
-diff --git a/ITGMania/SaveAppData/LocalProfiles/00000006/Stats.xml b/ITGMania/SaveAppData/LocalProfiles/00000006/Stats.xml
-index 867030f..e0dd034 100644
---- a/ITGMania/SaveAppData/LocalProfiles/00000006/Stats.xml
-+++ b/ITGMania/SaveAppData/LocalProfiles/00000006/Stats.xml
-@@ -12,29 +12,29 @@
- <IsMale>1</IsMale>
- <IsMachine>0</IsMachine>
- <Guid>2dde4d6e8737681e</Guid>
--<SortOrder>Group</SortOrder>
--<LastDifficulty>Beginner</LastDifficulty>
-+<SortOrder>Artist</SortOrder>
-+<LastDifficulty>Easy</LastDifficulty>
- <LastCourseDifficulty>Medium</LastCourseDifficulty>
- <LastStepsType>dance-single</LastStepsType>
--<Song Dir='Songs/Ben Speirs&apos; SPEIRMIX GALAXY/Are You With Me/'/>
-+<Song Dir='Songs/Misc. Collected/Don&apos;t Blame Me/'/>
- <Course/>
--<CurrentCombo>0</CurrentCombo>
-+<CurrentCombo>19</CurrentCombo>
- <TotalSessions>0</TotalSessions>
--<TotalSessionSeconds>156523</TotalSessionSeconds>
--<TotalGameplaySeconds>60576</TotalGameplaySeconds>
--<TotalCaloriesBurned>7276.869629</TotalCaloriesBurned>
-+<TotalSessionSeconds>157424</TotalSessionSeconds>
-+<TotalGameplaySeconds>61025</TotalGameplaySeconds>
-+<TotalCaloriesBurned>7352.658203</TotalCaloriesBurned>
- <GoalType>0</GoalType>
- <GoalCalories>0</GoalCalories>
- <GoalSeconds>0</GoalSeconds>
- <LastPlayedMachineGuid>403d15c592378cca</LastPlayedMachineGuid>
--<LastPlayedDate>2026-02-17</LastPlayedDate>
--<TotalDancePoints>118517</TotalDancePoints>
-+<LastPlayedDate>2026-03-09</LastPlayedDate>
-+<TotalDancePoints>119347</TotalDancePoints>
- <NumExtraStagesPassed>0</NumExtraStagesPassed>
- <NumExtraStagesFailed>0</NumExtraStagesFailed>
- <NumToasties>0</NumToasties>
--<TotalTapsAndHolds>58401</TotalTapsAndHolds>
--<TotalJumps>3475</TotalJumps>
--<TotalHolds>4305</TotalHolds>
-+<TotalTapsAndHolds>58929</TotalTapsAndHolds>
-+<TotalJumps>3506</TotalJumps>
-+<TotalHolds>4350</TotalHolds>
- <TotalRolls>157</TotalRolls>
- <TotalMines>2</TotalMines>
- <TotalHands>0</TotalHands>
-@@ -44,30 +44,30 @@
- </DefaultModifiers>
- <Unlocks/>
- <NumSongsPlayedByPlayMode>
--<Regular>474</Regular>
-+<Regular>477</Regular>
- </NumSongsPlayedByPlayMode>
- <NumSongsPlayedByStyle>
--<Style Game='dance' Style='single'>474</Style>
-+<Style Game='dance' Style='single'>477</Style>
- </NumSongsPlayedByStyle>
- <NumSongsPlayedByDifficulty>
- <Beginner>189</Beginner>
--<Easy>254</Easy>
--<Medium>27</Medium>
-+<Easy>255</Easy>
-+<Medium>29</Medium>
- <Hard>4</Hard>
- </NumSongsPlayedByDifficulty>
- <NumSongsPlayedByMeter>
- <Meter1>120</Meter1>
- <Meter2>77</Meter2>
--<Meter3>141</Meter3>
--<Meter4>65</Meter4>
--<Meter5>47</Meter5>
-+<Meter3>142</Meter3>
-+<Meter4>66</Meter4>
-+<Meter5>48</Meter5>
- <Meter6>20</Meter6>
- <Meter7>3</Meter7>
- <Meter8>1</Meter8>
- </NumSongsPlayedByMeter>
--<NumTotalSongsPlayed>474</NumTotalSongsPlayed>
-+<NumTotalSongsPlayed>477</NumTotalSongsPlayed>
- <NumStagesPassedByPlayMode>
--<Regular>254</Regular>
-+<Regular>255</Regular>
- </NumStagesPassedByPlayMode>
- <NumStagesPassedByGrade>
- <Tier10>3</Tier10>
-@@ -76,7 +76,7 @@
- <Tier13>31</Tier13>
- <Tier14>29</Tier14>
- <Tier15>38</Tier15>
--<Tier16>30</Tier16>
-+<Tier16>31</Tier16>
- <Tier17>97</Tier17>
- </NumStagesPassedByGrade>
- <UserTable></UserTable>
-@@ -2654,6 +2654,63 @@
- </HighScore>
- </HighScoreList>
- </Steps>
-+<Steps Difficulty='Medium' StepsType='dance-single'>
-+<HighScoreList>
-+<NumTimesPlayed>1</NumTimesPlayed>
-+<LastPlayed>2026-03-09</LastPlayed>
-+<HighGrade>Failed</HighGrade>
-+<HighScore>
-+<Name>LIZY</Name>
-+<Grade>Failed</Grade>
-+<Score>14</Score>
-+<PercentDP>0.305600</PercentDP>
-+<SurviveSeconds>103.013496</SurviveSeconds>
-+<MaxCombo>33</MaxCombo>
-+<StageAward></StageAward>
-+<PeakComboAward></PeakComboAward>
-+<Modifiers>NoHideLights, C335, FailImmediateContinue, Overhead</Modifiers>
-+<DateTime>2026-03-09 15:23:31</DateTime>
-+<PlayerGuid>2dde4d6e8737681e</PlayerGuid>
-+<MachineGuid>403d15c592378cca</MachineGuid>
-+<ProductID>1</ProductID>
-+<TapNoteScores>
-+<HitMine>0</HitMine>
-+<AvoidMine>0</AvoidMine>
-+<CheckpointMiss>0</CheckpointMiss>
-+<Miss>13</Miss>
-+<W5>11</W5>
-+<W4>16</W4>
-+<W3>60</W3>
-+<W2>40</W2>
-+<W1>56</W1>
-+<CheckpointHit>0</CheckpointHit>
-+</TapNoteScores>
-+<HoldNoteScores>
-+<LetGo>6</LetGo>
-+<Held>12</Held>
-+<MissedHold>0</MissedHold>
-+</HoldNoteScores>
-+<RadarValues>
-+<Stream>0.492462</Stream>
-+<Voltage>0.181948</Voltage>
-+<Air>0.666667</Air>
-+<Freeze>0.666667</Freeze>
-+<Chaos>0.305607</Chaos>
-+<Notes>175.000000</Notes>
-+<TapsAndHolds>172</TapsAndHolds>
-+<Jumps>3</Jumps>
-+<Holds>12</Holds>
-+<Mines>0</Mines>
-+<Hands>0</Hands>
-+<Rolls>0</Rolls>
-+<Lifts>0</Lifts>
-+<Fakes>0</Fakes>
-+</RadarValues>
-+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
-+<Disqualified>0</Disqualified>
-+</HighScore>
-+</HighScoreList>
-+</Steps>
- <Steps Difficulty='Hard' StepsType='dance-single'>
- <HighScoreList>
- <NumTimesPlayed>3</NumTimesPlayed>
-@@ -18321,8 +18378,59 @@
- </Steps>
- <Steps Difficulty='Medium' StepsType='dance-single'>
- <HighScoreList>
--<NumTimesPlayed>1</NumTimesPlayed>
--<LastPlayed>2026-01-04</LastPlayed>
-+<NumTimesPlayed>2</NumTimesPlayed>
-+<LastPlayed>2026-03-09</LastPlayed>
-+<HighGrade>Failed</HighGrade>
-+<HighScore>
-+<Name>LIZY</Name>
-+<Grade>Failed</Grade>
-+<Score>16</Score>
-+<PercentDP>0.000000</PercentDP>
-+<SurviveSeconds>15.339622</SurviveSeconds>
-+<MaxCombo>12</MaxCombo>
-+<StageAward></StageAward>
-+<PeakComboAward></PeakComboAward>
-+<Modifiers>NoHideLights, C335, FailImmediateContinue, Overhead</Modifiers>
-+<DateTime>2026-03-09 15:19:04</DateTime>
-+<PlayerGuid>2dde4d6e8737681e</PlayerGuid>
-+<MachineGuid>403d15c592378cca</MachineGuid>
-+<ProductID>1</ProductID>
-+<TapNoteScores>
-+<HitMine>0</HitMine>
-+<AvoidMine>0</AvoidMine>
-+<CheckpointMiss>0</CheckpointMiss>
-+<Miss>136</Miss>
-+<W5>37</W5>
-+<W4>34</W4>
-+<W3>72</W3>
-+<W2>41</W2>
-+<W1>52</W1>
-+<CheckpointHit>0</CheckpointHit>
-+</TapNoteScores>
-+<HoldNoteScores>
-+<LetGo>0</LetGo>
-+<Held>15</Held>
-+<MissedHold>18</MissedHold>
-+</HoldNoteScores>
-+<RadarValues>
-+<Stream>0.267500</Stream>
-+<Voltage>0.056208</Voltage>
-+<Air>0.500000</Air>
-+<Freeze>0.454545</Freeze>
-+<Chaos>0.000000</Chaos>
-+<Notes>221.000000</Notes>
-+<TapsAndHolds>201</TapsAndHolds>
-+<Jumps>23</Jumps>
-+<Holds>15</Holds>
-+<Mines>0</Mines>
-+<Hands>0</Hands>
-+<Rolls>0</Rolls>
-+<Lifts>0</Lifts>
-+<Fakes>0</Fakes>
-+</RadarValues>
-+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
-+<Disqualified>0</Disqualified>
-+</HighScore>
- </HighScoreList>
- </Steps>
- </Song>
-@@ -19434,9 +19542,59 @@
- <Song Dir='Songs/Misc. Collected/Don&apos;t Blame Me/'>
- <Steps Difficulty='Easy' StepsType='dance-single'>
- <HighScoreList>
--<NumTimesPlayed>1</NumTimesPlayed>
--<LastPlayed>2026-02-14</LastPlayed>
--<HighGrade>Failed</HighGrade>
-+<NumTimesPlayed>2</NumTimesPlayed>
-+<LastPlayed>2026-03-09</LastPlayed>
-+<HighGrade>Tier16</HighGrade>
-+<HighScore>
-+<Name>LIZY</Name>
-+<Grade>Tier16</Grade>
-+<Score>16</Score>
-+<PercentDP>0.565700</PercentDP>
-+<SurviveSeconds>151.312347</SurviveSeconds>
-+<MaxCombo>25</MaxCombo>
-+<StageAward></StageAward>
-+<PeakComboAward></PeakComboAward>
-+<Modifiers>NoHideLights, C335, FailImmediateContinue, Overhead</Modifiers>
-+<DateTime>2026-03-09 15:29:17</DateTime>
-+<PlayerGuid>2dde4d6e8737681e</PlayerGuid>
-+<MachineGuid>403d15c592378cca</MachineGuid>
-+<ProductID>1</ProductID>
-+<TapNoteScores>
-+<HitMine>0</HitMine>
-+<AvoidMine>0</AvoidMine>
-+<CheckpointMiss>0</CheckpointMiss>
-+<Miss>6</Miss>
-+<W5>6</W5>
-+<W4>9</W4>
-+<W3>49</W3>
-+<W2>36</W2>
-+<W1>61</W1>
-+<CheckpointHit>0</CheckpointHit>
-+</TapNoteScores>
-+<HoldNoteScores>
-+<LetGo>2</LetGo>
-+<Held>18</Held>
-+<MissedHold>0</MissedHold>
-+</HoldNoteScores>
-+<RadarValues>
-+<Stream>0.583815</Stream>
-+<Voltage>0.147286</Voltage>
-+<Air>0.500000</Air>
-+<Freeze>0.900000</Freeze>
-+<Chaos>0.565775</Chaos>
-+<Notes>160.000000</Notes>
-+<TapsAndHolds>155</TapsAndHolds>
-+<Jumps>5</Jumps>
-+<Holds>18</Holds>
-+<Mines>0</Mines>
-+<Hands>0</Hands>
-+<Rolls>0</Rolls>
-+<Lifts>0</Lifts>
-+<Fakes>0</Fakes>
-+</RadarValues>
-+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
-+<Disqualified>0</Disqualified>
-+</HighScore>
- <HighScore>
- <Name>LIZY</Name>
- <Grade>Failed</Grade>
-@@ -22953,5 +23111,6 @@
- <CaloriesBurned Date='2026-02-14'>56.354053</CaloriesBurned>
- <CaloriesBurned Date='2026-02-16'>67.579216</CaloriesBurned>
- <CaloriesBurned Date='2026-02-17'>2.539598</CaloriesBurned>
-+<CaloriesBurned Date='2026-03-09'>75.788788</CaloriesBurned>
- </CalorieData>
- </Stats>
-```
-
-### ITGMania/SaveAppData/LocalProfiles/00000006/Type.ini
-
-Per-profile save data.
-
-```diff
-diff --git a/ITGMania/SaveAppData/LocalProfiles/00000006/Type.ini b/ITGMania/SaveAppData/LocalProfiles/00000006/Type.ini
-index 86ce25e..653c680 100644
---- a/ITGMania/SaveAppData/LocalProfiles/00000006/Type.ini
-+++ b/ITGMania/SaveAppData/LocalProfiles/00000006/Type.ini
-@@ -1,5 +1,5 @@
- [ListPosition]
--LastPlayedDate=2026-02-17 21:41:56
-+LastPlayedDate=2026-03-09 15:29:54
- Priority=6
- Type=Normal
+ ## Songs
+ 
+@@ -1053,6 +1053,189 @@ Generated from InstallPath on 2026-03-10 03:00. Filenames only; contents not bac
+   - bn.png
+   - cd.png
+   - The Girls - readme.txt
++- **Banzaitv's ITG1 Home**
++  - **Arcadia**
++    - Arcadia.ogg
++    - Arcadia.sm
++    - Arcadia-banner.PNG
++    - Arcadia-bg.PNG
++  - **Are You Serious**
++    - Are You Serious.ogg
++    - Are You Serious.sm
++    - Are You Serious-banner.PNG
++    - Are You Serious-bg.PNG
++  - **Chicken Dance**
++    - Chicken Dance.ogg
++    - Chicken Dance.sm
++    - Chicken Dance-banner.PNG
++    - Chicken Dance-bg.PNG
++  - **City Lights**
++    - City Lights.ogg
++    - City Lights.sm
++    - City Lights.sm.oldsync
++    - City Lights-banner.PNG
++    - City Lights-bg.PNG
++  - **Clear Blue Water**
++    - Clear Blue Water.ogg
++    - Clear Blue Water.sm
++    - Clear Blue Water.sm.oldsync
++    - Clear Blue Water-banner.PNG
++    - Clear Blue Water-bg.png
++  - **Death is the Only Way Out**
++    - Death Is The Only Way Out.ogg
++    - Death Is The Only Way Out.sm
++    - Death Is The Only Way Out-banner.PNG
++    - Death Is The Only Way Out-bg.PNG
++  - **Do U Know**
++    - Do U Know.ogg
++    - Do U Know.sm
++    - Do U Know-banner.PNG
++    - Do U Know-bg.PNG
++  - **Dreamland**
++    - Dreamland.ogg
++    - Dreamland.sm
++    - Dreamland.sm.oldsync
++    - Dreamland-banner.PNG
++    - Dreamland-bg.PNG
++  - **Fast Food Song**
++    - Fast Food Song.ogg
++    - Fast Food Song.sm
++    - Fast Food Song-banner.PNG
++    - Fast Food Song-bg.png
++  - **Ghostbusters**
++    - Ghostbusters.ogg
++    - Ghostbusters.sm
++    - Ghostbusters-banner.PNG
++    - Ghostbusters-bg.PNG
++  - **Global Thinking**
++    - Global Thinking.ogg
++    - Global Thinking.sm
++    - Global Thinking-banner.PNG
++    - Global Thinking-bg.PNG
++  - **Hawaii Five-0**
++    - Hawaii Five-O.ogg
++    - Hawaii Five-O.sm
++    - Hawaii Five-O-banner.PNG
++    - Hawaii Five-O-bg.PNG
++  - **Heaven's Earth**
++    - Heaven's Earth.ogg
++    - Heaven's Earth.sm
++    - Heaven's Earth-banner.PNG
++    - Heaven's Earth-bg.PNG
++  - **Here In My Heart**
++    - Here In My Heart.ogg
++    - Here In My Heart.sm
++    - Here In My Heart.sm.oldsync
++    - Here In My Heart-banner.PNG
++    - Here In My Heart-bg.PNG
++  - **I Believe**
++    - I Believe.ogg
++    - I Believe.sm
++    - I Believe.sm.oldsync
++    - I Believe-banner.PNG
++    - I Believe-bg.PNG
++  - **Inferno Fortress**
++    - Inferno Fortress.ogg
++    - Inferno Fortress.sm
++    - Inferno Fortress-banner.PNG
++    - Inferno Fortress-bg.PNG
++  - **Jazzin' the Way You Know**
++    - Jazzin' The Way You Know.ogg
++    - Jazzin' The Way You Know.sm
++    - Jazzin' The Way You Know-banner.PNG
++    - Jazzin' The Way You Know-bg.PNG
++  - **Ligaya**
++    - Ligaya.ogg
++    - Ligaya.sm
++    - Ligaya-banner.PNG
++    - Ligaya-bg.PNG
++  - **Love is a Battlefield**
++    - Love is a Battlefield.ogg
++    - Love is a Battlefield.sm
++    - Love is a Battlefield.sm.oldsync
++    - Love is a Battlefield-banner.PNG
++    - Love is a Battlefield-bg.PNG
++  - **On the Move**
++    - On the Move.ogg
++    - On The Move.sm
++    - On the Move-banner.png
++    - On the Move-bg.png
++  - **Open Your Eyes**
++    - 1.PNG
++    - 10.PNG
++    - 11.PNG
++    - 12.PNG
++    - 13.PNG
++    - 14.PNG
++    - 15.PNG
++    - 2.PNG
++    - 3.PNG
++    - 4.PNG
++    - 5.PNG
++    - 6.PNG
++    - 7.PNG
++    - 8.PNG
++    - 9.PNG
++    - Open Your Eyes (WTC Tribute).ogg
++    - Open Your Eyes.sm
++    - Open Your Eyes-banner.PNG
++    - Open Your Eyes-bg.PNG
++  - **Relax**
++    - Relax.ogg
++    - Relax.sm
++    - Relax-banner.PNG
++    - Relax-bg.PNG
++  - **Silent Running**
++    - Silent Running.ogg
++    - Silent Running.sm
++    - Silent Running-banner.PNG
++    - Silent Running-bg.PNG
++  - **Star Wars**
++    - Star Wars.ogg
++    - Star Wars.sm
++    - Star Wars-banner.PNG
++    - Star Wars-bg.PNG
++  - **Sweet Lullaby**
++    - Sweet Lullaby.ogg
++    - Sweet Lullaby.sm
++    - Sweet Lullaby-banner.PNG
++    - Sweet Lullaby-bg.PNG
++  - **Sweetest Sin**
++    - Sweetest Sin.ogg
++    - Sweetest Sin.sm
++    - Sweetest Sin.sm.oldsync
++    - Sweetest Sin-banner.PNG
++    - Sweetest Sin-bg.PNG
++  - **The A__hole Song**
++    - The A__hole Song.ogg
++    - The A__hole Song.sm
++    - The A__hole Song.sm.oldsync
++    - The A__hole Song-banner.PNG
++    - The A__hole Song-bg.PNG
++  - **The Cheeky Song**
++    - The Cheeky Song.ogg
++    - The Cheeky Song.sm
++    - The Cheeky Song-banner.PNG
++    - The Cheeky Song-bg.PNG
++  - **The Sadist Nation**
++    - The Sadist Nation.ogg
++    - The Sadist Nation.sm
++    - The Sadist Nation.sm.oldsync
++    - The Sadist Nation-banner.PNG
++    - The Sadist Nation-bg.PNG
++  - **Troy**
++    - Troy.ogg
++    - Troy.sm
++    - Troy-banner.PNG
++    - Troy-bg.PNG
++  - **You're Free**
++    - You're Free.ogg
++    - You're Free.sm
++    - You're Free.sm.oldsync
++    - You're Free-banner.PNG
++    - You're Free-bg.PNG
++  - group banner.png
++  - pack.ini
+ - **Ben Speirs' SPEIRMIX**
+   - **___**
+     - ___.avi
+@@ -3894,2383 +4077,241 @@ Generated from InstallPath on 2026-03-10 03:00. Filenames only; contents not bac
+     - You're All I Have.ssc
+     - You're All I Have-bg.png
+     - You're All I Have-jacket.png
+-- **BHOP Ball**
+-  - **[T01] Bad Apple!! (SM)**
+-    - Bad Apple.ogg
+-    - Bad Apple.ssc
+-    - Bad Apple.ssc.oldsync
+-    - bg.png
+-    - bn.png
+-    - image_credit.txt
+-  - **[T01] Boom Boom Pow**
+-    - Boom Boom Pow.ogg
+-    - Boom Boom Pow.png
+-    - Boom Boom Pow.ssc
+-    - Boom Boom Pow-bg.png
+-  - **[T01] Disco Pop (SH)**
+-    - Disco Pop.ogg
+-    - Disco Pop.ssc
+-    - Disco Pop.ssc.old
+-    - Disco Pop.ssc.oldsync
+-    - discopop-bg.png
+-    - discopop-bg-wide.png
+-    - discopop-bn.png
+-    - discopop-jacket.png
+-  - **[T01] Dreaming Days [SM]**
+-    - CDTitleWrsw.png
+-    - Dreaming Days.ogg
+-    - Dreaming Days.ssc
+-    - Dreaming Days.ssc.old
+-    - Dreaming Days.ssc.oldsync
+-    - Dreaming Days-bg.png
+-    - Dreaming Days-bn.png
+-    - Dreaming Days-jacket.png
+-  - **[T01] Dynamite [SH]**
+-    - Dynamite.ogg
+-    - Dynamite.ssc
+-    - Dynamite.ssc.old
+-    - Dynamite.ssc.oldsync
+-    - dynamite-bg.png
+-    - dynamite-bn.mp4
+-    - dynamite-bn-still.png
+-  - **[T01] Llego El Pavo**
+-    - feraligatr-maxx-cdtitle.png
+-    - Llego El Pavo (Rathero Remix)-bg.png
+-    - Llego El Pavo (Rathero Remix)-bg-wide.png
+-    - Llego El Pavo (Rathero Remix)-bn.png
+-    - Llego El Pavo (Rathero Remix)-jacket.png
+-    - Llego El Pavo.ogg
+-    - Llego El Pavo.ssc
+-    - Llego El Pavo.ssc.oldsync
+-  - **[T01] Rather Be [SH]**
+-    - 04 Rather Be (feat Jess Glynne).ogg
+-    - Rather Be.ssc
+-    - Rather Be.ssc.old
+-    - Rather Be.ssc.oldsync
+-    - ratherbe bg.png
+-    - ratherbe bn.png
+-  - **[T01] Tacos**
+-    - tacos bg.png
+-    - tacos bn.png
+-    - Tacos.ogg
+-    - Tacos.ssc
+-    - Tacos.ssc.oldsync
+-  - **[T01] Waiting for Tonight (SM)**
+-    - Waiting for Tonight (P.A.F.F. Trap Remix).ogg
+-    - Waiting for Tonight (P.A.F.F. Trap Remix).ssc
+-    - Waiting for Tonight (P.A.F.F. Trap Remix).ssc.old
+-    - Waiting for Tonight (P.A.F.F. Trap Remix).ssc.oldsync
+-    - Waiting for Tonight.png
+-    - Waiting for Tonight-bg.png
+-  - **[T02] 9mm [SH]**
+-    - 9mm.ogg
+-    - 9mm.ssc
+-    - 9mm.ssc.old
+-    - 9mm.ssc.oldsync
+-    - 9mm-bg.png
+-    - 9mm-bn.png
+-  - **[T02] A Cybers World**
+-    - audio.ogg
+-    - bn.avi
+-    - steps.ssc
+-    - steps.ssc.oldsync
+-  - **[T02] Bubblegum K.K**
+-    - Bubblegum K.K (Qumu Remix).ssc
+-    - Bubblegum K.K (Qumu Remix).ssc.oldsync
+-    - Bubblegum K.K. (Qumu Remix).ogg
+-    - Bubblegum K.K. (Qumu Remix)-bg.png
+-    - Bubblegum K.K. (Qumu Remix)-bg-wide.png
+-    - Bubblegum K.K. (Qumu Remix)-bn.png
+-    - Bubblegum K.K. (Qumu Remix)-jacket.png
+-  - **[T02] Coconut Mall**
+-    - coconut mall.ogg
+-    - coconut mall.ssc
+-    - coconut mall.ssc.oldsync
+-    - coconut-bg.jpg
+-    - coconut-bn.png
+-  - **[T02] Desert**
+-    - cd-title-Benpai.png
+-    - Desert.ogg
+-    - Desert.ssc
+-    - Desert.ssc.oldsync
+-    - Desert-bg.png
+-    - Desert-bg-wide.png
+-    - Desert-bn.png
+-    - Desert-jacket.png
+-  - **[T02] I Hold Still (No CMOD)**
+-    - FeraligatrV4-cd.png
+-    - I Hold Still-bg-wide.png
+-    - I Hold Still-bn.png
+-    - Jauz x Crankdat ft Slushii - Hold Still [Goshfather Remix].ogg
+-    - Jauz x Crankdat ft Slushii - Hold Still [Goshfather Remix].ssc
+-    - Jauz x Crankdat ft Slushii - Hold Still [Goshfather Remix].ssc.oldsync
+-  - **[T02] IO [SH]**
+-    - bg.png
+-    - bn.png
+-    - IO.ogg
+-    - IO.ssc
+-    - IO.ssc.old
+-    - IO.ssc.oldsync
+-    - jk.png
+-  - **[T02] ON FIRE**
+-    - ON FIRE.ogg
+-    - ON FIRE.ssc
+-    - onfire-bg.png
+-    - onfire-bg-wide.png
+-    - onfire-bn.png
+-    - onfire-jacket.png
+-  - **[T02] Simple and Clean**
+-    - cdtitle.png
+-    - Simple _ Clean (imprintafter flip).ogg
+-    - Simple _ Clean (imprintafter flip).sm
+-    - simplenclean-jacket.png
+-  - **[T03] Bad Boy Birdwatch**
+-    - audio.ssc
+-    - audio.ssc.oldsync
+-    - bg.png
+-    - bn.png
+-    - steps.ogg
+-  - **[T03] Bounce**
+-    - bounce.ogg
+-    - bouncebg.png
+-    - bouncebn.png
+-    - chart.ssc
+-    - chart.ssc.oldsync
+-  - **[T03] burbank house**
+-    - banner.png
+-    - bg.png
+-    - tsubi club - burbank house.ogg
+-    - tsubi club - burbank house.ssc
+-    - tsubi club - burbank house.ssc.oldsync
+-  - **[T03] Let me be with you**
+-    - Let me be with you.ogg
+-    - Let me be with you.ssc
+-    - Let me be with you.ssc.oldsync
+-    - Let-me-be-with-you.png
+-    - Let-me-be-with-you-bn.png
+-  - **[T03] Levitating [SX]**
+-    - levitating bg.png
+-    - levitating bn.png
+-    - levitating.ogg
+-    - Levitating.ssc
+-    - Levitating.ssc.old
+-    - Levitating.ssc.oldsync
+-  - **[T03] So Am I [SX]**
+-    - Ava Max - So Am I.ogg
+-    - Ava Max - So Am I.ssc
+-    - Ava Max - So Am I.ssc.old
+-    - Ava Max - So Am I.ssc.oldsync
+-    - EAP6.png
+-    - EAP6-BN.png
+-  - **[T03] Sweet Clapper [SX]**
+-    - sweet bg.png
+-    - sweet bn.png
+-    - Sweet Clapper.ogg
+-    - Sweet Clapper.ssc
+-    - Sweet Clapper.ssc.old
+-    - Sweet Clapper.ssc.oldsync
+-  - **[T03] Sweet Witch Girl**
+-    - Sweet Witch Girl.ogg
+-    - Sweet_Witch_Girl.ssc
+-    - Sweet_Witch_Girl.ssc.oldsync
+-    - sweetwitch-bg.png
+-    - sweetwitch-bn.png
+-  - **[T03] Vindication (No CMOD)**
+-    - vindication.ogg
+-    - vindication.ssc
+-    - vindication.ssc.oldsync
+-    - vindication-bg.png
+-    - vindication-bn.png
+-  - **[T04] $100 Bills**
+-    - $100 Bills.ogg
+-    - $100 Bills.png
+-    - $100 Bills.ssc
+-    - $100 Bills.ssc.old
+-    - $100 Bills-bg.png
+-    - desktop.ini
+-  - **[T04] Awake**
+-    - bg.png
+-    - bg-wide.png
+-    - bn.png
+-    - music.ogg
+-    - steps.ssc
+-    - steps.ssc.oldsync
+-  - **[T04] Dazzlin Darlin**
+-    - dazzlin.ogg
+-    - dazzlin.ssc
+-    - dazzlin.ssc.oldsync
+-    - dazzlin-bg.png
+-    - dazzlin-bn.png
+-    - dazzlin-jk.png
+-  - **[T04] File Select**
+-    - Hyper Potions - File Select.ogg
+-    - Hyper Potions - File Select.ssc
+-    - Hyper Potions - File Select.ssc.old
+-    - Hyper Potions - File Select.ssc.oldsync
+-    - Hyper Potions - File Select-ban.png
+-    - Hyper Potions - File Select-bg.png
+-    - Hyper Potions - File Select-jacket.png
+-  - **[T04] Gemini in Clockland (No CMOD)**
+-    - **lua**
+-      - default.lua
+-      - easing.lua
+-      - modhelpers.lua
+-      - mods.lua
+-      - TopscreenActorList.txt
+-    - bg.png
+-    - bn.png
+-    - Gemini in Clockland.ogg
+-    - Gemini in Clockland.ssc
+-    - Gemini in Clockland.ssc.oldsync
+-    - IN CASE OF WHITE SCREEN.txt
+-  - **[T04] Let_s Groove**
+-    - b-letsgroove.png
+-    - letsgroovemusic.ogg
+-    - letsgroovemusic.sm
+-    - letsgroovemusic.sm.old
+-    - letsgroovemusic.sm.oldsync
+-  - **[T04] Mr. Toot**
+-    - Mr. Toot.ogg
+-    - Mr. Toot.sm
+-    - Mr. Toot.sm.old
+-    - Mr. Toot.sm.oldsync
+-    - Mr. Toot-bg.png
+-    - Mr. Toot-bg-wide.png
+-    - Mr. Toot-bn.png
+-    - Mr. Toot-jacket.png
+-  - **[T04] Poems Are Forever [SX]**
+-    - bg.png
+-    - bn.png
+-    - Poems Are Forever.ogg
+-    - Poems Are Forever.ssc
+-    - Poems Are Forever.ssc.old
+-    - Poems Are Forever.ssc.oldsync
+-  - **[T04] Yoru ni Kakeru**
+-    - yoasobi-BG.png
+-    - yoasobi-BN.png
+-    - Yoru ni Kakeru.ogg
+-    - Yoru ni Kakeru.ssc
+-    - Yoru ni Kakeru.ssc.oldsync
+-  - **[T05] 3n3ergizer**
+-    - 3n3ergizer - Zekk.ogg
+-    - 3n3ergizer - Zekk.ssc
+-    - 3n3ergizer - Zekk.ssc.old
+-    - 3n3ergizer - Zekk.ssc.oldsync
+-    - 3n3rgizer - BN.png
+-  - **[T05] Cherry Blossom**
+-    - cd-title-Benpai.png
+-    - Cherry Blossom.sm
+-    - Cherry Blossom.sm.oldsync
+-    - Cherry Blossom-bg.png
+-    - Cherry Blossom-bn.png
+-    - Cherry_Blossom.ogg
+-  - **[T05] Cracks (No CMOD)**
+-    - Cracks.ogg
+-    - Cracks.ssc
+-    - Cracks.ssc.old
+-    - Feel-the-Notes.jpg
+-    - Feel-the-Notes-BG.jpg
+-  - **[T05] Freezing Hot**
+-    - freezing hot.ogg
+-    - Freezing Hot.ssc
+-    - Freezing Hot.ssc.oldsync
+-    - freezinghot-bg.jpg
+-    - freezinghot-bn.png
+-  - **[T05] Light Switch (No CMOD)**
+-    - Light Switch.ogg
+-    - Light Switch.ssc
+-    - Light Switch.ssc.oldsync
+-    - Light Switch-bg.png
+-    - Light Switch-bn.png
+-    - Light Switch-jacket.png
+-  - **[T05] Make Eggs, Eat Eggs**
+-    - FeraligatrV4-cd.png
+-    - Make eggs eat eggs.ogg
+-    - Make eggs eat eggs.ssc
+-    - Make eggs eat eggs.ssc.old
+-    - Make eggs eat eggs.ssc.oldsync
+-    - Make Eggs Eat Eggs-bg.png
+-    - Make Eggs Eat Eggs-bn.png
+-    - WhatIsThis.zip
+-  - **[T05] Midnight Hour**
+-    - FeraligatrV5-cd.png
+-    - MH.ssc
+-    - MH.ssc.oldsync
+-    - mh-bg.png
+-    - MH-bg-wide.png
+-    - mh-bn.png
+-    - mh-jacket.png
+-    - Skrillex, Boys Noize, Ty Dolla $ign - Midnight Hour.ogg
+-  - **[T05] Sex**
+-    - banner.png
+-    - bg.png
+-    - Sex.ogg
+-    - Sex.ssc
+-    - Sex.ssc.oldsync
+-  - **[T05] Smokin Out The Window**
+-    - cdtitle.png
+-    - Smokin Out The Window.ogg
+-    - Smokin Out The Window.png
+-    - Smokin Out The Window.ssc
+-    - Smokin Out The Window.ssc.oldsync
+-    - Smokin Out The Window-bg.png
+-    - Smokin Out The Window-jacket.png
+-  - **[T06] ABC**
+-    - ABC bg_169.png
+-    - ABC bn.png
+-    - ABC.ssc
+-    - ABC.ssc.old
+-    - ABC.ssc.oldsync
+-    - Polyphia ft. Sophia Black - ABC.ogg
+-  - **[T06] Banger Machine**
+-    - banger machine jacket.png
+-    - Banger Machine.ogg
+-    - Banger Machine.sm
+-    - Banger Machine.sm.old
+-    - Banger Machine.sm.oldsync
+-    - banger machine-bg.png
+-    - banger machine-bn.png
+-  - **[T06] Blue Love**
+-    - background.png
+-    - banner.png
+-    - bluelove.ogg
+-    - bluelove.ssc
+-    - bluelove.ssc.old
+-    - bluelove.ssc.oldsync
+-    - credits.txt
+-  - **[T06] Krotona Days**
+-    - Krotona Days.ssc
+-    - Krotona Days.ssc.oldsync
+-    - Krotona Days_resync.ogg
+-    - Krotona Days-BG.png
+-    - Krotona Days-BG-wide.png
+-    - Krotona Days-BN.png
+-  - **[T06] PROTECT ME**
+-    - PROTECT ME.ogg
+-    - PROTECT ME.ssc
+-    - PROTECT ME.ssc.old
+-    - protect_me_jacket.png
+-    - protect_me-bg.png
+-    - protect_me-bn.png
+-  - **[T06] Riddle (No CMOD)**
+-    - **lua**
+-      - default.lua
+-      - easing.lua
+-      - modhelpers.lua
+-      - mods.lua
+-    - Riddle.ogg
+-    - Riddle.ssc
+-    - Riddle.ssc.oldsync
+-    - Riddle_bg.png
+-    - Riddle_bn.png
+-  - **[T06] S-Bahn**
+-    - s-bahn.ogg
+-    - s-bahn.ssc
+-    - s-bahn.ssc.oldsync
+-    - sbahnbg.png
+-    - sbahnbn.png
+-  - **[T06] TURBO**
+-    - TURBO.ogg
+-    - TURBO.ssc
+-    - TURBO.ssc.old
+-    - TURBO.ssc.oldsync
+-    - turbo-bg.jpg
+-    - turbo-bn.jpg
+-    - turbo-jacket.png
+-  - **[T06] Zora**
+-    - zora.ogg
+-    - zora.ssc
+-    - zora.ssc.old
+-    - zora.ssc.oldsync
+-    - zora-bg.png
+-    - zora-bn.png
+-    - zora-jk.png
+-  - **[T07] 6FINGERDEATHPUNCH**
+-    - 6finger.ogg
+-    - 6finger.ssc
+-    - 6finger.ssc.oldsync
+-    - bg.png
+-    - bn.png
+-  - **[T07] Ants (No CMOD)**
+-    - 02 Ants.ogg
+-    - 02 Ants.sm
+-    - 02 Ants.sm.oldsync
+-    - ants bg.png
+-    - ants bn.png
+-  - **[T07] BOSSY**
+-    - bg.png
+-    - bn.png
+-    - bossyremix.ogg
+-    - bossyremix.ssc
+-    - bossyremix.ssc.oldsync
+-    - READMECF.txt
+-  - **[T07] Dawgs in Da House**
+-    - Dawgs In Da House banner.png
+-    - Dawgs In Da House bg.png
+-    - Dawgs In Da House.ogg
+-    - Dawgs In Da House.ssc
+-    - Dawgs In Da House.ssc.oldsync
+-  - **[T07] Funny Funky Freaky**
+-    - Funny Funky Freaky.ogg
+-    - Funny Funky Freaky.sm
+-    - Funny Funky Freaky.sm.oldsync
+-    - Funny Funky Freaky-BG.png
+-    - Funny Funky Freaky-BG-wide.png
+-    - Funny Funky Freaky-BN.png
+-  - **[T07] Hold On**
+-    - holdon.ogg
+-    - holdon.sm
+-    - holdon.sm.oldsync
+-    - holdon-bg.png
+-    - holdon-bn.png
+-  - **[T07] Le Club**
+-    - bg-club.png
+-    - bn-club.png
+-    - Le Club.ogg
+-    - Le Club.ssc
+-    - Le Club.ssc.old
+-    - Le Club.ssc.oldsync
+-  - **[T07] Metro Night**
+-    - Metro Night.ogg
+-    - Metro Night.sm
+-    - Metro Night.sm.oldsync
+-    - Metro Night-bg.png
+-    - Metro Night-bg-wide.png
+-    - Metro Night-bn.png
+-    - Metro Night-jacket.png
+-  - **[T07] Wiggle Wop**
+-    - Wiggle Wop.ogg
+-    - Wiggle Wop.sm
+-    - Wiggle Wop.sm.oldsync
+-    - Wiggle Wop-bg.png
+-    - Wiggle Wop-bn.png
+-    - Wiggle Wop-jacket.png
+-  - **[T08] Arabian Nights**
+-    - Arabian Nights.ogg
+-    - Arabian Nights.ssc
+-    - Arabian Nights.ssc.oldsync
+-    - banner.png
+-    - bg.png
+-  - **[T08] B L A C K - R A Y**
+-    - B L A C K - R A Y.ssc
+-    - B L A C K - R A Y.ssc.oldsync
+-    - black ray jacket.png
+-    - black ray-bg.png
+-    - black ray-bn.png
+-    - Camellia - B L A C K - R A Y.ogg
+-  - **[T08] clairvoyance**
+-    - bg.png
+-    - bn.png
+-    - clairvoyance.ogg
+-    - clairvoyance.ssc
+-    - clairvoyance.ssc.oldsync
+-  - **[T08] Fuego**
+-    - Fuego-audio.ogg
+-    - Fuego-background.png
+-    - Fuego-banner.png
+-    - Fuego-chart.ssc
+-    - Fuego-chart.ssc.oldsync
+-  - **[T08] Moony eyes**
+-    - bg.png
+-    - bn.png
+-    - gfx credit.txt
+-    - moony eyes.ogg
+-    - moony eyes.ssc
+-    - moony eyes.ssc.oldsync
+-  - **[T08] Pinwheel**
+-    - pinwheel.ogg
+-    - pinwheel.ssc
+-    - pinwheel.ssc.oldsync
+-    - pinwheel-bg.png
+-    - pinwheel-bn.png
+-    - pinwheel-jkt.png
+-    - pinwheel-wide.png
+-  - **[T08] POT (No CMOD)**
+-    - bg.png
+-    - bn.png
+-    - jacket.png
+-    - pot.ogg
+-    - pot.ssc
+-    - pot.ssc.oldsync
+-  - **[T08] PUMPIN  JUMPIN**
+-    - bg.png
+-    - bn.png
+-    - Pumpin Jumpin.ogg
+-    - Pumpin Jumpin.ssc
+-    - Pumpin Jumpin.ssc.oldsync
+-  - **[T08] smooooch [SX]**
+-    - bg-smooch.png
+-    - bn-smooch.png
+-    - smoooooch.ogg
+-    - smoooooch.ssc
+-    - smoooooch.ssc.old
+-    - smoooooch.ssc.oldsync
+-  - **[T09] Chicane [SX]**
+-    - Chicane - BN.png
+-    - Chicane - QUIX _ Juelz.ogg
+-    - Chicane - QUIX _ Juelz.ssc
+-    - Chicane - QUIX _ Juelz.ssc.old
+-    - Chicane - QUIX _ Juelz.ssc.oldsync
+-  - **[T09] Cloud 9 [SX]**
+-    - bg.png
+-    - bn.png
+-    - Cloud 9.ogg
+-    - Cloud 9.ssc
+-    - Cloud 9.ssc.old
+-    - Cloud 9.ssc.oldsync
+-    - jk.png
+-  - **[T09] Coconut**
+-    - bg.png
+-    - bn.png
+-    - Coconut.ogg
+-    - Coconut.ssc
+-    - Coconut.ssc.old
+-    - Coconut.ssc.oldsync
+-    - README.md
+-  - **[T09] Ego Death**
+-    - Ego Death bg_169.png
+-    - Ego Death bn.png
+-    - Ego Death.png
+-    - Ego Death.ssc
+-    - Ego Death.ssc.oldsync
+-    - Polyphia ft. Steve Vai - Ego Death.ogg
+-  - **[T09] Get Down [SH]**
+-    - bg.png
+-    - bn.png
+-    - get down.ogg
+-    - get down.ssc
+-    - get down.ssc.old
+-    - get down.ssc.oldsync
+-  - **[T09] GIMMICK**
+-    - GIMMICK.ogg
+-    - GIMMICK.ssc
+-    - GIMMICK.ssc.oldsync
+-    - gimmick_bg.png
+-    - gimmick_bn.png
+-  - **[T09] JITTER FANTA**
+-    - D21 - JITTER FANTA BG.png
+-    - D21 - JITTER FANTA BN.png
+-    - JITTER FANTA.ogg
+-    - JITTER FANTA.ssc
+-    - JITTER FANTA.ssc.oldsync
+-  - **[T09] Sound Chimera (No CMOD)**
+-    - bg.png
+-    - bn.png
+-    - chimera.ogg
+-    - chimera.ssc
+-    - chimera.ssc.oldsync
+-  - **[T09] Weeble Wobble VIP**
+-    - chart.sm
+-    - chart.sm.old
+-    - chart.sm.oldsync
+-    - song.ogg
+-  - **[T10] Arcology on Permafrost**
+-    - **[T10] bipolar**
+-      - bipolar.ogg
+-      - bipolar.ssc
+-      - bipolar.ssc.oldsync
+-      - bipolar-bg.png
+-      - bipolar-bn.png
+-      - bipolar-jkt.png
+-    - Arcology On Permafrost.ogg
+-    - Arcology On Permafrost.ssc
+-    - Arcology On Permafrost.ssc.old
+-    - Arcology On Permafrost.ssc.oldsync
+-    - bg.png
+-    - bn.png
+-    - jk.png
+-  - **[T10] bipolar**
+-    - bipolar.ogg
+-    - bipolar.ssc
+-    - bipolar.ssc.oldsync
+-    - bipolar-bg.png
+-    - bipolar-bn.png
+-    - bipolar-jkt.png
+-  - **[T10] Central Utopia**
+-    - BG.png
+-    - BN.png
+-    - music.ogg
+-    - steps.sm
+-    - steps.sm.oldsync
+-  - **[T10] Elevator**
+-    - elevator.ogg
+-    - elevator.ssc
+-    - elevator.ssc.old
+-    - elevator.ssc.oldsync
+-    - elevator-bg.png
+-    - elevator-bn.png
+-    - elevator-jkt.png
+-    - elevator-wide.png
+-  - **[T10] Feral (No CMOD)**
+-    - Feral.ogg
+-    - Feral.ssc
+-    - Feral.ssc.old
+-    - Feral.ssc.oldsync
+-    - feral_jacket.png
+-    - feral-bg.png
+-    - feral-bn.png
+-  - **[T10] Field of View**
+-    - bg.png
+-    - bn.png
+-    - Field of View.ogg
+-    - Field of View.ssc
+-    - Field of View.ssc.oldsync
+-    - jk.png
+-  - **[T10] Rainbow Rave Parade**
+-    - Rainbow Rave Parade.ogg
+-    - Rainbow Rave Parade.ssc
+-    - Rainbow Rave Parade.ssc.old
+-    - Rainbow Rave Parade.ssc.oldsync
+-    - rrp_bg.png
+-    - rrp_bg-wide.png
+-    - rrp_bn.png
+-  - **[T10] Revolver**
+-    - revolver.ogg
+-    - revolver.ssc
+-    - revolver.ssc.old
+-    - revolver.ssc.oldsync
+-    - revolver-bg.png
+-    - revolver-bn.png
+-  - **[T10] Wormhole**
+-    - bg.png
+-    - bn.png
+-    - cdtitle.png
+-    - wormhole.ogg
+-    - wormhole.ssc
+-    - wormhole.ssc.oldsync
+-  - bhopball.png
+-  - Pack.ini
+-- **BHOP Ball 2**
+-  - **[T01] Coconut Mall**
+-    - coconut mall.ogg
+-    - coconut mall.ssc
+-    - coconut mall.ssc.oldsync
+-    - coconut-bg.jpg
+-    - coconut-bn.png
+-  - **[T01] Deep Down (SH) [Shpadoinkle]**
+-    - Deep Down.ogg
+-    - Deep Down.ssc
+-    - Deep Down.ssc.oldsync
+-    - Deep_down.png
+-  - **[T01] ETA (SX) [VincentITG]**
+-    - ETA.ogg
+-    - ETA.ssc
+-    - ETA.ssc.oldsync
+-    - eta-bg.png
+-    - eta-bn.png
+-  - **[T01] FALL (SX) [Hubert]**
+-    - bg.jpg
+-    - bn.jpg
+-    - fall.ogg
+-    - fall.ssc
+-    - hubert-cd.png
+-  - **[T01] Gorilla Glue**
+-    - banner.png
+-    - Gorilla Glue - Dirty Audio.ogg
+-    - Gorilla Glue - Dirty Audio.ssc
+-    - Gorilla Glue - Dirty Audio.ssc.oldsync
+-  - **[T01] I Cant Stop Me (SX) [Freyja]**
+-    - I Can_t Stop Me.ssc
+-    - I Can_t Stop Me.ssc.oldsync
+-    - i cant stop me.ogg
+-    - i cant stop me-2.png
+-  - **[T01] Tacos**
+-    - tacos bg.png
+-    - tacos bn.png
+-    - Tacos.ogg
+-    - Tacos.ssc
+-    - Tacos.ssc.oldsync
+-  - **[T02] Beautiful Sky (SM) [mdx]**
+-    - Beautiful Sky(1).ogg
+-    - Beautiful Sky.ogg
+-    - Beautiful Sky.ssc
+-    - Beautiful Sky.ssc.old
+-    - Beautiful Sky.ssc.oldsync
+-    - Beautiful Sky-bg.png
+-    - Beautiful Sky-bn.png
+-    - Beautiful Sky-jk(1).png
+-    - Beautiful Sky-jk.png
+-  - **[T02] Cockroach Cooking (SM) [Talkion]**
+-    - Cockroach Cooking.ogg
+-    - Cockroach Cooking.ssc
+-    - Cockroach Cooking.ssc.oldsync
+-    - Cockroach Cooking-bg.png
+-    - Cockroach Cooking-bn.png
+-  - **[T02] Issa Vibe**
+-    - banner.png
+-    - Issa Vibe - Wax Motif, BRKLYN.ogg
+-    - Issa Vibe - Wax Motif, BRKLYN.ssc
+-    - Issa Vibe - Wax Motif, BRKLYN.ssc.oldsync
+-  - **[T02] Love You Back**
+-    - bg.png
+-    - bn.png
+-    - cdtitle.png
+-    - lyb.ogg
+-    - lyb.sm
+-    - lyb.sm.oldsync
+-  - **[T02] ON FIRE (No CMOD)**
+-    - ON FIRE.ogg
+-    - ON FIRE.ssc
+-    - ON FIRE.ssc.oldsync
+-    - onfire-bg.png
+-    - onfire-bg-wide.png
+-    - onfire-bn.png
+-    - onfire-jacket.png
+-  - **[T02] Simple and Clean**
+-    - cdtitle.png
+-    - Simple _ Clean (imprintafter flip).ogg
+-    - Simple _ Clean (imprintafter flip).sm
+-    - simplenclean-jacket.png
+-  - **[T02] Unbelievable (SH) [Tony S.]**
+-    - banner.png
+-    - Unbelievable - Diamond Rio.ogg
+-    - Unbelievable - Diamond Rio.ssc
+-  - **[T03] Bullet Waiting for Me (SH) [Sangyule]**
+-    - Bullet Waiting for Me.ogg
+-    - Bullet Waiting for Me.ssc
+-    - Bullet Waiting for Me.ssc.oldsync
+-    - bullet-bg.png
+-    - bullet-bn.png
+-    - bullet-jk.png
+-    - sangyule-cd.png
+-  - **[T03] Imma Bee**
+-    - banner.jpg
+-    - Imma Bee.ssc
+-    - The Black Eyed Peas - Imma Be (Lyrics).ogg
+-  - **[T03] Lucky Love (SX) [StoryTime]**
+-    - itl-online-2024-bn.png
+-    - Lucky_love_cut.ogg
+-    - Lucky_love_cut.ssc
+-    - Lucky_love_cut.ssc.oldsync
+-  - **[T03] Memories of You**
+-    - bg.jpg
+-    - bn.jpg
+-    - memories.ogg
+-    - memories.ssc
+-    - memories.ssc.oldsync
+-  - **[T03] Sweet Clapper [SX]**
+-    - sweet bg.png
+-    - sweet bn.png
+-    - Sweet Clapper.ogg
+-    - Sweet Clapper.ssc
+-    - Sweet Clapper.ssc.oldsync
+-  - **[T03] The Ghost (No CMOD)**
+-    - the ghost bn.png
+-    - The Ghost.ogg
+-    - The Ghost.ssc
+-    - The Ghost.ssc.oldsync
+-  - **[T03] Wander**
+-    - Wander.ogg
+-    - Wander.ssc
+-    - Wander.ssc.oldsync
+-    - Wander-bg.png
+-    - Wander-bn.png
+-    - Wander-jk.png
+-  - **[T04] Fear Grows (SX) [Mirin]**
+-    - bg.png
+-    - bg.txt
+-    - bn.png
+-    - fg.ogg
+-    - fg.ssc
+-  - **[T04] File Select**
+-    - Hyper Potions - File Select.ogg
+-    - Hyper Potions - File Select.ssc
+-    - Hyper Potions - File Select.ssc.oldsync
+-    - Hyper Potions - File Select-ban.png
+-    - Hyper Potions - File Select-bg.png
+-    - Hyper Potions - File Select-jacket.png
+-  - **[T04] Let You Go**
+-    - Let You Go.ogg
+-    - Let You Go.ssc
+-    - Let You Go-bn.png
+-  - **[T04] Melt**
+-    - Melt.ogg
+-    - Melt.ssc
+-    - Melt.ssc.oldsync
+-    - Melt-bg.png
+-    - Melt-bn.mp4
+-    - Melt-jk.png
+-  - **[T04] ringtone (No CMOD) (SX) [valgrind]**
+-    - ringtone.ogg
+-    - ringtone.ssc
+-    - ringtone.ssc.oldsync
+-    - ringtone-bg.png
+-    - ringtone-bn.png
+-  - **[T04] Singularity**
+-    - bg.png
+-    - bn.png
+-    - jk.png
+-    - Singularity.ogg
+-    - Singularity.ssc
+-    - Singularity.ssc.oldsync
+-  - **[T04] Summer Days - (No CMOD)**
+-    - Summer Days (Haywyre Remix).ogg
+-    - Summer Days (Haywyre Remix).ssc
+-    - Summer Days (Haywyre Remix).ssc.oldsync
+-    - Summer Days-bg.png
+-    - Summer Days-bn.png
+-  - **[T05] Dashstar VIP**
+-    - dashstar VIP.ssc
+-    - dashstar VIP.ssc.oldsync
+-    - dashstar VIP-bn.png
+-    - Knock2 - dashstar (VIP).ogg
+-  - **[T05] Huracan**
+-    - atb-cd.png
+-    - Huracan.ogg
+-    - Huracan.ssc
+-    - Huracan.ssc.oldsync
+-    - Huracan_jacket.png
+-    - Huracan-bg.png
+-    - Huracan-bn.png
+-  - **[T05] Light Switch (No CMOD)**
+-    - Light Switch.ogg
+-    - Light Switch.ssc
+-    - Light Switch.ssc.oldsync
+-    - Light Switch-bg.png
+-    - Light Switch-bn.png
+-    - Light Switch-jacket.png
+-  - **[T05] Midnight Hour**
+-    - FeraligatrV5-cd.png
+-    - MH.ssc
+-    - MH.ssc.oldsync
+-    - mh-bg.png
+-    - MH-bg-wide.png
+-    - mh-bn.png
+-    - mh-jacket.png
+-    - Skrillex, Boys Noize, Ty Dolla $ign - Midnight Hour.ogg
+-  - **[T05] Multi-Thread**
+-    - Multi-Thread.ogg
+-    - Multi-Thread.ssc
+-    - Multi-Thread.ssc.oldsync
+-    - multi-thread_bg.png
+-    - multi-thread_bn.png
+-    - multi-thread_jacket.png
+-  - **[T05] Sex**
+-    - banner.png
+-    - bg.png
+-    - Sex.ogg
+-    - Sex.ssc
+-    - Sex.ssc.oldsync
+-  - **[T05] Smokin Out The Window**
+-    - cdtitle.png
+-    - Smokin Out The Window.ogg
+-    - Smokin Out The Window.png
+-    - Smokin Out The Window.ssc
+-    - Smokin Out The Window.ssc.oldsync
+-    - Smokin Out The Window-bg.png
+-    - Smokin Out The Window-jacket.png
+-  - **[T06] Banger Machine**
+-    - banger machine jacket.png
+-    - Banger Machine.ogg
+-    - Banger Machine.sm
+-    - banger machine-bg.png
+-    - banger machine-bn.png
+-  - **[T06] Bitch Im Nice**
+-    - bin-bg.png
+-    - bin-bn.png
+-    - bin-jacket.png
+-    - Bitch I_m Nice.ogg
+-    - Bitch I_m Nice.ssc
+-    - CopperPuppy-cdtitle.png
+-  - **[T06] Dirty Vibe (SX) [mute]**
+-    - dirtyvibe.ogg
+-    - dirtyvibe.ssc
+-    - dirtyvibe-bg.png
+-    - dirtyvibe-bn.png
+-  - **[T06] Force Buy (SX) [Exschwasion]**
+-    - fb-bg.png
+-    - fb-bn.png
+-    - force buy.ogg
+-    - force buy.ssc
+-  - **[T06] Goosebumps (SX) [Feraligatr]**
+-    - FeraligatrV4-cd.png
+-    - Goosebumps-bg.png
+-    - Goosebumps-bn.png
+-    - Matroda x Travis Scott - Goosebumps (VIP Edit).ogg
+-    - Matroda x Travis Scott - Goosebumps (VIP Edit).ssc
+-    - Matroda x Travis Scott - Goosebumps (VIP Edit).ssc.oldsync
+-  - **[T06] Got You**
+-    - Got You.ogg
+-    - Got You.ssc
+-    - Got You.ssc.oldsync
+-    - Got You-bg.png
+-    - Got You-bg-wide.png
+-    - Got You-bn.png
+-    - Got You-jacket.png
+-  - **[T06] Y (No CMOD)**
+-    - bannerzz.png
+-    - Y - Inzo.ogg
+-    - Y - Inzo.ssc
+-    - Y - Inzo.ssc.oldsync
+-    - Y-bg.png
+-    - Y-bn.png
+-  - **[T07] Ants (No CMOD)**
+-    - 02 Ants.ogg
+-    - 02 Ants.sm
+-    - 02 Ants.sm.oldsync
+-    - ants bg.png
+-    - ants bn.png
+-  - **[T07] Ascent (SX) [Talkion]**
+-    - Ascent.ogg
+-    - Ascent.ssc
+-    - Ascent.ssc.oldsync
+-    - bg.png
+-    - bn.png
+-  - **[T07] Dame**
+-    - Dame - AOLO.ogg
+-    - Dame - AOLO.ssc
+-    - Dame - AOLO.ssc.oldsync
+-    - Dame - BN.png
+-  - **[T07] Mantis**
+-    - mantis.ogg
+-    - mantis.ssc
+-    - mantis.ssc.oldsync
+-    - mantis-bg.png
+-    - mantis-bn.png
+-  - **[T07] Moony eyes**
+-    - bg.png
+-    - bn.png
+-    - gfx credit.txt
+-    - moony eyes.ogg
+-    - moony eyes.ssc
+-    - moony eyes.ssc.oldsync
+-  - **[T07] Random Encounter (SH) [Exschwasion]**
+-    - random encounter.ogg
+-    - random encounter.ssc
+-    - random-bg.png
+-    - random-bn.png
+-  - **[T07] Time Goes By**
+-    - collab.png
+-    - steps.ssc
+-    - steps.ssc.oldsync
+-    - TGB-bg.png
+-    - TGB-bg-wide.png
+-    - TGB-bn.png
+-    - TGB-jacket.png
+-    - time-goes-by.ogg
+-  - **[T08] $1.78**
+-    - $1.78.ogg
+-    - $1.78.ssc
+-    - $1.78.ssc.oldsync
+-    - 178-bg.png
+-    - 178-bn.png
+-    - 178-jacket.png
+-    - CopperPuppy-cdtitle.png
+-  - **[T08] Arrasando (SX) [J. Nero]**
+-    - Arrasando - bg.png
+-    - Arrasando - bn.png
+-    - Arrasando.ssc
+-    - Arresando.ogg
+-  - **[T08] Elemental Ethnic (SX) [cmmf]**
+-    - BGElementalEthnic.png
+-    - BNElementalEthnic.png
+-    - Yooh - Elemental Ethnic.ogg
+-    - Yooh - Elemental Ethnic.ssc
+-    - Yooh - Elemental Ethnic.ssc.oldsync
+-  - **[T08] Le Bleury (SX) [cmmf & BrotherMojo]**
+-    - ANOMALIE - LE BLEURY.ogg
+-    - BGLeBleury.png
+-    - BNLeBleury.png
+-    - le_bleury_mojo_radical_sync.ssc
+-  - **[T08] Levitate**
+-    - levitate.ogg
+-    - levitate.ssc
+-    - levitate.ssc.oldsync
+-    - levitate-bg.png
+-    - levitate-bn.png
+-  - **[T08] Sound Chimera (No CMOD)**
+-    - bg.png
+-    - bn.png
+-    - chimera.ogg
+-    - chimera.ssc
+-    - chimera.ssc.oldsync
+-  - **[T08] Stupid Hoe (No CMOD)**
+-    - Stupid Hoe.ogg
+-    - Stupid Hoe.ssc
+-    - Stupid Hoe.ssc.oldsync
+-    - stupidhoe-bg.png
+-    - stupidhoe-bn.png
+-  - **[T09] Aetherborne (SX) [A. Astral]**
+-    - Aetherborne.ogg
+-    - Aetherborne.ssc
+-    - bg.png
+-    - bn.png
+-  - **[T09] B L A C K - R A Y**
+-    - B L A C K - R A Y.ssc
+-    - B L A C K - R A Y.ssc.oldsync
+-    - black ray jacket.png
+-    - black ray-bg.png
+-    - black ray-bn.png
+-    - Camellia - B L A C K - R A Y.ogg
+-  - **[T09] Coconut**
+-    - bg.png
+-    - bn.png
+-    - Coconut.ogg
+-    - Coconut.ssc
+-    - Coconut.ssc.oldsync
+-    - README.md
+-  - **[T09] Gravedigger Saint Punk Remix [SX]**
+-    - Gravedigger - BN.png
+-    - Gravedigger (Saint Punk Remix).ogg
+-    - Gravedigger (Saint Punk Remix).ssc
+-    - Gravedigger-BG.png
+-  - **[T09] JITTER FANTA**
+-    - D21 - JITTER FANTA BG.png
+-    - D21 - JITTER FANTA BN.png
+-    - JITTER FANTA.ogg
+-    - JITTER FANTA.ssc
+-    - JITTER FANTA.ssc.oldsync
+-  - **[T09] Shamshir (SX) [Mirin]**
+-    - audio.ogg
+-    - shamshir_bg.png
+-    - shamshir_bg-wide.png
+-    - shamshir_bn.png
+-    - steps.ssc
+-  - **[T09] Summerblue (SX) [Zaia]**
+-    - bg_169.png
+-    - bn.png
+-    - cdtitle_ZAiA_2023.png
+-    - Summerblue.ssc
+-    - Toby Fox & Camellia - Summerblue.ogg
+-  - **[T10) Monke Rave (SX) [dimo]**
+-    - bg.png
+-    - bn.png
+-    - cdtitle.png
+-    - Monke Rave.ogg
+-    - Monke Rave.ssc
+-  - **[T10] Blacksphere**
+-    - **lua**
+-      - default(1).lua
+-      - default.lua
+-      - easing(1).lua
+-      - easing.lua
+-      - mods(1).lua
+-      - mods.lua
+-    - blacksphere-bg.png
+-    - blacksphere-bn.png
+-    - music.ogg
+-    - music.ssc
+-    - music.ssc.oldsync
+-  - **[T10] Feral (No CMOD) [SX]**
+-    - Feral.ogg
+-    - Feral.ssc
+-    - Feral.ssc.oldsync
+-    - feral_jacket.png
+-    - feral-bg.png
+-    - feral-bn.png
+-  - **[T10] Leviathan [SX]**
+-    - bg.png
+-    - bn.png
+-    - leviathan.ogg
+-    - leviathan.ssc
+-    - leviathan.ssc.oldsync
+-  - **[T10] Lighthouse**
+-    - banner.png
+-    - Lighthouse - QUIX.ogg
+-    - Lighthouse - QUIX.ssc
+-    - Lighthouse - QUIX.ssc.oldsync
+-  - **[T10] Rainbow Rave Parade**
+-    - Rainbow Rave Parade.ogg
+-    - Rainbow Rave Parade.ssc
+-    - Rainbow Rave Parade.ssc.oldsync
+-    - rrp_bg.png
+-    - rrp_bg-wide.png
+-    - rrp_bn.png
+-  - **[T10] XENA (SX) [Zaia]**
+-    - bg_169.png
+-    - bn.png
+-    - cdtitle.png
+-    - Skrillex & Nai Barghouti - Xena.ogg
+-    - XENA.ssc
+-  - bhop2startggbannertemp.png
+-  - Pack.ini
+-- **BHOP Ball 3**
+-  - **[T01] drop pop candy**
+-    - cd-title-Benpai.png
+-    - drop pop candy.ogg
+-    - drop pop candy.ssc
+-    - drop pop candy-bg.png
+-    - drop pop candy-bg-wide.png
+-    - drop pop candy-bn.png
+-    - drop pop candy-jacket.png
+-  - **[T01] Dynamite (SH)**
+-    - Dynamite.ogg
+-    - Dynamite.ssc
+-    - Dynamite.ssc.oldsync
+-    - dynamite-bg.png
+-    - dynamite-bn.mp4
+-    - dynamite-bn-still.png
+-  - **[T01] Houdini**
+-    - CopperPuppy-cdtitle.png
+-    - Houdini.ogg
+-    - Houdini.ssc
+-    - Houdini.ssc.oldsync
+-    - houdini-bg.png
+-    - houdini-bn.png
+-    - houdini-jacket.png
+-  - **[T01] Issa Vibe**
+-    - banner.png
+-    - Issa Vibe - Wax Motif, BRKLYN.ogg
+-    - Issa Vibe - Wax Motif, BRKLYN.ssc
+-    - Issa Vibe - Wax Motif, BRKLYN.ssc.oldsync
+-  - **[T01] LRAD**
+-    - FeraligatrV5-cd.png
+-    - KNIFE PARTY - LRAD (HAUS OF PANDA SPEED HOUSE REMIX).ogg
+-    - KNIFE PARTY - LRAD (HAUS OF PANDA SPEED HOUSE REMIX).ssc
+-    - KNIFE PARTY - LRAD (HAUS OF PANDA SPEED HOUSE REMIX).ssc.oldsync
+-    - LRADRemix-bg.png
+-    - LRADRemix-bg-wide.png
+-    - LRADRemix-bn.png
+-    - LRADRemix-Jacket.png
+-  - **[T01] Never Ever (SH)**
+-    - Never Ever.ssc
+-    - Never Ever.ssc.oldsync
+-    - neverever bg.png
+-    - neverever bn.png
+-    - Royksopp - Never Ever (Edit).ogg
+-  - **[T01] Tacos**
+-    - tacos bg.png
+-    - tacos bn.png
+-    - Tacos.ogg
+-    - Tacos.ssc
+-    - Tacos.ssc.oldsync
+-  - **[T01] Teleportation (SM)**
+-    - bhopball3.png
+-    - Teleportation.ogg
+-    - Teleportation.ssc
+-    - Teleportation.ssc.oldsync
+-  - **[T01] Upshift - (NO CMOD)**
+-    - bg.png
+-    - bn.png
+-    - jk.png
+-    - Upshift (Yunosuke Remix).ogg
+-    - Upshift (Yunosuke Remix).ssc
+-    - Upshift (Yunosuke Remix).ssc.oldsync
+-  - **[T02] Baja Blast (SH)**
+-    - Baja Blast-BG.png
+-    - Baja Blast-BN.png
+-    - cant_believe_i_almost_forgot_to_do_the_real_gfx.png
+-    - i_commissioned_twitch_chat_to_make_this_banner_not_really_tho.png
+-    - iidx.png
+-    - music.ogg
+-    - steps.ssc
+-    - steps.ssc.oldsync
+-  - **[T02] Calabria 2007**
+-    - banner.png
+-    - Calabria 2007 - Enur (ft. Natasja).ogg
+-    - Calabria 2007 - Enur (ft. Natasja).ssc
+-  - **[T02] Cockroach Cooking (SM)**
+-    - Cockroach Cooking.ogg
+-    - Cockroach Cooking.ssc
+-    - Cockroach Cooking.ssc.oldsync
+-    - Cockroach Cooking-bg.png
+-    - Cockroach Cooking-bn.png
+-  - **[T02] Desert**
+-    - cd-title-Benpai.png
+-    - Desert.ogg
+-    - Desert.ssc
+-    - Desert.ssc.oldsync
+-    - Desert-bg.png
+-    - Desert-bg-wide.png
+-    - Desert-bn.png
+-    - Desert-jacket.png
+-  - **[T02] Euphoria (SH)**
+-    - Euphoria - bg.png
+-    - Euphoria - bn.png
+-    - Euphoria - jacket.png
+-    - Euphoria.ogg
+-    - Euphoria.ssc
+-    - Euphoria.ssc.oldsync
+-    - gpopcdtitle.png
+-  - **[T02] I Like To Move It**
+-    - I Like To Move It.ogg
+-    - I Like To Move It.ssc
+-    - I Like To Move It.ssc.oldsync
+-    - iliketo bg.png
+-    - iliketo bn.png
+-  - **[T02] it boy**
+-    - CopperPuppy-cdtitle.png
+-    - ib-bg.png
+-    - ib-bn.png
+-    - ib-jacket.png
+-    - it boy.ogg
+-    - it boy.ssc
+-    - it boy.ssc.oldsync
+-  - **[T02] LOVELY BASTARDS**
+-    - bastards-jacket.png
+-    - cdtitle.png
+-    - LOVELY BASTARDS (YATASHIGANG, ZWE1HVNDXR).mp3
+-    - LOVELY BASTARDS (YATASHIGANG, ZWE1HVNDXR).sm
+-  - **[T02] Unbelievable (SH)**
+-    - banner.png
+-    - Unbelievable - Diamond Rio.ogg
+-    - Unbelievable - Diamond Rio.ssc
+-    - Unbelievable - Diamond Rio.ssc.oldsync
+-  - **[T03] Addicted**
+-    - addicted.ogg
+-    - addicted.ssc
+-    - addicted.ssc.oldsync
+-    - addicted-bg.png
+-    - addicted-bn.png
+-  - **[T03] Bounce**
+-    - bounce.ogg
+-    - bouncebg.png
+-    - bouncebn.png
+-    - chart.ssc
+-    - chart.ssc.oldsync
+-  - **[T03] burbank house**
+-    - banner.png
+-    - bg.png
+-    - tsubi club - burbank house.ogg
+-    - tsubi club - burbank house.ssc
+-    - tsubi club - burbank house.ssc.oldsync
+-  - **[T03] Chemicals (SH)**
+-    - Chemicals - BN.png
+-    - Chemicals.ogg
+-    - Chemicals.ssc
+-    - Chemicals.ssc.oldsync
+-  - **[T03] Freaky Deaky**
+-    - Freaky Deaky.ogg
+-    - Freaky Deaky.ssc
+-    - Freaky Deaky.ssc.oldsync
+-    - Freaky Deaky-bg.png
+-    - Freaky Deaky-bn.png
+-    - Freaky Deaky-jk.png
+-  - **[T03] Killa (SM)**
+-    - Killa.ogg
+-    - Killa.png
+-    - Killa.ssc
+-    - Killa.ssc.oldsync
+-  - **[T03] Kissing Game**
+-    - kissing game.ogg
+-    - kissing game.ssc
+-    - kissing game.ssc.oldsync
+-    - kissinggame-bg.png
+-    - kissinggame-bn.png
+-  - **[T03] Lucky Love**
+-    - bhopball3.png
+-    - Lucky_love_cut.ogg
+-    - Lucky_love_cut.ssc
+-    - Lucky_love_cut.ssc.oldsync
+-  - **[T03] Sweet Clapper**
+-    - sweet bg.png
+-    - sweet bn.png
+-    - Sweet Clapper.ogg
+-    - Sweet Clapper.ssc
+-    - Sweet Clapper.ssc.oldsync
+-  - **[T04] Cherry Blossom**
+-    - cd-title-Benpai.png
+-    - Cherry Blossom.sm
+-    - Cherry Blossom.sm.oldsync
+-    - Cherry Blossom-bg.png
+-    - Cherry Blossom-bn.png
+-    - Cherry_Blossom.ogg
+-  - **[T04] Forever**
+-    - Forever (Shawn Wasabi Remix).ssc
+-    - Forever (Shawn Wasabi Remix).ssc.oldsync
+-    - forever bg.png
+-    - forever bn.png
+-    - forever.ogg
+-  - **[T04] Lover Online**
+-    - cdtitle.png
+-    - jacket.png
+-    - NOTD, Maia Wright - Lover Online.ogg
+-    - NOTD, Maia Wright - Lover Online.ssc
+-    - NOTD, Maia Wright - Lover Online.ssc.oldsync
+-  - **[T04] Problem**
+-    - bg.png
+-    - bn.png
+-    - Problem.ogg
+-    - Problem.ssc
+-    - Problem.ssc.oldsync
+-  - **[T04] Summer Days - (No CMOD)**
+-    - Summer Days (Haywyre Remix).ogg
+-    - Summer Days (Haywyre Remix).ssc
+-    - Summer Days (Haywyre Remix).ssc.oldsync
+-    - Summer Days-bg.png
+-    - Summer Days-bn.png
+-  - **[T04] The Way I Are**
+-    - bn.png
+-    - The Way I Are.ogg
+-    - The Way I Are.ssc
+-  - **[T04] Uchuu Yuuei**
+-    - uchu yuuei.ogg
+-    - uchu yuuei.ssc
+-    - uchu yuuei.ssc.oldsync
+-    - uchuu-bg.png
+-    - uchuu-bn.png
+-  - **[T04] Wassap (SM)**
+-    - bg.png
+-    - bn.png
+-    - Wassap 124.ssc
+-    - Wassap 124.ssc.oldsync
+-    - wassap cut.ogg
+-  - **[T04] Where Have You Been**
+-    - BGWhere.png
+-    - BNWhere.png
+-    - Where Have You Been.ogg
+-    - Where Have You Been.ssc
+-    - Where Have You Been.ssc.oldsync
+-  - **[T05] dashstar**
+-    - dashstar-bg.png
+-    - dashstar-bg-wide.png
+-    - dashstar-bn.png
+-    - dashtar - Knock2.ogg
+-    - dashtar - Knock2.ssc
+-    - dashtar - Knock2.ssc.oldsync
+-  - **[T05] edamame**
+-    - bbno$ _ Rich Brian - edamame(1).ssc
+-    - bbno$ _ Rich Brian - edamame(1).ssc.oldsync
+-    - bbno$ _ Rich Brian - edamame.ogg
+-    - bbno$ _ Rich Brian - edamame.ssc
+-    - desktop(1).ini
+-    - edamame-bg.png
+-    - edamame-bg-wide.png
+-    - edamame-bn.png
+-    - edamame-jacket.png
+-    - FeraligatrV5-cd.png
+-  - **[T05] Here to Stay**
+-    - Here to Stay ft Lady Chann.ogg
+-    - Here to Stay(1).ssc
+-    - Here to Stay(1).ssc.oldsync
+-    - Here to Stay.ssc
+-    - Here to Stay-BG(1).png
+-    - Here to Stay-BG.png
+-    - Here to Stay-BN(1).png
+-    - Here to Stay-BN.png
+-    - SudziCD(1).png
+-    - SudziCD.png
+-  - **[T05] Jumpin Jumpin**
+-    - bg.png
+-    - bn(1).png
+-    - bn.png
+-    - Jumpin Jumpin(1).ssc
+-    - Jumpin Jumpin(1).ssc.oldsync
+-    - Jumpin Jumpin.ogg
+-    - Jumpin Jumpin.ssc
+-  - **[T05] Light Switch - (No CMOD)**
+-    - Light Switch(1).ssc
+-    - Light Switch(1).ssc.oldsync
+-    - Light Switch.ogg
+-    - Light Switch.ssc
+-    - Light Switch-bg.png
+-    - Light Switch-bn.png
+-    - Light Switch-jacket(1).png
+-    - Light Switch-jacket.png
+-  - **[T05] No Sass**
+-    - nosass.ogg
+-    - nosass.sm
+-    - nosass.sm.oldsync
+-    - nosass-bg.png
+-    - nosass-bn.png
+-    - source.txt
+-  - **[T05] roppongi EVOLVED ver A+B (SH)**
+-    - bg_1.png
+-    - bn.png
+-    - roppongi.ogg
+-    - roppongi.ssc
+-    - roppongi.ssc.oldsync
+-  - **[T05] Set Me Free**
+-    - bg.png
+-    - bn.png
+-    - set me free.ogg
+-    - set me free.ssc
+-    - set me free.ssc.oldsync
+-  - **[T05] Surface**
+-    - banner.png
+-    - bg.png
+-    - Surface.ogg
+-    - Surface.ssc
+-    - Surface.ssc.oldsync
+-  - **[T06] Dame**
+-    - Dame - AOLO.ogg
+-    - Dame - AOLO.ssc
+-    - Dame - AOLO.ssc.oldsync
+-    - Dame - BN.png
+-  - **[T06] Dirty Vibe**
+-    - dirtyvibe.ogg
+-    - dirtyvibe.ssc
+-    - dirtyvibe.ssc.oldsync
+-    - dirtyvibe-bg.png
+-    - dirtyvibe-bn.png
+-  - **[T06] Force Buy**
+-    - fb-bg.png
+-    - fb-bn.png
+-    - force buy.ogg
+-    - force buy.ssc
+-  - **[T06] Got You**
+-    - Got You.ogg
+-    - Got You.sm
+-    - Got You.ssc
+-    - Got You.ssc.oldsync
+-    - Got You-bg.png
+-    - Got You-bg-wide.png
+-    - Got You-bn.png
+-    - Got You-jacket.png
+-    - xRGTMx-cdtitle.png
+-  - **[T06] PUMPIN JUMPIN**
+-    - bg.png
+-    - bn.png
+-    - Pumpin Jumpin.ogg
+-    - Pumpin Jumpin.ssc
+-    - Pumpin Jumpin.ssc.oldsync
+-  - **[T06] S-Bahn**
+-    - s-bahn.ogg
+-    - s-bahn.ssc
+-    - s-bahn.ssc.oldsync
+-    - sbahnbg.png
+-    - sbahnbn.png
+-  - **[T06] ShatterBox**
+-    - cd-title-Benpai.png
+-    - ShatterBox.ogg
+-    - ShatterBox.ssc
+-    - ShatterBox.ssc.oldsync
+-    - shatterbox-bg.png
+-    - shatterbox-bg-wide.png
+-    - shatterbox-bn.png
+-    - shatterbox-jacket.png
+-  - **[T06] Uchuu SAMURAI**
+-    - bg.png
+-    - bn.png
+-    - Uchuu SAMURAI.ogg
+-    - Uchuu SAMURAI.ssc
+-    - Uchuu SAMURAI.ssc.oldsync
+-  - **[T06] Y - (No CMOD)**
+-    - bannerzz.png
+-    - Y - Inzo.ogg
+-    - Y - Inzo.ssc
+-    - Y - Inzo.ssc.oldsync
+-    - Y-bg.png
+-    - Y-bn.png
+-  - **[T07] Ants - (No CMOD)**
+-    - 02 Ants.dwi
+-    - 02 Ants.ogg
+-    - 02 Ants.sm
+-    - 02 Ants.sm.oldsync
+-    - ants bg.png
+-    - ants bn.png
+-  - **[T07] DIABLOSIS NAGA**
+-    - DIABLOSIS Naga.ssc
+-    - DIABLOSIS Naga.ssc.oldsync
+-    - diablosis_bg.png
+-    - diablosis_bg-wide.png
+-    - diablosis_bn.png
+-    - sky_delta - DIABLOSIS Naga.ogg
+-  - **[T07] Elemental Ethnic**
+-    - BGElementalEthnic.png
+-    - BNElementalEthnic.png
+-    - Yooh - Elemental Ethnic.ogg
+-    - Yooh - Elemental Ethnic.ssc
+-    - Yooh - Elemental Ethnic.ssc.oldsync
+-  - **[T07] Get Down (SH)**
+-    - bg.png
+-    - bn.png
+-    - get down.ogg
+-    - get down.ssc
+-    - get down.ssc.oldsync
+-  - **[T07] Gorgetech**
+-    - bn.png
+-    - gorgetech.ogg
+-    - gorgetech.ssc
+-    - gorgetech.ssc.oldsync
+-  - **[T07] If**
+-    - If.ogg
+-    - If.png
+-    - If.ssc
+-    - If.ssc.oldsync
+-    - If-bg.png
+-  - **[T07] Inner Spirit**
+-    - bg.png
+-    - bn.png
+-    - cdtitle_ZAiA_2023.png
+-    - Inner Spirit -GIGA HiTECH Mix-.ssc
+-    - Inner Spirit -GIGA HiTECH Mix-.ssc.oldsync
+-    - lapix (Remixed by Blacklolita) - Inner Spirit -GIGA HiTECH Mix-.ogg
+-  - **[T07] Mantis**
+-    - mantis.ogg
+-    - mantis.ssc
+-    - mantis.ssc.oldsync
+-    - mantis-bg.png
+-    - mantis-bn.png
+-  - **[T07] Random Encounter (SH)**
+-    - random encounter(1).ssc
+-    - random encounter.ogg
+-    - random encounter.ssc
+-    - random-bg(1).png
+-    - random-bg.png
+-    - random-bn(1).png
+-    - random-bn.png
+-  - **[T08] $1.78**
+-    - $1.78.ogg
+-    - $1.78.ssc
+-    - $1.78.ssc.oldsync
+-    - 178-bg.png
+-    - 178-bn.png
+-    - 178-jacket.png
+-    - CopperPuppy-cdtitle.png
+-  - **[T08] B L A C K - R A Y**
+-    - B L A C K - R A Y(1).ssc
+-    - B L A C K - R A Y(1).ssc.oldsync
+-    - B L A C K - R A Y.ssc
+-    - black ray jacket(1).png
+-    - black ray jacket.png
+-    - black ray-bg.png
+-    - black ray-bn(1).png
+-    - black ray-bn.png
+-    - Camellia - B L A C K - R A Y.ogg
+-  - **[T08] EMBRYOGLYPH**
+-    - EMBRYOGLYPH.ogg
+-    - EMBRYOGLYPH.ssc
+-    - EMBRYOGLYPH.ssc.oldsync
+-    - EMBRYOGLYPH-bg.png
+-    - EMBRYOGLYPH-bn.png
+-  - **[T08] Fuego**
+-    - bg.png
+-    - bn.png
+-    - fuego.ogg
+-    - fuego.ssc
+-    - fuego.ssc.oldsync
+-  - **[T08] Knots**
+-    - knots.ogg
+-    - knots.sm
+-    - knots.sm.oldsync
+-    - knots-bg.png
+-    - knots-bn.png
+-  - **[T08] pseudonymph**
+-    - pseudonymph bg.png
+-    - pseudonymph bn.png
+-    - pseudonymph.ogg
+-    - pseudonymph.ssc
+-    - pseudonymph.ssc.oldsync
+-  - **[T08] REDLINE**
+-    - bg.png
+-    - bn.png
+-    - redline.ogg
+-    - redline.ssc
+-    - redline.ssc.oldsync
+-  - **[T08] Summerblue**
+-    - bg_169.png
+-    - bn(1).png
+-    - bn.png
+-    - cdtitle_ZAiA_2023(1).png
+-    - cdtitle_ZAiA_2023.png
+-    - Summerblue(1).ssc
+-    - Summerblue.ssc
+-    - Toby Fox & Camellia - Summerblue.ogg
+-  - **[T08] Tricolor circuS**
+-    - tricolor circus.ogg
+-    - tricolor circus.ssc
+-    - tricolor circus.ssc.oldsync
+-    - tricolor-01.png
+-    - tricolor-02.png
+-  - **[T09] Aetherborne**
+-    - Aetherborne(1).ssc
+-    - Aetherborne.ogg
+-    - Aetherborne.ssc
+-    - bg(1).png
+-    - bg.png
+-    - bn(1).png
+-    - bn.png
+-  - **[T09] ass out**
+-    - assout.ogg
+-    - assout.ssc
+-    - assout.ssc.oldsync
+-    - assout-bg.png
+-    - assout-bn.png
+-    - assout-jkt.png
+-  - **[T09] Good Time**
+-    - good time.ogg
+-    - good time.ssc
+-    - good time.ssc.oldsync
+-    - goodtime-bg.png
+-    - goodtime-bn.png
+-  - **[T09] Honey Trap**
+-    - b-honey.png
+-    - honey-trap.ogg
+-    - honey-trap.sm
+-    - honey-trap.ssc
+-    - honey-trap.ssc.oldsync
+-  - **[T09] MEXICAN RIDDIM**
+-    - audio.ogg
+-    - bg.png
+-    - bn.png
+-    - cdtitle.png
+-    - steps.ssc
+-  - **[T09] Orca**
+-    - ORCA.ogg
+-    - ORCA.ssc
+-    - ORCA.ssc.oldsync
+-    - orca-bn.png
+-  - **[T09] OVERFLOW**
+-    - overflow.ogg
+-    - overflow.png
+-    - overflow.ssc
+-    - overflow.ssc.oldsync
+-  - **[T09] Testify**
+-    - hubert-cd.png
+-    - testify.ogg
+-    - testify.ssc
+-    - testify.ssc.oldsync
+-    - testify_bn.png
+-  - **[T09] Watch and Learn (SH)**
+-    - **__bias-check**
+-      - bias-beatdigest-Watch-and-Learn.png
+-      - bias-beatdigest-Watch-and-Learn-SN.png
+-      - bias-freqdomain-Watch-and-Learn.png
+-      - bias-freqdomain-Watch-and-Learn-SN.png
+-      - bias-postkernel-Watch-and-Learn.png
+-      - bias-postkernel-Watch-and-Learn-SN.png
+-      - convolution-Watch-and-Learn.csv
+-      - convolution-Watch-and-Learn-SN.csv
+-      - nine-or-null-20240108-200844-555.csv
+-      - nine-or-null-20240108-200844-555.log
+-    - Jorts - Watch and Learn.ogg
+-    - Jorts - Watch and Learn.ssc
+-    - Jorts - Watch and Learn.ssc.oldsync
+-    - Jorts - Watch and Learn-bg.png
+-    - Jorts - Watch and Learn-bn.png
+-  - **[T10] $100 Bills**
+-    - $100 Bills (Camellia_s _215$-Step_ Remix) [From Beat Saber Anniversary Remix].ogg
+-    - $100 Bills (Camellia_s _215$-Step_ Remix) [From Beat Saber Anniversary Remix].ssc
+-    - 100_Bills_Camellias_215-Step_Remix-BG.png
+-    - 100_Bills_Camellias_215-Step_Remix-BN.png
+-  - **[T10] Coconut**
+-    - bhopball3.png
+-    - Coconut (HerShe Remix).ogg
+-    - Coconut (HerShe Remix).sm
+-  - **[T10] Fantasie-Celeritas (SH)**
+-    - fantasie bg.png
+-    - fantasie bn.png
+-    - Fantasie-Celeritas.ogg
+-    - Fantasie-Celeritas.ssc
+-    - Fantasie-Celeritas.ssc.oldsync
+-  - **[T10] Feral - (No CMOD)**
+-    - Feral(1).ssc
+-    - Feral(1).ssc.oldsync
+-    - Feral.ogg
+-    - Feral.ssc
+-    - feral_jacket(1).png
+-    - feral_jacket.png
+-    - feral-bg.png
+-    - feral-bn(1).png
+-    - feral-bn.png
+-  - **[T10] logicx-1 wav**
+-    - bg.png
+-    - bg-wide.png
+-    - bn.png
+-    - chart.sm
+-    - chart.ssc
+-    - chart.ssc.oldsync
+-    - song.ogg
+-  - **[T10] na**
+-    - na.ogg
+-    - na.ssc
+-    - na.ssc.oldsync
+-    - na-bg.png
+-    - na-bn.mp4
+-    - na-bn.png
+-  - **[T10] Nothing Left**
+-    - bg.png
+-    - bn.png
+-    - Nothing Left.ogg
+-    - Nothing Left.ssc
+-    - Nothing Left.ssc.oldsync
+-  - **[T10] STICKY HELIX**
+-    - sh-bg.png
+-    - sh-bn.png
+-    - sticky helix.ogg
+-    - sticky helix.ssc
+-    - sticky helix.ssc.oldsync
+-  - **[T10] Void Virus**
+-    - **lua**
+-      - _script.lua
+-      - default.lua
+-      - easing.lua
+-      - modhelpers.lua
+-      - mods.lua
+-    - Akeos - Void Virus.ogg
+-    - mz-cd.png
+-    - Void_Virus.ssc
+-    - Void_Virus.ssc.oldsync
+-    - void_virus_jacket.png
+-    - void_virus-bg.png
+-    - void_virus-bn.png
+-  - bhopball3.png
+-  - pack.ini
+-- **BHOP Ball 4**
+-  - **[T01] Artificial Chariot [SH]**
+-    - Artificial Chariot.ogg
+-    - Artificial Chariot.ssc
+-    - Artificial Chariot.ssc.old
+-    - Artificial Chariot.ssc.oldsync
+-    - Artificial Chariot-bg.png
+-    - Artificial Chariot-bn.png
+-  - **[T01] Break Through Myself (SE)**
+-    - audio.ogg
+-    - bg.png
+-    - bn.png
+-    - cdtitle.png
+-    - steps.ssc
+-    - steps.ssc.oldsync
+-  - **[T01] drop pop candy (SX)**
+-    - cd-title-Benpai.png
+-    - drop pop candy.ogg
+-    - drop pop candy.ssc
+-    - drop pop candy.ssc.oldsync
+-    - drop pop candy-bg.png
+-    - drop pop candy-bg-wide.png
+-    - drop pop candy-bn.png
+-    - drop pop candy-jacket.png
+-  - **[T01] God-ish (SH)**
+-    - bg.png
+-    - bn.png
+-    - God-ish.ogg
+-    - God-ish.ssc
+-    - God-ish.ssc.old
+-    - God-ish.ssc.oldsync
+-    - jk.png
+-  - **[T01] Limbo (SX)**
+-    - cdtitle.png
+-    - Limbo.ogg
+-    - Limbo.png
+-    - Limbo.ssc
+-    - Limbo.ssc.oldsync
+-    - Limbo-bg.png
+-    - Limbo-bg-wide.png
+-    - Limbo-jacket.png
+-  - **[T01] MADELINE (SM)**
+-    - fm-cd.png
+-    - MADELINE.ogg
+-    - MADELINE.ssc
+-    - MADELINE.ssc.old
+-    - MADELINE.ssc.oldsync
+-    - madeline_jacket.png
+-    - madeline-bg.png
+-    - madeline-bn.png
+-  - **[T01] Shady Business (SH)**
+-    - Shady Business.ogg
+-    - Shady Business.sm
+-    - Shady Business.sm.oldsync
+-    - shady-bg.png
+-    - shady-bn.png
+-    - SudziCD.png
+-  - **[T01] Sorry (SX)**
+-    - bn.png
+-    - sorry.ogg
+-    - sorry.ssc
+-    - sorry.ssc.old
+-    - sorry.ssc.oldsync
+-  - **[T01] Swing (SH)**
+-    - bg.png
+-    - bn.png
+-    - jk.png
+-    - Swing.ogg
+-    - Swing.ssc
+-    - Swing.ssc.old
+-    - Swing.ssc.oldsync
+-  - **[T02] Bubblegum K.K (SX)**
+-    - Bubblegum K.K (Qumu Remix).ssc
+-    - Bubblegum K.K (Qumu Remix).ssc.oldsync
+-    - Bubblegum K.K. (Qumu Remix).ogg
+-    - Bubblegum K.K. (Qumu Remix)-bg.png
+-    - Bubblegum K.K. (Qumu Remix)-bg-wide.png
+-    - Bubblegum K.K. (Qumu Remix)-bn.png
+-    - Bubblegum K.K. (Qumu Remix)-jacket.png
+-  - **[T02] Chewingood!!! (SM)**
+-    - Chewingood!!!.ogg
+-    - Chewingood!!!.png
+-    - Chewingood!!!.ssc
+-    - Chewingood!!!.ssc.old
+-    - Chewingood!!!.ssc.oldsync
+-    - Chewingood!!!-bg.png
+-    - Chewingood!!!-jacket.png
+-  - **[T02] Cockroach Cooking (SM)**
+-    - Cockroach Cooking.ogg
+-    - Cockroach Cooking.ssc
+-    - Cockroach Cooking.ssc.old
+-    - Cockroach Cooking.ssc.oldsync
+-    - Cockroach Cooking-bg.png
+-    - Cockroach Cooking-bn.png
+-  - **[T02] Honeypie (SH)**
+-    - .DS_Store
+-    - cd-title-Benpai.png
+-    - Honeypie.ogg
+-    - Honeypie.ssc
+-    - Honeypie.ssc.oldsync
+-    - Honeypie-bg.png
+-    - Honeypie-bg-wide.png
+-    - Honeypie-bn.png
+-    - Honeypie-jacket.png
+-  - **[T02] Hyperlapse (SM)**
+-    - bg.png
+-    - bn.png
+-    - Hyperlapse.ogg
+-    - Hyperlapse.ssc
+-    - Hyperlapse.ssc.oldsync
+-    - jk.png
+-  - **[T02] Kissing Game (SX)**
+-    - kissing game.ogg
+-    - kissing game.ssc
+-    - kissing game.ssc.old
+-    - kissing game.ssc.oldsync
+-    - kissinggame-bg.png
+-    - kissinggame-bn.png
+-  - **[T02] Laid Back Journey (SH)**
+-    - bg.png
+-    - bn.png
+-    - jk.png
+-    - Laid Back Journey.ogg
+-    - Laid Back Journey.sm
+-    - Laid Back Journey.sm.old
+-    - Laid Back Journey.sm.oldsync
+-  - **[T02] Playstation 8 (SH)**
+-    - bcm-cd.png
+-    - Playstation 8.ogg
+-    - Playstation 8.ssc
+-    - Playstation 8.ssc.old
+-    - Playstation 8.ssc.oldsync
+-    - Playstation 8-bg.png
+-    - Playstation 8-bn.png
+-    - Playstation 8-jacket.png
+-  - **[T02] Pleasure Seeker VIP (SM) (No CMOD)**
+-    - bg.png
+-    - bn.png
+-    - pleasure seeker.ogg
+-    - pleasure seeker.ssc
+-    - pleasure seeker.ssc.old
+-    - pleasure seeker.ssc.oldsync
+-  - **[T03] Bad Boy Birdwatch [SH]**
+-    - audio.ssc
+-    - audio.ssc.old
+-    - audio.ssc.oldsync
+-    - bg.png
+-    - bn.png
+-    - steps.ogg
+-  - **[T03] BIBBIDIBA (SH)**
+-    - BIBBIDIBA.ogg
+-    - BIBBIDIBA.ssc
+-    - BIBBIDIBA.ssc.old
+-    - BIBBIDIBA.ssc.oldsync
+-    - BIBBIDIBA-bn.png
+-  - **[T03] Butterfly Twist (SH)**
+-    - bg.png
+-    - bg-wide.png
+-    - bn.png
+-    - music.ogg
+-    - steps.ssc
+-    - steps.ssc.old
+-    - steps.ssc.oldsync
+-  - **[T03] Chemicals [SH]**
+-    - Chemicals - BN.png
+-    - Chemicals.ogg
+-    - Chemicals.ssc
+-    - Chemicals.ssc.oldsync
+-  - **[T03] GIMMICK (SM)**
+-    - bg.png
+-    - bn.png
+-    - GIMMICK.ogg
+-    - GIMMICK.ssc
+-    - GIMMICK.ssc.old
+-    - GIMMICK.ssc.oldsync
+-  - **[T03] Lucky Love (SX)**
+-    - bhopball4itg2.png
+-    - Lucky_love_cut.ogg
+-    - Lucky_love_cut.ssc
+-    - Lucky_love_cut.ssc.old
+-    - Lucky_love_cut.ssc.oldsync
+-  - **[T03] Magnetic (SX)**
+-    - desktop.ini
+-    - Magnetic.ogg
+-    - Magnetic.ssc
+-    - Magnetic.ssc.old
+-    - Magnetic.ssc.oldsync
+-    - Magnetic-bn.png
+-  - **[T03] Rasputin (SX)**
+-    - Rasputin.ogg
+-    - Rasputin.ssc
+-    - Rasputin.ssc.old
+-    - Rasputin.ssc.oldsync
+-    - rasputin_jacket.png
+-    - rasputin-bg.png
+-    - rasputin-bn.png
+-  - **[T03] unlucky number (SH)**
+-    - bg.png
+-    - bn.png
+-    - unlucky number.ogg
+-    - unlucky number.ssc
+-    - unlucky number.ssc.old
+-    - unlucky number.ssc.oldsync
+-  - **[T04] Cha Cha Cha (SX)**
+-    - chachacha.ogg
+-    - chachacha.ssc
+-    - chachacha.ssc.old
+-    - chachacha.ssc.oldsync
+-    - cha-cha-cha-bn.png
+-  - **[T04] chipotle (SX)**
+-    - chipotle.ogg
+-    - chipotle.sm
+-    - chipotle.ssc
+-    - chipotle.ssc.old
+-    - chipotle.ssc.oldsync
+-    - chipotle-bg.png
+-    - chipotle-bn.png
+-    - chipotle-jacket.png
+-    - CopperPuppy-cdtitle.png
+-  - **[T04] edamame (SH)**
+-    - bbno$ & Rich Brian - edamame.ogg
+-    - bbno$ & Rich Brian - edamame.sm
+-    - bbno$ & Rich Brian - edamame.ssc
+-    - bbno$ & Rich Brian - edamame.ssc.old
+-    - bbno$ & Rich Brian - edamame.ssc.oldsync
+-    - edamame-bg.png
+-    - edamame-bg-wide.png
+-    - edamame-bn.png
+-    - edamame-jacket.png
+-    - FeraligatrV5-cd.png
+-  - **[T04] Gemini in Clockland (No CMOD) (SH)**
+-    - **lua**
+-      - default.lua
+-      - easing.lua
+-      - modhelpers.lua
+-      - mods.lua
+-      - TopscreenActorList.txt
+-    - bg.png
+-    - bn.png
+-    - Gemini in Clockland.ogg
+-    - Gemini in Clockland.ssc
+-    - Gemini in Clockland.ssc.old
+-    - Gemini in Clockland.ssc.oldsync
+-    - IN CASE OF WHITE SCREEN.txt
+-  - **[T04] Groove District (SH)**
+-    - groovedistrict.ogg
+-    - groovedistrict.ssc
+-    - groovedistrict.ssc.old
+-    - groovedistrict.ssc.oldsync
+-    - groovedistrict-bg.png
+-    - groovedistrict-bn.png
+-    - groovedistrict-jk.png
+-  - **[T04] Lover Online (SX)**
+-    - banner.png
+-    - chart.ssc
+-    - chart.ssc.old
+-    - chart.ssc.oldsync
+-    - song.ogg
+-  - **[T04] ON FIRE (No CMOD) (SH)**
+-    - ON FIRE.ogg
+-    - ON FIRE.ssc
+-    - ON FIRE.ssc.old
+-    - ON FIRE.ssc.oldsync
+-    - onfire-bg.png
+-    - onfire-bg-wide.png
+-    - onfire-bn.png
+-    - onfire-jacket.png
+-  - **[T04] Uchu Yuuei (SH)**
+-    - uchu yuuei.ogg
+-    - uchu yuuei.ssc
+-    - uchu yuuei.ssc.old
+-    - uchu yuuei.ssc.oldsync
+-    - uchuu-bg.png
+-    - uchuu-bn.png
+-  - **[T04] Virus Funk (SX)**
+-    - bn.png
+-    - virus funk.ogg
+-    - virus funk.ssc
+-    - virus funk.ssc.old
+-    - virus funk.ssc.oldsync
+-  - **[T05] Agitate (SX)**
+-    - Agitate.ogg
+-    - Agitate.ssc
+-    - Agitate.ssc.old
+-    - Agitate.ssc.oldsync
+-    - banner.png
+-    - bg.png
+-    - jacket.png
+-  - **[T05] Chromatically (SX)**
+-    - bg.png
+-    - bn.png
+-    - Chromatically.ogg
+-    - Chromatically.ssc
+-    - Chromatically.ssc.old
+-    - Chromatically.ssc.oldsync
+-    - jk.png
+-  - **[T05] Crystallized Silver (SX)**
+-    - bg.png
+-    - bn.png
+-    - Crystallized Silver.sm
+-    - Crystallized Silver.sm.oldsync
+-    - S.S.H. - Crystallized Silver.ogg
+-  - **[T05] Multitalents (SM)**
+-    - Multitalents.ogg
+-    - Multitalents.ssc
+-    - Multitalents.ssc.oldsync
+-    - Multitalents-bg.png
+-    - Multitalents-bn.png
+-  - **[T05] No Sass (SX)**
+-    - nosass.ogg
+-    - nosass.sm
+-    - nosass.sm.oldsync
+-    - nosass-bg.png
+-    - nosass-bn.png
+-    - source.txt
+-  - **[T05] Overjoy OVERDOSE (SX)**
+-    - cdtitle-sorae.png
+-    - coretech-bn.png
+-    - overjoy overdose.ogg
+-    - overjoy overdose.ssc
+-    - overjoy overdose.ssc.old
+-    - overjoy overdose.ssc.oldsync
+-  - **[T05] Override (SH)**
+-    - override.ogg
+-    - override.png
+-    - override.ssc
+-    - override.ssc.old
+-    - override.ssc.oldsync
+-  - **[T05] Tell Me (SX)**
+-    - tell me.ogg
+-    - Tell Me.ssc
+-    - Tell Me.ssc.oldsync
+-    - tellme-bg.png
+-    - tellme-bn.png
+-  - **[T05] Wicked Fate (SX)**
+-    - Wicked Fate.ogg
+-    - Wicked Fate.ssc
+-    - Wicked Fate.ssc.oldsync
+-    - wickedfate-bg.jpg
+-    - wickedfate-bn.png
+-  - **[T06] All I Need VIP (SX)**
+-    - All I Need VIP.ogg
+-    - All I Need VIP.ssc
+-    - All I Need VIP.ssc.old
+-    - All I Need VIP.ssc.oldsync
+-    - All I Need VIP-bn.png
+-  - **[T06] Boomshakalaka (SX)**
+-    - boomshakalaka.ogg
+-    - Boomshakalaka.ssc
+-    - Boomshakalaka.ssc.old
+-    - Boomshakalaka.ssc.oldsync
+-    - Boomshakalakka-bg.png
+-    - Boomshakalakka-bn.png
+-  - **[T06] CoMAAAAAAA (SX)**
+-    - CoMAAAAAAA.ogg
+-    - CoMAAAAAAA.ssc
+-    - CoMAAAAAAA.ssc.oldsync
+-    - CoMAAAAAAA-bn.png
+-    - CoMAAAAAAA-bq-fs.png
+-    - CoMAAAAAAA-bq-ws.png
+-    - CoMAAAAAAA-jk.png
+-  - **[T06] Dirty Vibe (SX)**
+-    - dirtyvibe.ogg
+-    - dirtyvibe.ssc
+-    - dirtyvibe.ssc.old
+-    - dirtyvibe.ssc.oldsync
+-    - dirtyvibe-bg.png
+-    - dirtyvibe-bn.png
+-  - **[T06] Don't Go (SX)**
+-    - Don't Go.ogg
+-    - Don't Go.ssc
+-    - Don't Go.ssc.old
+-    - Don't Go.ssc.oldsync
+-    - dont_go_bg.png
+-    - dont_go_bn.png
+-    - dont_go_jacket.png
+-  - **[T06] GIGA OMEGA VIP (SX)**
+-    - giga omega.ogg
+-    - giga omega.ssc
+-    - giga omega.ssc.old
+-    - gigaomega-bg.png
+-    - gigaomega-bn.png
+-  - **[T06] Like This (SX)**
+-    - bg.png
+-    - bn.png
+-    - cdtitle.png
+-    - likethis.ogg
+-    - likethis.sm
+-    - likethis.sm.oldsync
+-  - **[T06] Quixotic (SX)**
+-    - cd-title-Benpai.png
+-    - Quixotic.ogg
+-    - Quixotic.sm
+-    - Quixotic.ssc
+-    - Quixotic.ssc.old
+-    - Quixotic.ssc.oldsync
+-    - Quixotic-bg.png
+-    - Quixotic-bg-wide.png
+-    - Quixotic-bn.png
+-    - Quixotic-jacket.png
+-  - **[T06] Voxel (SX)**
+-    - CopperPuppy-cdtitle.png
+-    - Voxel.ogg
+-    - Voxel.ssc
+-    - Voxel.ssc.old
+-    - Voxel.ssc.oldsync
+-    - voxel-bg.png
+-    - voxel-bn.png
+-    - voxel-jacket.png
+-  - **[T07] Ascent (SX)**
+-    - Ascent.ogg
+-    - Ascent.ssc
+-    - Ascent.ssc.old
+-    - Ascent.ssc.oldsync
+-    - bg.png
+-    - bn.png
+-  - **[T07] Color of Science (SX)**
+-    - Color of Science.ogg
+-    - Color of Science.ssc
+-    - Color of Science.ssc.old
+-    - Color of Science.ssc.oldsync
+-    - color_of_science_bg.png
+-    - color_of_science_bn.png
+-  - **[T07] Elemental Ethnic (SX)**
+-    - BGElementalEthnic.png
+-    - BNElementalEthnic.png
+-    - Yooh - Elemental Ethnic.ogg
+-    - Yooh - Elemental Ethnic.ssc
+-    - Yooh - Elemental Ethnic.ssc.old
+-    - Yooh - Elemental Ethnic.ssc.oldsync
+-  - **[T07] Gorgetech (No CMOD) (SX)**
+-    - bn.png
+-    - gorgetech.ogg
+-    - gorgetech.ssc
+-    - gorgetech.ssc.old
+-    - gorgetech.ssc.oldsync
+-  - **[T07] MEXICAN RIDDIM (SH)**
+-    - audio.ogg
+-    - bg.png
+-    - bn.png
+-    - cdtitle.png
+-    - steps.ssc
+-    - steps.ssc.old
+-    - steps.ssc.oldsync
+-  - **[T07] Punch Box (SX)**
+-    - Punch Box.ogg
+-    - Punch Box.ssc
+-    - Punch Box.ssc.old
+-    - Punch Box.ssc.oldsync
+-    - punch_box_jacket.png
+-    - punch_box-bg.png
+-    - punch_box-bn.png
+-  - **[T07] Sector (SX)**
+-    - bg.png
+-    - bn.png
+-    - cdtitle_ZAiA_2023.png
+-    - RYOQUCHA - Sector.ogg
+-    - Sector.ssc
+-    - Sector.ssc.old
+-    - Sector.ssc.oldsync
+-  - **[T07] Sky Seeker (SX)**
+-    - bg.png
+-    - bn.png
+-    - sky seeker.ogg
+-    - sky seeker.ssc
+-    - sky seeker.ssc.oldsync
+-  - **[T07] Swampgator (SX)**
+-    - swampgator.ogg
+-    - swampgator.ssc
+-    - swampgator.ssc.old
+-    - swampgator.ssc.oldsync
+-    - swampgator-bg.png
+-    - swampgator-bn.png
+-  - **[T08] $1.78 (SX)**
+-    - $1.78.ogg
+-    - $1.78.ssc
+-    - $1.78.ssc.old
+-    - $1.78.ssc.oldsync
+-    - 178-bg.png
+-    - 178-bn.png
+-    - 178-jacket.png
+-    - CopperPuppy-cdtitle.png
+-  - **[T08] GETAWAY (SX)**
+-    - bg.png
+-    - bn.png
+-    - GETAWAY.ogg
+-    - GETAWAY.ssc
+-    - GETAWAY.ssc.old
+-    - GETAWAY.ssc.oldsync
+-    - jk.png
+-  - **[T08] Gravedigger Saint Punk Remix [SX]**
+-    - Gravedigger - BN.png
+-    - Gravedigger (Saint Punk Remix).ogg
+-    - Gravedigger (Saint Punk Remix).ssc
+-    - Gravedigger (Saint Punk Remix).ssc.oldsync
+-    - Gravedigger-BG.png
+-  - **[T08] Headspace (SX)**
+-    - bg.png
+-    - bn.png
+-    - Headspace.ogg
+-    - Headspace.ssc
+-    - Headspace.ssc.old
+-    - Headspace.ssc.oldsync
+-  - **[T08] PUSH UR T3MPRR (Edit)**
+-    - push ur t3mprr.ogg
+-    - push ur t3mprr.ssc
+-    - push ur t3mprr.ssc.old
+-    - push ur t3mprr.ssc.oldsync
+-    - push-bg.png
+-    - push-bn.png
+-  - **[T08] Shakkiiin!! (SX)**
+-    - Shakkiiin!!.ogg
+-    - Shakkiiin!!.ssc
+-    - Shakkiiin!!.ssc.old
+-    - Shakkiiin!!.ssc.oldsync
+-    - Shakkiiin-bg.png
+-    - Shakkiiin-bn.png
+-  - **[T08] The Virus (SX)**
+-    - bg.png
+-    - bn.png
+-    - jk.png
+-    - The Virus.ogg
+-    - The Virus.ssc
+-    - The Virus.ssc.old
+-    - The Virus.ssc.oldsync
+-  - **[T08] Tricolor circuS (SX)**
+-    - tricolor circus.ogg
+-    - tricolor circus.ssc
+-    - tricolor circus.ssc.old
+-    - tricolor circus.ssc.oldsync
+-    - tricolor-01.png
+-    - tricolor-02.png
+-  - **[T08] Whiteout (No CMOD) (SX)**
+-    - bg.png
+-    - bg-wide.png
+-    - bn.png
+-    - music.ogg
+-    - steps.ssc
+-    - steps.ssc.old
+-    - steps.ssc.oldsync
+-  - **[T09] Astray (SX)**
+-    - Astray.ogg
+-    - Astray.ssc
+-    - Astray.ssc.old
+-    - Astray.ssc.oldsync
+-    - AstrayBG.png
+-    - AstrayBN.png
+-    - CMMF-CD.png
+-  - **[T09] Disorder (SX)**
+-    - Disorder - Bellorum.ogg
+-    - Disorder - Bellorum.ssc
+-    - Disorder - Bellorum.ssc.old
+-    - Disorder - Bellorum.ssc.oldsync
+-    - Disorder - BN.png
+-  - **[T09] Duplication (SX)**
+-    - bg.png
+-    - bn.png
+-    - duplication.ogg
+-    - duplication.ssc
+-    - duplication.ssc.old
+-    - duplication.ssc.oldsync
+-  - **[T09] Elbow Grease (SX)**
+-    - Elbow Grease-audio.ogg
+-    - Elbow Grease-banner.mp4
+-    - Elbow Grease-chart.ssc
+-    - Elbow Grease-chart.ssc.old
+-    - Elbow Grease-chart.ssc.oldsync
+-  - **[T09] Flechette (SX)**
+-    - Flechette.ogg
+-    - Flechette.ssc
+-    - Flechette.ssc.old
+-    - Flechette.ssc.oldsync
+-    - Flechette-bn.png
+-  - **[T09] Rumble (telemist bootleg) (SX)**
+-    - rumble.ogg
+-    - rumble.ssc
+-    - rumble.ssc.oldsync
+-    - tpe2 bn 4.png
+-  - **[T09] Timelock (SX)**
+-    - bg.png
+-    - bn.png
+-    - Timelock.ogg
+-    - Timelock.ssc
+-    - Timelock.ssc.old
+-    - Timelock.ssc.oldsync
+-  - **[T09] Voice 2 Voice n Voice (SX)**
+-    - v2v-bg.png
+-    - v2v-bn.png
+-    - voice 2 voice n voice.ogg
+-    - voice 2 voice n voice.ssc
+-    - voice 2 voice n voice.ssc.old
+-    - voice 2 voice n voice.ssc.oldsync
+-  - **[T09] We Could Get More Machinegun (SX)**
+-    - We Could Get More Machinegun.ogg
+-    - We_Could_Get_More_Machinegun.ssc
+-    - We_Could_Get_More_Machinegun.ssc.old
+-    - We_Could_Get_More_Machinegun.ssc.oldsync
+-    - we_could_get_more_machineguns_jacket.png
+-    - we_could_get_more_machineguns-bg.png
+-    - we_could_get_more_machineguns-bn.png
+-  - **[T10] 100 Bills (SX)**
+-    - $100 Bills (Camellia's '215$-Step' Remix) [From Beat Saber Anniversary Remix].ogg
+-    - $100 Bills (Camellia's '215$-Step' Remix) [From Beat Saber Anniversary Remix].ssc
+-    - $100 Bills (Camellia's '215$-Step' Remix) [From Beat Saber Anniversary Remix].ssc.old
+-    - $100 Bills (Camellia's '215$-Step' Remix) [From Beat Saber Anniversary Remix].ssc.oldsync
+-    - 100_Bills_Camellias_215-Step_Remix-BG.png
+-    - 100_Bills_Camellias_215-Step_Remix-BN.png
+-  - **[T10] ass out (SX)**
+-    - assout.ogg
+-    - assout.ssc
+-    - assout.ssc.oldsync
+-    - assout-bg.png
+-    - assout-bn.png
+-    - assout-jkt.png
+-  - **[T10] bipolar (SX)**
+-    - bg.png
+-    - bn.png
+-    - music.ogg
+-    - steps.ssc
+-    - steps.ssc.old
+-    - steps.ssc.oldsync
+-  - **[T10] Clinozoisite (SX)**
+-    - maractus-pack2_bn.png
+-    - song.ogg
+-    - song.ssc
+-    - song.ssc.oldsync
+-  - **[T10] deadeye (SX)**
+-    - deadeye.ogg
+-    - deadeye.ssc
+-    - deadeye.ssc.old
+-    - deadeye.ssc.oldsync
+-    - deadeye-bg.png
+-    - deadeye-bn.png
+-  - **[T10] Feral (No CMOD) [SX]**
+-    - Feral.ogg
+-    - Feral.ssc
+-    - Feral.ssc.old
+-    - Feral.ssc.oldsync
+-    - feral_jacket.png
+-    - feral-bg.png
+-    - feral-bn.png
+-  - **[T10] Godslain (SX)**
+-    - bg_Godslain.png
+-    - bn_Godslain.png
+-    - cdtitle_ZAiA_2023.png
+-    - Godslain.ssc
+-    - Godslain.ssc.old
+-    - Godslain.ssc.oldsync
+-    - Godslain-jacket.png
+-    - Juggernaut. - Godslain.ogg
+-  - **[T10] Laserbeam (SX)**
+-    - laserbeam.ogg
+-    - laserbeam.ssc
+-    - laserbeam.ssc.old
+-    - laserbeam.ssc.oldsync
+-    - laserbeam-bg.png
+-    - laserbeam-bn.png
+-  - **[T10] Myths You Forgot (SX)**
+-    - **lua**
+-      - _script.lua
+-      - default.lua
+-      - easing.lua
+-      - modhelpers.lua
+-      - mods.lua
+-    - bz-cd.png
+-    - Myths You Forgot.ogg
+-    - Myths You Forgot.ssc
+-    - Myths You Forgot.ssc.old
+-    - Myths You Forgot.ssc.oldsync
+-    - Myths You Forgot-bg.png
+-    - Myths You Forgot-bn.png
+-    - Myths You Forgot-jacket.png
+-  - bhopball4itg2.png
+-  - Pack.ini
++- **C0m37's Originals**
++  - **Ba Kkwo**
++    - bakkwo.ogg
++    - bakkwo.sm
++    - Thumbs.db
++  - **Bliss**
++    - Bliss.sm
++    - Still Remains - Bliss.ogg
++  - **Born To Lead**
++    - 02 Hoobastank - Born to Lead.ogg
++    - born to lead.sm
++  - **Boten Anna**
++    - basshunter - boten anna (skillstopaythebills remix).ogg
++    - Boten Anna -Skillstopaythebills remix-.sm
++  - **Candy Pop**
++    - CANDY POP.ogg
++    - Candy Pop.sm
++  - **Candyman**
++    - Candyman -Speedy Mix-.ogg
++    - Candyman -Speedy Mix-.sm
++  - **Come**
++    - Come.ogg
++    - Come.sm
++  - **Come Into My Dream**
++    - Come Into .ogg
++    - Come Into My Dream.sm
++  - **Concept of Love**
++    - Concept Of Love.ogg
++    - Concept of Love.sm
++  - **Death Moon**
++    - Death Moon.ogg
++    - Death Moon.sm
++  - **Ding Ding Dong Song**
++    - Ding Ding Dong Song.sm
++    - Ding-Dong-Song-banner.jpg
++    - Ding-Dong-Song-bg.jpg
++    - Gunter - Ding Dong Song .ogg
++  - **Don't Lie**
++    - 04 Don't Lie.ogg
++    - Don't Lie.sm
++  - **Dota**
++    - Basshunter - Dota.ogg
++    - Dota.sm
++  - **DXY**
++    - dxy.ogg
++    - DXY.sm
++  - **Eh, Eh**
++    - Eh, Eh (Nothing Else I Can Say) (Random Soul Remix).ogg
++    - Eh, Eh (Nothing Else I Can Say) (Random Soul Remix).sm
++  - **Forever Young**
++    - Forever Young.sm
++    - Symbol - Forever Young.ogg
++  - **Go Go Naruto!**
++    - 13 - Toshiro Masuda - Go Go Naruto!.ogg
++    - Go Go Naruto!.sm
++  - **GO!**
++    - GO! (Mahalo Mix).ogg
++    - GO! (Mahalo Mix).sm
++  - **Grand Prix**
++    - Grand Prix.sm
++    - Initial d - Grand Prix.ogg
++  - **Green Light**
++    - Beyonce - Greenlight (Freemasons Remix).ogg
++    - Green Light (Freemasons Mix).sm
++  - **Harmony and Lovely**
++    - 35. Harmony and Lovely.ogg
++    - Harmony and Lovely.sm
++  - **Human**
++    - Human.sm
++    - The Killers - Human.ogg
++  - **I Can't Stand It**
++    - Cascada- I Can't Stand It.ogg
++    - I Can't Stand It.sm
++  - **Ichi Nichi**
++    - Ichi Nichi (Big Kiss vs. Raversonic Remix Edit).sm
++    - Misa - Misa Code - 18 - 1 Nichi (Big Kiss vs. Raversonic Remix Edit).ogg
++  - **Ike Ike**
++    - Ichigo 100% - Hinoi Team - IKE IKE (Extended Version) - 156 bpm.ogg
++    - Ike Ike.sm
++  - **I'm In Heaven When You Kiss Me**
++    - I'm in Heaven when you kiss me.ogg
++    - I'm in Heaven when you kiss me.sm
++  - **Jingle Bell Bass**
++    - Bass hunter - Jingle Bell Bass.ogg
++    - Jingle Bell Bass.sm
++  - **June**
++    - june.ogg
++    - June.sm
++  - **Just A Girl**
++    - Ian Van Dahl - Just A Girl.ogg
++    - Just A Girl.sm
++  - **Kachoufusetsu**
++    - kachoufusetsu.ogg
++    - Kachoufusetsu.sm
++  - **Kiko**
++    - Kiko.ogg
++    - Kiko.sm
++  - **Kill the Rock**
++    - Kill the Rock.sm
++    - Mindless Self indulgence (MSI) - Kill The Rock.ogg
++  - **Let Mom Sleep**
++    - 01 Let Mom Sleep.ogg
++    - Let Mom Sleep.sm
++  - **LOVE Tropicana**
++    - Jungle wa Itsumo Hare Nochi Guu  OP - LOVE Tropicana.ogg
++    - LOVE Tropicana.sm
++  - **More Than Words Can Say**
++    - More Than .ogg
++    - More Than Words Can Say.sm
++    - More Than Words Can Say-banner.jpg
++    - More Than Words Can Say-bg.jpg
++  - **Must Be Dreaming**
++    - Must Be Dr.ogg
++    - Must Be Dreaming.sm
++  - **MY**
++    - MY.sm
++    - Youko Aramaki - MY.ogg
++  - **Night Of Fire**
++    - Initial D - Night Of Fire.ogg
++    - Night Of Fire.sm
++  - **Night Of Fire (Hinoi)**
++    - HINOI TEAM - Night of Fire - 153.03 bpm.ogg
++    - Night of Fire.sm
++  - **Nijiiro**
++    - DDR SuperNOVA - DJ YOSHITAKA feat. G.S.C. - Nijiiro (Popn Music 13 Carnival).ogg
++    - Nijiiro.sm
++  - **Nobody's Perfect**
++    - Hannah Montana - Nobodys Perfect.ogg
++    - Nobody's Perfect.sm
++  - **One & Only**
++    - One & Only.sm
++    - Timbaland - Presents Shock Value - 15 - One And Only ft Fallout Boy.ogg
++  - **One Thousand Cranes**
++    - One Thousand Cranes.ogg
++    - One Thousand Cranes.sm
++  - **Puppet Master**
++    - 06 - Puppet Master.ogg
++    - Puppet Master.sm
++  - **rainbow rainbow**
++    - 1.34.rainbow rainbow.ogg
++    - Rainbow Rainbow.sm
++  - **Raspberry Heart**
++    - 08 Raspberry Heart.ogg
++    - Raspberry Heart.sm
++  - **Rice & Curry**
++    - Rice & Curry.sm
++    - ricecurry.ogg
++  - **Running In The 90's**
++    - Initial D-Running In The 90's.ogg
++    - Running in the 90's.sm
++  - **Safety Dance**
++    - 80s - Men Without Hats - Safety Dance.ogg
++    - Safety Dance.sm
++  - **Sinister Rouge**
++    - Bad Religion - Sinister Rouge.ogg
++    - Sinister Rouge.sm
++  - **So Fabulous!!**
++    - [Benami][Beatmania IIDX 13th Style DistorteD] 05 - So Fabulous!!.ogg
++    - So Fabulous!!.sm
++  - **Soul Crash**
++    - SOUL CRASH.ogg
++    - Soul Crash.sm
++  - **Still Waiting**
++    - Still waiting.sm
++    - StillWaiting-banner.jpg
++    - StillWaiting-bg.jpg
++    - Sum_41_04_Still_Waiting.ogg
++  - **Strand Tylosand**
++    - 12 Basshunter - Strand Tylosand.ogg
++    - Strand Tylosand.sm
++  - **Streamline**
++    - Newton - Streamline.ogg
++    - Streamline.sm
++  - **Strong And Strike**
++    - 18 - Toshiro Masuda - Strong And Strike.ogg
++    - Strong And Strike.sm
++  - **Sunny Sunny Fun**
++    - Sunny Sunny Fun.ogg
++    - Sunny Sunny Fun.sm
++  - **Sverige**
++    - 04 Basshunter - Sverige.ogg
++    - Sverige.sm
++  - **Teknopathetic**
++    - 05 TEKNOPATHETIC.ogg
++    - Teknopathetic.sm
++    - Teknopathetic-banner.jpg
++    - Teknopathetic-bg.jpg
++  - **Temple Of Love**
++    - E-Rotic - Temple Of Love.ogg
++    - Temple Of Love.sm
++  - **Tetris**
++    - BassHunter - Tetris.ogg
++    - Tetris.sm
++  - **The Air That I Breathe**
++    - All That Remains - The Air That I breathe.ogg
++    - The Air that I breathe.sm
++    - TheAirThatIBreathe-banner.jpg
++    - TheAirThatIBreathe-bg.jpg
++  - **The Take Over, The Break's Over**
++    - Fall Out Boy - The Take Over, The Break's Over.ogg
++    - The Take Over, The Break's Over.sm
++    - TheTakeOverTheBreaksOver-banner.jpg
++    - TheTakeOverTheBreaksOver-bg.jpg
++  - **The Wizard of Oz**
++    - oz.jpg
++    - oz.sm
++    - oz-bg.jpg
++    - Thumbs.db
++    - Wizard of Oz.ogg
++  - **This Calling**
++    - All that remains - this calling.ogg
++    - This Calling.sm
++  - **Thnks fr th Mmrs**
++    - Thnks fr th Mmrs.ogg
++    - Thnks fr th Mmrs.sm
++    - Thnks fr th Mmrs-banner.jpg
++    - Thnks fr th Mmrs-bg.jpg
++  - **Truly Madly Deeply**
++    - Cascada- Truly Madly Deeply.ogg
++    - Truly Madly Deeply.sm
++  - **Tsugaru**
++    - 02 Tsugaru (OR-IF-IS Mix).ogg
++    - Tsugaru (OR-IF-IS Mix).sm
++  - **We're Going To Birdie**
++    - We're going to Birdie.ogg
++    - We're Going To Birdie.sm
++  - **Wham Bam Boogie**
++    - Wham Bam Boogie.ogg
++    - Wham Bam Boogie.sm
++  - **What Do They Know**
++    - Mindless Self Indulgence - What Do They Know.ogg
++    - What Do They Know.sm
++  - **World of Dreams**
++    - World of Dreams.ogg
++    - World of Dreams.sm
+ - **Cosmic Evolution**
+   - **Black Mamba**
+     - 05 The Academy Is... - Black Mamba.ogg
+@@ -29039,6 +27080,200 @@ Generated from InstallPath on 2026-03-10 03:00. Filenames only; contents not bac
+     - witchcraftbn.png
+   - pendulumact3stats.xls
+   - xgroupbn.png
++- **PSYCH UP!**
++  - **AAA (Renaissance)**
++    - AAA (Renaissance).sm
++    - AAA (Renaissance).ssc
++    - AAA (Renaissance)-bg.png
++    - AAA (Renaissance)-bn.png
++    - AAA.ogg
++  - **actualization of self (weaponized)**
++    - actualization of self (weaponized).ogg
++    - actualization of self (weaponized).png
++    - actualization of self (weaponized).sm
++    - actualization of self (weaponized).ssc
++    - actualization of self (weaponized)-bg.png
++    - actualization of self (weaponized)-jacket.png
++  - **Airport Shivers**
++    - Airport Shivers (Armin van Buuren Mashup) - Photographer vs. Armin van Buuren.ogg
++    - Airport Shivers.ssc
++    - Airport Shivers.ssc.oldsync
++    - Airport Shivers-bg.png
++    - Airport Shivers-bn.png
++  - **All Hail Shadow**
++    - All Hail Shadow.ogg
++    - All Hail Shadow.sm
++    - All Hail Shadow.ssc
++    - All Hail Shadow-bg.png
++    - All Hail Shadow-bn.png
++  - **Another Planet**
++    - Another Planet.ogg
++    - Another Planet.sm
++    - Another Planet.ssc
++    - Another Planet.ssc.oldsync
++    - Another Planet-bg.png
++    - Another Planet-bn.png
++  - **Atlantis**
++    - Atlantis.ogg
++    - Atlantis.sm
++    - Atlantis.ssc
++    - Atlantis.ssc.oldsync
++    - Atlantis-bg.png
++    - Atlantis-bn.png
++  - **Big Boss**
++    - Big Boss.ogg
++    - Big Boss.sm
++    - Big Boss.ssc
++    - Big Boss.ssc.oldsync
++    - Big Boss-bg.png
++    - Big Boss-bn.png
++  - **Blame The Moon (Gammer's Cheesy Muffin Remix)**
++    - Blame The Moon (Gammer's Cheesy Muffin Remix).ogg
++    - Blame The Moon (Gammer's Cheesy Muffin Remix).sm
++    - Blame The Moon (Gammer's Cheesy Muffin Remix).ssc
++    - Blame The Moon-bg.png
++    - Blame The Moon-bn.png
++  - **Blaze It**
++    - Blaze It - TGH.ogg
++    - Blaze It.sm
++    - Blaze It.ssc
++    - Blaze It-bg.png
++    - Blaze It-bn.png
++  - **Blinding Lights**
++    - Blinding Lights.ogg
++    - Blinding Lights.sm
++    - Blinding Lights.ssc
++    - Blinding Lights-bg.png
++    - Blinding Lights-bn.png
++  - **Bye Bye**
++    - Bye Bye bg.png
++    - Bye Bye bn.png
++    - Bye Bye.ogg
++    - Bye Bye.ssc
++    - Bye Bye.ssc.oldsync
++    - lolsmile.png
++  - **Carte Blanche (Ferry Corsten & Vincent De Moor Remix)**
++    - Carte Blanche (Ferry Corsten & Vincent De Moor Remix) - Veracocha [144 BPM].ogg
++    - Carte Blanche (Ferry Corsten & Vincent De Moor Remix).ssc
++    - Carte Blanche (Ferry Corsten & Vincent De Moor Remix).ssc.oldsync
++    - Carte Blanche (Ferry Corsten & Vincent De Moor Remix)-bg.png
++    - Carte Blanche (Ferry Corsten & Vincent De Moor Remix)-bn.png
++  - **Crusade**
++    - Crusade (Club Edit) - Gabry Ponte.ogg
++    - Crusade.sm
++    - Crusade.ssc
++    - Crusade-bg.png
++    - Crusade-bg2.png
++    - Crusade-bn.png
++  - **Dan (Old Skool Mix)**
++    - Dan (Old Skool Mix).ogg
++    - Dan (Old Skool Mix).sm
++    - Dan (Old Skool Mix).ssc
++    - Dan (Old Skool Mix)-bg.jpg
++    - Dan (Old Skool Mix)-bn.png
++  - **Death Ecstasy**
++    - Death Ecstasy - ZeRo-BaSs [157 BPM].ogg
++    - Death Ecstasy.sm
++    - Death Ecstasy.ssc
++    - Death Ecstasy-bg.png
++    - Death Ecstasy-bn.png
++  - **Destination (Above & Beyond Remix)**
++    - Destination (Above & Beyond Remix).ogg
++    - Destination (Above & Beyond Remix).sm
++    - Destination (Above & Beyond Remix).ssc
++    - Destination (Above & Beyond Remix).ssc.oldsync
++    - Destination (Above & Beyond Remix)-bg.png
++    - Destination (Above & Beyond Remix)-bn.png
++  - **EternuS (King for Another Day Remix)**
++    - EternuS (King for Another Day Remix).ogg
++    - EternuS (King for Another Day Remix).sm
++    - EternuS (King for Another Day Remix).ssc
++    - EternuS (King for Another Day Remix)-bg.png
++    - EternuS (King for Another Day Remix)-bn.png
++  - **Flaming June**
++    - Flaming June.ogg
++    - Flaming June.sm
++    - Flaming June.ssc
++    - Flaming June.ssc.oldsync
++    - Flaming June-bg.png
++    - Flaming June-bn.png
++  - **Follow You (Mike Shiver's Catching Sun Remix)**
++    - Follow You (Mike Shiver's Catching Sun Remix).ogg
++    - Follow You (Mike Shiver's Catching Sun Remix).sm
++    - Follow You (Mike Shiver's Catching Sun Remix).ssc
++    - Follow You (Mike Shiver's Catching Sun Remix)-bg.png
++    - Follow You (Mike Shiver's Catching Sun Remix)-bn.png
++  - **GO! (Mahalo Mix)**
++    - GO! (Mahalo Mix).ogg
++    - GO! (Mahalo Mix).png
++    - GO! (Mahalo Mix).sm
++    - GO! (Mahalo Mix).ssc
++    - GO! (Mahalo Mix).ssc.oldsync
++    - GO! (Mahalo Mix)-bg.png
++    - GO! (Mahalo Mix)-jacket.png
++  - **Granite**
++    - Granite.ogg
++    - Granite.ssc
++    - Granite.ssc.oldsync
++    - Granite-bg.png
++    - Granite-bn.png
++  - **How Many Sukkas**
++    - sukkas.ogg
++    - sukkas.png
++    - sukkas.sm
++    - sukkas.ssc
++    - sukkas.ssc.oldsync
++    - sukkas-bg.png
++  - **Less Than Three**
++    - Less Than Three.ogg
++    - Less Than Three.png
++    - Less Than Three.sm
++    - Less Than Three.ssc
++    - Less Than Three-bg.png
++  - **Love Is Eternity**
++    - Love Is Eternity.ogg
++    - Love Is Eternity.ssc
++    - Love Is Eternity.ssc.oldsync
++  - **Love You More**
++    - Love You More - Armin Van Buuren featuring Racoon [138 BPM].ogg
++    - Love You More.sm
++    - Love You More.ssc
++    - Love You More.ssc.oldsync
++    - Love You More-bg.png
++    - Love You More-bn.png
++  - **Meant 2 Be**
++    - Meant 2 Be - THIRST & nuphory.ogg
++    - Meant 2 Be.sm
++    - Meant 2 Be.ssc
++    - Meant 2 Be-bg.png
++    - Meant 2 Be-bn.png
++  - **Never Gone (Above & Beyond Respray)**
++    - Never Gone (Above & Beyond Respray).ogg
++    - Never Gone (Above & Beyond Respray).sm
++    - Never Gone (Above & Beyond Respray).ssc
++    - Never Gone (Above & Beyond Respray).ssc.oldsync
++    - Never Gone-bg.png
++    - Never Gone-bn.png
++  - **Pilgrim 2000**
++    - Pilgrim 2000 - Bass-X VS Scott Brown [172 BPM].ogg
++    - Pilgrim 2000.sm
++    - Pilgrim 2000.ssc
++    - Pilgrim 2000-bg.png
++    - Pilgrim 2000-bn.png
++  - **Plasticworld**
++    - Plasticworld.ogg
++    - Plasticworld.sm
++    - Plasticworld.ssc
++    - Plasticworld-bg.png
++    - Plasticworld-bn.png
++  - **Polovtsian Dances And Chorus**
++    - Polovtsian Dances And Chorus.avi
++    - Polovtsian Dances And Chorus.ogg
++    - Polovtsian Dances And Chorus.png
++    - Polovtsian Dances And Chorus-bg.png
++    - Polovtsian Dances And Chorus-jacket.png
++  - Pack Banner.png
++  - pack.ini
+ - **Secret Stepfile Santa 2025**
+   - **[Subway] Breaking The Habit**
+     - **THE BOOK OF SUBWAY 2 (READ ME OR DIE)**
+@@ -30934,6 +29169,850 @@ Generated from InstallPath on 2026-03-10 03:00. Filenames only; contents not bac
+   - banner.png
+   - Tech-Bit Adventures 5 - 9ms.zip
+   - Tech-Bit Adventures 5 - NULL.zip
++- **The Classics Pack Vol 1**
++  - **2 Gether 4 Ever - [TheCosmicPope]**
++    - 08 - 2 Gether 4 Ever (Clubraiders Edit).ogg
++    - 2 Gether 4 Ever (Clubraiders Edit).ssc
++    - Bg-2gether.png
++    - Bn-2gether.png
++  - **A - [BeMaNiRuLeR]**
++    - a.ogg
++    - a.png
++    - a.ssc
++    - a-bg.png
++    - cdtitle.png
++  - **A.N.I.C - [2kM]**
++    - 2kM Index.png
++    - A.N.I.C.jpg
++    - A.N.I.C.ogg
++    - A.N.I.C.png
++    - A.N.I.ssc
++  - **Ageha - [Hayden]**
++    - !hayden-cdtitle.png
++    - ageha banner.png
++    - Ageha.ogg
++    - ageha.ssc
++    - ageha-bg.png
++  - **Ahh, Das Ist Musik - [pfx13AE]**
++    - ahh das ist musik.ogg
++    - Ahh, Das Ist Musik - banner.jpg
++    - Ahh, Das Ist Musik - bg.jpg
++    - Ahh, Das Ist Musik.ssc
++    - pfx - icon.png
++  - **Air - [Reach]**
++    - !reachTitle.png
++    - Air.ogg
++    - Air.ssc
++    - Air-bg.PNG
++    - Air-bn.PNG
++  - **Animals - [C Jota]**
++    - !cjotatitle.png
++    - Animals.ogg
++    - Animals.ssc
++    - Animals-bg.png
++    - Animals-bn.png
++  - **Another Planet - [Zaghurim]**
++    - Another Planet.ogg
++    - Another Planet.ssc
++    - Another-Planet-bg.png
++    - Another-Planet-bn.png
++    - cdtitle.png
++  - **As the Rush Comes - [-joe-]**
++    - !joe.png
++    - As The Rush Comes.ogg
++    - Astherushcomes.ssc
++    - Astherushcomes-bg.png
++    - Astherushcomes-bn.png
++    - -Read Me-.txt
++  - **Aztec Templing - [exige]**
++    - !ExigeTitle.png
++    - aztec templing.ogg
++    - aztec templing.sm
++    - aztec templing.ssc
++    - aztectempling-bg.png
++    - aztectempling-bn.png
++  - **Beautiful Synergy - [Izzy]**
++    - beautiful synergy.ogg
++    - beautiful synergy.ssc
++    - izzy.png
++    - synergy-bg.png
++    - synergy-bn.png
++  - **Beethoven Virus - [Dan23]**
++    - !dan23title.png
++    - Beethoven Virus.ogg
++    - Beethoven Virus.ssc
++    - beethovenvirus-bg.png
++    - beethovenvirus-bn.png
++  - **Best Friend - [Flash]**
++    - bestfriend-bg.png
++    - bestfriend-bn.png
++    - bff.ssc
++    - Toybox - Bestfriend.ogg
++  - **Better Off Alone - [Cloud]**
++    - Alice Deejay - Better Off Alone.ogg
++    - bg1.png
++    - bn1.png
++    - BOA.sm
++    - BOA.ssc
++  - **Beyond the Earth - [b00mba]**
++    - !boombaTitle.png
++    - Beyond the Earth.ogg
++    - beyond the earth.png
++    - Beyond the Earth.ssc
++    - beyond the earth-bg.png
++  - **Bla Bla Bla - [LEET]**
++    - bg.png
++    - Bla Bla Bla.sm
++    - bn.png
++    - Gigi D'Agostino - Bla Bla Bla.ogg
++  - **Black Dragon - [DukAmok]**
++    - !duktitle.png
++    - Black Dragon.ogg
++    - Black_Dragon.png
++    - Black_Dragon.sm
++    - Black_Dragon.ssc
++    - Black_Dragon-bg.png
++  - **Blade - [Reach]**
++    - !reachTitle.png
++    - blade.ogg
++    - Blade.sm
++    - Blade.ssc
++    - blade-bg.png
++    - blade-bn.png
++  - **Blue Army - [HST]**
++    - !HSTTitle.png
++    - blue army.ogg
++    - bluearmy.png
++    - bluearmy.ssc
++    - bluearmy-bg.png
++    - readme.txt
++  - **Bonecrusher - [Naota]**
++    - bonecrusher.ogg
++    - bonecrusher.ssc
++    - bonecrusher-bn.png
++  - **Boom Boom Fire - [-joe-]**
++    - !joeCDtitle.png
++    - Boom Boom Fire.ogg
++    - BoomBoomFire.ssc
++    - BoomBoomFire-bg.png
++    - BoomBoomFire-bn.png
++  - **Boss Machine - [Dan23]**
++    - !dan23title.png
++    - Boss Machine.ogg
++    - Boss Machine.ssc
++    - Boss Machine-bg.png
++    - Boss Machine-bn.png
++  - **Boss On Parade JH - [TheCosmicPope]**
++    - 07 Cardopusher - Boss On Parade (Japanese Hardcore).ogg
++    - Bg-BossHardcore.png
++    - Bn-BossHardcore.png
++    - Boss On Parade (Japanese Hardcore).ssc
++  - **Boten Anna - [MIDI]**
++    - botenanna.ogg
++    - botenanna.ssc
++    - botenanna-bg.png
++    - botenanna-bn.png
++  - **Bullshit - [DTM]**
++    - BS-Background.jpg
++    - BS-Banner.jpg
++    - Bullshit.ogg
++    - Bullshit.ssc
++    - cdtitle.jpg
++    - Readme.txt
++  - **Candyman - [Tank101]**
++    - !tank101title.png
++    - Candyman -Speedy Mix-.ogg
++    - Candyman.ssc
++    - candyman-bg.png
++    - candyman-bn.png
++  - **Chemical Plant Zone 1 - [SulferDragon]**
++    - Chemical Plant Zone.ogg
++    - Chemical Plant Zone.ssc
++    - Chemical Plant Zone-banner.png
++    - Chemical Plant Zone-bg.png
++    - SulferDragon-cdtitle.png
++  - **Church - [Cloud]**
++    - Bg-Church.png
++    - Bn-Church.png
++    - church.ogg
++    - Church.ssc
++  - **CIA Rave - [T.K.B.M]**
++    - cia_rave.ogg
++    - ciarave.ssc
++    - Essential Sim Collection.png
++  - **Cillit Bang - [Kewing DarkSun]**
++    - !Kewing DarkSun (cdtitle).png
++    - BANG!!-bg.png
++    - Cillit Bang.avi
++    - Cillit Bang.png
++    - Cillit Bang.ssc
++    - Cillit Bang-bg.png
++    - JAKAZid - Hardcore Cleaning Sensation.ogg
++  - **Classical Insanity - [phenomega]**
++    - !phenomegaTitle.png
++    - Classical Insanity.ogg
++    - Classical Insanity.ssc
++    - Classical Insanity-bg.png
++    - Classical Insanity-bn.png
++  - **Cold Breath - [dballin4]**
++    - !db4title3.PNG
++    - Cold Breath.ogg
++    - Cold Breath.ssc
++    - cold breath-bg.png
++    - cold breath-bn.png
++  - **Cold Pizza - [Cynic]**
++    - COLD PIZZA.ogg
++    - coldpizza.ssc
++    - coldpizza-bg.png
++    - coldpizza-bn.png
++    - cynic.png
++  - **Cooking by the Book - [jAAAmes]**
++    - CbtB-Video.mpg
++    - Cooking by the Book.ogg
++    - Cooking by the Book.ssc
++    - Cooking by the Book-banner.jpg
++    - Cooking by the Book-bg.jpg
++  - **Crank That - [C Jota]**
++    - !cjotatitle.png
++    - cjotapadcollection1is5.png
++    - Crank That Soulja Boy.ogg
++    - Crank That Soulja Boy.ssc
++  - **Cross Time - [MacGravel]**
++    - !macgravel-cdtitle.png
++    - Cross Time.ogg
++    - Cross Time.png
++    - Cross Time.ssc
++    - Cross Time-bg.png
++  - **Dancingbox - [r21freak]**
++    - dancingbox.ogg
++    - dancingbox.ssc
++    - dancingbox-banner.png
++    - dancingbox-bg.png
++  - **Delirium - [DukAmok]**
++    - !duktitle.png
++    - Delirium.ogg
++    - Delirium.png
++    - Delirium.ssc
++    - Delirium-bg.png
++  - **Disabled The Flaw - [Reach]**
++    - !reachTitle.png
++    - diasble-bn.png
++    - disable-bg.png
++    - Disabled the Flaw.ogg
++    - disabledtheflaw.ssc
++    - readme.txt
++  - **Disregard - [Tear]**
++    - !tear-cdtitle.png
++    - Disregard.ogg
++    - Disregard.ssc
++    - Disregard-bg.png
++    - Disregard-bn.png
++  - **Dokudenpa - [Skor]**
++    - !skorTitle.png
++    - dokudenpa.ogg
++    - dokudenpa.ssc
++    - dokudenpa-bg.png
++    - dokudenpa-bn.png
++  - **DOODOOCACA - [Bursurk Lurk]**
++    - !bursurk-cdtitle.png
++    - DOODOOCACA.ogg
++    - DOODOOCACA.ssc
++    - doodoocaca-bg.png
++    - doodoocaca-bn.png
++  - **Dr. Doolittle - [Otter]**
++    - !otteroTitle.png
++    - dr doolittle.ogg
++    - Dr.ssc
++    - drdoo-bg.png
++    - drdoolittle.png
++  - **E - [BlueChaos]**
++    - E.ogg
++    - E.ssc
++    - E-bg.png
++    - E-bn.png
++  - **Emerald Sword - [Skor]**
++    - !skorTitle.png
++    - Emerald Sword.ogg
++    - emeraldsword.ssc
++    - emeraldsword-bg.png
++    - emeraldsword-bn.png
++    - readme.txt
++  - **Epidermis - [Hayden]**
++    - !hayden-cdtitle.png
++    - epidermis.ogg
++    - epidermis.ssc
++    - epidermis-bg.png
++    - epidermis-bn.png
++  - **Eruption - [Melonman67]**
++    - eruption.ogg
++    - eruption.ssc
++    - eruption-banner.png
++    - eruption-bg.png
++    - melonman67.png
++  - **EXE - [Eggman]**
++    - !eggmanTitle.png
++    - EXE.ogg
++    - EXE.ssc
++    - exe-bg.PNG
++    - exe-bnr.PNG
++  - **Explosive - [FoOby]**
++    - !foobyTitle.png
++    - explosive.ogg
++    - explosive.png
++    - explosive.ssc
++    - explosive-bg.png
++  - **Fart Challenge - [Skor]**
++    - !skorTitle.png
++    - fart.mpg
++    - fart.ogg
++    - fart.png
++    - fart.ssc
++    - fart-bg.png
++    - readme.txt
++  - **Fer Sure - [Flash]**
++    - Background.png
++    - Banner.png
++    - fer sure.ssc
++    - Music.ogg
++  - **FIRE FIRE - [dimo]**
++    - !dimotitle.png
++    - Background.png
++    - Banner.png
++    - fire fire.ssc
++    - Music.ogg
++  - **Fire! - [TheCosmicPope]**
++    - Bg-Fire.png
++    - Bn-Fire.png
++    - Fire!.ogg
++    - Fire!.ssc
++  - **Flight of the Bumblebee - [Arch0wl]**
++    - !a0Title.png
++    - fotbb.ogg
++    - fotbb.ssc
++    - fotbb-bg.png
++    - fotbb-bn.png
++  - **Flower Forever - [HST]**
++    - !HSTTitle.png
++    - FLOWER FOREVER v2.ssc
++    - FLOWER FOREVER.OGG
++    - FLOWER FOREVER.png
++    - FLOWER FOREVER-bg.png
++  - **Fun Fun Pharaoh - [Zaghurim]**
++    - cdtitle.png
++    - ffp-bg.png
++    - ffp-bn.png
++    - Fun-Fun-Pharaoh.ogg
++    - Fun-Fun-Pharaoh.ssc
++  - **Gargoyle - [Reach]**
++    - !reachTitle.png
++    - gargoyle.ogg
++    - Gargoyle.ssc
++    - Gargoyle-bg.png
++    - Gargoyle-bn.png
++  - **gigadelic - [Reach]**
++    - !reachTitle.png
++    - giga.ssc
++    - giga-bg.png
++    - giga-bn.png
++    - gigadelic.ogg
++  - **Go Berzerk - [OSC.Suicide]**
++    - !OSC.png
++    - Go Berzerk banner.jpg
++    - Go Berzerk.ogg
++    - Go Berzerk.ssc
++    - goberzerk.avi
++  - **Go Beyond!! - [dimo]**
++    - !dimotitle.png
++    - Go Beyond!!.ogg
++    - go beyond!!.png
++    - go beyond!!.ssc
++    - go beyond!!-bg.png
++  - **Guillaume Tell - [Skor]**
++    - !skorTitle.png
++    - guillaume tell.ogg
++    - Guillaume Tell.ssc
++    - guillaume tell-bg.PNG
++    - guillaume tell-bn.PNG
++    - readme.txt
++  - **Hahaha - [Mootz]**
++    - gs ranked - ban.png
++    - Hahaha.OGG
++    - Hahaha.ssc
++    - hahaha-bg.PNG
++    - mootz cdtitle 2.png
++  - **Halloween - [Reach]**
++    - !reachTitle.png
++    - halloween.ogg
++    - halloween.ssc
++    - halloween-bg.png
++    - halloween-bn.png
++  - **Happy Happy Shining Star!! - [Dan23]**
++    - !dan23title.png
++    - Happy Happy Shining Star!!.ogg
++    - Happy Happy Shining Star!!.ssc
++    - Happy Happy Shining Star-bg.png
++    - Happy Happy Shining Star-bn.png
++    - Readme.txt
++  - **Hardstyle Drops - [Z Matrix]**
++    - Banner.png
++    - hardstyle drops.ssc
++    - Music.ogg
++  - **Heaven - [Dan23]**
++    - !dan23title.png
++    - Heaven.ogg
++    - Heaven.ssc
++    - heaven-bg.png
++    - Heaven-bn.png
++  - **Heaven Above - [Jimbo]**
++    - bg.png
++    - bn.png
++    - Heaven Above.ogg
++    - Heaven Above.ssc
++    - Jimbo.png
++  - **He's a Pirate - [Rynker]**
++    - Background.png
++    - Banner.png
++    - hes a pirate.ssc
++    - Music.ogg
++  - **Highspeedstar (PLWXRVM) - [C Jota]**
++    - !cjotatitle.png
++    - Bg-Please.png
++    - Bn-Please.png
++    - PLWXRVM.ogg
++    - PLWXRVM.ssc
++  - **Hit 'n Slap - [Cynic]**
++    - cynic.png
++    - hitnslap.ogg
++    - hitnslap.ssc
++    - hitnslap-bg.png
++    - hitnslap-bn.png
++  - **Holy Orders - [DukAmok]**
++    - !duktitle.png
++    - Holy_Orders.ogg
++    - Holy_Orders.png
++    - Holy_Orders.ssc
++    - Holy_Orders-bg.png
++  - **Holy Thunderforce - [Skor]**
++    - !skorTitle.png
++    - holy thunderforce.ogg
++    - holythunderforce.ssc
++    - holythunderforce-bg.png
++    - holythunderforce-bn.png
++    - readme.txt
++  - **I Can Walk On Water - [Mootz]**
++    - Background.png
++    - Banner.png
++    - mootz cdtitle 2.png
++    - Music.ogg
++    - Stepchart.ssc
++  - **I'm A Maid - [DTM]**
++    - cdtitle.jpg
++    - I'm A Maid (C-Type Remix).ogg
++    - I'm A Maid (C-Type Remix).ssc
++    - ImAMaid-bg.png
++    - ImAMaid-bn.png
++  - **Injection Of Love - [eVILPeeR]**
++    - !evilpeerTitle.png
++    - Injection of Love.ogg
++    - Injection of Love.ssc
++    - Injection of Love-bg.png
++    - Injection of Love-bn.png
++  - **Jump - [Flash]**
++    - Flash Exclusives - Banner.png
++    - jump.ssc
++    - Music.ogg
++  - **Kaleidoscope - [Joel Stud]**
++    - Background.png
++    - Banner.png
++    - joelstud.png
++    - kaleidoscope.ssc
++    - Music.ogg
++  - **Kan Kan - [Behemot]**
++    - Background.png
++    - Banner.png
++    - kan kan.ssc
++    - Music.ogg
++  - **Kiss Me Thru The Phone - [Flash]**
++    - Kiss me Through the phone.ogg
++    - Kiss Me Thru The Phone.ssc
++    - kissme-bg.jpg
++    - kissme-bn.jpg
++  - **La Luna - [djluminus]**
++    - La Luna (Mirage)-bg.PNG
++    - La Luna (Mirage)-bn.PNG
++    - La Luna.ogg
++    - La Luna.ssc
++  - **Lawn Wake IV - [pfx13AE]**
++    - Lawn Wake IV (Black) - banner.png
++    - Lawn Wake IV (Black) - bg.png
++    - Lawn Wake IV (Black).ssc
++    - Lawn Wake IV.ogg
++    - pfx - icon.png
++  - **Loituma - [Insane Steve]**
++    - Background.png
++    - Banner.png
++    - Music.ogg
++    - Stepchart.ssc
++  - **Lonely - [-joe-]**
++    - !joeCDtitle.png
++    - lonely.ogg
++    - Lonely.ssc
++    - Lonely-bg.png
++    - Lonely-bn.png
++  - **M.A.G.I.C Speed Ball - [Renard]**
++    - ball.ogg
++    - ball.ssc
++    - ball-bg.png
++    - ball-bn.png
++  - **Mei - [Hayden]**
++    - !hayden-cdtitle.png
++    - Mei.ogg
++    - Mei.ssc
++    - mei-bg.png
++    - mei-bn.png
++  - **moon_child - [Reach]**
++    - !reach-cdtitle.png
++    - Moon Child.ssc
++    - moon child-bg.png
++    - moon child-bn.png
++    - Moon_Child.ogg
++  - **Mosquito - [Brother Mojo, cmcm]**
++    - Background.png
++    - Banner.png
++    - mosquito.ssc
++    - Music.ogg
++  - **Moulin Rouge - [Zaghurim]**
++    - cdtitle.png
++    - Moulin Rouge.ogg
++    - Moulin Rouge.ssc
++    - mr-bg.png
++    - mr-bn.png
++  - **Nima Tribute - [-joe-]**
++    - !lol.png
++    - Nima Tribute.ogg
++    - Nima Tribute.ssc
++    - nima-bg.jpg
++    - nima-bn.jpg
++  - **Omega - [aperson]**
++    - !aptitle.png
++    - Omega.ogg
++    - omega.ssc
++    - Omega-bg.png
++    - Omega-bn.png
++    - readme.txt
++  - **One More Lovely - [Eggman]**
++    - !eggmanTitle.png
++    - One_More_Lovely.ogg
++    - OneMoreLovely.ssc
++    - OneMoreLovelyBG.PNG
++    - OneMoreLovelyBNR.PNG
++  - **One Winged Angel - [Darkmage]**
++    - !darkmagetitle2.png
++    - One Winged Angel.ogg
++    - One Winged Angel.ssc
++    - One Winged Angel-bg.jpg
++    - One Winged Angel-bn.JPG
++  - **Operation Ground and Pound - [TheCosmicPope]**
++    - 04. DragonForce - Operation Ground And Pound.ogg
++    - Bg-Operation.png
++    - Bn-Operation.png
++    - Operation Ground and Pound.ssc
++  - **Otaku Speedvibe - [Skor]**
++    - !skorTitle.png
++    - otakuspeedvibe.ogg
++    - OtakuSpeedvibe.ssc
++    - otakuspeedvibe-bg.png
++    - otakuspeedvibe-bn.png
++  - **Over The Frail Dream - [cat]**
++    - !cat-cdtitle.png
++    - Over The Frail Dream.ogg
++    - Over The Frail Dream.ssc
++    - Over The Frail Dream-BG.jpg
++    - Over The Frail Dream-BN.jpg
++    - README.txt
++  - **Pac-Man - [Tiza]**
++    - !tizaTitle.png
++    - Background.png
++    - Banner.png
++    - Music.ogg
++    - Stepchart.ssc
++  - **Pollinosis - [Tiza]**
++    - !tizaTitle.png
++    - 12-Pollinosis.ogg
++    - Pollinosis.ssc
++  - **Princess Bride! - [DarthNemesis]**
++    - Princess Bride!.lrc
++    - Princess Bride!.ogg
++    - Princess Bride!.sm
++    - Princess Bride!.ssc
++    - Princess Bride!-bn.png
++    - Princess-Bride!-bg.jpg
++    - readme.txt
++    - xelesis-cdtitle.png
++  - **Pulse - [BeMaNiRuLeR]**
++    - !bemaniruler-cdtitle.png
++    - Pulse -Original Mix-.ogg
++    - Pulse -Original Mix-.png
++    - Pulse -Original Mix-.ssc
++    - Pulse -Original Mix--bg.png
++  - **Quasar - [Eggman]**
++    - !eggmanTitle.png
++    - quasar.ogg
++    - quasar.png
++    - Quasar.ssc
++    - quasar-bg.png
++  - **Respect the Wilderness - [TEEX]**
++    - !TEEXcdtitle.png
++    - README.txt
++    - Respect the Wilderness.ogg
++    - Respect the Wilderness.ssc
++    - Respect the Wilderness-bg.png
++    - Respect the Wilderness-bn.png
++  - **Return of Salieri - [DukAmok]**
++    - !duktitle.png
++    - return_of_salieri.ogg
++    - Return_of_Salieri.png
++    - Return_of_Salieri.ssc
++    - Return_of_Salieri-bg.png
++  - **Roppongi Carillon - [Ike Pie]**
++    - Background.png
++    - Banner.png
++    - Music.ogg
++    - Stepchart.ssc
++  - **Russia Privjet - [Cloud]**
++    - 12 Russia Privjet.ogg
++    - bg.jpg
++    - bn.jpg
++    - RP.ssc
++  - **Salieri Strikes Back - [DukAmok]**
++    - !duktitle.png
++    - Salieri_Strikes_Back.ogg
++    - Salieri_Strikes_Back.png
++    - Salieri_Strikes_Back.ssc
++    - Salieri_Strikes_Back-bg.png
++  - **Second Heaven - [BlueChaos]**
++    - Second Heaven.ogg
++    - SecondHeaven.ssc
++    - sh-bg.png
++    - sh-bn.png
++  - **Shihen (Piece of Poetry) - [DTM]**
++    - cdtitle.jpg
++    - Piece of Poetry.ogg
++    - Piece of Poetry.ssc
++    - Piece_Of_Poetry_by_TheMightySquare.jpg
++    - PoP-Banner.jpg
++  - **Shind Bad - [pfx13AE]**
++    - !pfx-cdtitle.png
++    - Shind Bad - banner.png
++    - Shind Bad - bg.png
++    - shind bad.ogg
++    - Shind Bad.ssc
++  - **Silikon - [r21freak]**
++    - silikon.ogg
++    - silikon.ssc
++    - silikon-banner.png
++    - silikon-bg.png
++  - **Since 1983 - [DukAmok]**
++    - !duktitle.png
++    - Since_1983.ogg
++    - Since_1983.png
++    - Since_1983.ssc
++    - Since_1983-bg.png
++  - **Smooth - [-joe-]**
++    - !joe.png
++    - -Read Me-.txt
++    - smooth.ogg
++    - smooth.ssc
++    - smooth-bg.png
++    - smooth-bn.png
++  - **Speedcore Dandy - [Omega]**
++    - !DBStitle.png
++    - Read Me.txt
++    - speedcore dandy.ogg
++    - speedcoredandy.png
++    - speedcoredandy.ssc
++    - speedcoredandy-bg.png
++  - **Star Wars - [phenomega]**
++    - !phenomegaTitle.png
++    - STAR WARS.ogg
++    - STAR WARS.ssc
++    - STAR WARS-bg.png
++    - STAR WARS-bn.png
++  - **Strangeprogam - [DTM]**
++    - cdtitle.jpg
++    - Readme.txt
++    - Strangeprogram.ogg
++    - Strangeprogram.ssc
++    - StrangeProgram-Banner.jpg
++    - StrangeProgram-BG.jpg
++  - **Stunt Flying - [b00mba]**
++    - !boombaTitle.png
++    - Stunt Flying.ogg
++    - Stunt Flying.ssc
++    - stuntflying-bg.PNG
++    - stuntflying-bn.png
++  - **Stunt Flying - [Hayden]**
++    - !hayden-cdtitle.png
++    - stunt flying remix.ogg
++    - Stunt Flying.ssc
++    - stuntflying-bg.png
++    - stuntflying-bn.PNG
++  - **Stunt Flying - [Reach]**
++    - !reachTitle.png
++    - Stunt Flying.ogg
++    - stunt flying.sm
++    - stunt flying.ssc
++    - stunt.png
++    - stunt-bg.png
++  - **Summer Kamp - [TheCosmicPope]**
++    - Bg-Kamp-bg.PNG
++    - Bn-Kamp-bn.PNG
++    - Summer Kamp.OGG
++    - Summer Kamp.ssc
++  - **Teknopathetic - [c0m37]**
++    - 05 TEKNOPATHETIC.ogg
++    - Teknopathetic.ssc
++    - Teknopathetic-banner.jpg
++    - Teknopathetic-bg.jpg
++  - **The a la Menthe - [Bahamut X]**
++    - !btitle.png
++    - bg.png
++    - bn.png
++    - the a la menthe.ogg
++    - The a la Menthe.ssc
++  - **The Prototype - [MacGravel]**
++    - !macTitle.png
++    - The Prototype.jpg
++    - The Prototype.ogg
++    - The Prototype.ssc
++    - The Prototype-bg.jpg
++  - **The Safari - [dimo]**
++    - !dimotitle.png
++    - ryu safari.ssc
++    - safariryu.png
++    - safariryu-bg.png
++    - the safari ryu remix.ogg
++  - **Through the Fire and Flames - [TheCosmicPope]**
++    - Bg-Through.png
++    - Bn-Through.png
++    - Through The Fire And Flames.ogg
++    - Through the Fire and Flames.ssc
++  - **Tokyo Style Speedcore - [Reach]**
++    - !reachTitle.png
++    - Tokyo Style Speedcore.ogg
++    - Tokyo-bg.png
++    - tokyo-bn.png
++    - tokyospeedcore.ssc
++  - **Tricky Disco - [MacGravel]**
++    - !macgravel-cdtitle.png
++    - Tricky Disco.ogg
++    - Tricky Disco.png
++    - Tricky Disco.ssc
++    - Tricky Disco-bg.png
++  - **Trolls In The Dark - [Observer]**
++    - !ObsTitle.png
++    - trolls in the dark.ogg
++    - Trolls.ssc
++    - Trollsban.png
++    - Trollsbg.jpg
++  - **TSUPSEUDOGAMUSH - [Family Farce]**
++    - HS3logo.png
++    - TSUPSEUDOGAMUSH- bg.png
++    - TSUPSEUDOGAMUSH.ogg
++    - TSUPSEUDOGAMUSH.png
++    - TSUPSEUDOGAMUSH.sm
++  - **Ub3r R4ve - [-joe-]**
++    - !joe.png
++    - -Read Me-.txt
++    - uber rave.ogg
++    - uberrave.ssc
++    - uberrave-bg.png
++    - uberrave-bn.png
++  - **V - [BeMaNiRuLeR]**
++    - !bemaniruler-cdtitle.png
++    - v.ogg
++    - v.png
++    - V.ssc
++    - v-bg.png
++  - **Vertex ALPHA - [HST]**
++    - !HSTTitle.png
++    - readme.txt
++    - vertexalpha.ogg
++    - vertexalpha.png
++    - vertexalpha.ssc
++    - vertexalpha-bg.png
++  - **Vertex BETA - [HST]**
++    - !HSTTitle.png
++    - vertexbeta.ogg
++    - vertexbeta.png
++    - vertexbeta.ssc
++    - vertexbeta-bg.png
++  - **VINYL! - [Monst3rjoe]**
++    - !monst3rjoe-cdtitle.png
++    - Vinyl.ogg
++    - Vinyl.ssc
++    - Vinyl-bg.png
++    - Vinyl-bn.png
++  - **War Game - [Arch0wl]**
++    - !a0Title.png
++    - wargame.ogg
++    - wargame.png
++    - wargame.ssc
++    - wargame-bg.png
++  - **We Gotz Game - [pfx13AE]**
++    - pfx - icon.png
++    - We Gotz Game - banner.jpg
++    - We Gotz Game - bg.jpg
++    - we gotz game.ogg
++    - We Gotz Game.ssc
++  - **We Met Dat Night - [Vospi]**
++    - readme.txt
++    - vospi.png
++    - we met dat night.jpg
++    - We Met Dat Night.mp3
++    - We Met Dat Night.ogg
++    - we met dat night.ssc
++    - we met dat night-1.jpg
++    - we met dat night-10.jpg
++    - we met dat night-11.jpg
++    - we met dat night-2.jpg
++    - we met dat night-3.jpg
++    - we met dat night-4.jpg
++    - we met dat night-5.jpg
++    - we met dat night-6.jpg
++    - we met dat night-7.jpg
++    - we met dat night-8.jpg
++    - we met dat night-9.jpg
++  - **Will O' The Wisp - [Arch0wl]**
++    - !a0Title.png
++    - willo.ogg
++    - willo.png
++    - willo.ssc
++    - willo-bg.png
++  - **Winnipeg is Fucking Over - [DTM]**
++    - cdtitle.jpg
++    - Readme.txt
++    - WIFO-banner.jpg
++    - WIFO-bg.jpg
++    - Winnipeg is Fucking Over.ogg
++    - Winnipeg is Fucking Over.ssc
++  - **Wizards in Winter - [-joe-]**
++    - !joeCDtitle.png
++    - Wizards Of Winter.ogg
++    - WizardsOfWinter.ssc
++    - WizardsOfWinter-bg.png
++    - WizardsOfWinter-bn.png
++  - **You Fill Me Up - [Flash]**
++    - You fill me up.ogg
++    - You fill me up.ssc
++  - **Z - [Snap]**
++    - !snapcdtitle.png
++    - Z.ogg
++    - z.png
++    - Z.ssc
++    - Z-bg.png
++  - classic1-bn.png
++  - readme.txt
+ - **The Starter Pack of Stamina**
+   - **66 MHz - [Tuuc]**
+     - 66 MHz.ogg
+@@ -32355,16 +31434,7 @@ Generated from InstallPath on 2026-03-10 03:00. Filenames only; contents not bac
+     - Woman.png
+     - Woman.sm
+     - Woman-bg.png
+-- Banzaitv's ITG1 Home.zip
+-- BHOP Ball 2.zip
+-- BHOP Ball 3.zip
+-- BHOP Ball 4.zip
+-- BHOP Ball.zip
+-- C0m37's Originals.zip
+-- Freyja's Grimoire.zip
+ - instructions.txt
+-- PSYCH UP!.zip
+-- The Classics Pack Vol 1.zip
+ 
+ ## AdditionalSongs
  
 ```
 
@@ -3581,1767 +5638,64 @@ Machine-level profile and stats.
 
 ```diff
 diff --git a/ITGMania/SaveAppData/MachineProfile/Stats.xml b/ITGMania/SaveAppData/MachineProfile/Stats.xml
-index a53283f..35160ff 100644
+index 35160ff..3d56d29 100644
 --- a/ITGMania/SaveAppData/MachineProfile/Stats.xml
 +++ b/ITGMania/SaveAppData/MachineProfile/Stats.xml
-@@ -18,61 +18,61 @@
+@@ -18,7 +18,7 @@
  <Song Dir=''/>
  <Course/>
  <CurrentCombo>0</CurrentCombo>
--<TotalSessions>2475</TotalSessions>
--<TotalSessionSeconds>1105977</TotalSessionSeconds>
--<TotalGameplaySeconds>538847</TotalGameplaySeconds>
--<TotalCaloriesBurned>194072.328125</TotalCaloriesBurned>
-+<TotalSessions>2498</TotalSessions>
-+<TotalSessionSeconds>1112213</TotalSessionSeconds>
-+<TotalGameplaySeconds>542837</TotalGameplaySeconds>
-+<TotalCaloriesBurned>195682.015625</TotalCaloriesBurned>
- <GoalType>0</GoalType>
+-<TotalSessions>2498</TotalSessions>
++<TotalSessions>2499</TotalSessions>
+ <TotalSessionSeconds>1112213</TotalSessionSeconds>
+ <TotalGameplaySeconds>542837</TotalGameplaySeconds>
+ <TotalCaloriesBurned>195682.015625</TotalCaloriesBurned>
+@@ -26,7 +26,7 @@
  <GoalCalories>0</GoalCalories>
  <GoalSeconds>0</GoalSeconds>
  <LastPlayedMachineGuid>403d15c592378cca</LastPlayedMachineGuid>
--<LastPlayedDate>2026-02-27</LastPlayedDate>
--<TotalDancePoints>7767561</TotalDancePoints>
-+<LastPlayedDate>2026-03-09</LastPlayedDate>
-+<TotalDancePoints>7825722</TotalDancePoints>
+-<LastPlayedDate>2026-03-09</LastPlayedDate>
++<LastPlayedDate>2026-03-10</LastPlayedDate>
+ <TotalDancePoints>7825722</TotalDancePoints>
  <NumExtraStagesPassed>0</NumExtraStagesPassed>
  <NumExtraStagesFailed>0</NumExtraStagesFailed>
- <NumToasties>879</NumToasties>
--<TotalTapsAndHolds>1673800</TotalTapsAndHolds>
--<TotalJumps>103708</TotalJumps>
--<TotalHolds>162765</TotalHolds>
--<TotalRolls>6541</TotalRolls>
--<TotalMines>69113</TotalMines>
--<TotalHands>3386</TotalHands>
-+<TotalTapsAndHolds>1686059</TotalTapsAndHolds>
-+<TotalJumps>104142</TotalJumps>
-+<TotalHolds>164339</TotalHolds>
-+<TotalRolls>6784</TotalRolls>
-+<TotalMines>69343</TotalMines>
-+<TotalHands>3390</TotalHands>
- <TotalLifts>0</TotalLifts>
- <DefaultModifiers/>
- <Unlocks/>
- <NumSongsPlayedByPlayMode>
--<Regular>3959</Regular>
-+<Regular>3988</Regular>
- </NumSongsPlayedByPlayMode>
- <NumSongsPlayedByStyle>
--<Style Game='dance' Style='single'>2364</Style>
-+<Style Game='dance' Style='single'>2393</Style>
- </NumSongsPlayedByStyle>
- <NumSongsPlayedByDifficulty>
- <Beginner>344</Beginner>
--<Easy>652</Easy>
--<Medium>680</Medium>
--<Hard>1157</Hard>
--<Challenge>1126</Challenge>
-+<Easy>658</Easy>
-+<Medium>683</Medium>
-+<Hard>1164</Hard>
-+<Challenge>1139</Challenge>
- </NumSongsPlayedByDifficulty>
- <NumSongsPlayedByMeter>
- <Meter1>207</Meter1>
- <Meter2>132</Meter2>
--<Meter3>276</Meter3>
--<Meter4>159</Meter4>
--<Meter5>170</Meter5>
-+<Meter3>277</Meter3>
-+<Meter4>160</Meter4>
-+<Meter5>171</Meter5>
- <Meter6>313</Meter6>
--<Meter7>431</Meter7>
--<Meter8>519</Meter8>
--<Meter9>839</Meter9>
--<Meter10>433</Meter10>
-+<Meter7>438</Meter7>
-+<Meter8>525</Meter8>
-+<Meter9>848</Meter9>
-+<Meter10>437</Meter10>
- <Meter11>214</Meter11>
- <Meter12>148</Meter12>
- <Meter13>95</Meter13>
- <Meter14>22</Meter14>
- <Meter15>1</Meter15>
- </NumSongsPlayedByMeter>
--<NumTotalSongsPlayed>3959</NumTotalSongsPlayed>
-+<NumTotalSongsPlayed>3988</NumTotalSongsPlayed>
- <NumStagesPassedByPlayMode>
--<Regular>3287</Regular>
-+<Regular>3313</Regular>
- </NumStagesPassedByPlayMode>
- <NumStagesPassedByGrade>
- <Tier01>2</Tier01>
-@@ -80,17 +80,17 @@
- <Tier03>219</Tier03>
- <Tier04>310</Tier04>
- <Tier05>170</Tier05>
--<Tier06>177</Tier06>
--<Tier07>278</Tier07>
--<Tier08>288</Tier08>
--<Tier09>277</Tier09>
--<Tier10>237</Tier10>
--<Tier11>285</Tier11>
--<Tier12>262</Tier12>
-+<Tier06>179</Tier06>
-+<Tier07>282</Tier07>
-+<Tier08>296</Tier08>
-+<Tier09>280</Tier09>
-+<Tier10>240</Tier10>
-+<Tier11>286</Tier11>
-+<Tier12>265</Tier12>
- <Tier13>193</Tier13>
- <Tier14>118</Tier14>
--<Tier15>101</Tier15>
--<Tier16>73</Tier16>
-+<Tier15>102</Tier15>
-+<Tier16>74</Tier16>
- <Tier17>202</Tier17>
- </NumStagesPassedByGrade>
- </GeneralData>
-@@ -8152,16 +8152,67 @@
- <Song Dir='Songs/Anthem Series - Garage Rewind/1985/'>
- <Steps Difficulty='Challenge' StepsType='dance-single'>
- <HighScoreList>
--<NumTimesPlayed>1</NumTimesPlayed>
--<LastPlayed>2025-05-07</LastPlayed>
-+<NumTimesPlayed>2</NumTimesPlayed>
-+<LastPlayed>2026-03-09</LastPlayed>
-+<HighGrade>Tier08</HighGrade>
-+<HighScore>
-+<Name>KYLE</Name>
-+<Grade>Tier08</Grade>
-+<Score>84</Score>
-+<PercentDP>0.870800</PercentDP>
-+<SurviveSeconds>130.083313</SurviveSeconds>
-+<MaxCombo>196</MaxCombo>
-+<StageAward></StageAward>
-+<PeakComboAward></PeakComboAward>
-+<Modifiers>NoHideLights, C600, 15% Mini, FailImmediateContinue, Overhead, Default</Modifiers>
-+<DateTime>2026-03-09 16:52:02</DateTime>
-+<PlayerGuid>4ad3a19834ee56bd</PlayerGuid>
-+<MachineGuid>403d15c592378cca</MachineGuid>
-+<ProductID>1</ProductID>
-+<TapNoteScores>
-+<HitMine>0</HitMine>
-+<AvoidMine>0</AvoidMine>
-+<CheckpointMiss>0</CheckpointMiss>
-+<Miss>4</Miss>
-+<W5>1</W5>
-+<W4>6</W4>
-+<W3>38</W3>
-+<W2>131</W2>
-+<W1>309</W1>
-+<CheckpointHit>0</CheckpointHit>
-+</TapNoteScores>
-+<HoldNoteScores>
-+<LetGo>0</LetGo>
-+<Held>86</Held>
-+<MissedHold>4</MissedHold>
-+</HoldNoteScores>
-+<RadarValues>
-+<Stream>0.899795</Stream>
-+<Voltage>0.391698</Voltage>
-+<Air>0.000000</Air>
-+<Freeze>0.955556</Freeze>
-+<Chaos>0.870812</Chaos>
-+<Notes>484.000000</Notes>
-+<TapsAndHolds>484</TapsAndHolds>
-+<Jumps>0</Jumps>
-+<Holds>86</Holds>
-+<Mines>0</Mines>
-+<Hands>1</Hands>
-+<Rolls>0</Rolls>
-+<Lifts>0</Lifts>
-+<Fakes>0</Fakes>
-+</RadarValues>
-+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
-+<Disqualified>0</Disqualified>
-+</HighScore>
- </HighScoreList>
- </Steps>
- </Song>
- <Song Dir='Songs/Anthem Series - Garage Rewind/All The Small Things/'>
- <Steps Difficulty='Challenge' StepsType='dance-single'>
- <HighScoreList>
--<NumTimesPlayed>5</NumTimesPlayed>
--<LastPlayed>2025-12-20</LastPlayed>
-+<NumTimesPlayed>6</NumTimesPlayed>
-+<LastPlayed>2026-03-09</LastPlayed>
- <HighGrade>Tier09</HighGrade>
- <HighScore>
- <Name>KYLE</Name>
-@@ -8328,8 +8379,8 @@
- <Song Dir='Songs/Anthem Series - Garage Rewind/Dance Dance/'>
- <Steps Difficulty='Challenge' StepsType='dance-single'>
- <HighScoreList>
--<NumTimesPlayed>2</NumTimesPlayed>
--<LastPlayed>2025-12-14</LastPlayed>
-+<NumTimesPlayed>3</NumTimesPlayed>
-+<LastPlayed>2026-03-09</LastPlayed>
- <HighGrade>Tier06</HighGrade>
- <HighScore>
- <Name>KYLE</Name>
-@@ -8856,11 +8907,70 @@
- </HighScoreList>
- </Steps>
- </Song>
-+<Song Dir='Songs/Anthem Series - Garage Rewind/Still into You/'>
-+<Steps Difficulty='Challenge' StepsType='dance-single'>
-+<HighScoreList>
-+<NumTimesPlayed>1</NumTimesPlayed>
-+<LastPlayed>2026-03-09</LastPlayed>
-+<HighGrade>Tier08</HighGrade>
-+<HighScore>
-+<Name>KYLE</Name>
-+<Grade>Tier08</Grade>
-+<Score>103</Score>
-+<PercentDP>0.881000</PercentDP>
-+<SurviveSeconds>141.180389</SurviveSeconds>
-+<MaxCombo>267</MaxCombo>
-+<StageAward></StageAward>
-+<PeakComboAward></PeakComboAward>
-+<Modifiers>NoHideLights, C600, 15% Mini, FailImmediateContinue, Overhead, Default</Modifiers>
-+<DateTime>2026-03-09 16:49:18</DateTime>
-+<PlayerGuid>4ad3a19834ee56bd</PlayerGuid>
-+<MachineGuid>403d15c592378cca</MachineGuid>
-+<ProductID>1</ProductID>
-+<TapNoteScores>
-+<HitMine>0</HitMine>
-+<AvoidMine>0</AvoidMine>
-+<CheckpointMiss>0</CheckpointMiss>
-+<Miss>4</Miss>
-+<W5>0</W5>
-+<W4>3</W4>
-+<W3>54</W3>
-+<W2>139</W2>
-+<W1>355</W1>
-+<CheckpointHit>0</CheckpointHit>
-+</TapNoteScores>
-+<HoldNoteScores>
-+<LetGo>0</LetGo>
-+<Held>98</Held>
-+<MissedHold>1</MissedHold>
-+</HoldNoteScores>
-+<RadarValues>
-+<Stream>0.888889</Stream>
-+<Voltage>0.499677</Voltage>
-+<Air>1.000000</Air>
-+<Freeze>0.989899</Freeze>
-+<Chaos>0.881040</Chaos>
-+<Notes>572.000000</Notes>
-+<TapsAndHolds>551</TapsAndHolds>
-+<Jumps>21</Jumps>
-+<Holds>98</Holds>
-+<Mines>0</Mines>
-+<Hands>0</Hands>
-+<Rolls>0</Rolls>
-+<Lifts>0</Lifts>
-+<Fakes>0</Fakes>
-+</RadarValues>
-+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
-+<Disqualified>0</Disqualified>
-+</HighScore>
-+</HighScoreList>
-+</Steps>
-+</Song>
- <Song Dir='Songs/Anthem Series - Garage Rewind/The Anthem/'>
- <Steps Difficulty='Challenge' StepsType='dance-single'>
- <HighScoreList>
--<NumTimesPlayed>2</NumTimesPlayed>
--<LastPlayed>2025-12-14</LastPlayed>
-+<NumTimesPlayed>3</NumTimesPlayed>
-+<LastPlayed>2026-03-09</LastPlayed>
- <HighGrade>Tier08</HighGrade>
- <HighScore>
- <Name>KYLE</Name>
-@@ -9086,8 +9196,8 @@
- <Song Dir='Songs/Anthem Series - Garage Rewind/Without Me/'>
- <Steps Difficulty='Challenge' StepsType='dance-single'>
- <HighScoreList>
--<NumTimesPlayed>7</NumTimesPlayed>
--<LastPlayed>2025-12-14</LastPlayed>
-+<NumTimesPlayed>8</NumTimesPlayed>
-+<LastPlayed>2026-03-09</LastPlayed>
- <HighGrade>Tier04</HighGrade>
- <HighScore>
- <Name>ELEM</Name>
-@@ -9142,14 +9252,14 @@
- <HighScore>
- <Name>KYLE</Name>
- <Grade>Tier07</Grade>
--<Score>127</Score>
--<PercentDP>0.911500</PercentDP>
--<SurviveSeconds>161.033020</SurviveSeconds>
--<MaxCombo>328</MaxCombo>
--<StageAward></StageAward>
-+<Score>116</Score>
-+<PercentDP>0.916100</PercentDP>
-+<SurviveSeconds>161.063293</SurviveSeconds>
-+<MaxCombo>671</MaxCombo>
-+<StageAward>FullComboW3</StageAward>
- <PeakComboAward></PeakComboAward>
--<Modifiers>NoHideLights, C585, 10% Mini, FailImmediateContinue, Overhead, Default</Modifiers>
--<DateTime>2025-12-14 15:23:20</DateTime>
-+<Modifiers>NoHideLights, C600, 15% Mini, FailImmediateContinue, Overhead, Default</Modifiers>
-+<DateTime>2026-03-09 16:32:06</DateTime>
- <PlayerGuid>4ad3a19834ee56bd</PlayerGuid>
- <MachineGuid>403d15c592378cca</MachineGuid>
- <ProductID>1</ProductID>
-@@ -9157,32 +9267,32 @@
- <HitMine>0</HitMine>
- <AvoidMine>0</AvoidMine>
- <CheckpointMiss>0</CheckpointMiss>
--<Miss>1</Miss>
-+<Miss>0</Miss>
- <W5>0</W5>
--<W4>2</W4>
--<W3>54</W3>
--<W2>162</W2>
--<W1>434</W1>
-+<W4>0</W4>
-+<W3>65</W3>
-+<W2>147</W2>
-+<W1>441</W1>
- <CheckpointHit>0</CheckpointHit>
- </TapNoteScores>
- <HoldNoteScores>
--<LetGo>1</LetGo>
--<Held>161</Held>
--<MissedHold>1</MissedHold>
-+<LetGo>0</LetGo>
-+<Held>163</Held>
-+<MissedHold>0</MissedHold>
- </HoldNoteScores>
- <RadarValues>
--<Stream>0.912072</Stream>
--<Voltage>0.478750</Voltage>
--<Air>0.833333</Air>
--<Freeze>0.993750</Freeze>
--<Chaos>0.911520</Chaos>
--<Notes>670.000000</Notes>
--<TapsAndHolds>652</TapsAndHolds>
-+<Stream>0.898659</Stream>
-+<Voltage>1.000000</Voltage>
-+<Air>0.777778</Air>
-+<Freeze>1.000000</Freeze>
-+<Chaos>0.916176</Chaos>
-+<Notes>671.000000</Notes>
-+<TapsAndHolds>653</TapsAndHolds>
- <Jumps>18</Jumps>
--<Holds>159</Holds>
-+<Holds>160</Holds>
- <Mines>4</Mines>
- <Hands>0</Hands>
--<Rolls>2</Rolls>
-+<Rolls>3</Rolls>
- <Lifts>0</Lifts>
- <Fakes>1</Fakes>
- </RadarValues>
-@@ -11567,6 +11677,435 @@
- </HighScoreList>
- </Steps>
- </Song>
-+<Song Dir='Songs/BHOP Ball 3/[T02] Calabria 2007/'>
-+<Steps Difficulty='Challenge' StepsType='dance-single'>
-+<HighScoreList>
-+<NumTimesPlayed>1</NumTimesPlayed>
-+<LastPlayed>2026-03-09</LastPlayed>
-+<HighGrade>Tier12</HighGrade>
-+<HighScore>
-+<Name>SAM!</Name>
-+<Grade>Tier12</Grade>
-+<Score>64</Score>
-+<PercentDP>0.756300</PercentDP>
-+<SurviveSeconds>132.493332</SurviveSeconds>
-+<MaxCombo>67</MaxCombo>
-+<StageAward></StageAward>
-+<PeakComboAward></PeakComboAward>
-+<Modifiers>NoHideLights, C420, FailImmediateContinue, Overhead, Default</Modifiers>
-+<DateTime>2026-03-09 15:59:16</DateTime>
-+<PlayerGuid>d876307e83faa0ea</PlayerGuid>
-+<MachineGuid>403d15c592378cca</MachineGuid>
-+<ProductID>1</ProductID>
-+<TapNoteScores>
-+<HitMine>1</HitMine>
-+<AvoidMine>0</AvoidMine>
-+<CheckpointMiss>0</CheckpointMiss>
-+<Miss>7</Miss>
-+<W5>4</W5>
-+<W4>15</W4>
-+<W3>88</W3>
-+<W2>140</W2>
-+<W1>188</W1>
-+<CheckpointHit>0</CheckpointHit>
-+</TapNoteScores>
-+<HoldNoteScores>
-+<LetGo>0</LetGo>
-+<Held>93</Held>
-+<MissedHold>1</MissedHold>
-+</HoldNoteScores>
-+<RadarValues>
-+<Stream>0.742664</Stream>
-+<Voltage>0.136046</Voltage>
-+<Air>1.000000</Air>
-+<Freeze>0.989362</Freeze>
-+<Chaos>0.756343</Chaos>
-+<Notes>432.000000</Notes>
-+<TapsAndHolds>431</TapsAndHolds>
-+<Jumps>1</Jumps>
-+<Holds>93</Holds>
-+<Mines>13</Mines>
-+<Hands>0</Hands>
-+<Rolls>0</Rolls>
-+<Lifts>0</Lifts>
-+<Fakes>0</Fakes>
-+</RadarValues>
-+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
-+<Disqualified>0</Disqualified>
-+</HighScore>
-+</HighScoreList>
-+</Steps>
-+</Song>
-+<Song Dir='Songs/BHOP Ball 3/[T02] it boy/'>
-+<Steps Difficulty='Challenge' StepsType='dance-single'>
-+<HighScoreList>
-+<NumTimesPlayed>1</NumTimesPlayed>
-+<LastPlayed>2026-03-09</LastPlayed>
-+<HighGrade>Tier08</HighGrade>
-+<HighScore>
-+<Name>SAM!</Name>
-+<Grade>Tier08</Grade>
-+<Score>84</Score>
-+<PercentDP>0.862100</PercentDP>
-+<SurviveSeconds>133.096161</SurviveSeconds>
-+<MaxCombo>238</MaxCombo>
-+<StageAward></StageAward>
-+<PeakComboAward></PeakComboAward>
-+<Modifiers>NoHideLights, C420, FailImmediateContinue, Overhead, Default</Modifiers>
-+<DateTime>2026-03-09 16:02:03</DateTime>
-+<PlayerGuid>d876307e83faa0ea</PlayerGuid>
-+<MachineGuid>403d15c592378cca</MachineGuid>
-+<ProductID>1</ProductID>
-+<TapNoteScores>
-+<HitMine>0</HitMine>
-+<AvoidMine>0</AvoidMine>
-+<CheckpointMiss>0</CheckpointMiss>
-+<Miss>3</Miss>
-+<W5>1</W5>
-+<W4>1</W4>
-+<W3>36</W3>
-+<W2>164</W2>
-+<W1>255</W1>
-+<CheckpointHit>0</CheckpointHit>
-+</TapNoteScores>
-+<HoldNoteScores>
-+<LetGo>0</LetGo>
-+<Held>32</Held>
-+<MissedHold>0</MissedHold>
-+</HoldNoteScores>
-+<RadarValues>
-+<Stream>0.903689</Stream>
-+<Voltage>0.505151</Voltage>
-+<Air>0.928571</Air>
-+<Freeze>1.000000</Freeze>
-+<Chaos>0.862195</Chaos>
-+<Notes>484.000000</Notes>
-+<TapsAndHolds>456</TapsAndHolds>
-+<Jumps>27</Jumps>
-+<Holds>17</Holds>
-+<Mines>0</Mines>
-+<Hands>0</Hands>
-+<Rolls>15</Rolls>
-+<Lifts>0</Lifts>
-+<Fakes>0</Fakes>
-+</RadarValues>
-+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
-+<Disqualified>0</Disqualified>
-+</HighScore>
-+</HighScoreList>
-+</Steps>
-+</Song>
-+<Song Dir='Songs/BHOP Ball 4/[T01] Shady Business (SH)/'>
-+<Steps Difficulty='Challenge' StepsType='dance-single'>
-+<HighScoreList>
-+<NumTimesPlayed>1</NumTimesPlayed>
-+<LastPlayed>2026-03-09</LastPlayed>
-+<HighGrade>Tier12</HighGrade>
-+<HighScore>
-+<Name>SAM!</Name>
-+<Grade>Tier12</Grade>
-+<Score>57</Score>
-+<PercentDP>0.735700</PercentDP>
-+<SurviveSeconds>112.526642</SurviveSeconds>
-+<MaxCombo>131</MaxCombo>
-+<StageAward></StageAward>
-+<PeakComboAward></PeakComboAward>
-+<Modifiers>NoHideLights, C420, FailImmediateContinue, Overhead, Default</Modifiers>
-+<DateTime>2026-03-09 15:55:37</DateTime>
-+<PlayerGuid>d876307e83faa0ea</PlayerGuid>
-+<MachineGuid>403d15c592378cca</MachineGuid>
-+<ProductID>1</ProductID>
-+<TapNoteScores>
-+<HitMine>1</HitMine>
-+<AvoidMine>0</AvoidMine>
-+<CheckpointMiss>0</CheckpointMiss>
-+<Miss>10</Miss>
-+<W5>1</W5>
-+<W4>5</W4>
-+<W3>57</W3>
-+<W2>114</W2>
-+<W1>164</W1>
-+<CheckpointHit>0</CheckpointHit>
-+</TapNoteScores>
-+<HoldNoteScores>
-+<LetGo>1</LetGo>
-+<Held>28</Held>
-+<MissedHold>0</MissedHold>
-+</HoldNoteScores>
-+<RadarValues>
-+<Stream>0.790368</Stream>
-+<Voltage>0.347736</Voltage>
-+<Air>0.500000</Air>
-+<Freeze>0.961538</Freeze>
-+<Chaos>0.735789</Chaos>
-+<Notes>342.000000</Notes>
-+<TapsAndHolds>340</TapsAndHolds>
-+<Jumps>1</Jumps>
-+<Holds>25</Holds>
-+<Mines>3</Mines>
-+<Hands>0</Hands>
-+<Rolls>3</Rolls>
-+<Lifts>0</Lifts>
-+<Fakes>0</Fakes>
-+</RadarValues>
-+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
-+<Disqualified>0</Disqualified>
-+</HighScore>
-+</HighScoreList>
-+</Steps>
-+</Song>
-+<Song Dir='Songs/BHOP Ball/[T01] Boom Boom Pow/'>
-+<Steps Difficulty='Challenge' StepsType='dance-single'>
-+<HighScoreList>
-+<NumTimesPlayed>2</NumTimesPlayed>
-+<LastPlayed>2026-03-09</LastPlayed>
-+<HighGrade>Tier07</HighGrade>
-+<HighScore>
-+<Name>KYLE</Name>
-+<Grade>Tier07</Grade>
-+<Score>51</Score>
-+<PercentDP>0.901100</PercentDP>
-+<SurviveSeconds>125.946541</SurviveSeconds>
-+<MaxCombo>325</MaxCombo>
-+<StageAward>FullComboW3</StageAward>
-+<PeakComboAward></PeakComboAward>
-+<Modifiers>NoHideLights, C590, 15% Mini, FailImmediateContinue, Overhead, Default</Modifiers>
-+<DateTime>2026-03-09 15:04:58</DateTime>
-+<PlayerGuid>4ad3a19834ee56bd</PlayerGuid>
-+<MachineGuid>403d15c592378cca</MachineGuid>
-+<ProductID>1</ProductID>
-+<TapNoteScores>
-+<HitMine>3</HitMine>
-+<AvoidMine>0</AvoidMine>
-+<CheckpointMiss>0</CheckpointMiss>
-+<Miss>0</Miss>
-+<W5>0</W5>
-+<W4>0</W4>
-+<W3>31</W3>
-+<W2>58</W2>
-+<W1>206</W1>
-+<CheckpointHit>0</CheckpointHit>
-+</TapNoteScores>
-+<HoldNoteScores>
-+<LetGo>0</LetGo>
-+<Held>47</Held>
-+<MissedHold>0</MissedHold>
-+</HoldNoteScores>
-+<RadarValues>
-+<Stream>0.898462</Stream>
-+<Voltage>1.000000</Voltage>
-+<Air>0.766667</Air>
-+<Freeze>1.000000</Freeze>
-+<Chaos>0.901170</Chaos>
-+<Notes>325.000000</Notes>
-+<TapsAndHolds>295</TapsAndHolds>
-+<Jumps>30</Jumps>
-+<Holds>17</Holds>
-+<Mines>22</Mines>
-+<Hands>0</Hands>
-+<Rolls>30</Rolls>
-+<Lifts>0</Lifts>
-+<Fakes>0</Fakes>
-+</RadarValues>
-+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
-+<Disqualified>0</Disqualified>
-+</HighScore>
-+</HighScoreList>
-+</Steps>
-+</Song>
-+<Song Dir='Songs/BHOP Ball/[T01] Disco Pop (SH)/'>
-+<Steps Difficulty='Hard' StepsType='dance-single'>
-+<HighScoreList>
-+<NumTimesPlayed>1</NumTimesPlayed>
-+<LastPlayed>2026-03-09</LastPlayed>
-+<HighGrade>Tier08</HighGrade>
-+<HighScore>
-+<Name>SAM!</Name>
-+<Grade>Tier08</Grade>
-+<Score>73</Score>
-+<PercentDP>0.887600</PercentDP>
-+<SurviveSeconds>127.179901</SurviveSeconds>
-+<MaxCombo>317</MaxCombo>
-+<StageAward></StageAward>
-+<PeakComboAward></PeakComboAward>
-+<Modifiers>NoHideLights, C420, FailImmediateContinue, Overhead, Default</Modifiers>
-+<DateTime>2026-03-09 15:35:11</DateTime>
-+<PlayerGuid>d876307e83faa0ea</PlayerGuid>
-+<MachineGuid>403d15c592378cca</MachineGuid>
-+<ProductID>1</ProductID>
-+<TapNoteScores>
-+<HitMine>0</HitMine>
-+<AvoidMine>0</AvoidMine>
-+<CheckpointMiss>0</CheckpointMiss>
-+<Miss>0</Miss>
-+<W5>1</W5>
-+<W4>0</W4>
-+<W3>27</W3>
-+<W2>140</W2>
-+<W1>234</W1>
-+<CheckpointHit>0</CheckpointHit>
-+</TapNoteScores>
-+<HoldNoteScores>
-+<LetGo>0</LetGo>
-+<Held>11</Held>
-+<MissedHold>0</MissedHold>
-+</HoldNoteScores>
-+<RadarValues>
-+<Stream>0.928218</Stream>
-+<Voltage>0.794955</Voltage>
-+<Air>1.000000</Air>
-+<Freeze>1.000000</Freeze>
-+<Chaos>0.887651</Chaos>
-+<Notes>403.000000</Notes>
-+<TapsAndHolds>401</TapsAndHolds>
-+<Jumps>2</Jumps>
-+<Holds>11</Holds>
-+<Mines>0</Mines>
-+<Hands>0</Hands>
-+<Rolls>0</Rolls>
-+<Lifts>0</Lifts>
-+<Fakes>0</Fakes>
-+</RadarValues>
-+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
-+<Disqualified>0</Disqualified>
-+</HighScore>
-+</HighScoreList>
-+</Steps>
-+</Song>
-+<Song Dir='Songs/BHOP Ball/[T02] Coconut Mall/'>
-+<Steps Difficulty='Challenge' StepsType='dance-single'>
-+<HighScoreList>
-+<NumTimesPlayed>1</NumTimesPlayed>
-+<LastPlayed>2026-03-09</LastPlayed>
-+<HighGrade>Tier12</HighGrade>
-+<HighScore>
-+<Name>SAM!</Name>
-+<Grade>Tier12</Grade>
-+<Score>94</Score>
-+<PercentDP>0.722000</PercentDP>
-+<SurviveSeconds>123.900490</SurviveSeconds>
-+<MaxCombo>94</MaxCombo>
-+<StageAward></StageAward>
-+<PeakComboAward></PeakComboAward>
-+<Modifiers>NoHideLights, C420, FailImmediateContinue, Overhead, Default</Modifiers>
-+<DateTime>2026-03-09 15:37:52</DateTime>
-+<PlayerGuid>d876307e83faa0ea</PlayerGuid>
-+<MachineGuid>403d15c592378cca</MachineGuid>
-+<ProductID>1</ProductID>
-+<TapNoteScores>
-+<HitMine>0</HitMine>
-+<AvoidMine>0</AvoidMine>
-+<CheckpointMiss>0</CheckpointMiss>
-+<Miss>14</Miss>
-+<W5>6</W5>
-+<W4>8</W4>
-+<W3>57</W3>
-+<W2>123</W2>
-+<W1>231</W1>
-+<CheckpointHit>0</CheckpointHit>
-+</TapNoteScores>
-+<HoldNoteScores>
-+<LetGo>0</LetGo>
-+<Held>20</Held>
-+<MissedHold>0</MissedHold>
-+</HoldNoteScores>
-+<RadarValues>
-+<Stream>0.806742</Stream>
-+<Voltage>0.212583</Voltage>
-+<Air>0.833333</Air>
-+<Freeze>1.000000</Freeze>
-+<Chaos>0.722004</Chaos>
-+<Notes>425.000000</Notes>
-+<TapsAndHolds>419</TapsAndHolds>
-+<Jumps>6</Jumps>
-+<Holds>11</Holds>
-+<Mines>0</Mines>
-+<Hands>0</Hands>
-+<Rolls>9</Rolls>
-+<Lifts>0</Lifts>
-+<Fakes>0</Fakes>
-+</RadarValues>
-+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
-+<Disqualified>0</Disqualified>
-+</HighScore>
-+</HighScoreList>
-+</Steps>
-+</Song>
-+<Song Dir='Songs/BHOP Ball/[T02] ON FIRE/'>
-+<Steps Difficulty='Challenge' StepsType='dance-single'>
-+<HighScoreList>
-+<NumTimesPlayed>1</NumTimesPlayed>
-+<LastPlayed>2026-03-09</LastPlayed>
-+<HighGrade>Tier08</HighGrade>
-+<HighScore>
-+<Name>KYLE</Name>
-+<Grade>Tier08</Grade>
-+<Score>106</Score>
-+<PercentDP>0.885900</PercentDP>
-+<SurviveSeconds>112.381607</SurviveSeconds>
-+<MaxCombo>254</MaxCombo>
-+<StageAward></StageAward>
-+<PeakComboAward></PeakComboAward>
-+<Modifiers>NoHideLights, C590, 15% Mini, FailImmediateContinue, Overhead, Default</Modifiers>
-+<DateTime>2026-03-09 15:08:27</DateTime>
-+<PlayerGuid>4ad3a19834ee56bd</PlayerGuid>
-+<MachineGuid>403d15c592378cca</MachineGuid>
-+<ProductID>1</ProductID>
-+<TapNoteScores>
-+<HitMine>0</HitMine>
-+<AvoidMine>0</AvoidMine>
-+<CheckpointMiss>0</CheckpointMiss>
-+<Miss>0</Miss>
-+<W5>1</W5>
-+<W4>1</W4>
-+<W3>48</W3>
-+<W2>145</W2>
-+<W1>291</W1>
-+<CheckpointHit>0</CheckpointHit>
-+</TapNoteScores>
-+<HoldNoteScores>
-+<LetGo>0</LetGo>
-+<Held>49</Held>
-+<MissedHold>0</MissedHold>
-+</HoldNoteScores>
-+<RadarValues>
-+<Stream>0.897959</Stream>
-+<Voltage>0.533294</Voltage>
-+<Air>1.000000</Air>
-+<Freeze>1.000000</Freeze>
-+<Chaos>0.885981</Chaos>
-+<Notes>489.000000</Notes>
-+<TapsAndHolds>485</TapsAndHolds>
-+<Jumps>4</Jumps>
-+<Holds>38</Holds>
-+<Mines>0</Mines>
-+<Hands>0</Hands>
-+<Rolls>11</Rolls>
-+<Lifts>0</Lifts>
-+<Fakes>0</Fakes>
-+</RadarValues>
-+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
-+<Disqualified>0</Disqualified>
-+</HighScore>
-+</HighScoreList>
-+</Steps>
-+</Song>
-+<Song Dir='Songs/BHOP Ball/[T03] Levitating [SX]/'>
-+<Steps Difficulty='Challenge' StepsType='dance-single'>
-+<HighScoreList>
-+<NumTimesPlayed>1</NumTimesPlayed>
-+<LastPlayed>2026-03-09</LastPlayed>
-+</HighScoreList>
-+</Steps>
-+</Song>
-+<Song Dir='Songs/BHOP Ball/[T04] Mr. Toot/'>
-+<Steps Difficulty='Challenge' StepsType='dance-single'>
-+<HighScoreList>
-+<NumTimesPlayed>1</NumTimesPlayed>
-+<LastPlayed>2026-03-09</LastPlayed>
-+</HighScoreList>
-+</Steps>
-+</Song>
- <Song Dir='Songs/Bangers Only 3/Don&apos;t Need You/'>
- <Steps Difficulty='Medium' StepsType='dance-single'>
- <HighScoreList>
-@@ -15617,6 +16156,12 @@
- </HighScore>
- </HighScoreList>
- </Steps>
-+<Steps Difficulty='Medium' StepsType='dance-single'>
-+<HighScoreList>
-+<NumTimesPlayed>1</NumTimesPlayed>
-+<LastPlayed>2026-03-09</LastPlayed>
-+</HighScoreList>
-+</Steps>
- <Steps Difficulty='Hard' StepsType='dance-single'>
- <HighScoreList>
- <NumTimesPlayed>3</NumTimesPlayed>
-@@ -26658,33 +27203,33 @@
- </Steps>
- <Steps Difficulty='Hard' StepsType='dance-single'>
- <HighScoreList>
--<NumTimesPlayed>2</NumTimesPlayed>
--<LastPlayed>2025-09-23</LastPlayed>
--<HighGrade>Tier12</HighGrade>
-+<NumTimesPlayed>3</NumTimesPlayed>
-+<LastPlayed>2026-03-09</LastPlayed>
-+<HighGrade>Tier10</HighGrade>
- <HighScore>
- <Name>SAM!</Name>
--<Grade>Tier12</Grade>
--<Score>63</Score>
--<PercentDP>0.747500</PercentDP>
--<SurviveSeconds>120.832565</SurviveSeconds>
--<MaxCombo>209</MaxCombo>
-+<Grade>Tier10</Grade>
-+<Score>61</Score>
-+<PercentDP>0.804900</PercentDP>
-+<SurviveSeconds>120.866043</SurviveSeconds>
-+<MaxCombo>168</MaxCombo>
- <StageAward></StageAward>
- <PeakComboAward></PeakComboAward>
- <Modifiers>NoHideLights, C420, FailImmediateContinue, Overhead, Default</Modifiers>
--<DateTime>2025-09-23 20:36:13</DateTime>
-+<DateTime>2026-03-09 16:14:18</DateTime>
- <PlayerGuid>d876307e83faa0ea</PlayerGuid>
- <MachineGuid>403d15c592378cca</MachineGuid>
- <ProductID>1</ProductID>
- <TapNoteScores>
--<HitMine>2</HitMine>
-+<HitMine>0</HitMine>
- <AvoidMine>0</AvoidMine>
- <CheckpointMiss>0</CheckpointMiss>
--<Miss>9</Miss>
--<W5>1</W5>
--<W4>3</W4>
--<W3>50</W3>
--<W2>116</W2>
--<W1>182</W1>
-+<Miss>1</Miss>
-+<W5>0</W5>
-+<W4>2</W4>
-+<W3>66</W3>
-+<W2>128</W2>
-+<W1>164</W1>
- <CheckpointHit>0</CheckpointHit>
- </TapNoteScores>
- <HoldNoteScores>
-@@ -26693,16 +27238,16 @@
- <MissedHold>0</MissedHold>
- </HoldNoteScores>
- <RadarValues>
--<Stream>0.818919</Stream>
--<Voltage>0.576053</Voltage>
--<Air>0.666667</Air>
-+<Stream>0.789189</Stream>
-+<Voltage>0.465907</Voltage>
-+<Air>0.333333</Air>
- <Freeze>1.000000</Freeze>
--<Chaos>0.747514</Chaos>
--<Notes>360.000000</Notes>
--<TapsAndHolds>351</TapsAndHolds>
--<Jumps>8</Jumps>
-+<Chaos>0.804972</Chaos>
-+<Notes>369.000000</Notes>
-+<TapsAndHolds>360</TapsAndHolds>
-+<Jumps>9</Jumps>
- <Holds>1</Holds>
--<Mines>27</Mines>
-+<Mines>29</Mines>
- <Hands>0</Hands>
- <Rolls>0</Rolls>
- <Lifts>0</Lifts>
-@@ -27018,33 +27563,33 @@
- <Song Dir='Songs/Cosmic Reincarnate/He&apos;s a Pirate (Remix)/'>
- <Steps Difficulty='Hard' StepsType='dance-single'>
- <HighScoreList>
--<NumTimesPlayed>1</NumTimesPlayed>
--<LastPlayed>2025-09-23</LastPlayed>
--<HighGrade>Tier11</HighGrade>
-+<NumTimesPlayed>2</NumTimesPlayed>
-+<LastPlayed>2026-03-09</LastPlayed>
-+<HighGrade>Tier06</HighGrade>
- <HighScore>
- <Name>SAM!</Name>
--<Grade>Tier11</Grade>
--<Score>31</Score>
--<PercentDP>0.798400</PercentDP>
--<SurviveSeconds>106.540413</SurviveSeconds>
--<MaxCombo>158</MaxCombo>
--<StageAward></StageAward>
-+<Grade>Tier06</Grade>
-+<Score>51</Score>
-+<PercentDP>0.932300</PercentDP>
-+<SurviveSeconds>106.543800</SurviveSeconds>
-+<MaxCombo>268</MaxCombo>
-+<StageAward>FullComboW3</StageAward>
- <PeakComboAward></PeakComboAward>
- <Modifiers>NoHideLights, C420, FailImmediateContinue, Overhead, Default</Modifiers>
--<DateTime>2025-09-23 20:25:24</DateTime>
-+<DateTime>2026-03-09 16:17:41</DateTime>
- <PlayerGuid>d876307e83faa0ea</PlayerGuid>
- <MachineGuid>403d15c592378cca</MachineGuid>
- <ProductID>1</ProductID>
- <TapNoteScores>
--<HitMine>8</HitMine>
-+<HitMine>0</HitMine>
- <AvoidMine>0</AvoidMine>
- <CheckpointMiss>0</CheckpointMiss>
- <Miss>0</Miss>
--<W5>4</W5>
-+<W5>0</W5>
- <W4>0</W4>
--<W3>31</W3>
--<W2>77</W2>
--<W1>147</W1>
-+<W3>12</W3>
-+<W2>52</W2>
-+<W1>195</W1>
- <CheckpointHit>0</CheckpointHit>
- </TapNoteScores>
- <HoldNoteScores>
-@@ -27053,16 +27598,16 @@
- <MissedHold>0</MissedHold>
- </HoldNoteScores>
- <RadarValues>
--<Stream>0.865672</Stream>
--<Voltage>0.601325</Voltage>
--<Air>0.888889</Air>
-+<Stream>0.940298</Stream>
-+<Voltage>1.000000</Voltage>
-+<Air>0.777778</Air>
- <Freeze>1.000000</Freeze>
--<Chaos>0.798462</Chaos>
--<Notes>264.000000</Notes>
--<TapsAndHolds>255</TapsAndHolds>
-+<Chaos>0.932308</Chaos>
-+<Notes>268.000000</Notes>
-+<TapsAndHolds>259</TapsAndHolds>
- <Jumps>9</Jumps>
- <Holds>1</Holds>
--<Mines>16</Mines>
-+<Mines>24</Mines>
- <Hands>0</Hands>
- <Rolls>0</Rolls>
- <Lifts>0</Lifts>
-@@ -27136,20 +27681,20 @@
- <Song Dir='Songs/Cosmic Reincarnate/Licky Licky/'>
- <Steps Difficulty='Hard' StepsType='dance-single'>
- <HighScoreList>
--<NumTimesPlayed>1</NumTimesPlayed>
--<LastPlayed>2025-09-23</LastPlayed>
--<HighGrade>Tier11</HighGrade>
-+<NumTimesPlayed>2</NumTimesPlayed>
-+<LastPlayed>2026-03-09</LastPlayed>
-+<HighGrade>Tier07</HighGrade>
- <HighScore>
- <Name>SAM!</Name>
--<Grade>Tier11</Grade>
--<Score>48</Score>
--<PercentDP>0.778300</PercentDP>
--<SurviveSeconds>148.066742</SurviveSeconds>
--<MaxCombo>139</MaxCombo>
-+<Grade>Tier07</Grade>
-+<Score>76</Score>
-+<PercentDP>0.907200</PercentDP>
-+<SurviveSeconds>148.082718</SurviveSeconds>
-+<MaxCombo>245</MaxCombo>
- <StageAward></StageAward>
- <PeakComboAward></PeakComboAward>
- <Modifiers>NoHideLights, C420, FailImmediateContinue, Overhead, Default</Modifiers>
--<DateTime>2025-09-23 20:28:07</DateTime>
-+<DateTime>2026-03-09 16:20:29</DateTime>
- <PlayerGuid>d876307e83faa0ea</PlayerGuid>
- <MachineGuid>403d15c592378cca</MachineGuid>
- <ProductID>1</ProductID>
-@@ -27157,12 +27702,12 @@
- <HitMine>0</HitMine>
- <AvoidMine>0</AvoidMine>
- <CheckpointMiss>0</CheckpointMiss>
--<Miss>4</Miss>
-+<Miss>0</Miss>
- <W5>1</W5>
--<W4>0</W4>
--<W3>62</W3>
--<W2>103</W2>
--<W1>162</W1>
-+<W4>1</W4>
-+<W3>22</W3>
-+<W2>72</W2>
-+<W1>236</W1>
- <CheckpointHit>0</CheckpointHit>
- </TapNoteScores>
- <HoldNoteScores>
-@@ -27171,14 +27716,14 @@
- <MissedHold>0</MissedHold>
- </HoldNoteScores>
- <RadarValues>
--<Stream>0.784483</Stream>
--<Voltage>0.392562</Voltage>
--<Air>0.687500</Air>
-+<Stream>0.919540</Stream>
-+<Voltage>0.710627</Voltage>
-+<Air>0.875000</Air>
- <Freeze>0.000000</Freeze>
--<Chaos>0.778313</Chaos>
--<Notes>343.000000</Notes>
--<TapsAndHolds>327</TapsAndHolds>
--<Jumps>15</Jumps>
-+<Chaos>0.907229</Chaos>
-+<Notes>347.000000</Notes>
-+<TapsAndHolds>331</TapsAndHolds>
-+<Jumps>16</Jumps>
- <Holds>0</Holds>
- <Mines>0</Mines>
- <Hands>0</Hands>
-@@ -42355,6 +42900,63 @@
- </HighScore>
- </HighScoreList>
- </Steps>
-+<Steps Difficulty='Hard' StepsType='dance-single'>
-+<HighScoreList>
-+<NumTimesPlayed>2</NumTimesPlayed>
-+<LastPlayed>2026-03-09</LastPlayed>
-+<HighGrade>Tier10</HighGrade>
-+<HighScore>
-+<Name>SAM!</Name>
-+<Grade>Tier10</Grade>
-+<Score>51</Score>
-+<PercentDP>0.801900</PercentDP>
-+<SurviveSeconds>110.813637</SurviveSeconds>
-+<MaxCombo>155</MaxCombo>
-+<StageAward></StageAward>
-+<PeakComboAward></PeakComboAward>
-+<Modifiers>NoHideLights, C420, FailImmediateContinue, Overhead, Default</Modifiers>
-+<DateTime>2026-03-09 16:36:32</DateTime>
-+<PlayerGuid>d876307e83faa0ea</PlayerGuid>
-+<MachineGuid>403d15c592378cca</MachineGuid>
-+<ProductID>1</ProductID>
-+<TapNoteScores>
-+<HitMine>0</HitMine>
-+<AvoidMine>0</AvoidMine>
-+<CheckpointMiss>0</CheckpointMiss>
-+<Miss>2</Miss>
-+<W5>0</W5>
-+<W4>3</W4>
-+<W3>53</W3>
-+<W2>94</W2>
-+<W1>146</W1>
-+<CheckpointHit>0</CheckpointHit>
-+</TapNoteScores>
-+<HoldNoteScores>
-+<LetGo>0</LetGo>
-+<Held>7</Held>
-+<MissedHold>0</MissedHold>
-+</HoldNoteScores>
-+<RadarValues>
-+<Stream>0.806020</Stream>
-+<Voltage>0.576798</Voltage>
-+<Air>1.000000</Air>
-+<Freeze>1.000000</Freeze>
-+<Chaos>0.801967</Chaos>
-+<Notes>297.000000</Notes>
-+<TapsAndHolds>296</TapsAndHolds>
-+<Jumps>1</Jumps>
-+<Holds>7</Holds>
-+<Mines>0</Mines>
-+<Hands>0</Hands>
-+<Rolls>0</Rolls>
-+<Lifts>0</Lifts>
-+<Fakes>0</Fakes>
-+</RadarValues>
-+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
-+<Disqualified>0</Disqualified>
-+</HighScore>
-+</HighScoreList>
-+</Steps>
- </Song>
- <Song Dir='Songs/Elemwarr Misc/Ants/'>
- <Steps Difficulty='Challenge' StepsType='dance-single'>
-@@ -42832,6 +43434,65 @@
- </HighScoreList>
- </Steps>
- </Song>
-+<Song Dir='Songs/Elemwarr Misc/Luminous Intensity (Radio Edit)/'>
-+<Steps Difficulty='Hard' StepsType='dance-single'>
-+<HighScoreList>
-+<NumTimesPlayed>1</NumTimesPlayed>
-+<LastPlayed>2026-03-09</LastPlayed>
-+<HighGrade>Tier15</HighGrade>
-+<HighScore>
-+<Name>SAM!</Name>
-+<Grade>Tier15</Grade>
-+<Score>50</Score>
-+<PercentDP>0.632100</PercentDP>
-+<SurviveSeconds>119.413750</SurviveSeconds>
-+<MaxCombo>102</MaxCombo>
-+<StageAward></StageAward>
-+<PeakComboAward></PeakComboAward>
-+<Modifiers>NoHideLights, C420, FailImmediateContinue, Overhead, Default</Modifiers>
-+<DateTime>2026-03-09 16:43:22</DateTime>
-+<PlayerGuid>d876307e83faa0ea</PlayerGuid>
-+<MachineGuid>403d15c592378cca</MachineGuid>
-+<ProductID>1</ProductID>
-+<TapNoteScores>
-+<HitMine>0</HitMine>
-+<AvoidMine>0</AvoidMine>
-+<CheckpointMiss>0</CheckpointMiss>
-+<Miss>18</Miss>
-+<W5>4</W5>
-+<W4>5</W4>
-+<W3>68</W3>
-+<W2>85</W2>
-+<W1>178</W1>
-+<CheckpointHit>0</CheckpointHit>
-+</TapNoteScores>
-+<HoldNoteScores>
-+<LetGo>0</LetGo>
-+<Held>3</Held>
-+<MissedHold>0</MissedHold>
-+</HoldNoteScores>
-+<RadarValues>
-+<Stream>0.737265</Stream>
-+<Voltage>0.274667</Voltage>
-+<Air>0.866667</Air>
-+<Freeze>1.000000</Freeze>
-+<Chaos>0.632133</Chaos>
-+<Notes>351.000000</Notes>
-+<TapsAndHolds>336</TapsAndHolds>
-+<Jumps>15</Jumps>
-+<Holds>3</Holds>
-+<Mines>0</Mines>
-+<Hands>0</Hands>
-+<Rolls>0</Rolls>
-+<Lifts>0</Lifts>
-+<Fakes>0</Fakes>
-+</RadarValues>
-+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
-+<Disqualified>0</Disqualified>
-+</HighScore>
-+</HighScoreList>
-+</Steps>
-+</Song>
- <Song Dir='Songs/Elemwarr Misc/My Life Is A Party (Radio Edit)/'>
- <Steps Difficulty='Challenge' StepsType='dance-single'>
- <HighScoreList>
-@@ -43126,6 +43787,63 @@
- </HighScore>
- </HighScoreList>
- </Steps>
-+<Steps Difficulty='Medium' StepsType='dance-single'>
-+<HighScoreList>
-+<NumTimesPlayed>1</NumTimesPlayed>
-+<LastPlayed>2026-03-09</LastPlayed>
-+<HighGrade>Tier09</HighGrade>
-+<HighScore>
-+<Name>SAM!</Name>
-+<Grade>Tier09</Grade>
-+<Score>81</Score>
-+<PercentDP>0.831800</PercentDP>
-+<SurviveSeconds>126.764397</SurviveSeconds>
-+<MaxCombo>297</MaxCombo>
-+<StageAward></StageAward>
-+<PeakComboAward></PeakComboAward>
-+<Modifiers>NoHideLights, C420, FailImmediateContinue, Overhead, Default</Modifiers>
-+<DateTime>2026-03-09 16:39:09</DateTime>
-+<PlayerGuid>d876307e83faa0ea</PlayerGuid>
-+<MachineGuid>403d15c592378cca</MachineGuid>
-+<ProductID>1</ProductID>
-+<TapNoteScores>
-+<HitMine>0</HitMine>
-+<AvoidMine>0</AvoidMine>
-+<CheckpointMiss>0</CheckpointMiss>
-+<Miss>2</Miss>
-+<W5>1</W5>
-+<W4>2</W4>
-+<W3>69</W3>
-+<W2>124</W2>
-+<W1>188</W1>
-+<CheckpointHit>0</CheckpointHit>
-+</TapNoteScores>
-+<HoldNoteScores>
-+<LetGo>0</LetGo>
-+<Held>73</Held>
-+<MissedHold>0</MissedHold>
-+</HoldNoteScores>
-+<RadarValues>
-+<Stream>0.795620</Stream>
-+<Voltage>0.732666</Voltage>
-+<Air>0.760000</Air>
-+<Freeze>1.000000</Freeze>
-+<Chaos>0.831808</Chaos>
-+<Notes>408.000000</Notes>
-+<TapsAndHolds>383</TapsAndHolds>
-+<Jumps>25</Jumps>
-+<Holds>73</Holds>
-+<Mines>0</Mines>
-+<Hands>0</Hands>
-+<Rolls>0</Rolls>
-+<Lifts>0</Lifts>
-+<Fakes>0</Fakes>
-+</RadarValues>
-+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
-+<Disqualified>0</Disqualified>
-+</HighScore>
-+</HighScoreList>
-+</Steps>
- <Steps Difficulty='Hard' StepsType='dance-single'>
- <HighScoreList>
- <NumTimesPlayed>1</NumTimesPlayed>
-@@ -44100,6 +44818,301 @@
- </HighScoreList>
- </Steps>
- </Song>
-+<Song Dir='Songs/Freyja&apos;s Grimoire/2 Die 4/'>
-+<Steps Difficulty='Easy' StepsType='dance-single'>
-+<HighScoreList>
-+<NumTimesPlayed>1</NumTimesPlayed>
-+<LastPlayed>2026-03-09</LastPlayed>
-+<HighGrade>Tier08</HighGrade>
-+<HighScore>
-+<Name>KYLE</Name>
-+<Grade>Tier08</Grade>
-+<Score>114</Score>
-+<PercentDP>0.881800</PercentDP>
-+<SurviveSeconds>186.927933</SurviveSeconds>
-+<MaxCombo>326</MaxCombo>
-+<StageAward></StageAward>
-+<PeakComboAward></PeakComboAward>
-+<Modifiers>NoHideLights, C590, 15% Mini, FailImmediateContinue, Overhead, Default</Modifiers>
-+<DateTime>2026-03-09 15:43:49</DateTime>
-+<PlayerGuid>4ad3a19834ee56bd</PlayerGuid>
-+<MachineGuid>403d15c592378cca</MachineGuid>
-+<ProductID>1</ProductID>
-+<TapNoteScores>
-+<HitMine>0</HitMine>
-+<AvoidMine>0</AvoidMine>
-+<CheckpointMiss>0</CheckpointMiss>
-+<Miss>3</Miss>
-+<W5>2</W5>
-+<W4>0</W4>
-+<W3>54</W3>
-+<W2>175</W2>
-+<W1>388</W1>
-+<CheckpointHit>0</CheckpointHit>
-+</TapNoteScores>
-+<HoldNoteScores>
-+<LetGo>0</LetGo>
-+<Held>72</Held>
-+<MissedHold>0</MissedHold>
-+</HoldNoteScores>
-+<RadarValues>
-+<Stream>0.905901</Stream>
-+<Voltage>0.490807</Voltage>
-+<Air>1.000000</Air>
-+<Freeze>1.000000</Freeze>
-+<Chaos>0.881844</Chaos>
-+<Notes>622.000000</Notes>
-+<TapsAndHolds>617</TapsAndHolds>
-+<Jumps>5</Jumps>
-+<Holds>69</Holds>
-+<Mines>43</Mines>
-+<Hands>0</Hands>
-+<Rolls>3</Rolls>
-+<Lifts>0</Lifts>
-+<Fakes>0</Fakes>
-+</RadarValues>
-+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
-+<Disqualified>0</Disqualified>
-+</HighScore>
-+</HighScoreList>
-+</Steps>
-+</Song>
-+<Song Dir='Songs/Freyja&apos;s Grimoire/Bangarang/'>
-+<Steps Difficulty='Easy' StepsType='dance-single'>
-+<HighScoreList>
-+<NumTimesPlayed>2</NumTimesPlayed>
-+<LastPlayed>2026-03-09</LastPlayed>
-+<HighGrade>Tier11</HighGrade>
-+<HighScore>
-+<Name>KYLE</Name>
-+<Grade>Tier11</Grade>
-+<Score>91</Score>
-+<PercentDP>0.780000</PercentDP>
-+<SurviveSeconds>146.331039</SurviveSeconds>
-+<MaxCombo>340</MaxCombo>
-+<StageAward></StageAward>
-+<PeakComboAward></PeakComboAward>
-+<Modifiers>NoHideLights, C590, 15% Mini, FailImmediateContinue, Overhead, Default</Modifiers>
-+<DateTime>2026-03-09 15:47:07</DateTime>
-+<PlayerGuid>4ad3a19834ee56bd</PlayerGuid>
-+<MachineGuid>403d15c592378cca</MachineGuid>
-+<ProductID>1</ProductID>
-+<TapNoteScores>
-+<HitMine>0</HitMine>
-+<AvoidMine>0</AvoidMine>
-+<CheckpointMiss>0</CheckpointMiss>
-+<Miss>14</Miss>
-+<W5>9</W5>
-+<W4>16</W4>
-+<W3>125</W3>
-+<W2>159</W2>
-+<W1>314</W1>
-+<CheckpointHit>0</CheckpointHit>
-+</TapNoteScores>
-+<HoldNoteScores>
-+<LetGo>0</LetGo>
-+<Held>249</Held>
-+<MissedHold>6</MissedHold>
-+</HoldNoteScores>
-+<RadarValues>
-+<Stream>0.746291</Stream>
-+<Voltage>0.499463</Voltage>
-+<Air>0.594595</Air>
-+<Freeze>0.972028</Freeze>
-+<Chaos>0.780045</Chaos>
-+<Notes>650.000000</Notes>
-+<TapsAndHolds>614</TapsAndHolds>
-+<Jumps>35</Jumps>
-+<Holds>139</Holds>
-+<Mines>46</Mines>
-+<Hands>0</Hands>
-+<Rolls>110</Rolls>
-+<Lifts>0</Lifts>
-+<Fakes>0</Fakes>
-+</RadarValues>
-+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
-+<Disqualified>0</Disqualified>
-+</HighScore>
-+</HighScoreList>
-+</Steps>
-+</Song>
-+<Song Dir='Songs/Freyja&apos;s Grimoire/Becoming Insane (Radio Mix) - cut/'>
-+<Steps Difficulty='Easy' StepsType='dance-single'>
-+<HighScoreList>
-+<NumTimesPlayed>1</NumTimesPlayed>
-+<LastPlayed>2026-03-09</LastPlayed>
-+<HighGrade>Tier08</HighGrade>
-+<HighScore>
-+<Name>KYLE</Name>
-+<Grade>Tier08</Grade>
-+<Score>88</Score>
-+<PercentDP>0.874600</PercentDP>
-+<SurviveSeconds>139.829544</SurviveSeconds>
-+<MaxCombo>183</MaxCombo>
-+<StageAward></StageAward>
-+<PeakComboAward></PeakComboAward>
-+<Modifiers>NoHideLights, C590, 15% Mini, FailImmediateContinue, Overhead, Default</Modifiers>
-+<DateTime>2026-03-09 16:05:03</DateTime>
-+<PlayerGuid>4ad3a19834ee56bd</PlayerGuid>
-+<MachineGuid>403d15c592378cca</MachineGuid>
-+<ProductID>1</ProductID>
-+<TapNoteScores>
-+<HitMine>0</HitMine>
-+<AvoidMine>0</AvoidMine>
-+<CheckpointMiss>0</CheckpointMiss>
-+<Miss>2</Miss>
-+<W5>2</W5>
-+<W4>1</W4>
-+<W3>47</W3>
-+<W2>134</W2>
-+<W1>284</W1>
-+<CheckpointHit>0</CheckpointHit>
-+</TapNoteScores>
-+<HoldNoteScores>
-+<LetGo>0</LetGo>
-+<Held>66</Held>
-+<MissedHold>0</MissedHold>
-+</HoldNoteScores>
-+<RadarValues>
-+<Stream>0.890947</Stream>
-+<Voltage>0.385532</Voltage>
-+<Air>0.875000</Air>
-+<Freeze>1.000000</Freeze>
-+<Chaos>0.874627</Chaos>
-+<Notes>482.000000</Notes>
-+<TapsAndHolds>466</TapsAndHolds>
-+<Jumps>16</Jumps>
-+<Holds>44</Holds>
-+<Mines>0</Mines>
-+<Hands>0</Hands>
-+<Rolls>22</Rolls>
-+<Lifts>0</Lifts>
-+<Fakes>0</Fakes>
-+</RadarValues>
-+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
-+<Disqualified>0</Disqualified>
-+</HighScore>
-+</HighScoreList>
-+</Steps>
-+</Song>
-+<Song Dir='Songs/Freyja&apos;s Grimoire/Mad World/'>
-+<Steps Difficulty='Easy' StepsType='dance-single'>
-+<HighScoreList>
-+<NumTimesPlayed>1</NumTimesPlayed>
-+<LastPlayed>2026-03-09</LastPlayed>
-+<HighGrade>Tier08</HighGrade>
-+<HighScore>
-+<Name>KYLE</Name>
-+<Grade>Tier08</Grade>
-+<Score>83</Score>
-+<PercentDP>0.860600</PercentDP>
-+<SurviveSeconds>153.481308</SurviveSeconds>
-+<MaxCombo>288</MaxCombo>
-+<StageAward></StageAward>
-+<PeakComboAward></PeakComboAward>
-+<Modifiers>NoHideLights, C590, 15% Mini, FailImmediateContinue, Overhead, Default</Modifiers>
-+<DateTime>2026-03-09 15:51:11</DateTime>
-+<PlayerGuid>4ad3a19834ee56bd</PlayerGuid>
-+<MachineGuid>403d15c592378cca</MachineGuid>
-+<ProductID>1</ProductID>
-+<TapNoteScores>
-+<HitMine>0</HitMine>
-+<AvoidMine>0</AvoidMine>
-+<CheckpointMiss>0</CheckpointMiss>
-+<Miss>2</Miss>
-+<W5>0</W5>
-+<W4>3</W4>
-+<W3>55</W3>
-+<W2>142</W2>
-+<W1>287</W1>
-+<CheckpointHit>0</CheckpointHit>
-+</TapNoteScores>
-+<HoldNoteScores>
-+<LetGo>0</LetGo>
-+<Held>22</Held>
-+<MissedHold>0</MissedHold>
-+</HoldNoteScores>
-+<RadarValues>
-+<Stream>0.877551</Stream>
-+<Voltage>0.646772</Voltage>
-+<Air>1.000000</Air>
-+<Freeze>1.000000</Freeze>
-+<Chaos>0.860665</Chaos>
-+<Notes>488.000000</Notes>
-+<TapsAndHolds>487</TapsAndHolds>
-+<Jumps>1</Jumps>
-+<Holds>22</Holds>
-+<Mines>0</Mines>
-+<Hands>0</Hands>
-+<Rolls>0</Rolls>
-+<Lifts>0</Lifts>
-+<Fakes>0</Fakes>
-+</RadarValues>
-+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
-+<Disqualified>0</Disqualified>
-+</HighScore>
-+</HighScoreList>
-+</Steps>
-+</Song>
-+<Song Dir='Songs/Freyja&apos;s Grimoire/The Vulture/'>
-+<Steps Difficulty='Easy' StepsType='dance-single'>
-+<HighScoreList>
-+<NumTimesPlayed>1</NumTimesPlayed>
-+<LastPlayed>2026-03-09</LastPlayed>
-+<HighGrade>Tier07</HighGrade>
-+<HighScore>
-+<Name>KYLE</Name>
-+<Grade>Tier07</Grade>
-+<Score>139</Score>
-+<PercentDP>0.900000</PercentDP>
-+<SurviveSeconds>243.343552</SurviveSeconds>
-+<MaxCombo>257</MaxCombo>
-+<StageAward></StageAward>
-+<PeakComboAward></PeakComboAward>
-+<Modifiers>NoHideLights, C590, 15% Mini, FailImmediateContinue, Overhead, Default</Modifiers>
-+<DateTime>2026-03-09 16:11:00</DateTime>
-+<PlayerGuid>4ad3a19834ee56bd</PlayerGuid>
-+<MachineGuid>403d15c592378cca</MachineGuid>
-+<ProductID>1</ProductID>
-+<TapNoteScores>
-+<HitMine>2</HitMine>
-+<AvoidMine>0</AvoidMine>
-+<CheckpointMiss>0</CheckpointMiss>
-+<Miss>4</Miss>
-+<W5>2</W5>
-+<W4>7</W4>
-+<W3>67</W3>
-+<W2>158</W2>
-+<W1>555</W1>
-+<CheckpointHit>0</CheckpointHit>
-+</TapNoteScores>
-+<HoldNoteScores>
-+<LetGo>2</LetGo>
-+<Held>235</Held>
-+<MissedHold>2</MissedHold>
-+</HoldNoteScores>
-+<RadarValues>
-+<Stream>0.900249</Stream>
-+<Voltage>0.332547</Voltage>
-+<Air>1.000000</Air>
-+<Freeze>0.990148</Freeze>
-+<Chaos>0.900000</Chaos>
-+<Notes>796.000000</Notes>
-+<TapsAndHolds>787</TapsAndHolds>
-+<Jumps>9</Jumps>
-+<Holds>201</Holds>
-+<Mines>1</Mines>
-+<Hands>0</Hands>
-+<Rolls>34</Rolls>
-+<Lifts>0</Lifts>
-+<Fakes>0</Fakes>
-+</RadarValues>
-+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
-+<Disqualified>0</Disqualified>
-+</HighScore>
-+</HighScoreList>
-+</Steps>
-+</Song>
- <Song Dir='Songs/GG Basics/Instanbul/'>
- <Steps Difficulty='Hard' StepsType='dance-single'>
- <HighScoreList>
-@@ -83024,8 +84037,8 @@
- </Steps>
- <Steps Difficulty='Medium' StepsType='dance-single'>
- <HighScoreList>
--<NumTimesPlayed>2</NumTimesPlayed>
--<LastPlayed>2026-01-04</LastPlayed>
-+<NumTimesPlayed>3</NumTimesPlayed>
-+<LastPlayed>2026-03-09</LastPlayed>
- </HighScoreList>
- </Steps>
- <Steps Difficulty='Challenge' StepsType='dance-single'>
-@@ -85132,8 +86145,8 @@
- </Steps>
- <Steps Difficulty='Hard' StepsType='dance-single'>
- <HighScoreList>
--<NumTimesPlayed>8</NumTimesPlayed>
--<LastPlayed>2026-02-16</LastPlayed>
-+<NumTimesPlayed>9</NumTimesPlayed>
-+<LastPlayed>2026-03-09</LastPlayed>
- <HighGrade>Tier07</HighGrade>
- <HighScore>
- <Name>KYLE</Name>
-@@ -85187,15 +86200,15 @@
- </HighScore>
- <HighScore>
- <Name>SAM!</Name>
--<Grade>Tier11</Grade>
--<Score>62</Score>
--<PercentDP>0.765800</PercentDP>
--<SurviveSeconds>121.559860</SurviveSeconds>
--<MaxCombo>228</MaxCombo>
-+<Grade>Tier10</Grade>
-+<Score>59</Score>
-+<PercentDP>0.808500</PercentDP>
-+<SurviveSeconds>121.534454</SurviveSeconds>
-+<MaxCombo>170</MaxCombo>
- <StageAward></StageAward>
- <PeakComboAward></PeakComboAward>
- <Modifiers>NoHideLights, C420, FailImmediateContinue, Overhead, Default</Modifiers>
--<DateTime>2026-02-16 16:25:26</DateTime>
-+<DateTime>2026-03-09 15:32:17</DateTime>
- <PlayerGuid>d876307e83faa0ea</PlayerGuid>
- <MachineGuid>403d15c592378cca</MachineGuid>
- <ProductID>1</ProductID>
-@@ -85203,12 +86216,12 @@
- <HitMine>0</HitMine>
- <AvoidMine>0</AvoidMine>
- <CheckpointMiss>0</CheckpointMiss>
--<Miss>5</Miss>
--<W5>1</W5>
--<W4>2</W4>
--<W3>61</W3>
--<W2>95</W2>
--<W1>154</W1>
-+<Miss>4</Miss>
-+<W5>0</W5>
-+<W4>1</W4>
-+<W3>44</W3>
-+<W2>109</W2>
-+<W1>160</W1>
- <CheckpointHit>0</CheckpointHit>
- </TapNoteScores>
- <HoldNoteScores>
-@@ -85217,13 +86230,13 @@
- <MissedHold>0</MissedHold>
- </HoldNoteScores>
- <RadarValues>
--<Stream>0.759003</Stream>
--<Voltage>0.609738</Voltage>
--<Air>0.767442</Air>
-+<Stream>0.833795</Stream>
-+<Voltage>0.459276</Voltage>
-+<Air>0.953488</Air>
- <Freeze>1.000000</Freeze>
--<Chaos>0.765854</Chaos>
--<Notes>354.000000</Notes>
--<TapsAndHolds>312</TapsAndHolds>
-+<Chaos>0.808537</Chaos>
-+<Notes>357.000000</Notes>
-+<TapsAndHolds>314</TapsAndHolds>
- <Jumps>43</Jumps>
- <Holds>10</Holds>
- <Mines>0</Mines>
-@@ -86692,8 +87705,59 @@
- <Song Dir='Songs/Misc. Collected/Don&apos;t Blame Me/'>
- <Steps Difficulty='Easy' StepsType='dance-single'>
- <HighScoreList>
--<NumTimesPlayed>1</NumTimesPlayed>
--<LastPlayed>2026-02-14</LastPlayed>
-+<NumTimesPlayed>2</NumTimesPlayed>
-+<LastPlayed>2026-03-09</LastPlayed>
-+<HighGrade>Tier16</HighGrade>
-+<HighScore>
-+<Name>LIZY</Name>
-+<Grade>Tier16</Grade>
-+<Score>16</Score>
-+<PercentDP>0.565700</PercentDP>
-+<SurviveSeconds>151.312347</SurviveSeconds>
-+<MaxCombo>25</MaxCombo>
-+<StageAward></StageAward>
-+<PeakComboAward></PeakComboAward>
-+<Modifiers>NoHideLights, C335, FailImmediateContinue, Overhead</Modifiers>
-+<DateTime>2026-03-09 15:29:17</DateTime>
-+<PlayerGuid>2dde4d6e8737681e</PlayerGuid>
-+<MachineGuid>403d15c592378cca</MachineGuid>
-+<ProductID>1</ProductID>
-+<TapNoteScores>
-+<HitMine>0</HitMine>
-+<AvoidMine>0</AvoidMine>
-+<CheckpointMiss>0</CheckpointMiss>
-+<Miss>6</Miss>
-+<W5>6</W5>
-+<W4>9</W4>
-+<W3>49</W3>
-+<W2>36</W2>
-+<W1>61</W1>
-+<CheckpointHit>0</CheckpointHit>
-+</TapNoteScores>
-+<HoldNoteScores>
-+<LetGo>2</LetGo>
-+<Held>18</Held>
-+<MissedHold>0</MissedHold>
-+</HoldNoteScores>
-+<RadarValues>
-+<Stream>0.583815</Stream>
-+<Voltage>0.147286</Voltage>
-+<Air>0.500000</Air>
-+<Freeze>0.900000</Freeze>
-+<Chaos>0.565775</Chaos>
-+<Notes>160.000000</Notes>
-+<TapsAndHolds>155</TapsAndHolds>
-+<Jumps>5</Jumps>
-+<Holds>18</Holds>
-+<Mines>0</Mines>
-+<Hands>0</Hands>
-+<Rolls>0</Rolls>
-+<Lifts>0</Lifts>
-+<Fakes>0</Fakes>
-+</RadarValues>
-+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
-+<Disqualified>0</Disqualified>
-+</HighScore>
- </HighScoreList>
- </Steps>
- </Song>
-@@ -129572,6 +130636,7 @@
- <CaloriesBurned Date='2026-02-16'>1900.385742</CaloriesBurned>
- <CaloriesBurned Date='2026-02-17'>178.590149</CaloriesBurned>
- <CaloriesBurned Date='2026-02-25'>5.291996</CaloriesBurned>
-+<CaloriesBurned Date='2026-03-09'>1609.704590</CaloriesBurned>
- </CalorieData>
- <CoinData>
- <LastDays>
-@@ -129585,10 +130650,10 @@
- </LastDays>
- <LastWeeks>
+@@ -130652,8 +130652,8 @@
  <ThisWeek>0</ThisWeek>
--<LastWeek>1</LastWeek>
-+<LastWeek>2</LastWeek>
+ <LastWeek>2</LastWeek>
  <Week02Ago>0</Week02Ago>
- <Week03Ago>0</Week03Ago>
--<Week04Ago>0</Week04Ago>
-+<Week04Ago>1</Week04Ago>
+-<Week03Ago>0</Week03Ago>
+-<Week04Ago>1</Week04Ago>
++<Week03Ago>1</Week03Ago>
++<Week04Ago>0</Week04Ago>
  <Week05Ago>0</Week05Ago>
  <Week06Ago>0</Week06Ago>
  <Week07Ago>0</Week07Ago>
-@@ -129601,44 +130666,44 @@
- <Week14Ago>0</Week14Ago>
+@@ -130667,8 +130667,8 @@
  <Week15Ago>0</Week15Ago>
  <Week16Ago>0</Week16Ago>
--<Week17Ago>1</Week17Ago>
-+<Week17Ago>0</Week17Ago>
- <Week18Ago>0</Week18Ago>
--<Week19Ago>0</Week19Ago>
-+<Week19Ago>1</Week19Ago>
+ <Week17Ago>0</Week17Ago>
+-<Week18Ago>0</Week18Ago>
+-<Week19Ago>1</Week19Ago>
++<Week18Ago>1</Week18Ago>
++<Week19Ago>0</Week19Ago>
  <Week20Ago>0</Week20Ago>
--<Week21Ago>1</Week21Ago>
-+<Week21Ago>0</Week21Ago>
+ <Week21Ago>0</Week21Ago>
  <Week22Ago>0</Week22Ago>
--<Week23Ago>0</Week23Ago>
-+<Week23Ago>1</Week23Ago>
- <Week24Ago>0</Week24Ago>
- <Week25Ago>0</Week25Ago>
--<Week26Ago>1</Week26Ago>
-+<Week26Ago>0</Week26Ago>
- <Week27Ago>0</Week27Ago>
--<Week28Ago>0</Week28Ago>
-+<Week28Ago>1</Week28Ago>
- <Week29Ago>0</Week29Ago>
- <Week30Ago>0</Week30Ago>
- <Week31Ago>0</Week31Ago>
--<Week32Ago>1</Week32Ago>
-+<Week32Ago>0</Week32Ago>
- <Week33Ago>0</Week33Ago>
--<Week34Ago>0</Week34Ago>
--<Week35Ago>2</Week35Ago>
--<Week36Ago>1</Week36Ago>
--<Week37Ago>1</Week37Ago>
--<Week38Ago>1</Week38Ago>
--<Week39Ago>1</Week39Ago>
--<Week40Ago>0</Week40Ago>
--<Week41Ago>0</Week41Ago>
--<Week42Ago>1</Week42Ago>
-+<Week34Ago>1</Week34Ago>
-+<Week35Ago>0</Week35Ago>
-+<Week36Ago>0</Week36Ago>
-+<Week37Ago>2</Week37Ago>
-+<Week38Ago>0</Week38Ago>
-+<Week39Ago>2</Week39Ago>
-+<Week40Ago>1</Week40Ago>
-+<Week41Ago>1</Week41Ago>
-+<Week42Ago>0</Week42Ago>
+@@ -130687,10 +130687,10 @@
+ <Week35Ago>0</Week35Ago>
+ <Week36Ago>0</Week36Ago>
+ <Week37Ago>2</Week37Ago>
+-<Week38Ago>0</Week38Ago>
+-<Week39Ago>2</Week39Ago>
+-<Week40Ago>1</Week40Ago>
+-<Week41Ago>1</Week41Ago>
++<Week38Ago>1</Week38Ago>
++<Week39Ago>1</Week39Ago>
++<Week40Ago>2</Week40Ago>
++<Week41Ago>0</Week41Ago>
+ <Week42Ago>0</Week42Ago>
  <Week43Ago>0</Week43Ago>
--<Week44Ago>0</Week44Ago>
--<Week45Ago>1</Week45Ago>
-+<Week44Ago>1</Week44Ago>
-+<Week45Ago>0</Week45Ago>
- <Week46Ago>0</Week46Ago>
--<Week47Ago>0</Week47Ago>
-+<Week47Ago>1</Week47Ago>
- <Week48Ago>0</Week48Ago>
- <Week49Ago>0</Week49Ago>
- <Week50Ago>0</Week50Ago>
- <Week51Ago>0</Week51Ago>
- </LastWeeks>
- <DayOfWeek>
--<Sunday>4</Sunday>
-+<Sunday>6</Sunday>
- <Monday>0</Monday>
- <Tuesday>1</Tuesday>
- <Wednesday>1</Wednesday>
-@@ -129662,7 +130727,7 @@
- <Hour12>0</Hour12>
- <Hour13>0</Hour13>
- <Hour14>2</Hour14>
--<Hour15>0</Hour15>
-+<Hour15>2</Hour15>
- <Hour16>0</Hour16>
- <Hour17>1</Hour17>
- <Hour18>1</Hour18>
+ <Week44Ago>1</Week44Ago>
 ```
 
 ### ITGMania/SaveAppData/MachineProfile/Type.ini
@@ -5350,2268 +5704,15 @@ Machine-level profile and stats.
 
 ```diff
 diff --git a/ITGMania/SaveAppData/MachineProfile/Type.ini b/ITGMania/SaveAppData/MachineProfile/Type.ini
-index 4b9b042..6bde5b2 100644
+index 6bde5b2..5b92ea9 100644
 --- a/ITGMania/SaveAppData/MachineProfile/Type.ini
 +++ b/ITGMania/SaveAppData/MachineProfile/Type.ini
 @@ -1,5 +1,5 @@
  [ListPosition]
--LastPlayedDate=2026-02-27 11:15:24
-+LastPlayedDate=2026-03-09 16:52:21
+-LastPlayedDate=2026-03-09 16:52:21
++LastPlayedDate=2026-03-10 08:29:37
  Priority=0
  Type=Normal
  
-```
-
-### ITGMania/SaveAppData/Preferences.ini
-
-Game preferences (theme, options, etc.).
-
-```diff
-diff --git a/ITGMania/SaveAppData/Preferences.ini b/ITGMania/SaveAppData/Preferences.ini
-index 6fab70e..9daa4f5 100644
---- a/ITGMania/SaveAppData/Preferences.ini
-+++ b/ITGMania/SaveAppData/Preferences.ini
-@@ -79,7 +79,7 @@ EditorNoteSkinP2=cel
- EditorShowBGChangesPlay=1
- EnableAttackSounds=1
- EnableMineHitSound=1
--EventMode=1
-+EventMode=0
- FailOffForFirstStageEasy=0
- FailOffInBeginner=0
- FastLoad=0
-```
-
-### ITGMania/SaveAppData/Upload/2026-03-09 00000.xml
-
-Replay/upload queue.
-
-```diff
-diff --git a/ITGMania/SaveAppData/Upload/2026-03-09 00000.xml b/ITGMania/SaveAppData/Upload/2026-03-09 00000.xml
-new file mode 100644
-index 0000000..61a3dee
---- /dev/null
-+++ b/ITGMania/SaveAppData/Upload/2026-03-09 00000.xml	
-@@ -0,0 +1,64 @@
-+<?xml version="1.0" encoding="UTF-8" ?>
-+
-+<Stats>
-+<MachineGuid>403d15c592378cca</MachineGuid>
-+<RecentSongScores>
-+<HighScoreForASongAndSteps>
-+<Song Dir='Songs/BHOP Ball/[T01] Boom Boom Pow/'/>
-+<Steps Difficulty='Challenge' StepsType='dance-single'/>
-+<HighScore>
-+<Name></Name>
-+<Grade>Tier07</Grade>
-+<Score>51</Score>
-+<PercentDP>0.901100</PercentDP>
-+<SurviveSeconds>125.946541</SurviveSeconds>
-+<MaxCombo>325</MaxCombo>
-+<StageAward>FullComboW3</StageAward>
-+<PeakComboAward></PeakComboAward>
-+<Modifiers>NoHideLights, C590, 15% Mini, FailImmediateContinue, Overhead, Default</Modifiers>
-+<DateTime>2026-03-09 15:04:58</DateTime>
-+<PlayerGuid>4ad3a19834ee56bd</PlayerGuid>
-+<MachineGuid>403d15c592378cca</MachineGuid>
-+<ProductID>1</ProductID>
-+<TapNoteScores>
-+<HitMine>3</HitMine>
-+<AvoidMine>0</AvoidMine>
-+<CheckpointMiss>0</CheckpointMiss>
-+<Miss>0</Miss>
-+<W5>0</W5>
-+<W4>0</W4>
-+<W3>31</W3>
-+<W2>58</W2>
-+<W1>206</W1>
-+<CheckpointHit>0</CheckpointHit>
-+</TapNoteScores>
-+<HoldNoteScores>
-+<LetGo>0</LetGo>
-+<Held>47</Held>
-+<MissedHold>0</MissedHold>
-+</HoldNoteScores>
-+<RadarValues>
-+<Stream>0.898462</Stream>
-+<Voltage>1.000000</Voltage>
-+<Air>0.766667</Air>
-+<Freeze>1.000000</Freeze>
-+<Chaos>0.901170</Chaos>
-+<Notes>325.000000</Notes>
-+<TapsAndHolds>295</TapsAndHolds>
-+<Jumps>30</Jumps>
-+<Holds>17</Holds>
-+<Mines>22</Mines>
-+<Hands>0</Hands>
-+<Rolls>30</Rolls>
-+<Lifts>0</Lifts>
-+<Fakes>0</Fakes>
-+</RadarValues>
-+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
-+<Disqualified>0</Disqualified>
-+<Pad>33</Pad>
-+<StageGuid>f5c00a22-c0e8-4daa-a011-6dbe52a07a4f</StageGuid>
-+<Guid>edec9b01-b0d3-4eb8-ad61-73a0ecaae836</Guid>
-+</HighScore>
-+</HighScoreForASongAndSteps>
-+</RecentSongScores>
-+</Stats>
-```
-
-### ITGMania/SaveAppData/Upload/2026-03-09 00001.xml
-
-Replay/upload queue.
-
-```diff
-diff --git a/ITGMania/SaveAppData/Upload/2026-03-09 00001.xml b/ITGMania/SaveAppData/Upload/2026-03-09 00001.xml
-new file mode 100644
-index 0000000..7742a74
---- /dev/null
-+++ b/ITGMania/SaveAppData/Upload/2026-03-09 00001.xml	
-@@ -0,0 +1,64 @@
-+<?xml version="1.0" encoding="UTF-8" ?>
-+
-+<Stats>
-+<MachineGuid>403d15c592378cca</MachineGuid>
-+<RecentSongScores>
-+<HighScoreForASongAndSteps>
-+<Song Dir='Songs/BHOP Ball/[T02] ON FIRE/'/>
-+<Steps Difficulty='Challenge' StepsType='dance-single'/>
-+<HighScore>
-+<Name></Name>
-+<Grade>Tier08</Grade>
-+<Score>106</Score>
-+<PercentDP>0.885900</PercentDP>
-+<SurviveSeconds>112.381607</SurviveSeconds>
-+<MaxCombo>254</MaxCombo>
-+<StageAward></StageAward>
-+<PeakComboAward></PeakComboAward>
-+<Modifiers>NoHideLights, C590, 15% Mini, FailImmediateContinue, Overhead, Default</Modifiers>
-+<DateTime>2026-03-09 15:08:27</DateTime>
-+<PlayerGuid>4ad3a19834ee56bd</PlayerGuid>
-+<MachineGuid>403d15c592378cca</MachineGuid>
-+<ProductID>1</ProductID>
-+<TapNoteScores>
-+<HitMine>0</HitMine>
-+<AvoidMine>0</AvoidMine>
-+<CheckpointMiss>0</CheckpointMiss>
-+<Miss>0</Miss>
-+<W5>1</W5>
-+<W4>1</W4>
-+<W3>48</W3>
-+<W2>145</W2>
-+<W1>291</W1>
-+<CheckpointHit>0</CheckpointHit>
-+</TapNoteScores>
-+<HoldNoteScores>
-+<LetGo>0</LetGo>
-+<Held>49</Held>
-+<MissedHold>0</MissedHold>
-+</HoldNoteScores>
-+<RadarValues>
-+<Stream>0.897959</Stream>
-+<Voltage>0.533294</Voltage>
-+<Air>1.000000</Air>
-+<Freeze>1.000000</Freeze>
-+<Chaos>0.885981</Chaos>
-+<Notes>489.000000</Notes>
-+<TapsAndHolds>485</TapsAndHolds>
-+<Jumps>4</Jumps>
-+<Holds>38</Holds>
-+<Mines>0</Mines>
-+<Hands>0</Hands>
-+<Rolls>11</Rolls>
-+<Lifts>0</Lifts>
-+<Fakes>0</Fakes>
-+</RadarValues>
-+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
-+<Disqualified>0</Disqualified>
-+<Pad>33</Pad>
-+<StageGuid>363f2f5f-9753-425d-a08d-a281c75d8386</StageGuid>
-+<Guid>6224623c-e170-473b-a527-c0f9f1bad757</Guid>
-+</HighScore>
-+</HighScoreForASongAndSteps>
-+</RecentSongScores>
-+</Stats>
-```
-
-### ITGMania/SaveAppData/Upload/2026-03-09 00002.xml
-
-Replay/upload queue.
-
-```diff
-diff --git a/ITGMania/SaveAppData/Upload/2026-03-09 00002.xml b/ITGMania/SaveAppData/Upload/2026-03-09 00002.xml
-new file mode 100644
-index 0000000..dec0372
---- /dev/null
-+++ b/ITGMania/SaveAppData/Upload/2026-03-09 00002.xml	
-@@ -0,0 +1,64 @@
-+<?xml version="1.0" encoding="UTF-8" ?>
-+
-+<Stats>
-+<MachineGuid>403d15c592378cca</MachineGuid>
-+<RecentSongScores>
-+<HighScoreForASongAndSteps>
-+<Song Dir='Songs/BHOP Ball/[T04] Mr. Toot/'/>
-+<Steps Difficulty='Challenge' StepsType='dance-single'/>
-+<HighScore>
-+<Name></Name>
-+<Grade>Failed</Grade>
-+<Score>65</Score>
-+<PercentDP>0.539800</PercentDP>
-+<SurviveSeconds>114.998779</SurviveSeconds>
-+<MaxCombo>100</MaxCombo>
-+<StageAward></StageAward>
-+<PeakComboAward></PeakComboAward>
-+<Modifiers>NoHideLights, C590, 15% Mini, FailImmediateContinue, Overhead, Default</Modifiers>
-+<DateTime>2026-03-09 15:12:57</DateTime>
-+<PlayerGuid>4ad3a19834ee56bd</PlayerGuid>
-+<MachineGuid>403d15c592378cca</MachineGuid>
-+<ProductID>1</ProductID>
-+<TapNoteScores>
-+<HitMine>4</HitMine>
-+<AvoidMine>0</AvoidMine>
-+<CheckpointMiss>0</CheckpointMiss>
-+<Miss>36</Miss>
-+<W5>9</W5>
-+<W4>16</W4>
-+<W3>122</W3>
-+<W2>118</W2>
-+<W1>180</W1>
-+<CheckpointHit>0</CheckpointHit>
-+</TapNoteScores>
-+<HoldNoteScores>
-+<LetGo>0</LetGo>
-+<Held>39</Held>
-+<MissedHold>5</MissedHold>
-+</HoldNoteScores>
-+<RadarValues>
-+<Stream>0.619850</Stream>
-+<Voltage>0.204012</Voltage>
-+<Air>0.551020</Air>
-+<Freeze>0.880952</Freeze>
-+<Chaos>0.539810</Chaos>
-+<Notes>482.000000</Notes>
-+<TapsAndHolds>437</TapsAndHolds>
-+<Jumps>43</Jumps>
-+<Holds>37</Holds>
-+<Mines>45</Mines>
-+<Hands>3</Hands>
-+<Rolls>2</Rolls>
-+<Lifts>0</Lifts>
-+<Fakes>0</Fakes>
-+</RadarValues>
-+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
-+<Disqualified>0</Disqualified>
-+<Pad>33</Pad>
-+<StageGuid>f5927326-0510-4c84-a166-ad97ce1c9acf</StageGuid>
-+<Guid>ec1abf94-2236-44d8-a677-19cbce502356</Guid>
-+</HighScore>
-+</HighScoreForASongAndSteps>
-+</RecentSongScores>
-+</Stats>
-```
-
-### ITGMania/SaveAppData/Upload/2026-03-09 00003.xml
-
-Replay/upload queue.
-
-```diff
-diff --git a/ITGMania/SaveAppData/Upload/2026-03-09 00003.xml b/ITGMania/SaveAppData/Upload/2026-03-09 00003.xml
-new file mode 100644
-index 0000000..eadaace
---- /dev/null
-+++ b/ITGMania/SaveAppData/Upload/2026-03-09 00003.xml	
-@@ -0,0 +1,64 @@
-+<?xml version="1.0" encoding="UTF-8" ?>
-+
-+<Stats>
-+<MachineGuid>403d15c592378cca</MachineGuid>
-+<RecentSongScores>
-+<HighScoreForASongAndSteps>
-+<Song Dir='Songs/Misc. Collected/Better Than Revenge/'/>
-+<Steps Difficulty='Medium' StepsType='dance-single'/>
-+<HighScore>
-+<Name></Name>
-+<Grade>Failed</Grade>
-+<Score>16</Score>
-+<PercentDP>0.000000</PercentDP>
-+<SurviveSeconds>15.339622</SurviveSeconds>
-+<MaxCombo>12</MaxCombo>
-+<StageAward></StageAward>
-+<PeakComboAward></PeakComboAward>
-+<Modifiers>NoHideLights, C335, FailImmediateContinue, Overhead</Modifiers>
-+<DateTime>2026-03-09 15:19:04</DateTime>
-+<PlayerGuid>2dde4d6e8737681e</PlayerGuid>
-+<MachineGuid>403d15c592378cca</MachineGuid>
-+<ProductID>1</ProductID>
-+<TapNoteScores>
-+<HitMine>0</HitMine>
-+<AvoidMine>0</AvoidMine>
-+<CheckpointMiss>0</CheckpointMiss>
-+<Miss>136</Miss>
-+<W5>37</W5>
-+<W4>34</W4>
-+<W3>72</W3>
-+<W2>41</W2>
-+<W1>52</W1>
-+<CheckpointHit>0</CheckpointHit>
-+</TapNoteScores>
-+<HoldNoteScores>
-+<LetGo>0</LetGo>
-+<Held>15</Held>
-+<MissedHold>18</MissedHold>
-+</HoldNoteScores>
-+<RadarValues>
-+<Stream>0.267500</Stream>
-+<Voltage>0.056208</Voltage>
-+<Air>0.500000</Air>
-+<Freeze>0.454545</Freeze>
-+<Chaos>0.000000</Chaos>
-+<Notes>221.000000</Notes>
-+<TapsAndHolds>201</TapsAndHolds>
-+<Jumps>23</Jumps>
-+<Holds>15</Holds>
-+<Mines>0</Mines>
-+<Hands>0</Hands>
-+<Rolls>0</Rolls>
-+<Lifts>0</Lifts>
-+<Fakes>0</Fakes>
-+</RadarValues>
-+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
-+<Disqualified>0</Disqualified>
-+<Pad>33</Pad>
-+<StageGuid>47f928d4-b39e-4733-a7a5-c5a3fdd18bba</StageGuid>
-+<Guid>721006b9-71de-4e74-a202-131f362934d3</Guid>
-+</HighScore>
-+</HighScoreForASongAndSteps>
-+</RecentSongScores>
-+</Stats>
-```
-
-### ITGMania/SaveAppData/Upload/2026-03-09 00004.xml
-
-Replay/upload queue.
-
-```diff
-diff --git a/ITGMania/SaveAppData/Upload/2026-03-09 00004.xml b/ITGMania/SaveAppData/Upload/2026-03-09 00004.xml
-new file mode 100644
-index 0000000..9cd4b9c
---- /dev/null
-+++ b/ITGMania/SaveAppData/Upload/2026-03-09 00004.xml	
-@@ -0,0 +1,64 @@
-+<?xml version="1.0" encoding="UTF-8" ?>
-+
-+<Stats>
-+<MachineGuid>403d15c592378cca</MachineGuid>
-+<RecentSongScores>
-+<HighScoreForASongAndSteps>
-+<Song Dir='Songs/Ben Speirs&apos; SPEIRMIX GALAXY/Blank Space/'/>
-+<Steps Difficulty='Medium' StepsType='dance-single'/>
-+<HighScore>
-+<Name></Name>
-+<Grade>Failed</Grade>
-+<Score>14</Score>
-+<PercentDP>0.305600</PercentDP>
-+<SurviveSeconds>103.013496</SurviveSeconds>
-+<MaxCombo>33</MaxCombo>
-+<StageAward></StageAward>
-+<PeakComboAward></PeakComboAward>
-+<Modifiers>NoHideLights, C335, FailImmediateContinue, Overhead</Modifiers>
-+<DateTime>2026-03-09 15:23:31</DateTime>
-+<PlayerGuid>2dde4d6e8737681e</PlayerGuid>
-+<MachineGuid>403d15c592378cca</MachineGuid>
-+<ProductID>1</ProductID>
-+<TapNoteScores>
-+<HitMine>0</HitMine>
-+<AvoidMine>0</AvoidMine>
-+<CheckpointMiss>0</CheckpointMiss>
-+<Miss>13</Miss>
-+<W5>11</W5>
-+<W4>16</W4>
-+<W3>60</W3>
-+<W2>40</W2>
-+<W1>56</W1>
-+<CheckpointHit>0</CheckpointHit>
-+</TapNoteScores>
-+<HoldNoteScores>
-+<LetGo>6</LetGo>
-+<Held>12</Held>
-+<MissedHold>0</MissedHold>
-+</HoldNoteScores>
-+<RadarValues>
-+<Stream>0.492462</Stream>
-+<Voltage>0.181948</Voltage>
-+<Air>0.666667</Air>
-+<Freeze>0.666667</Freeze>
-+<Chaos>0.305607</Chaos>
-+<Notes>175.000000</Notes>
-+<TapsAndHolds>172</TapsAndHolds>
-+<Jumps>3</Jumps>
-+<Holds>12</Holds>
-+<Mines>0</Mines>
-+<Hands>0</Hands>
-+<Rolls>0</Rolls>
-+<Lifts>0</Lifts>
-+<Fakes>0</Fakes>
-+</RadarValues>
-+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
-+<Disqualified>0</Disqualified>
-+<Pad>33</Pad>
-+<StageGuid>19e4d320-b6e6-4f91-a013-5478c8368c00</StageGuid>
-+<Guid>1f67a4eb-7951-4bb8-a8a1-b1e30b6510bd</Guid>
-+</HighScore>
-+</HighScoreForASongAndSteps>
-+</RecentSongScores>
-+</Stats>
-```
-
-### ITGMania/SaveAppData/Upload/2026-03-09 00005.xml
-
-Replay/upload queue.
-
-```diff
-diff --git a/ITGMania/SaveAppData/Upload/2026-03-09 00005.xml b/ITGMania/SaveAppData/Upload/2026-03-09 00005.xml
-new file mode 100644
-index 0000000..1f60ae8
---- /dev/null
-+++ b/ITGMania/SaveAppData/Upload/2026-03-09 00005.xml	
-@@ -0,0 +1,64 @@
-+<?xml version="1.0" encoding="UTF-8" ?>
-+
-+<Stats>
-+<MachineGuid>403d15c592378cca</MachineGuid>
-+<RecentSongScores>
-+<HighScoreForASongAndSteps>
-+<Song Dir='Songs/Misc. Collected/Don&apos;t Blame Me/'/>
-+<Steps Difficulty='Easy' StepsType='dance-single'/>
-+<HighScore>
-+<Name></Name>
-+<Grade>Tier16</Grade>
-+<Score>16</Score>
-+<PercentDP>0.565700</PercentDP>
-+<SurviveSeconds>151.312347</SurviveSeconds>
-+<MaxCombo>25</MaxCombo>
-+<StageAward></StageAward>
-+<PeakComboAward></PeakComboAward>
-+<Modifiers>NoHideLights, C335, FailImmediateContinue, Overhead</Modifiers>
-+<DateTime>2026-03-09 15:29:17</DateTime>
-+<PlayerGuid>2dde4d6e8737681e</PlayerGuid>
-+<MachineGuid>403d15c592378cca</MachineGuid>
-+<ProductID>1</ProductID>
-+<TapNoteScores>
-+<HitMine>0</HitMine>
-+<AvoidMine>0</AvoidMine>
-+<CheckpointMiss>0</CheckpointMiss>
-+<Miss>6</Miss>
-+<W5>6</W5>
-+<W4>9</W4>
-+<W3>49</W3>
-+<W2>36</W2>
-+<W1>61</W1>
-+<CheckpointHit>0</CheckpointHit>
-+</TapNoteScores>
-+<HoldNoteScores>
-+<LetGo>2</LetGo>
-+<Held>18</Held>
-+<MissedHold>0</MissedHold>
-+</HoldNoteScores>
-+<RadarValues>
-+<Stream>0.583815</Stream>
-+<Voltage>0.147286</Voltage>
-+<Air>0.500000</Air>
-+<Freeze>0.900000</Freeze>
-+<Chaos>0.565775</Chaos>
-+<Notes>160.000000</Notes>
-+<TapsAndHolds>155</TapsAndHolds>
-+<Jumps>5</Jumps>
-+<Holds>18</Holds>
-+<Mines>0</Mines>
-+<Hands>0</Hands>
-+<Rolls>0</Rolls>
-+<Lifts>0</Lifts>
-+<Fakes>0</Fakes>
-+</RadarValues>
-+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
-+<Disqualified>0</Disqualified>
-+<Pad>33</Pad>
-+<StageGuid>dd6d8438-93c6-44d7-a8ff-81f6efffa91f</StageGuid>
-+<Guid>d3e96010-e9dc-418e-afa9-07e80898e4b5</Guid>
-+</HighScore>
-+</HighScoreForASongAndSteps>
-+</RecentSongScores>
-+</Stats>
-```
-
-### ITGMania/SaveAppData/Upload/2026-03-09 00006.xml
-
-Replay/upload queue.
-
-```diff
-diff --git a/ITGMania/SaveAppData/Upload/2026-03-09 00006.xml b/ITGMania/SaveAppData/Upload/2026-03-09 00006.xml
-new file mode 100644
-index 0000000..610a24d
---- /dev/null
-+++ b/ITGMania/SaveAppData/Upload/2026-03-09 00006.xml	
-@@ -0,0 +1,64 @@
-+<?xml version="1.0" encoding="UTF-8" ?>
-+
-+<Stats>
-+<MachineGuid>403d15c592378cca</MachineGuid>
-+<RecentSongScores>
-+<HighScoreForASongAndSteps>
-+<Song Dir='Songs/Misc. Collected/Clap Snap/'/>
-+<Steps Difficulty='Hard' StepsType='dance-single'/>
-+<HighScore>
-+<Name></Name>
-+<Grade>Tier10</Grade>
-+<Score>59</Score>
-+<PercentDP>0.808500</PercentDP>
-+<SurviveSeconds>121.534454</SurviveSeconds>
-+<MaxCombo>170</MaxCombo>
-+<StageAward></StageAward>
-+<PeakComboAward></PeakComboAward>
-+<Modifiers>NoHideLights, C420, FailImmediateContinue, Overhead, Default</Modifiers>
-+<DateTime>2026-03-09 15:32:17</DateTime>
-+<PlayerGuid>d876307e83faa0ea</PlayerGuid>
-+<MachineGuid>403d15c592378cca</MachineGuid>
-+<ProductID>1</ProductID>
-+<TapNoteScores>
-+<HitMine>0</HitMine>
-+<AvoidMine>0</AvoidMine>
-+<CheckpointMiss>0</CheckpointMiss>
-+<Miss>4</Miss>
-+<W5>0</W5>
-+<W4>1</W4>
-+<W3>44</W3>
-+<W2>109</W2>
-+<W1>160</W1>
-+<CheckpointHit>0</CheckpointHit>
-+</TapNoteScores>
-+<HoldNoteScores>
-+<LetGo>0</LetGo>
-+<Held>10</Held>
-+<MissedHold>0</MissedHold>
-+</HoldNoteScores>
-+<RadarValues>
-+<Stream>0.833795</Stream>
-+<Voltage>0.459276</Voltage>
-+<Air>0.953488</Air>
-+<Freeze>1.000000</Freeze>
-+<Chaos>0.808537</Chaos>
-+<Notes>357.000000</Notes>
-+<TapsAndHolds>314</TapsAndHolds>
-+<Jumps>43</Jumps>
-+<Holds>10</Holds>
-+<Mines>0</Mines>
-+<Hands>0</Hands>
-+<Rolls>0</Rolls>
-+<Lifts>0</Lifts>
-+<Fakes>0</Fakes>
-+</RadarValues>
-+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
-+<Disqualified>0</Disqualified>
-+<Pad>33</Pad>
-+<StageGuid>f2f896c7-dcf8-485c-aafd-7709ea492853</StageGuid>
-+<Guid>d5af89d6-355a-4df1-aad4-6cdc434b2026</Guid>
-+</HighScore>
-+</HighScoreForASongAndSteps>
-+</RecentSongScores>
-+</Stats>
-```
-
-### ITGMania/SaveAppData/Upload/2026-03-09 00007.xml
-
-Replay/upload queue.
-
-```diff
-diff --git a/ITGMania/SaveAppData/Upload/2026-03-09 00007.xml b/ITGMania/SaveAppData/Upload/2026-03-09 00007.xml
-new file mode 100644
-index 0000000..9d83517
---- /dev/null
-+++ b/ITGMania/SaveAppData/Upload/2026-03-09 00007.xml	
-@@ -0,0 +1,64 @@
-+<?xml version="1.0" encoding="UTF-8" ?>
-+
-+<Stats>
-+<MachineGuid>403d15c592378cca</MachineGuid>
-+<RecentSongScores>
-+<HighScoreForASongAndSteps>
-+<Song Dir='Songs/BHOP Ball/[T01] Disco Pop (SH)/'/>
-+<Steps Difficulty='Hard' StepsType='dance-single'/>
-+<HighScore>
-+<Name></Name>
-+<Grade>Tier08</Grade>
-+<Score>73</Score>
-+<PercentDP>0.887600</PercentDP>
-+<SurviveSeconds>127.179901</SurviveSeconds>
-+<MaxCombo>317</MaxCombo>
-+<StageAward></StageAward>
-+<PeakComboAward></PeakComboAward>
-+<Modifiers>NoHideLights, C420, FailImmediateContinue, Overhead, Default</Modifiers>
-+<DateTime>2026-03-09 15:35:11</DateTime>
-+<PlayerGuid>d876307e83faa0ea</PlayerGuid>
-+<MachineGuid>403d15c592378cca</MachineGuid>
-+<ProductID>1</ProductID>
-+<TapNoteScores>
-+<HitMine>0</HitMine>
-+<AvoidMine>0</AvoidMine>
-+<CheckpointMiss>0</CheckpointMiss>
-+<Miss>0</Miss>
-+<W5>1</W5>
-+<W4>0</W4>
-+<W3>27</W3>
-+<W2>140</W2>
-+<W1>234</W1>
-+<CheckpointHit>0</CheckpointHit>
-+</TapNoteScores>
-+<HoldNoteScores>
-+<LetGo>0</LetGo>
-+<Held>11</Held>
-+<MissedHold>0</MissedHold>
-+</HoldNoteScores>
-+<RadarValues>
-+<Stream>0.928218</Stream>
-+<Voltage>0.794955</Voltage>
-+<Air>1.000000</Air>
-+<Freeze>1.000000</Freeze>
-+<Chaos>0.887651</Chaos>
-+<Notes>403.000000</Notes>
-+<TapsAndHolds>401</TapsAndHolds>
-+<Jumps>2</Jumps>
-+<Holds>11</Holds>
-+<Mines>0</Mines>
-+<Hands>0</Hands>
-+<Rolls>0</Rolls>
-+<Lifts>0</Lifts>
-+<Fakes>0</Fakes>
-+</RadarValues>
-+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
-+<Disqualified>0</Disqualified>
-+<Pad>33</Pad>
-+<StageGuid>a461d918-17c0-479f-af42-604e16ea1bef</StageGuid>
-+<Guid>00bdd551-4892-4b16-a2c2-29ef57e68940</Guid>
-+</HighScore>
-+</HighScoreForASongAndSteps>
-+</RecentSongScores>
-+</Stats>
-```
-
-### ITGMania/SaveAppData/Upload/2026-03-09 00008.xml
-
-Replay/upload queue.
-
-```diff
-diff --git a/ITGMania/SaveAppData/Upload/2026-03-09 00008.xml b/ITGMania/SaveAppData/Upload/2026-03-09 00008.xml
-new file mode 100644
-index 0000000..efbb6e9
---- /dev/null
-+++ b/ITGMania/SaveAppData/Upload/2026-03-09 00008.xml	
-@@ -0,0 +1,64 @@
-+<?xml version="1.0" encoding="UTF-8" ?>
-+
-+<Stats>
-+<MachineGuid>403d15c592378cca</MachineGuid>
-+<RecentSongScores>
-+<HighScoreForASongAndSteps>
-+<Song Dir='Songs/BHOP Ball/[T02] Coconut Mall/'/>
-+<Steps Difficulty='Challenge' StepsType='dance-single'/>
-+<HighScore>
-+<Name></Name>
-+<Grade>Tier12</Grade>
-+<Score>94</Score>
-+<PercentDP>0.722000</PercentDP>
-+<SurviveSeconds>123.900490</SurviveSeconds>
-+<MaxCombo>94</MaxCombo>
-+<StageAward></StageAward>
-+<PeakComboAward></PeakComboAward>
-+<Modifiers>NoHideLights, C420, FailImmediateContinue, Overhead, Default</Modifiers>
-+<DateTime>2026-03-09 15:37:52</DateTime>
-+<PlayerGuid>d876307e83faa0ea</PlayerGuid>
-+<MachineGuid>403d15c592378cca</MachineGuid>
-+<ProductID>1</ProductID>
-+<TapNoteScores>
-+<HitMine>0</HitMine>
-+<AvoidMine>0</AvoidMine>
-+<CheckpointMiss>0</CheckpointMiss>
-+<Miss>14</Miss>
-+<W5>6</W5>
-+<W4>8</W4>
-+<W3>57</W3>
-+<W2>123</W2>
-+<W1>231</W1>
-+<CheckpointHit>0</CheckpointHit>
-+</TapNoteScores>
-+<HoldNoteScores>
-+<LetGo>0</LetGo>
-+<Held>20</Held>
-+<MissedHold>0</MissedHold>
-+</HoldNoteScores>
-+<RadarValues>
-+<Stream>0.806742</Stream>
-+<Voltage>0.212583</Voltage>
-+<Air>0.833333</Air>
-+<Freeze>1.000000</Freeze>
-+<Chaos>0.722004</Chaos>
-+<Notes>425.000000</Notes>
-+<TapsAndHolds>419</TapsAndHolds>
-+<Jumps>6</Jumps>
-+<Holds>11</Holds>
-+<Mines>0</Mines>
-+<Hands>0</Hands>
-+<Rolls>9</Rolls>
-+<Lifts>0</Lifts>
-+<Fakes>0</Fakes>
-+</RadarValues>
-+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
-+<Disqualified>0</Disqualified>
-+<Pad>33</Pad>
-+<StageGuid>036d94ab-0d6c-4e81-a349-7c67d21381b1</StageGuid>
-+<Guid>2db7afcd-aeac-403e-a4f8-15667a128a22</Guid>
-+</HighScore>
-+</HighScoreForASongAndSteps>
-+</RecentSongScores>
-+</Stats>
-```
-
-### ITGMania/SaveAppData/Upload/2026-03-09 00009.xml
-
-Replay/upload queue.
-
-```diff
-diff --git a/ITGMania/SaveAppData/Upload/2026-03-09 00009.xml b/ITGMania/SaveAppData/Upload/2026-03-09 00009.xml
-new file mode 100644
-index 0000000..0e959d1
---- /dev/null
-+++ b/ITGMania/SaveAppData/Upload/2026-03-09 00009.xml	
-@@ -0,0 +1,64 @@
-+<?xml version="1.0" encoding="UTF-8" ?>
-+
-+<Stats>
-+<MachineGuid>403d15c592378cca</MachineGuid>
-+<RecentSongScores>
-+<HighScoreForASongAndSteps>
-+<Song Dir='Songs/Freyja&apos;s Grimoire/2 Die 4/'/>
-+<Steps Difficulty='Easy' StepsType='dance-single'/>
-+<HighScore>
-+<Name></Name>
-+<Grade>Tier08</Grade>
-+<Score>114</Score>
-+<PercentDP>0.881800</PercentDP>
-+<SurviveSeconds>186.927933</SurviveSeconds>
-+<MaxCombo>326</MaxCombo>
-+<StageAward></StageAward>
-+<PeakComboAward></PeakComboAward>
-+<Modifiers>NoHideLights, C590, 15% Mini, FailImmediateContinue, Overhead, Default</Modifiers>
-+<DateTime>2026-03-09 15:43:49</DateTime>
-+<PlayerGuid>4ad3a19834ee56bd</PlayerGuid>
-+<MachineGuid>403d15c592378cca</MachineGuid>
-+<ProductID>1</ProductID>
-+<TapNoteScores>
-+<HitMine>0</HitMine>
-+<AvoidMine>0</AvoidMine>
-+<CheckpointMiss>0</CheckpointMiss>
-+<Miss>3</Miss>
-+<W5>2</W5>
-+<W4>0</W4>
-+<W3>54</W3>
-+<W2>175</W2>
-+<W1>388</W1>
-+<CheckpointHit>0</CheckpointHit>
-+</TapNoteScores>
-+<HoldNoteScores>
-+<LetGo>0</LetGo>
-+<Held>72</Held>
-+<MissedHold>0</MissedHold>
-+</HoldNoteScores>
-+<RadarValues>
-+<Stream>0.905901</Stream>
-+<Voltage>0.490807</Voltage>
-+<Air>1.000000</Air>
-+<Freeze>1.000000</Freeze>
-+<Chaos>0.881844</Chaos>
-+<Notes>622.000000</Notes>
-+<TapsAndHolds>617</TapsAndHolds>
-+<Jumps>5</Jumps>
-+<Holds>69</Holds>
-+<Mines>43</Mines>
-+<Hands>0</Hands>
-+<Rolls>3</Rolls>
-+<Lifts>0</Lifts>
-+<Fakes>0</Fakes>
-+</RadarValues>
-+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
-+<Disqualified>0</Disqualified>
-+<Pad>33</Pad>
-+<StageGuid>777bb83a-5f53-4564-abda-fdb4629fd744</StageGuid>
-+<Guid>82ea92a6-6169-4cc0-a79c-466ff26c9cf4</Guid>
-+</HighScore>
-+</HighScoreForASongAndSteps>
-+</RecentSongScores>
-+</Stats>
-```
-
-### ITGMania/SaveAppData/Upload/2026-03-09 00010.xml
-
-Replay/upload queue.
-
-```diff
-diff --git a/ITGMania/SaveAppData/Upload/2026-03-09 00010.xml b/ITGMania/SaveAppData/Upload/2026-03-09 00010.xml
-new file mode 100644
-index 0000000..f6f3fe9
---- /dev/null
-+++ b/ITGMania/SaveAppData/Upload/2026-03-09 00010.xml	
-@@ -0,0 +1,64 @@
-+<?xml version="1.0" encoding="UTF-8" ?>
-+
-+<Stats>
-+<MachineGuid>403d15c592378cca</MachineGuid>
-+<RecentSongScores>
-+<HighScoreForASongAndSteps>
-+<Song Dir='Songs/Freyja&apos;s Grimoire/Bangarang/'/>
-+<Steps Difficulty='Easy' StepsType='dance-single'/>
-+<HighScore>
-+<Name></Name>
-+<Grade>Tier11</Grade>
-+<Score>91</Score>
-+<PercentDP>0.780000</PercentDP>
-+<SurviveSeconds>146.331039</SurviveSeconds>
-+<MaxCombo>340</MaxCombo>
-+<StageAward></StageAward>
-+<PeakComboAward></PeakComboAward>
-+<Modifiers>NoHideLights, C590, 15% Mini, FailImmediateContinue, Overhead, Default</Modifiers>
-+<DateTime>2026-03-09 15:47:07</DateTime>
-+<PlayerGuid>4ad3a19834ee56bd</PlayerGuid>
-+<MachineGuid>403d15c592378cca</MachineGuid>
-+<ProductID>1</ProductID>
-+<TapNoteScores>
-+<HitMine>0</HitMine>
-+<AvoidMine>0</AvoidMine>
-+<CheckpointMiss>0</CheckpointMiss>
-+<Miss>14</Miss>
-+<W5>9</W5>
-+<W4>16</W4>
-+<W3>125</W3>
-+<W2>159</W2>
-+<W1>314</W1>
-+<CheckpointHit>0</CheckpointHit>
-+</TapNoteScores>
-+<HoldNoteScores>
-+<LetGo>0</LetGo>
-+<Held>249</Held>
-+<MissedHold>6</MissedHold>
-+</HoldNoteScores>
-+<RadarValues>
-+<Stream>0.746291</Stream>
-+<Voltage>0.499463</Voltage>
-+<Air>0.594595</Air>
-+<Freeze>0.972028</Freeze>
-+<Chaos>0.780045</Chaos>
-+<Notes>650.000000</Notes>
-+<TapsAndHolds>614</TapsAndHolds>
-+<Jumps>35</Jumps>
-+<Holds>139</Holds>
-+<Mines>46</Mines>
-+<Hands>0</Hands>
-+<Rolls>110</Rolls>
-+<Lifts>0</Lifts>
-+<Fakes>0</Fakes>
-+</RadarValues>
-+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
-+<Disqualified>0</Disqualified>
-+<Pad>33</Pad>
-+<StageGuid>ebb7f1c0-34f0-4b14-aa59-9492c8dc6b12</StageGuid>
-+<Guid>5c1c392b-b56d-4760-ad74-c91f17738957</Guid>
-+</HighScore>
-+</HighScoreForASongAndSteps>
-+</RecentSongScores>
-+</Stats>
-```
-
-### ITGMania/SaveAppData/Upload/2026-03-09 00011.xml
-
-Replay/upload queue.
-
-```diff
-diff --git a/ITGMania/SaveAppData/Upload/2026-03-09 00011.xml b/ITGMania/SaveAppData/Upload/2026-03-09 00011.xml
-new file mode 100644
-index 0000000..7705e33
---- /dev/null
-+++ b/ITGMania/SaveAppData/Upload/2026-03-09 00011.xml	
-@@ -0,0 +1,64 @@
-+<?xml version="1.0" encoding="UTF-8" ?>
-+
-+<Stats>
-+<MachineGuid>403d15c592378cca</MachineGuid>
-+<RecentSongScores>
-+<HighScoreForASongAndSteps>
-+<Song Dir='Songs/Freyja&apos;s Grimoire/Mad World/'/>
-+<Steps Difficulty='Easy' StepsType='dance-single'/>
-+<HighScore>
-+<Name></Name>
-+<Grade>Tier08</Grade>
-+<Score>83</Score>
-+<PercentDP>0.860600</PercentDP>
-+<SurviveSeconds>153.481308</SurviveSeconds>
-+<MaxCombo>288</MaxCombo>
-+<StageAward></StageAward>
-+<PeakComboAward></PeakComboAward>
-+<Modifiers>NoHideLights, C590, 15% Mini, FailImmediateContinue, Overhead, Default</Modifiers>
-+<DateTime>2026-03-09 15:51:11</DateTime>
-+<PlayerGuid>4ad3a19834ee56bd</PlayerGuid>
-+<MachineGuid>403d15c592378cca</MachineGuid>
-+<ProductID>1</ProductID>
-+<TapNoteScores>
-+<HitMine>0</HitMine>
-+<AvoidMine>0</AvoidMine>
-+<CheckpointMiss>0</CheckpointMiss>
-+<Miss>2</Miss>
-+<W5>0</W5>
-+<W4>3</W4>
-+<W3>55</W3>
-+<W2>142</W2>
-+<W1>287</W1>
-+<CheckpointHit>0</CheckpointHit>
-+</TapNoteScores>
-+<HoldNoteScores>
-+<LetGo>0</LetGo>
-+<Held>22</Held>
-+<MissedHold>0</MissedHold>
-+</HoldNoteScores>
-+<RadarValues>
-+<Stream>0.877551</Stream>
-+<Voltage>0.646772</Voltage>
-+<Air>1.000000</Air>
-+<Freeze>1.000000</Freeze>
-+<Chaos>0.860665</Chaos>
-+<Notes>488.000000</Notes>
-+<TapsAndHolds>487</TapsAndHolds>
-+<Jumps>1</Jumps>
-+<Holds>22</Holds>
-+<Mines>0</Mines>
-+<Hands>0</Hands>
-+<Rolls>0</Rolls>
-+<Lifts>0</Lifts>
-+<Fakes>0</Fakes>
-+</RadarValues>
-+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
-+<Disqualified>0</Disqualified>
-+<Pad>33</Pad>
-+<StageGuid>ecbcaf04-c22d-4c10-abe9-e3b93f0a866e</StageGuid>
-+<Guid>02419dbc-f0d3-4004-a44d-5dbe41e54418</Guid>
-+</HighScore>
-+</HighScoreForASongAndSteps>
-+</RecentSongScores>
-+</Stats>
-```
-
-### ITGMania/SaveAppData/Upload/2026-03-09 00012.xml
-
-Replay/upload queue.
-
-```diff
-diff --git a/ITGMania/SaveAppData/Upload/2026-03-09 00012.xml b/ITGMania/SaveAppData/Upload/2026-03-09 00012.xml
-new file mode 100644
-index 0000000..86d1eac
---- /dev/null
-+++ b/ITGMania/SaveAppData/Upload/2026-03-09 00012.xml	
-@@ -0,0 +1,64 @@
-+<?xml version="1.0" encoding="UTF-8" ?>
-+
-+<Stats>
-+<MachineGuid>403d15c592378cca</MachineGuid>
-+<RecentSongScores>
-+<HighScoreForASongAndSteps>
-+<Song Dir='Songs/BHOP Ball 4/[T01] Shady Business (SH)/'/>
-+<Steps Difficulty='Challenge' StepsType='dance-single'/>
-+<HighScore>
-+<Name></Name>
-+<Grade>Tier12</Grade>
-+<Score>57</Score>
-+<PercentDP>0.735700</PercentDP>
-+<SurviveSeconds>112.526642</SurviveSeconds>
-+<MaxCombo>131</MaxCombo>
-+<StageAward></StageAward>
-+<PeakComboAward></PeakComboAward>
-+<Modifiers>NoHideLights, C420, FailImmediateContinue, Overhead, Default</Modifiers>
-+<DateTime>2026-03-09 15:55:37</DateTime>
-+<PlayerGuid>d876307e83faa0ea</PlayerGuid>
-+<MachineGuid>403d15c592378cca</MachineGuid>
-+<ProductID>1</ProductID>
-+<TapNoteScores>
-+<HitMine>1</HitMine>
-+<AvoidMine>0</AvoidMine>
-+<CheckpointMiss>0</CheckpointMiss>
-+<Miss>10</Miss>
-+<W5>1</W5>
-+<W4>5</W4>
-+<W3>57</W3>
-+<W2>114</W2>
-+<W1>164</W1>
-+<CheckpointHit>0</CheckpointHit>
-+</TapNoteScores>
-+<HoldNoteScores>
-+<LetGo>1</LetGo>
-+<Held>28</Held>
-+<MissedHold>0</MissedHold>
-+</HoldNoteScores>
-+<RadarValues>
-+<Stream>0.790368</Stream>
-+<Voltage>0.347736</Voltage>
-+<Air>0.500000</Air>
-+<Freeze>0.961538</Freeze>
-+<Chaos>0.735789</Chaos>
-+<Notes>342.000000</Notes>
-+<TapsAndHolds>340</TapsAndHolds>
-+<Jumps>1</Jumps>
-+<Holds>25</Holds>
-+<Mines>3</Mines>
-+<Hands>0</Hands>
-+<Rolls>3</Rolls>
-+<Lifts>0</Lifts>
-+<Fakes>0</Fakes>
-+</RadarValues>
-+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
-+<Disqualified>0</Disqualified>
-+<Pad>33</Pad>
-+<StageGuid>c8422cb8-6d10-4acf-a4fa-7ece6f723b0b</StageGuid>
-+<Guid>86756337-3e58-4b6e-a2ae-9f4ad8e2ac6c</Guid>
-+</HighScore>
-+</HighScoreForASongAndSteps>
-+</RecentSongScores>
-+</Stats>
-```
-
-### ITGMania/SaveAppData/Upload/2026-03-09 00013.xml
-
-Replay/upload queue.
-
-```diff
-diff --git a/ITGMania/SaveAppData/Upload/2026-03-09 00013.xml b/ITGMania/SaveAppData/Upload/2026-03-09 00013.xml
-new file mode 100644
-index 0000000..dcf708a
---- /dev/null
-+++ b/ITGMania/SaveAppData/Upload/2026-03-09 00013.xml	
-@@ -0,0 +1,64 @@
-+<?xml version="1.0" encoding="UTF-8" ?>
-+
-+<Stats>
-+<MachineGuid>403d15c592378cca</MachineGuid>
-+<RecentSongScores>
-+<HighScoreForASongAndSteps>
-+<Song Dir='Songs/BHOP Ball 3/[T02] Calabria 2007/'/>
-+<Steps Difficulty='Challenge' StepsType='dance-single'/>
-+<HighScore>
-+<Name></Name>
-+<Grade>Tier12</Grade>
-+<Score>64</Score>
-+<PercentDP>0.756300</PercentDP>
-+<SurviveSeconds>132.493332</SurviveSeconds>
-+<MaxCombo>67</MaxCombo>
-+<StageAward></StageAward>
-+<PeakComboAward></PeakComboAward>
-+<Modifiers>NoHideLights, C420, FailImmediateContinue, Overhead, Default</Modifiers>
-+<DateTime>2026-03-09 15:59:16</DateTime>
-+<PlayerGuid>d876307e83faa0ea</PlayerGuid>
-+<MachineGuid>403d15c592378cca</MachineGuid>
-+<ProductID>1</ProductID>
-+<TapNoteScores>
-+<HitMine>1</HitMine>
-+<AvoidMine>0</AvoidMine>
-+<CheckpointMiss>0</CheckpointMiss>
-+<Miss>7</Miss>
-+<W5>4</W5>
-+<W4>15</W4>
-+<W3>88</W3>
-+<W2>140</W2>
-+<W1>188</W1>
-+<CheckpointHit>0</CheckpointHit>
-+</TapNoteScores>
-+<HoldNoteScores>
-+<LetGo>0</LetGo>
-+<Held>93</Held>
-+<MissedHold>1</MissedHold>
-+</HoldNoteScores>
-+<RadarValues>
-+<Stream>0.742664</Stream>
-+<Voltage>0.136046</Voltage>
-+<Air>1.000000</Air>
-+<Freeze>0.989362</Freeze>
-+<Chaos>0.756343</Chaos>
-+<Notes>432.000000</Notes>
-+<TapsAndHolds>431</TapsAndHolds>
-+<Jumps>1</Jumps>
-+<Holds>93</Holds>
-+<Mines>13</Mines>
-+<Hands>0</Hands>
-+<Rolls>0</Rolls>
-+<Lifts>0</Lifts>
-+<Fakes>0</Fakes>
-+</RadarValues>
-+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
-+<Disqualified>0</Disqualified>
-+<Pad>33</Pad>
-+<StageGuid>977b2b3e-4b52-4cb5-a96f-5ba7cb318bbd</StageGuid>
-+<Guid>9653b948-ce6e-42aa-a4c4-ee0825408331</Guid>
-+</HighScore>
-+</HighScoreForASongAndSteps>
-+</RecentSongScores>
-+</Stats>
-```
-
-### ITGMania/SaveAppData/Upload/2026-03-09 00014.xml
-
-Replay/upload queue.
-
-```diff
-diff --git a/ITGMania/SaveAppData/Upload/2026-03-09 00014.xml b/ITGMania/SaveAppData/Upload/2026-03-09 00014.xml
-new file mode 100644
-index 0000000..6723164
---- /dev/null
-+++ b/ITGMania/SaveAppData/Upload/2026-03-09 00014.xml	
-@@ -0,0 +1,64 @@
-+<?xml version="1.0" encoding="UTF-8" ?>
-+
-+<Stats>
-+<MachineGuid>403d15c592378cca</MachineGuid>
-+<RecentSongScores>
-+<HighScoreForASongAndSteps>
-+<Song Dir='Songs/BHOP Ball 3/[T02] it boy/'/>
-+<Steps Difficulty='Challenge' StepsType='dance-single'/>
-+<HighScore>
-+<Name></Name>
-+<Grade>Tier08</Grade>
-+<Score>84</Score>
-+<PercentDP>0.862100</PercentDP>
-+<SurviveSeconds>133.096161</SurviveSeconds>
-+<MaxCombo>238</MaxCombo>
-+<StageAward></StageAward>
-+<PeakComboAward></PeakComboAward>
-+<Modifiers>NoHideLights, C420, FailImmediateContinue, Overhead, Default</Modifiers>
-+<DateTime>2026-03-09 16:02:03</DateTime>
-+<PlayerGuid>d876307e83faa0ea</PlayerGuid>
-+<MachineGuid>403d15c592378cca</MachineGuid>
-+<ProductID>1</ProductID>
-+<TapNoteScores>
-+<HitMine>0</HitMine>
-+<AvoidMine>0</AvoidMine>
-+<CheckpointMiss>0</CheckpointMiss>
-+<Miss>3</Miss>
-+<W5>1</W5>
-+<W4>1</W4>
-+<W3>36</W3>
-+<W2>164</W2>
-+<W1>255</W1>
-+<CheckpointHit>0</CheckpointHit>
-+</TapNoteScores>
-+<HoldNoteScores>
-+<LetGo>0</LetGo>
-+<Held>32</Held>
-+<MissedHold>0</MissedHold>
-+</HoldNoteScores>
-+<RadarValues>
-+<Stream>0.903689</Stream>
-+<Voltage>0.505151</Voltage>
-+<Air>0.928571</Air>
-+<Freeze>1.000000</Freeze>
-+<Chaos>0.862195</Chaos>
-+<Notes>484.000000</Notes>
-+<TapsAndHolds>456</TapsAndHolds>
-+<Jumps>27</Jumps>
-+<Holds>17</Holds>
-+<Mines>0</Mines>
-+<Hands>0</Hands>
-+<Rolls>15</Rolls>
-+<Lifts>0</Lifts>
-+<Fakes>0</Fakes>
-+</RadarValues>
-+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
-+<Disqualified>0</Disqualified>
-+<Pad>33</Pad>
-+<StageGuid>fed2ec6d-2cf4-4e47-af5b-e96435d291ba</StageGuid>
-+<Guid>dc999694-1f54-4eda-a5b9-e95da325d596</Guid>
-+</HighScore>
-+</HighScoreForASongAndSteps>
-+</RecentSongScores>
-+</Stats>
-```
-
-### ITGMania/SaveAppData/Upload/2026-03-09 00015.xml
-
-Replay/upload queue.
-
-```diff
-diff --git a/ITGMania/SaveAppData/Upload/2026-03-09 00015.xml b/ITGMania/SaveAppData/Upload/2026-03-09 00015.xml
-new file mode 100644
-index 0000000..97171e4
---- /dev/null
-+++ b/ITGMania/SaveAppData/Upload/2026-03-09 00015.xml	
-@@ -0,0 +1,64 @@
-+<?xml version="1.0" encoding="UTF-8" ?>
-+
-+<Stats>
-+<MachineGuid>403d15c592378cca</MachineGuid>
-+<RecentSongScores>
-+<HighScoreForASongAndSteps>
-+<Song Dir='Songs/Freyja&apos;s Grimoire/Becoming Insane (Radio Mix) - cut/'/>
-+<Steps Difficulty='Easy' StepsType='dance-single'/>
-+<HighScore>
-+<Name></Name>
-+<Grade>Tier08</Grade>
-+<Score>88</Score>
-+<PercentDP>0.874600</PercentDP>
-+<SurviveSeconds>139.829544</SurviveSeconds>
-+<MaxCombo>183</MaxCombo>
-+<StageAward></StageAward>
-+<PeakComboAward></PeakComboAward>
-+<Modifiers>NoHideLights, C590, 15% Mini, FailImmediateContinue, Overhead, Default</Modifiers>
-+<DateTime>2026-03-09 16:05:03</DateTime>
-+<PlayerGuid>4ad3a19834ee56bd</PlayerGuid>
-+<MachineGuid>403d15c592378cca</MachineGuid>
-+<ProductID>1</ProductID>
-+<TapNoteScores>
-+<HitMine>0</HitMine>
-+<AvoidMine>0</AvoidMine>
-+<CheckpointMiss>0</CheckpointMiss>
-+<Miss>2</Miss>
-+<W5>2</W5>
-+<W4>1</W4>
-+<W3>47</W3>
-+<W2>134</W2>
-+<W1>284</W1>
-+<CheckpointHit>0</CheckpointHit>
-+</TapNoteScores>
-+<HoldNoteScores>
-+<LetGo>0</LetGo>
-+<Held>66</Held>
-+<MissedHold>0</MissedHold>
-+</HoldNoteScores>
-+<RadarValues>
-+<Stream>0.890947</Stream>
-+<Voltage>0.385532</Voltage>
-+<Air>0.875000</Air>
-+<Freeze>1.000000</Freeze>
-+<Chaos>0.874627</Chaos>
-+<Notes>482.000000</Notes>
-+<TapsAndHolds>466</TapsAndHolds>
-+<Jumps>16</Jumps>
-+<Holds>44</Holds>
-+<Mines>0</Mines>
-+<Hands>0</Hands>
-+<Rolls>22</Rolls>
-+<Lifts>0</Lifts>
-+<Fakes>0</Fakes>
-+</RadarValues>
-+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
-+<Disqualified>0</Disqualified>
-+<Pad>33</Pad>
-+<StageGuid>6261476e-5549-4429-a9b0-b6f0f4177732</StageGuid>
-+<Guid>905e3e37-9ec8-49be-a988-30938e6724f1</Guid>
-+</HighScore>
-+</HighScoreForASongAndSteps>
-+</RecentSongScores>
-+</Stats>
-```
-
-### ITGMania/SaveAppData/Upload/2026-03-09 00016.xml
-
-Replay/upload queue.
-
-```diff
-diff --git a/ITGMania/SaveAppData/Upload/2026-03-09 00016.xml b/ITGMania/SaveAppData/Upload/2026-03-09 00016.xml
-new file mode 100644
-index 0000000..b31b02c
---- /dev/null
-+++ b/ITGMania/SaveAppData/Upload/2026-03-09 00016.xml	
-@@ -0,0 +1,64 @@
-+<?xml version="1.0" encoding="UTF-8" ?>
-+
-+<Stats>
-+<MachineGuid>403d15c592378cca</MachineGuid>
-+<RecentSongScores>
-+<HighScoreForASongAndSteps>
-+<Song Dir='Songs/Freyja&apos;s Grimoire/The Vulture/'/>
-+<Steps Difficulty='Easy' StepsType='dance-single'/>
-+<HighScore>
-+<Name></Name>
-+<Grade>Tier07</Grade>
-+<Score>139</Score>
-+<PercentDP>0.900000</PercentDP>
-+<SurviveSeconds>243.343552</SurviveSeconds>
-+<MaxCombo>257</MaxCombo>
-+<StageAward></StageAward>
-+<PeakComboAward></PeakComboAward>
-+<Modifiers>NoHideLights, C590, 15% Mini, FailImmediateContinue, Overhead, Default</Modifiers>
-+<DateTime>2026-03-09 16:11:00</DateTime>
-+<PlayerGuid>4ad3a19834ee56bd</PlayerGuid>
-+<MachineGuid>403d15c592378cca</MachineGuid>
-+<ProductID>1</ProductID>
-+<TapNoteScores>
-+<HitMine>2</HitMine>
-+<AvoidMine>0</AvoidMine>
-+<CheckpointMiss>0</CheckpointMiss>
-+<Miss>4</Miss>
-+<W5>2</W5>
-+<W4>7</W4>
-+<W3>67</W3>
-+<W2>158</W2>
-+<W1>555</W1>
-+<CheckpointHit>0</CheckpointHit>
-+</TapNoteScores>
-+<HoldNoteScores>
-+<LetGo>2</LetGo>
-+<Held>235</Held>
-+<MissedHold>2</MissedHold>
-+</HoldNoteScores>
-+<RadarValues>
-+<Stream>0.900249</Stream>
-+<Voltage>0.332547</Voltage>
-+<Air>1.000000</Air>
-+<Freeze>0.990148</Freeze>
-+<Chaos>0.900000</Chaos>
-+<Notes>796.000000</Notes>
-+<TapsAndHolds>787</TapsAndHolds>
-+<Jumps>9</Jumps>
-+<Holds>201</Holds>
-+<Mines>1</Mines>
-+<Hands>0</Hands>
-+<Rolls>34</Rolls>
-+<Lifts>0</Lifts>
-+<Fakes>0</Fakes>
-+</RadarValues>
-+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
-+<Disqualified>0</Disqualified>
-+<Pad>33</Pad>
-+<StageGuid>00248730-962f-4303-a9b8-c0635b2f1fe3</StageGuid>
-+<Guid>1c879fe5-f9d5-41e5-ae15-8c6797623d3c</Guid>
-+</HighScore>
-+</HighScoreForASongAndSteps>
-+</RecentSongScores>
-+</Stats>
-```
-
-### ITGMania/SaveAppData/Upload/2026-03-09 00017.xml
-
-Replay/upload queue.
-
-```diff
-diff --git a/ITGMania/SaveAppData/Upload/2026-03-09 00017.xml b/ITGMania/SaveAppData/Upload/2026-03-09 00017.xml
-new file mode 100644
-index 0000000..5d521c2
---- /dev/null
-+++ b/ITGMania/SaveAppData/Upload/2026-03-09 00017.xml	
-@@ -0,0 +1,64 @@
-+<?xml version="1.0" encoding="UTF-8" ?>
-+
-+<Stats>
-+<MachineGuid>403d15c592378cca</MachineGuid>
-+<RecentSongScores>
-+<HighScoreForASongAndSteps>
-+<Song Dir='Songs/Cosmic Evolution/Here (In Your Arms) (Club Mix)/'/>
-+<Steps Difficulty='Hard' StepsType='dance-single'/>
-+<HighScore>
-+<Name></Name>
-+<Grade>Tier10</Grade>
-+<Score>61</Score>
-+<PercentDP>0.804900</PercentDP>
-+<SurviveSeconds>120.866043</SurviveSeconds>
-+<MaxCombo>168</MaxCombo>
-+<StageAward></StageAward>
-+<PeakComboAward></PeakComboAward>
-+<Modifiers>NoHideLights, C420, FailImmediateContinue, Overhead, Default</Modifiers>
-+<DateTime>2026-03-09 16:14:18</DateTime>
-+<PlayerGuid>d876307e83faa0ea</PlayerGuid>
-+<MachineGuid>403d15c592378cca</MachineGuid>
-+<ProductID>1</ProductID>
-+<TapNoteScores>
-+<HitMine>0</HitMine>
-+<AvoidMine>0</AvoidMine>
-+<CheckpointMiss>0</CheckpointMiss>
-+<Miss>1</Miss>
-+<W5>0</W5>
-+<W4>2</W4>
-+<W3>66</W3>
-+<W2>128</W2>
-+<W1>164</W1>
-+<CheckpointHit>0</CheckpointHit>
-+</TapNoteScores>
-+<HoldNoteScores>
-+<LetGo>0</LetGo>
-+<Held>1</Held>
-+<MissedHold>0</MissedHold>
-+</HoldNoteScores>
-+<RadarValues>
-+<Stream>0.789189</Stream>
-+<Voltage>0.465907</Voltage>
-+<Air>0.333333</Air>
-+<Freeze>1.000000</Freeze>
-+<Chaos>0.804972</Chaos>
-+<Notes>369.000000</Notes>
-+<TapsAndHolds>360</TapsAndHolds>
-+<Jumps>9</Jumps>
-+<Holds>1</Holds>
-+<Mines>29</Mines>
-+<Hands>0</Hands>
-+<Rolls>0</Rolls>
-+<Lifts>0</Lifts>
-+<Fakes>0</Fakes>
-+</RadarValues>
-+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
-+<Disqualified>0</Disqualified>
-+<Pad>33</Pad>
-+<StageGuid>658b1581-cd55-4f14-a357-9e571ae55e7f</StageGuid>
-+<Guid>57f822fe-5499-43cf-aec0-6c09ef44c57f</Guid>
-+</HighScore>
-+</HighScoreForASongAndSteps>
-+</RecentSongScores>
-+</Stats>
-```
-
-### ITGMania/SaveAppData/Upload/2026-03-09 00018.xml
-
-Replay/upload queue.
-
-```diff
-diff --git a/ITGMania/SaveAppData/Upload/2026-03-09 00018.xml b/ITGMania/SaveAppData/Upload/2026-03-09 00018.xml
-new file mode 100644
-index 0000000..de2b462
---- /dev/null
-+++ b/ITGMania/SaveAppData/Upload/2026-03-09 00018.xml	
-@@ -0,0 +1,64 @@
-+<?xml version="1.0" encoding="UTF-8" ?>
-+
-+<Stats>
-+<MachineGuid>403d15c592378cca</MachineGuid>
-+<RecentSongScores>
-+<HighScoreForASongAndSteps>
-+<Song Dir='Songs/Cosmic Reincarnate/He&apos;s a Pirate (Remix)/'/>
-+<Steps Difficulty='Hard' StepsType='dance-single'/>
-+<HighScore>
-+<Name></Name>
-+<Grade>Tier06</Grade>
-+<Score>51</Score>
-+<PercentDP>0.932300</PercentDP>
-+<SurviveSeconds>106.543800</SurviveSeconds>
-+<MaxCombo>268</MaxCombo>
-+<StageAward>FullComboW3</StageAward>
-+<PeakComboAward></PeakComboAward>
-+<Modifiers>NoHideLights, C420, FailImmediateContinue, Overhead, Default</Modifiers>
-+<DateTime>2026-03-09 16:17:41</DateTime>
-+<PlayerGuid>d876307e83faa0ea</PlayerGuid>
-+<MachineGuid>403d15c592378cca</MachineGuid>
-+<ProductID>1</ProductID>
-+<TapNoteScores>
-+<HitMine>0</HitMine>
-+<AvoidMine>0</AvoidMine>
-+<CheckpointMiss>0</CheckpointMiss>
-+<Miss>0</Miss>
-+<W5>0</W5>
-+<W4>0</W4>
-+<W3>12</W3>
-+<W2>52</W2>
-+<W1>195</W1>
-+<CheckpointHit>0</CheckpointHit>
-+</TapNoteScores>
-+<HoldNoteScores>
-+<LetGo>0</LetGo>
-+<Held>1</Held>
-+<MissedHold>0</MissedHold>
-+</HoldNoteScores>
-+<RadarValues>
-+<Stream>0.940298</Stream>
-+<Voltage>1.000000</Voltage>
-+<Air>0.777778</Air>
-+<Freeze>1.000000</Freeze>
-+<Chaos>0.932308</Chaos>
-+<Notes>268.000000</Notes>
-+<TapsAndHolds>259</TapsAndHolds>
-+<Jumps>9</Jumps>
-+<Holds>1</Holds>
-+<Mines>24</Mines>
-+<Hands>0</Hands>
-+<Rolls>0</Rolls>
-+<Lifts>0</Lifts>
-+<Fakes>0</Fakes>
-+</RadarValues>
-+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
-+<Disqualified>0</Disqualified>
-+<Pad>33</Pad>
-+<StageGuid>564aa8cd-3e0b-4a01-aa96-989b158615c7</StageGuid>
-+<Guid>9dd0562b-79b2-4b04-ac24-9a8999c139b1</Guid>
-+</HighScore>
-+</HighScoreForASongAndSteps>
-+</RecentSongScores>
-+</Stats>
-```
-
-### ITGMania/SaveAppData/Upload/2026-03-09 00019.xml
-
-Replay/upload queue.
-
-```diff
-diff --git a/ITGMania/SaveAppData/Upload/2026-03-09 00019.xml b/ITGMania/SaveAppData/Upload/2026-03-09 00019.xml
-new file mode 100644
-index 0000000..0252eee
---- /dev/null
-+++ b/ITGMania/SaveAppData/Upload/2026-03-09 00019.xml	
-@@ -0,0 +1,64 @@
-+<?xml version="1.0" encoding="UTF-8" ?>
-+
-+<Stats>
-+<MachineGuid>403d15c592378cca</MachineGuid>
-+<RecentSongScores>
-+<HighScoreForASongAndSteps>
-+<Song Dir='Songs/Cosmic Reincarnate/Licky Licky/'/>
-+<Steps Difficulty='Hard' StepsType='dance-single'/>
-+<HighScore>
-+<Name></Name>
-+<Grade>Tier07</Grade>
-+<Score>76</Score>
-+<PercentDP>0.907200</PercentDP>
-+<SurviveSeconds>148.082718</SurviveSeconds>
-+<MaxCombo>245</MaxCombo>
-+<StageAward></StageAward>
-+<PeakComboAward></PeakComboAward>
-+<Modifiers>NoHideLights, C420, FailImmediateContinue, Overhead, Default</Modifiers>
-+<DateTime>2026-03-09 16:20:29</DateTime>
-+<PlayerGuid>d876307e83faa0ea</PlayerGuid>
-+<MachineGuid>403d15c592378cca</MachineGuid>
-+<ProductID>1</ProductID>
-+<TapNoteScores>
-+<HitMine>0</HitMine>
-+<AvoidMine>0</AvoidMine>
-+<CheckpointMiss>0</CheckpointMiss>
-+<Miss>0</Miss>
-+<W5>1</W5>
-+<W4>1</W4>
-+<W3>22</W3>
-+<W2>72</W2>
-+<W1>236</W1>
-+<CheckpointHit>0</CheckpointHit>
-+</TapNoteScores>
-+<HoldNoteScores>
-+<LetGo>0</LetGo>
-+<Held>0</Held>
-+<MissedHold>0</MissedHold>
-+</HoldNoteScores>
-+<RadarValues>
-+<Stream>0.919540</Stream>
-+<Voltage>0.710627</Voltage>
-+<Air>0.875000</Air>
-+<Freeze>0.000000</Freeze>
-+<Chaos>0.907229</Chaos>
-+<Notes>347.000000</Notes>
-+<TapsAndHolds>331</TapsAndHolds>
-+<Jumps>16</Jumps>
-+<Holds>0</Holds>
-+<Mines>0</Mines>
-+<Hands>0</Hands>
-+<Rolls>0</Rolls>
-+<Lifts>0</Lifts>
-+<Fakes>0</Fakes>
-+</RadarValues>
-+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
-+<Disqualified>0</Disqualified>
-+<Pad>33</Pad>
-+<StageGuid>e45a92bb-66e5-48fe-af1d-f6e9842eec54</StageGuid>
-+<Guid>40bf2c7c-d4b4-4268-ad72-3cdbb6676b9f</Guid>
-+</HighScore>
-+</HighScoreForASongAndSteps>
-+</RecentSongScores>
-+</Stats>
-```
-
-### ITGMania/SaveAppData/Upload/2026-03-09 00020.xml
-
-Replay/upload queue.
-
-```diff
-diff --git a/ITGMania/SaveAppData/Upload/2026-03-09 00020.xml b/ITGMania/SaveAppData/Upload/2026-03-09 00020.xml
-new file mode 100644
-index 0000000..13bd09a
---- /dev/null
-+++ b/ITGMania/SaveAppData/Upload/2026-03-09 00020.xml	
-@@ -0,0 +1,64 @@
-+<?xml version="1.0" encoding="UTF-8" ?>
-+
-+<Stats>
-+<MachineGuid>403d15c592378cca</MachineGuid>
-+<RecentSongScores>
-+<HighScoreForASongAndSteps>
-+<Song Dir='Songs/Anthem Series - Garage Rewind/All The Small Things/'/>
-+<Steps Difficulty='Challenge' StepsType='dance-single'/>
-+<HighScore>
-+<Name></Name>
-+<Grade>Tier09</Grade>
-+<Score>85</Score>
-+<PercentDP>0.842600</PercentDP>
-+<SurviveSeconds>152.844818</SurviveSeconds>
-+<MaxCombo>135</MaxCombo>
-+<StageAward></StageAward>
-+<PeakComboAward></PeakComboAward>
-+<Modifiers>NoHideLights, C590, 15% Mini, FailImmediateContinue, Overhead, Default</Modifiers>
-+<DateTime>2026-03-09 16:25:48</DateTime>
-+<PlayerGuid>4ad3a19834ee56bd</PlayerGuid>
-+<MachineGuid>403d15c592378cca</MachineGuid>
-+<ProductID>1</ProductID>
-+<TapNoteScores>
-+<HitMine>0</HitMine>
-+<AvoidMine>0</AvoidMine>
-+<CheckpointMiss>0</CheckpointMiss>
-+<Miss>6</Miss>
-+<W5>4</W5>
-+<W4>2</W4>
-+<W3>74</W3>
-+<W2>174</W2>
-+<W1>343</W1>
-+<CheckpointHit>0</CheckpointHit>
-+</TapNoteScores>
-+<HoldNoteScores>
-+<LetGo>0</LetGo>
-+<Held>104</Held>
-+<MissedHold>1</MissedHold>
-+</HoldNoteScores>
-+<RadarValues>
-+<Stream>0.858491</Stream>
-+<Voltage>0.218281</Voltage>
-+<Air>0.787879</Air>
-+<Freeze>0.990476</Freeze>
-+<Chaos>0.842655</Chaos>
-+<Notes>626.000000</Notes>
-+<TapsAndHolds>594</TapsAndHolds>
-+<Jumps>32</Jumps>
-+<Holds>104</Holds>
-+<Mines>0</Mines>
-+<Hands>0</Hands>
-+<Rolls>0</Rolls>
-+<Lifts>0</Lifts>
-+<Fakes>0</Fakes>
-+</RadarValues>
-+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
-+<Disqualified>0</Disqualified>
-+<Pad>33</Pad>
-+<StageGuid>83c3174b-c6d8-4622-a4d4-4d32e233394d</StageGuid>
-+<Guid>82239dd8-355f-4db6-ad4c-838989bf5aca</Guid>
-+</HighScore>
-+</HighScoreForASongAndSteps>
-+</RecentSongScores>
-+</Stats>
-```
-
-### ITGMania/SaveAppData/Upload/2026-03-09 00021.xml
-
-Replay/upload queue.
-
-```diff
-diff --git a/ITGMania/SaveAppData/Upload/2026-03-09 00021.xml b/ITGMania/SaveAppData/Upload/2026-03-09 00021.xml
-new file mode 100644
-index 0000000..0323b32
---- /dev/null
-+++ b/ITGMania/SaveAppData/Upload/2026-03-09 00021.xml	
-@@ -0,0 +1,64 @@
-+<?xml version="1.0" encoding="UTF-8" ?>
-+
-+<Stats>
-+<MachineGuid>403d15c592378cca</MachineGuid>
-+<RecentSongScores>
-+<HighScoreForASongAndSteps>
-+<Song Dir='Songs/Anthem Series - Garage Rewind/Dance Dance/'/>
-+<Steps Difficulty='Challenge' StepsType='dance-single'/>
-+<HighScore>
-+<Name></Name>
-+<Grade>Tier06</Grade>
-+<Score>99</Score>
-+<PercentDP>0.925900</PercentDP>
-+<SurviveSeconds>126.032486</SurviveSeconds>
-+<MaxCombo>280</MaxCombo>
-+<StageAward></StageAward>
-+<PeakComboAward></PeakComboAward>
-+<Modifiers>NoHideLights, C590, 15% Mini, FailImmediateContinue, Overhead, Default</Modifiers>
-+<DateTime>2026-03-09 16:28:18</DateTime>
-+<PlayerGuid>4ad3a19834ee56bd</PlayerGuid>
-+<MachineGuid>403d15c592378cca</MachineGuid>
-+<ProductID>1</ProductID>
-+<TapNoteScores>
-+<HitMine>0</HitMine>
-+<AvoidMine>0</AvoidMine>
-+<CheckpointMiss>0</CheckpointMiss>
-+<Miss>1</Miss>
-+<W5>0</W5>
-+<W4>1</W4>
-+<W3>36</W3>
-+<W2>116</W2>
-+<W1>335</W1>
-+<CheckpointHit>0</CheckpointHit>
-+</TapNoteScores>
-+<HoldNoteScores>
-+<LetGo>0</LetGo>
-+<Held>175</Held>
-+<MissedHold>0</MissedHold>
-+</HoldNoteScores>
-+<RadarValues>
-+<Stream>0.924152</Stream>
-+<Voltage>0.561388</Voltage>
-+<Air>1.000000</Air>
-+<Freeze>1.000000</Freeze>
-+<Chaos>0.925904</Chaos>
-+<Notes>500.000000</Notes>
-+<TapsAndHolds>488</TapsAndHolds>
-+<Jumps>12</Jumps>
-+<Holds>175</Holds>
-+<Mines>0</Mines>
-+<Hands>0</Hands>
-+<Rolls>0</Rolls>
-+<Lifts>0</Lifts>
-+<Fakes>0</Fakes>
-+</RadarValues>
-+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
-+<Disqualified>0</Disqualified>
-+<Pad>33</Pad>
-+<StageGuid>1d6a1d06-c9d7-467b-aea8-960f4ade9a98</StageGuid>
-+<Guid>abc9ac1e-afe0-4f90-af2d-395f9b9ae2e9</Guid>
-+</HighScore>
-+</HighScoreForASongAndSteps>
-+</RecentSongScores>
-+</Stats>
-```
-
-### ITGMania/SaveAppData/Upload/2026-03-09 00022.xml
-
-Replay/upload queue.
-
-```diff
-diff --git a/ITGMania/SaveAppData/Upload/2026-03-09 00022.xml b/ITGMania/SaveAppData/Upload/2026-03-09 00022.xml
-new file mode 100644
-index 0000000..cda6437
---- /dev/null
-+++ b/ITGMania/SaveAppData/Upload/2026-03-09 00022.xml	
-@@ -0,0 +1,64 @@
-+<?xml version="1.0" encoding="UTF-8" ?>
-+
-+<Stats>
-+<MachineGuid>403d15c592378cca</MachineGuid>
-+<RecentSongScores>
-+<HighScoreForASongAndSteps>
-+<Song Dir='Songs/Anthem Series - Garage Rewind/Without Me/'/>
-+<Steps Difficulty='Challenge' StepsType='dance-single'/>
-+<HighScore>
-+<Name></Name>
-+<Grade>Tier07</Grade>
-+<Score>116</Score>
-+<PercentDP>0.916100</PercentDP>
-+<SurviveSeconds>161.063293</SurviveSeconds>
-+<MaxCombo>671</MaxCombo>
-+<StageAward>FullComboW3</StageAward>
-+<PeakComboAward></PeakComboAward>
-+<Modifiers>NoHideLights, C600, 15% Mini, FailImmediateContinue, Overhead, Default</Modifiers>
-+<DateTime>2026-03-09 16:32:06</DateTime>
-+<PlayerGuid>4ad3a19834ee56bd</PlayerGuid>
-+<MachineGuid>403d15c592378cca</MachineGuid>
-+<ProductID>1</ProductID>
-+<TapNoteScores>
-+<HitMine>0</HitMine>
-+<AvoidMine>0</AvoidMine>
-+<CheckpointMiss>0</CheckpointMiss>
-+<Miss>0</Miss>
-+<W5>0</W5>
-+<W4>0</W4>
-+<W3>65</W3>
-+<W2>147</W2>
-+<W1>441</W1>
-+<CheckpointHit>0</CheckpointHit>
-+</TapNoteScores>
-+<HoldNoteScores>
-+<LetGo>0</LetGo>
-+<Held>163</Held>
-+<MissedHold>0</MissedHold>
-+</HoldNoteScores>
-+<RadarValues>
-+<Stream>0.898659</Stream>
-+<Voltage>1.000000</Voltage>
-+<Air>0.777778</Air>
-+<Freeze>1.000000</Freeze>
-+<Chaos>0.916176</Chaos>
-+<Notes>671.000000</Notes>
-+<TapsAndHolds>653</TapsAndHolds>
-+<Jumps>18</Jumps>
-+<Holds>160</Holds>
-+<Mines>4</Mines>
-+<Hands>0</Hands>
-+<Rolls>3</Rolls>
-+<Lifts>0</Lifts>
-+<Fakes>1</Fakes>
-+</RadarValues>
-+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
-+<Disqualified>0</Disqualified>
-+<Pad>33</Pad>
-+<StageGuid>e495a7da-d488-4bdf-ab60-e885c3af8c29</StageGuid>
-+<Guid>a296dd90-3749-4983-a739-8237d0a24ada</Guid>
-+</HighScore>
-+</HighScoreForASongAndSteps>
-+</RecentSongScores>
-+</Stats>
-```
-
-### ITGMania/SaveAppData/Upload/2026-03-09 00023.xml
-
-Replay/upload queue.
-
-```diff
-diff --git a/ITGMania/SaveAppData/Upload/2026-03-09 00023.xml b/ITGMania/SaveAppData/Upload/2026-03-09 00023.xml
-new file mode 100644
-index 0000000..ca3a59e
---- /dev/null
-+++ b/ITGMania/SaveAppData/Upload/2026-03-09 00023.xml	
-@@ -0,0 +1,64 @@
-+<?xml version="1.0" encoding="UTF-8" ?>
-+
-+<Stats>
-+<MachineGuid>403d15c592378cca</MachineGuid>
-+<RecentSongScores>
-+<HighScoreForASongAndSteps>
-+<Song Dir='Songs/Elemwarr Misc/Animals/'/>
-+<Steps Difficulty='Hard' StepsType='dance-single'/>
-+<HighScore>
-+<Name></Name>
-+<Grade>Tier10</Grade>
-+<Score>51</Score>
-+<PercentDP>0.801900</PercentDP>
-+<SurviveSeconds>110.813637</SurviveSeconds>
-+<MaxCombo>155</MaxCombo>
-+<StageAward></StageAward>
-+<PeakComboAward></PeakComboAward>
-+<Modifiers>NoHideLights, C420, FailImmediateContinue, Overhead, Default</Modifiers>
-+<DateTime>2026-03-09 16:36:32</DateTime>
-+<PlayerGuid>d876307e83faa0ea</PlayerGuid>
-+<MachineGuid>403d15c592378cca</MachineGuid>
-+<ProductID>1</ProductID>
-+<TapNoteScores>
-+<HitMine>0</HitMine>
-+<AvoidMine>0</AvoidMine>
-+<CheckpointMiss>0</CheckpointMiss>
-+<Miss>2</Miss>
-+<W5>0</W5>
-+<W4>3</W4>
-+<W3>53</W3>
-+<W2>94</W2>
-+<W1>146</W1>
-+<CheckpointHit>0</CheckpointHit>
-+</TapNoteScores>
-+<HoldNoteScores>
-+<LetGo>0</LetGo>
-+<Held>7</Held>
-+<MissedHold>0</MissedHold>
-+</HoldNoteScores>
-+<RadarValues>
-+<Stream>0.806020</Stream>
-+<Voltage>0.576798</Voltage>
-+<Air>1.000000</Air>
-+<Freeze>1.000000</Freeze>
-+<Chaos>0.801967</Chaos>
-+<Notes>297.000000</Notes>
-+<TapsAndHolds>296</TapsAndHolds>
-+<Jumps>1</Jumps>
-+<Holds>7</Holds>
-+<Mines>0</Mines>
-+<Hands>0</Hands>
-+<Rolls>0</Rolls>
-+<Lifts>0</Lifts>
-+<Fakes>0</Fakes>
-+</RadarValues>
-+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
-+<Disqualified>0</Disqualified>
-+<Pad>33</Pad>
-+<StageGuid>610a1c69-6f26-4aaf-a2de-e8db027f4c91</StageGuid>
-+<Guid>7821a300-3894-461c-a6f6-ccbb51d931c5</Guid>
-+</HighScore>
-+</HighScoreForASongAndSteps>
-+</RecentSongScores>
-+</Stats>
-```
-
-### ITGMania/SaveAppData/Upload/2026-03-09 00024.xml
-
-Replay/upload queue.
-
-```diff
-diff --git a/ITGMania/SaveAppData/Upload/2026-03-09 00024.xml b/ITGMania/SaveAppData/Upload/2026-03-09 00024.xml
-new file mode 100644
-index 0000000..2ae62d2
---- /dev/null
-+++ b/ITGMania/SaveAppData/Upload/2026-03-09 00024.xml	
-@@ -0,0 +1,64 @@
-+<?xml version="1.0" encoding="UTF-8" ?>
-+
-+<Stats>
-+<MachineGuid>403d15c592378cca</MachineGuid>
-+<RecentSongScores>
-+<HighScoreForASongAndSteps>
-+<Song Dir='Songs/Elemwarr Misc/call me maybe/'/>
-+<Steps Difficulty='Medium' StepsType='dance-single'/>
-+<HighScore>
-+<Name></Name>
-+<Grade>Tier09</Grade>
-+<Score>81</Score>
-+<PercentDP>0.831800</PercentDP>
-+<SurviveSeconds>126.764397</SurviveSeconds>
-+<MaxCombo>297</MaxCombo>
-+<StageAward></StageAward>
-+<PeakComboAward></PeakComboAward>
-+<Modifiers>NoHideLights, C420, FailImmediateContinue, Overhead, Default</Modifiers>
-+<DateTime>2026-03-09 16:39:09</DateTime>
-+<PlayerGuid>d876307e83faa0ea</PlayerGuid>
-+<MachineGuid>403d15c592378cca</MachineGuid>
-+<ProductID>1</ProductID>
-+<TapNoteScores>
-+<HitMine>0</HitMine>
-+<AvoidMine>0</AvoidMine>
-+<CheckpointMiss>0</CheckpointMiss>
-+<Miss>2</Miss>
-+<W5>1</W5>
-+<W4>2</W4>
-+<W3>69</W3>
-+<W2>124</W2>
-+<W1>188</W1>
-+<CheckpointHit>0</CheckpointHit>
-+</TapNoteScores>
-+<HoldNoteScores>
-+<LetGo>0</LetGo>
-+<Held>73</Held>
-+<MissedHold>0</MissedHold>
-+</HoldNoteScores>
-+<RadarValues>
-+<Stream>0.795620</Stream>
-+<Voltage>0.732666</Voltage>
-+<Air>0.760000</Air>
-+<Freeze>1.000000</Freeze>
-+<Chaos>0.831808</Chaos>
-+<Notes>408.000000</Notes>
-+<TapsAndHolds>383</TapsAndHolds>
-+<Jumps>25</Jumps>
-+<Holds>73</Holds>
-+<Mines>0</Mines>
-+<Hands>0</Hands>
-+<Rolls>0</Rolls>
-+<Lifts>0</Lifts>
-+<Fakes>0</Fakes>
-+</RadarValues>
-+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
-+<Disqualified>0</Disqualified>
-+<Pad>33</Pad>
-+<StageGuid>9173bac2-8bb1-4c96-afad-946fc0a1a6ae</StageGuid>
-+<Guid>7955b597-22c9-45a7-a456-b612b956731f</Guid>
-+</HighScore>
-+</HighScoreForASongAndSteps>
-+</RecentSongScores>
-+</Stats>
-```
-
-### ITGMania/SaveAppData/Upload/2026-03-09 00025.xml
-
-Replay/upload queue.
-
-```diff
-diff --git a/ITGMania/SaveAppData/Upload/2026-03-09 00025.xml b/ITGMania/SaveAppData/Upload/2026-03-09 00025.xml
-new file mode 100644
-index 0000000..c834da0
---- /dev/null
-+++ b/ITGMania/SaveAppData/Upload/2026-03-09 00025.xml	
-@@ -0,0 +1,64 @@
-+<?xml version="1.0" encoding="UTF-8" ?>
-+
-+<Stats>
-+<MachineGuid>403d15c592378cca</MachineGuid>
-+<RecentSongScores>
-+<HighScoreForASongAndSteps>
-+<Song Dir='Songs/Elemwarr Misc/Luminous Intensity (Radio Edit)/'/>
-+<Steps Difficulty='Hard' StepsType='dance-single'/>
-+<HighScore>
-+<Name></Name>
-+<Grade>Tier15</Grade>
-+<Score>50</Score>
-+<PercentDP>0.632100</PercentDP>
-+<SurviveSeconds>119.413750</SurviveSeconds>
-+<MaxCombo>102</MaxCombo>
-+<StageAward></StageAward>
-+<PeakComboAward></PeakComboAward>
-+<Modifiers>NoHideLights, C420, FailImmediateContinue, Overhead, Default</Modifiers>
-+<DateTime>2026-03-09 16:43:22</DateTime>
-+<PlayerGuid>d876307e83faa0ea</PlayerGuid>
-+<MachineGuid>403d15c592378cca</MachineGuid>
-+<ProductID>1</ProductID>
-+<TapNoteScores>
-+<HitMine>0</HitMine>
-+<AvoidMine>0</AvoidMine>
-+<CheckpointMiss>0</CheckpointMiss>
-+<Miss>18</Miss>
-+<W5>4</W5>
-+<W4>5</W4>
-+<W3>68</W3>
-+<W2>85</W2>
-+<W1>178</W1>
-+<CheckpointHit>0</CheckpointHit>
-+</TapNoteScores>
-+<HoldNoteScores>
-+<LetGo>0</LetGo>
-+<Held>3</Held>
-+<MissedHold>0</MissedHold>
-+</HoldNoteScores>
-+<RadarValues>
-+<Stream>0.737265</Stream>
-+<Voltage>0.274667</Voltage>
-+<Air>0.866667</Air>
-+<Freeze>1.000000</Freeze>
-+<Chaos>0.632133</Chaos>
-+<Notes>351.000000</Notes>
-+<TapsAndHolds>336</TapsAndHolds>
-+<Jumps>15</Jumps>
-+<Holds>3</Holds>
-+<Mines>0</Mines>
-+<Hands>0</Hands>
-+<Rolls>0</Rolls>
-+<Lifts>0</Lifts>
-+<Fakes>0</Fakes>
-+</RadarValues>
-+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
-+<Disqualified>0</Disqualified>
-+<Pad>33</Pad>
-+<StageGuid>fdf0a36d-866f-451e-a69e-e6361b969017</StageGuid>
-+<Guid>bd8e3a46-1bd2-4423-a614-bdc3cd8a8f0e</Guid>
-+</HighScore>
-+</HighScoreForASongAndSteps>
-+</RecentSongScores>
-+</Stats>
-```
-
-### ITGMania/SaveAppData/Upload/2026-03-09 00026.xml
-
-Replay/upload queue.
-
-```diff
-diff --git a/ITGMania/SaveAppData/Upload/2026-03-09 00026.xml b/ITGMania/SaveAppData/Upload/2026-03-09 00026.xml
-new file mode 100644
-index 0000000..2fcf0b6
---- /dev/null
-+++ b/ITGMania/SaveAppData/Upload/2026-03-09 00026.xml	
-@@ -0,0 +1,64 @@
-+<?xml version="1.0" encoding="UTF-8" ?>
-+
-+<Stats>
-+<MachineGuid>403d15c592378cca</MachineGuid>
-+<RecentSongScores>
-+<HighScoreForASongAndSteps>
-+<Song Dir='Songs/Anthem Series - Garage Rewind/The Anthem/'/>
-+<Steps Difficulty='Challenge' StepsType='dance-single'/>
-+<HighScore>
-+<Name></Name>
-+<Grade>Tier09</Grade>
-+<Score>69</Score>
-+<PercentDP>0.834500</PercentDP>
-+<SurviveSeconds>121.634308</SurviveSeconds>
-+<MaxCombo>194</MaxCombo>
-+<StageAward></StageAward>
-+<PeakComboAward></PeakComboAward>
-+<Modifiers>NoHideLights, C600, 15% Mini, FailImmediateContinue, Overhead, Default</Modifiers>
-+<DateTime>2026-03-09 16:46:11</DateTime>
-+<PlayerGuid>4ad3a19834ee56bd</PlayerGuid>
-+<MachineGuid>403d15c592378cca</MachineGuid>
-+<ProductID>1</ProductID>
-+<TapNoteScores>
-+<HitMine>0</HitMine>
-+<AvoidMine>0</AvoidMine>
-+<CheckpointMiss>0</CheckpointMiss>
-+<Miss>6</Miss>
-+<W5>3</W5>
-+<W4>6</W4>
-+<W3>49</W3>
-+<W2>138</W2>
-+<W1>254</W1>
-+<CheckpointHit>0</CheckpointHit>
-+</TapNoteScores>
-+<HoldNoteScores>
-+<LetGo>0</LetGo>
-+<Held>88</Held>
-+<MissedHold>0</MissedHold>
-+</HoldNoteScores>
-+<RadarValues>
-+<Stream>0.864017</Stream>
-+<Voltage>0.383277</Voltage>
-+<Air>0.909091</Air>
-+<Freeze>1.000000</Freeze>
-+<Chaos>0.834559</Chaos>
-+<Notes>469.000000</Notes>
-+<TapsAndHolds>447</TapsAndHolds>
-+<Jumps>22</Jumps>
-+<Holds>87</Holds>
-+<Mines>0</Mines>
-+<Hands>0</Hands>
-+<Rolls>1</Rolls>
-+<Lifts>0</Lifts>
-+<Fakes>0</Fakes>
-+</RadarValues>
-+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
-+<Disqualified>0</Disqualified>
-+<Pad>33</Pad>
-+<StageGuid>e113e420-b4c2-4266-ae20-0372a3fa5c78</StageGuid>
-+<Guid>c48b7186-eb7e-4390-a57e-5f09b5813670</Guid>
-+</HighScore>
-+</HighScoreForASongAndSteps>
-+</RecentSongScores>
-+</Stats>
-```
-
-### ITGMania/SaveAppData/Upload/2026-03-09 00027.xml
-
-Replay/upload queue.
-
-```diff
-diff --git a/ITGMania/SaveAppData/Upload/2026-03-09 00027.xml b/ITGMania/SaveAppData/Upload/2026-03-09 00027.xml
-new file mode 100644
-index 0000000..282f3f9
---- /dev/null
-+++ b/ITGMania/SaveAppData/Upload/2026-03-09 00027.xml	
-@@ -0,0 +1,64 @@
-+<?xml version="1.0" encoding="UTF-8" ?>
-+
-+<Stats>
-+<MachineGuid>403d15c592378cca</MachineGuid>
-+<RecentSongScores>
-+<HighScoreForASongAndSteps>
-+<Song Dir='Songs/Anthem Series - Garage Rewind/Still into You/'/>
-+<Steps Difficulty='Challenge' StepsType='dance-single'/>
-+<HighScore>
-+<Name></Name>
-+<Grade>Tier08</Grade>
-+<Score>103</Score>
-+<PercentDP>0.881000</PercentDP>
-+<SurviveSeconds>141.180389</SurviveSeconds>
-+<MaxCombo>267</MaxCombo>
-+<StageAward></StageAward>
-+<PeakComboAward></PeakComboAward>
-+<Modifiers>NoHideLights, C600, 15% Mini, FailImmediateContinue, Overhead, Default</Modifiers>
-+<DateTime>2026-03-09 16:49:18</DateTime>
-+<PlayerGuid>4ad3a19834ee56bd</PlayerGuid>
-+<MachineGuid>403d15c592378cca</MachineGuid>
-+<ProductID>1</ProductID>
-+<TapNoteScores>
-+<HitMine>0</HitMine>
-+<AvoidMine>0</AvoidMine>
-+<CheckpointMiss>0</CheckpointMiss>
-+<Miss>4</Miss>
-+<W5>0</W5>
-+<W4>3</W4>
-+<W3>54</W3>
-+<W2>139</W2>
-+<W1>355</W1>
-+<CheckpointHit>0</CheckpointHit>
-+</TapNoteScores>
-+<HoldNoteScores>
-+<LetGo>0</LetGo>
-+<Held>98</Held>
-+<MissedHold>1</MissedHold>
-+</HoldNoteScores>
-+<RadarValues>
-+<Stream>0.888889</Stream>
-+<Voltage>0.499677</Voltage>
-+<Air>1.000000</Air>
-+<Freeze>0.989899</Freeze>
-+<Chaos>0.881040</Chaos>
-+<Notes>572.000000</Notes>
-+<TapsAndHolds>551</TapsAndHolds>
-+<Jumps>21</Jumps>
-+<Holds>98</Holds>
-+<Mines>0</Mines>
-+<Hands>0</Hands>
-+<Rolls>0</Rolls>
-+<Lifts>0</Lifts>
-+<Fakes>0</Fakes>
-+</RadarValues>
-+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
-+<Disqualified>0</Disqualified>
-+<Pad>33</Pad>
-+<StageGuid>07bfab4a-bf0b-4761-a5e2-4fe1c7f6fe3c</StageGuid>
-+<Guid>f6ee1fe8-b163-41a8-a160-2b6d6efcb062</Guid>
-+</HighScore>
-+</HighScoreForASongAndSteps>
-+</RecentSongScores>
-+</Stats>
-```
-
-### ITGMania/SaveAppData/Upload/2026-03-09 00028.xml
-
-Replay/upload queue.
-
-```diff
-diff --git a/ITGMania/SaveAppData/Upload/2026-03-09 00028.xml b/ITGMania/SaveAppData/Upload/2026-03-09 00028.xml
-new file mode 100644
-index 0000000..66dbbd4
---- /dev/null
-+++ b/ITGMania/SaveAppData/Upload/2026-03-09 00028.xml	
-@@ -0,0 +1,64 @@
-+<?xml version="1.0" encoding="UTF-8" ?>
-+
-+<Stats>
-+<MachineGuid>403d15c592378cca</MachineGuid>
-+<RecentSongScores>
-+<HighScoreForASongAndSteps>
-+<Song Dir='Songs/Anthem Series - Garage Rewind/1985/'/>
-+<Steps Difficulty='Challenge' StepsType='dance-single'/>
-+<HighScore>
-+<Name></Name>
-+<Grade>Tier08</Grade>
-+<Score>84</Score>
-+<PercentDP>0.870800</PercentDP>
-+<SurviveSeconds>130.083313</SurviveSeconds>
-+<MaxCombo>196</MaxCombo>
-+<StageAward></StageAward>
-+<PeakComboAward></PeakComboAward>
-+<Modifiers>NoHideLights, C600, 15% Mini, FailImmediateContinue, Overhead, Default</Modifiers>
-+<DateTime>2026-03-09 16:52:02</DateTime>
-+<PlayerGuid>4ad3a19834ee56bd</PlayerGuid>
-+<MachineGuid>403d15c592378cca</MachineGuid>
-+<ProductID>1</ProductID>
-+<TapNoteScores>
-+<HitMine>0</HitMine>
-+<AvoidMine>0</AvoidMine>
-+<CheckpointMiss>0</CheckpointMiss>
-+<Miss>4</Miss>
-+<W5>1</W5>
-+<W4>6</W4>
-+<W3>38</W3>
-+<W2>131</W2>
-+<W1>309</W1>
-+<CheckpointHit>0</CheckpointHit>
-+</TapNoteScores>
-+<HoldNoteScores>
-+<LetGo>0</LetGo>
-+<Held>86</Held>
-+<MissedHold>4</MissedHold>
-+</HoldNoteScores>
-+<RadarValues>
-+<Stream>0.899795</Stream>
-+<Voltage>0.391698</Voltage>
-+<Air>0.000000</Air>
-+<Freeze>0.955556</Freeze>
-+<Chaos>0.870812</Chaos>
-+<Notes>484.000000</Notes>
-+<TapsAndHolds>484</TapsAndHolds>
-+<Jumps>0</Jumps>
-+<Holds>86</Holds>
-+<Mines>0</Mines>
-+<Hands>1</Hands>
-+<Rolls>0</Rolls>
-+<Lifts>0</Lifts>
-+<Fakes>0</Fakes>
-+</RadarValues>
-+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
-+<Disqualified>0</Disqualified>
-+<Pad>33</Pad>
-+<StageGuid>892297f5-63e1-4068-ab66-c1ab4a20cff4</StageGuid>
-+<Guid>f4742fda-f773-4fe9-a822-f6f4aa49cd1f</Guid>
-+</HighScore>
-+</HighScoreForASongAndSteps>
-+</RecentSongScores>
-+</Stats>
 ```
 
