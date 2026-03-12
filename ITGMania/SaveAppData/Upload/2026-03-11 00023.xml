@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Stats>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<RecentSongScores>
+<HighScoreForASongAndSteps>
+<Song Dir='Songs/Ben Speirs&apos; SPEIRMIX GALAXY/Call Me Maybe/'/>
+<Steps Difficulty='Medium' StepsType='dance-single'/>
+<HighScore>
+<Name></Name>
+<Grade>Failed</Grade>
+<Score>18</Score>
+<PercentDP>0.036200</PercentDP>
+<SurviveSeconds>29.862091</SurviveSeconds>
+<MaxCombo>25</MaxCombo>
+<StageAward></StageAward>
+<PeakComboAward></PeakComboAward>
+<Modifiers>NoHideLights, C335, FailImmediateContinue, Overhead</Modifiers>
+<DateTime>2026-03-11 20:35:24</DateTime>
+<PlayerGuid>2dde4d6e8737681e</PlayerGuid>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<ProductID>1</ProductID>
+<TapNoteScores>
+<HitMine>0</HitMine>
+<AvoidMine>0</AvoidMine>
+<CheckpointMiss>0</CheckpointMiss>
+<Miss>31</Miss>
+<W5>14</W5>
+<W4>16</W4>
+<W3>80</W3>
+<W2>51</W2>
+<W1>63</W1>
+<CheckpointHit>0</CheckpointHit>
+</TapNoteScores>
+<HoldNoteScores>
+<LetGo>4</LetGo>
+<Held>24</Held>
+<MissedHold>4</MissedHold>
+</HoldNoteScores>
+<RadarValues>
+<Stream>0.444444</Stream>
+<Voltage>0.079421</Voltage>
+<Air>0.291667</Air>
+<Freeze>0.750000</Freeze>
+<Chaos>0.036237</Chaos>
+<Notes>230.000000</Notes>
+<TapsAndHolds>211</TapsAndHolds>
+<Jumps>19</Jumps>
+<Holds>24</Holds>
+<Mines>0</Mines>
+<Hands>0</Hands>
+<Rolls>0</Rolls>
+<Lifts>0</Lifts>
+<Fakes>0</Fakes>
+</RadarValues>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<Disqualified>0</Disqualified>
+<Pad>33</Pad>
+<StageGuid>16ff40c8-589d-4ee4-a3ea-7455d0c690ba</StageGuid>
+<Guid>904d2a85-1c50-4a2a-a485-1171ca88c11d</Guid>
+</HighScore>
+</HighScoreForASongAndSteps>
+</RecentSongScores>
+</Stats>

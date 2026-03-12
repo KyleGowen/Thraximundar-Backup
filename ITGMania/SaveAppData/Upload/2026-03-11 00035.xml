@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Stats>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<RecentSongScores>
+<HighScoreForASongAndSteps>
+<Song Dir='Songs/JBEAN Exclusives - 2011/Animal/'/>
+<Steps Difficulty='Challenge' StepsType='dance-single'/>
+<HighScore>
+<Name></Name>
+<Grade>Failed</Grade>
+<Score>54</Score>
+<PercentDP>0.165100</PercentDP>
+<SurviveSeconds>53.921223</SurviveSeconds>
+<MaxCombo>74</MaxCombo>
+<StageAward></StageAward>
+<PeakComboAward></PeakComboAward>
+<Modifiers>NoHideLights, C420, FailImmediateContinue, Overhead, Default</Modifiers>
+<DateTime>2026-03-11 21:29:07</DateTime>
+<PlayerGuid>d876307e83faa0ea</PlayerGuid>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<ProductID>1</ProductID>
+<TapNoteScores>
+<HitMine>0</HitMine>
+<AvoidMine>0</AvoidMine>
+<CheckpointMiss>0</CheckpointMiss>
+<Miss>19</Miss>
+<W5>6</W5>
+<W4>5</W4>
+<W3>47</W3>
+<W2>116</W2>
+<W1>192</W1>
+<CheckpointHit>0</CheckpointHit>
+</TapNoteScores>
+<HoldNoteScores>
+<LetGo>1</LetGo>
+<Held>4</Held>
+<MissedHold>0</MissedHold>
+</HoldNoteScores>
+<RadarValues>
+<Stream>0.806763</Stream>
+<Voltage>0.197582</Voltage>
+<Air>0.965517</Air>
+<Freeze>0.800000</Freeze>
+<Chaos>0.165128</Chaos>
+<Notes>389.000000</Notes>
+<TapsAndHolds>361</TapsAndHolds>
+<Jumps>29</Jumps>
+<Holds>4</Holds>
+<Mines>0</Mines>
+<Hands>0</Hands>
+<Rolls>0</Rolls>
+<Lifts>0</Lifts>
+<Fakes>0</Fakes>
+</RadarValues>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<Disqualified>0</Disqualified>
+<Pad>33</Pad>
+<StageGuid>6f447a0d-8219-4932-afd0-1428acd20b76</StageGuid>
+<Guid>264f691e-f016-4cfd-a954-e0a022d98ab2</Guid>
+</HighScore>
+</HighScoreForASongAndSteps>
+</RecentSongScores>
+</Stats>

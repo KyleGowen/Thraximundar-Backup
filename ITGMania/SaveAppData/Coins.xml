@@ -16,5 +16,6 @@
 		<Coins Day='304' Hour='10' Year='2025'>1</Coins>
 		<Coins Day='44' Hour='11' Year='2026'>1</Coins>
 		<Coins Day='59' Hour='15' Year='2026'>2</Coins>
+		<Coins Day='69' Hour='20' Year='2026'>1</Coins>
 	</Data>
 </Bookkeeping>

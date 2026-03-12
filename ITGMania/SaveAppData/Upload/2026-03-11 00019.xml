@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Stats>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<RecentSongScores>
+<HighScoreForASongAndSteps>
+<Song Dir='Songs/Ben Speirs&apos; SPEIRMIX GALAXY/Black Magic/'/>
+<Steps Difficulty='Medium' StepsType='dance-single'/>
+<HighScore>
+<Name></Name>
+<Grade>Tier17</Grade>
+<Score>23</Score>
+<PercentDP>0.547500</PercentDP>
+<SurviveSeconds>144.542938</SurviveSeconds>
+<MaxCombo>54</MaxCombo>
+<StageAward></StageAward>
+<PeakComboAward></PeakComboAward>
+<Modifiers>NoHideLights, C335, FailImmediateContinue, Overhead</Modifiers>
+<DateTime>2026-03-11 20:23:00</DateTime>
+<PlayerGuid>2dde4d6e8737681e</PlayerGuid>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<ProductID>1</ProductID>
+<TapNoteScores>
+<HitMine>0</HitMine>
+<AvoidMine>0</AvoidMine>
+<CheckpointMiss>0</CheckpointMiss>
+<Miss>5</Miss>
+<W5>8</W5>
+<W4>9</W4>
+<W3>72</W3>
+<W2>50</W2>
+<W1>62</W1>
+<CheckpointHit>0</CheckpointHit>
+</TapNoteScores>
+<HoldNoteScores>
+<LetGo>4</LetGo>
+<Held>14</Held>
+<MissedHold>1</MissedHold>
+</HoldNoteScores>
+<RadarValues>
+<Stream>0.533632</Stream>
+<Voltage>0.233591</Voltage>
+<Air>0.411765</Air>
+<Freeze>0.736842</Freeze>
+<Chaos>0.547556</Chaos>
+<Notes>209.000000</Notes>
+<TapsAndHolds>193</TapsAndHolds>
+<Jumps>17</Jumps>
+<Holds>14</Holds>
+<Mines>0</Mines>
+<Hands>0</Hands>
+<Rolls>0</Rolls>
+<Lifts>0</Lifts>
+<Fakes>0</Fakes>
+</RadarValues>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<Disqualified>0</Disqualified>
+<Pad>33</Pad>
+<StageGuid>13234de6-679c-424f-ae71-6076c3dfebef</StageGuid>
+<Guid>56f2ced2-ef2d-40ab-a098-2c04ae01e7f3</Guid>
+</HighScore>
+</HighScoreForASongAndSteps>
+</RecentSongScores>
+</Stats>

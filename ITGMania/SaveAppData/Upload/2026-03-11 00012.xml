@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Stats>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<RecentSongScores>
+<HighScoreForASongAndSteps>
+<Song Dir='Songs/Misc. Collected/Instanbul/'/>
+<Steps Difficulty='Hard' StepsType='dance-single'/>
+<HighScore>
+<Name></Name>
+<Grade>Tier11</Grade>
+<Score>76</Score>
+<PercentDP>0.778100</PercentDP>
+<SurviveSeconds>140.272018</SurviveSeconds>
+<MaxCombo>94</MaxCombo>
+<StageAward></StageAward>
+<PeakComboAward></PeakComboAward>
+<Modifiers>NoHideLights, C600, 15% Mini, FailImmediateContinue, Overhead, Default</Modifiers>
+<DateTime>2026-03-11 19:49:14</DateTime>
+<PlayerGuid>4ad3a19834ee56bd</PlayerGuid>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<ProductID>1</ProductID>
+<TapNoteScores>
+<HitMine>1</HitMine>
+<AvoidMine>0</AvoidMine>
+<CheckpointMiss>0</CheckpointMiss>
+<Miss>5</Miss>
+<W5>5</W5>
+<W4>5</W4>
+<W3>96</W3>
+<W2>146</W2>
+<W1>275</W1>
+<CheckpointHit>0</CheckpointHit>
+</TapNoteScores>
+<HoldNoteScores>
+<LetGo>1</LetGo>
+<Held>17</Held>
+<MissedHold>0</MissedHold>
+</HoldNoteScores>
+<RadarValues>
+<Stream>0.793796</Stream>
+<Voltage>0.128719</Voltage>
+<Air>0.875000</Air>
+<Freeze>0.944444</Freeze>
+<Chaos>0.778182</Chaos>
+<Notes>538.000000</Notes>
+<TapsAndHolds>522</TapsAndHolds>
+<Jumps>16</Jumps>
+<Holds>17</Holds>
+<Mines>1</Mines>
+<Hands>0</Hands>
+<Rolls>0</Rolls>
+<Lifts>0</Lifts>
+<Fakes>0</Fakes>
+</RadarValues>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<Disqualified>0</Disqualified>
+<Pad>33</Pad>
+<StageGuid>2c07e5e4-427b-40d6-aaba-415ee8097354</StageGuid>
+<Guid>aedefd90-72a8-4cca-adb1-e39de3b79f99</Guid>
+</HighScore>
+</HighScoreForASongAndSteps>
+</RecentSongScores>
+</Stats>

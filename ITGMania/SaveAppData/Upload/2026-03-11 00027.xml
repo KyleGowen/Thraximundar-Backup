@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Stats>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<RecentSongScores>
+<HighScoreForASongAndSteps>
+<Song Dir='Songs/Elemwarr Originals/[elemwarr] Friday Night/'/>
+<Steps Difficulty='Hard' StepsType='dance-single'/>
+<HighScore>
+<Name></Name>
+<Grade>Tier15</Grade>
+<Score>43</Score>
+<PercentDP>0.619900</PercentDP>
+<SurviveSeconds>177.388077</SurviveSeconds>
+<MaxCombo>201</MaxCombo>
+<StageAward></StageAward>
+<PeakComboAward></PeakComboAward>
+<Modifiers>NoHideLights, C420, FailImmediateContinue, Overhead, Default</Modifiers>
+<DateTime>2026-03-11 20:54:34</DateTime>
+<PlayerGuid>d876307e83faa0ea</PlayerGuid>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<ProductID>1</ProductID>
+<TapNoteScores>
+<HitMine>0</HitMine>
+<AvoidMine>0</AvoidMine>
+<CheckpointMiss>0</CheckpointMiss>
+<Miss>22</Miss>
+<W5>9</W5>
+<W4>14</W4>
+<W3>225</W3>
+<W2>172</W2>
+<W1>118</W1>
+<CheckpointHit>0</CheckpointHit>
+</TapNoteScores>
+<HoldNoteScores>
+<LetGo>0</LetGo>
+<Held>178</Held>
+<MissedHold>4</MissedHold>
+</HoldNoteScores>
+<RadarValues>
+<Stream>0.537242</Stream>
+<Voltage>0.340203</Voltage>
+<Air>0.802817</Air>
+<Freeze>0.978022</Freeze>
+<Chaos>0.619946</Chaos>
+<Notes>600.000000</Notes>
+<TapsAndHolds>529</TapsAndHolds>
+<Jumps>67</Jumps>
+<Holds>178</Holds>
+<Mines>22</Mines>
+<Hands>0</Hands>
+<Rolls>0</Rolls>
+<Lifts>0</Lifts>
+<Fakes>0</Fakes>
+</RadarValues>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<Disqualified>0</Disqualified>
+<Pad>33</Pad>
+<StageGuid>a3070ab9-9a75-4cdb-a784-b02b28306bbf</StageGuid>
+<Guid>890d545a-60a3-4f81-a2da-ad77dfb77288</Guid>
+</HighScore>
+</HighScoreForASongAndSteps>
+</RecentSongScores>
+</Stats>

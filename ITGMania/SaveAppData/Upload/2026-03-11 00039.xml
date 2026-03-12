@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Stats>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<RecentSongScores>
+<HighScoreForASongAndSteps>
+<Song Dir='Songs/JBEAN Originals - 2020/This Is How We Party/'/>
+<Steps Difficulty='Medium' StepsType='dance-single'/>
+<HighScore>
+<Name></Name>
+<Grade>Failed</Grade>
+<Score>14</Score>
+<PercentDP>0.442700</PercentDP>
+<SurviveSeconds>106.513786</SurviveSeconds>
+<MaxCombo>42</MaxCombo>
+<StageAward></StageAward>
+<PeakComboAward></PeakComboAward>
+<Modifiers>NoHideLights, C335, FailImmediateContinue, Overhead</Modifiers>
+<DateTime>2026-03-11 21:48:34</DateTime>
+<PlayerGuid>2dde4d6e8737681e</PlayerGuid>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<ProductID>1</ProductID>
+<TapNoteScores>
+<HitMine>0</HitMine>
+<AvoidMine>0</AvoidMine>
+<CheckpointMiss>0</CheckpointMiss>
+<Miss>11</Miss>
+<W5>5</W5>
+<W4>6</W4>
+<W3>59</W3>
+<W2>41</W2>
+<W1>53</W1>
+<CheckpointHit>0</CheckpointHit>
+</TapNoteScores>
+<HoldNoteScores>
+<LetGo>2</LetGo>
+<Held>10</Held>
+<MissedHold>0</MissedHold>
+</HoldNoteScores>
+<RadarValues>
+<Stream>0.527174</Stream>
+<Voltage>0.230186</Voltage>
+<Air>0.444444</Air>
+<Freeze>0.833333</Freeze>
+<Chaos>0.442781</Chaos>
+<Notes>168.000000</Notes>
+<TapsAndHolds>159</TapsAndHolds>
+<Jumps>8</Jumps>
+<Holds>10</Holds>
+<Mines>0</Mines>
+<Hands>0</Hands>
+<Rolls>0</Rolls>
+<Lifts>0</Lifts>
+<Fakes>0</Fakes>
+</RadarValues>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<Disqualified>0</Disqualified>
+<Pad>33</Pad>
+<StageGuid>8b24fdee-8176-4310-a6a3-f649a6004f28</StageGuid>
+<Guid>9fb92ea6-aa82-4d68-adee-f41faf6081fe</Guid>
+</HighScore>
+</HighScoreForASongAndSteps>
+</RecentSongScores>
+</Stats>

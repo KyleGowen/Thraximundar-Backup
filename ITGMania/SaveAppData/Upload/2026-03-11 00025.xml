@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Stats>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<RecentSongScores>
+<HighScoreForASongAndSteps>
+<Song Dir='Songs/Misc. Collected/Rock-Paper-Scissors/'/>
+<Steps Difficulty='Hard' StepsType='dance-single'/>
+<HighScore>
+<Name></Name>
+<Grade>Tier10</Grade>
+<Score>74</Score>
+<PercentDP>0.808100</PercentDP>
+<SurviveSeconds>124.405525</SurviveSeconds>
+<MaxCombo>106</MaxCombo>
+<StageAward></StageAward>
+<PeakComboAward></PeakComboAward>
+<Modifiers>NoHideLights, C600, 15% Mini, FailImmediateContinue, Overhead, Default</Modifiers>
+<DateTime>2026-03-11 20:43:50</DateTime>
+<PlayerGuid>4ad3a19834ee56bd</PlayerGuid>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<ProductID>1</ProductID>
+<TapNoteScores>
+<HitMine>3</HitMine>
+<AvoidMine>0</AvoidMine>
+<CheckpointMiss>0</CheckpointMiss>
+<Miss>3</Miss>
+<W5>1</W5>
+<W4>5</W4>
+<W3>70</W3>
+<W2>107</W2>
+<W1>233</W1>
+<CheckpointHit>0</CheckpointHit>
+</TapNoteScores>
+<HoldNoteScores>
+<LetGo>0</LetGo>
+<Held>21</Held>
+<MissedHold>0</MissedHold>
+</HoldNoteScores>
+<RadarValues>
+<Stream>0.828326</Stream>
+<Voltage>0.227789</Voltage>
+<Air>0.829787</Air>
+<Freeze>1.000000</Freeze>
+<Chaos>0.808182</Chaos>
+<Notes>462.000000</Notes>
+<TapsAndHolds>416</TapsAndHolds>
+<Jumps>47</Jumps>
+<Holds>21</Holds>
+<Mines>25</Mines>
+<Hands>0</Hands>
+<Rolls>0</Rolls>
+<Lifts>0</Lifts>
+<Fakes>0</Fakes>
+</RadarValues>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<Disqualified>0</Disqualified>
+<Pad>33</Pad>
+<StageGuid>042eafcf-da77-40da-a97f-2611c949d461</StageGuid>
+<Guid>a7f360e2-a0aa-41b6-abfd-bd2d9f2630c6</Guid>
+</HighScore>
+</HighScoreForASongAndSteps>
+</RecentSongScores>
+</Stats>

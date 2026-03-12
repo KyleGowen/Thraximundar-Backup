@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Stats>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<RecentSongScores>
+<HighScoreForASongAndSteps>
+<Song Dir='Songs/Ben Speirs&apos; SPEIRMIX GALAXY/Shake It Off/'/>
+<Steps Difficulty='Medium' StepsType='dance-single'/>
+<HighScore>
+<Name></Name>
+<Grade>Failed</Grade>
+<Score>33</Score>
+<PercentDP>0.077600</PercentDP>
+<SurviveSeconds>35.890461</SurviveSeconds>
+<MaxCombo>31</MaxCombo>
+<StageAward></StageAward>
+<PeakComboAward></PeakComboAward>
+<Modifiers>NoHideLights, C335, FailImmediateContinue, Overhead</Modifiers>
+<DateTime>2026-03-11 21:09:35</DateTime>
+<PlayerGuid>2dde4d6e8737681e</PlayerGuid>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<ProductID>1</ProductID>
+<TapNoteScores>
+<HitMine>0</HitMine>
+<AvoidMine>0</AvoidMine>
+<CheckpointMiss>0</CheckpointMiss>
+<Miss>25</Miss>
+<W5>17</W5>
+<W4>21</W4>
+<W3>66</W3>
+<W2>56</W2>
+<W1>78</W1>
+<CheckpointHit>0</CheckpointHit>
+</TapNoteScores>
+<HoldNoteScores>
+<LetGo>3</LetGo>
+<Held>6</Held>
+<MissedHold>1</MissedHold>
+</HoldNoteScores>
+<RadarValues>
+<Stream>0.533724</Stream>
+<Voltage>0.063842</Voltage>
+<Air>0.538462</Air>
+<Freeze>0.600000</Freeze>
+<Chaos>0.077656</Chaos>
+<Notes>292.000000</Notes>
+<TapsAndHolds>224</TapsAndHolds>
+<Jumps>70</Jumps>
+<Holds>6</Holds>
+<Mines>0</Mines>
+<Hands>0</Hands>
+<Rolls>0</Rolls>
+<Lifts>0</Lifts>
+<Fakes>0</Fakes>
+</RadarValues>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<Disqualified>0</Disqualified>
+<Pad>33</Pad>
+<StageGuid>0deb2d55-6c1d-4d49-a795-80fd6ff75604</StageGuid>
+<Guid>b510432a-d5a3-4e41-a5a4-b4963297765c</Guid>
+</HighScore>
+</HighScoreForASongAndSteps>
+</RecentSongScores>
+</Stats>

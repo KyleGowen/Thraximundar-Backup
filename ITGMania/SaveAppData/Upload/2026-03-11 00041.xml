@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Stats>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<RecentSongScores>
+<HighScoreForASongAndSteps>
+<Song Dir='Songs/JBEAN Originals - 2020/Viva L&apos;amour/'/>
+<Steps Difficulty='Medium' StepsType='dance-single'/>
+<HighScore>
+<Name></Name>
+<Grade>Failed</Grade>
+<Score>30</Score>
+<PercentDP>0.407000</PercentDP>
+<SurviveSeconds>86.595505</SurviveSeconds>
+<MaxCombo>28</MaxCombo>
+<StageAward></StageAward>
+<PeakComboAward></PeakComboAward>
+<Modifiers>NoHideLights, C335, FailImmediateContinue, Overhead</Modifiers>
+<DateTime>2026-03-11 21:54:05</DateTime>
+<PlayerGuid>2dde4d6e8737681e</PlayerGuid>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<ProductID>1</ProductID>
+<TapNoteScores>
+<HitMine>0</HitMine>
+<AvoidMine>0</AvoidMine>
+<CheckpointMiss>0</CheckpointMiss>
+<Miss>17</Miss>
+<W5>3</W5>
+<W4>14</W4>
+<W3>54</W3>
+<W2>34</W2>
+<W1>72</W1>
+<CheckpointHit>0</CheckpointHit>
+</TapNoteScores>
+<HoldNoteScores>
+<LetGo>4</LetGo>
+<Held>28</Held>
+<MissedHold>1</MissedHold>
+</HoldNoteScores>
+<RadarValues>
+<Stream>0.538835</Stream>
+<Voltage>0.091812</Voltage>
+<Air>0.500000</Air>
+<Freeze>0.848485</Freeze>
+<Chaos>0.407048</Chaos>
+<Notes>185.000000</Notes>
+<TapsAndHolds>174</TapsAndHolds>
+<Jumps>11</Jumps>
+<Holds>28</Holds>
+<Mines>0</Mines>
+<Hands>0</Hands>
+<Rolls>0</Rolls>
+<Lifts>0</Lifts>
+<Fakes>0</Fakes>
+</RadarValues>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<Disqualified>0</Disqualified>
+<Pad>33</Pad>
+<StageGuid>a00acf52-26ba-4996-a231-cfd207567853</StageGuid>
+<Guid>65156043-c60b-4017-aee2-40139c4237f0</Guid>
+</HighScore>
+</HighScoreForASongAndSteps>
+</RecentSongScores>
+</Stats>

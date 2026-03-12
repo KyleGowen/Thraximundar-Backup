@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Stats>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<RecentSongScores>
+<HighScoreForASongAndSteps>
+<Song Dir='Songs/Ben Speirs&apos; SPEIRMIX GALAXY/Burn Up The Floor/'/>
+<Steps Difficulty='Medium' StepsType='dance-single'/>
+<HighScore>
+<Name></Name>
+<Grade>Failed</Grade>
+<Score>22</Score>
+<PercentDP>0.091300</PercentDP>
+<SurviveSeconds>47.808331</SurviveSeconds>
+<MaxCombo>42</MaxCombo>
+<StageAward></StageAward>
+<PeakComboAward></PeakComboAward>
+<Modifiers>NoHideLights, C335, FailImmediateContinue, Overhead</Modifiers>
+<DateTime>2026-03-11 20:32:34</DateTime>
+<PlayerGuid>2dde4d6e8737681e</PlayerGuid>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<ProductID>1</ProductID>
+<TapNoteScores>
+<HitMine>0</HitMine>
+<AvoidMine>0</AvoidMine>
+<CheckpointMiss>0</CheckpointMiss>
+<Miss>52</Miss>
+<W5>20</W5>
+<W4>12</W4>
+<W3>80</W3>
+<W2>40</W2>
+<W1>64</W1>
+<CheckpointHit>0</CheckpointHit>
+</TapNoteScores>
+<HoldNoteScores>
+<LetGo>2</LetGo>
+<Held>17</Held>
+<MissedHold>2</MissedHold>
+</HoldNoteScores>
+<RadarValues>
+<Stream>0.395425</Stream>
+<Voltage>0.179021</Voltage>
+<Air>0.421053</Air>
+<Freeze>0.809524</Freeze>
+<Chaos>0.091349</Chaos>
+<Notes>230.000000</Notes>
+<TapsAndHolds>199</TapsAndHolds>
+<Jumps>26</Jumps>
+<Holds>17</Holds>
+<Mines>0</Mines>
+<Hands>0</Hands>
+<Rolls>0</Rolls>
+<Lifts>0</Lifts>
+<Fakes>0</Fakes>
+</RadarValues>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<Disqualified>0</Disqualified>
+<Pad>33</Pad>
+<StageGuid>eb40df36-2925-49f1-ad72-066d6ed3ba5a</StageGuid>
+<Guid>e82a53d8-7035-4727-a3f4-0bdfd4b9f7a6</Guid>
+</HighScore>
+</HighScoreForASongAndSteps>
+</RecentSongScores>
+</Stats>

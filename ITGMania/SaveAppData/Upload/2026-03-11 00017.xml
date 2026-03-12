@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Stats>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<RecentSongScores>
+<HighScoreForASongAndSteps>
+<Song Dir='Songs/80s Greatest Hits Volume 1/The Boys of Summer/'/>
+<Steps Difficulty='Hard' StepsType='dance-single'/>
+<HighScore>
+<Name></Name>
+<Grade>Tier09</Grade>
+<Score>100</Score>
+<PercentDP>0.837600</PercentDP>
+<SurviveSeconds>144.725128</SurviveSeconds>
+<MaxCombo>165</MaxCombo>
+<StageAward></StageAward>
+<PeakComboAward></PeakComboAward>
+<Modifiers>NoHideLights, C600, 15% Mini, FailImmediateContinue, Overhead, Default</Modifiers>
+<DateTime>2026-03-11 20:16:05</DateTime>
+<PlayerGuid>4ad3a19834ee56bd</PlayerGuid>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<ProductID>1</ProductID>
+<TapNoteScores>
+<HitMine>0</HitMine>
+<AvoidMine>0</AvoidMine>
+<CheckpointMiss>0</CheckpointMiss>
+<Miss>7</Miss>
+<W5>4</W5>
+<W4>8</W4>
+<W3>59</W3>
+<W2>114</W2>
+<W1>307</W1>
+<CheckpointHit>0</CheckpointHit>
+</TapNoteScores>
+<HoldNoteScores>
+<LetGo>1</LetGo>
+<Held>120</Held>
+<MissedHold>1</MissedHold>
+</HoldNoteScores>
+<RadarValues>
+<Stream>0.846457</Stream>
+<Voltage>0.312576</Voltage>
+<Air>1.000000</Air>
+<Freeze>0.983607</Freeze>
+<Chaos>0.837681</Chaos>
+<Notes>497.000000</Notes>
+<TapsAndHolds>488</TapsAndHolds>
+<Jumps>9</Jumps>
+<Holds>120</Holds>
+<Mines>0</Mines>
+<Hands>0</Hands>
+<Rolls>0</Rolls>
+<Lifts>0</Lifts>
+<Fakes>0</Fakes>
+</RadarValues>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<Disqualified>0</Disqualified>
+<Pad>33</Pad>
+<StageGuid>f53092db-a95f-4176-a2cf-e32279a5fff4</StageGuid>
+<Guid>65aaf5b2-b084-43c4-a99f-54d76a82b3cf</Guid>
+</HighScore>
+</HighScoreForASongAndSteps>
+</RecentSongScores>
+</Stats>

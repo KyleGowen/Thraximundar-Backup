@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Stats>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<RecentSongScores>
+<HighScoreForASongAndSteps>
+<Song Dir='Songs/K-Pop Demon Hunters/What It Sounds Like/'/>
+<Steps Difficulty='Easy' StepsType='dance-single'/>
+<HighScore>
+<Name></Name>
+<Grade>Failed</Grade>
+<Score>20</Score>
+<PercentDP>0.000000</PercentDP>
+<SurviveSeconds>14.489798</SurviveSeconds>
+<MaxCombo>35</MaxCombo>
+<StageAward></StageAward>
+<PeakComboAward></PeakComboAward>
+<Modifiers>NoHideLights, C335, FailImmediateContinue, Overhead</Modifiers>
+<DateTime>2026-03-11 19:11:40</DateTime>
+<PlayerGuid>2dde4d6e8737681e</PlayerGuid>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<ProductID>1</ProductID>
+<TapNoteScores>
+<HitMine>0</HitMine>
+<AvoidMine>0</AvoidMine>
+<CheckpointMiss>0</CheckpointMiss>
+<Miss>75</Miss>
+<W5>19</W5>
+<W4>32</W4>
+<W3>99</W3>
+<W2>55</W2>
+<W1>61</W1>
+<CheckpointHit>0</CheckpointHit>
+</TapNoteScores>
+<HoldNoteScores>
+<LetGo>10</LetGo>
+<Held>62</Held>
+<MissedHold>14</MissedHold>
+</HoldNoteScores>
+<RadarValues>
+<Stream>0.345714</Stream>
+<Voltage>0.100910</Voltage>
+<Air>0.444444</Air>
+<Freeze>0.720930</Freeze>
+<Chaos>0.000000</Chaos>
+<Notes>255.000000</Notes>
+<TapsAndHolds>247</TapsAndHolds>
+<Jumps>7</Jumps>
+<Holds>62</Holds>
+<Mines>0</Mines>
+<Hands>0</Hands>
+<Rolls>0</Rolls>
+<Lifts>0</Lifts>
+<Fakes>0</Fakes>
+</RadarValues>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<Disqualified>0</Disqualified>
+<Pad>33</Pad>
+<StageGuid>bfbf11e9-78df-4c22-af94-43dcfc008b4b</StageGuid>
+<Guid>974ef790-302f-49bf-a484-4618ff445b5f</Guid>
+</HighScore>
+</HighScoreForASongAndSteps>
+</RecentSongScores>
+</Stats>
