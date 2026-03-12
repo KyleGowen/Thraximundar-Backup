@@ -1,6 +1,6 @@
 ﻿# ITGMania Backup
 
-#### Last backup: Mar 12, 2026 at 9:28 AM
+#### Last backup: Mar 12, 2026 at 9:35 AM
 
 #### Next backup: Mar 13, 2026 at 3:00 AM
 
@@ -9,12 +9,22 @@
 ### 30-day play time (in songs)
 
 - **KYLE** 1h 9m 56s
-- **LIZY** 56m 33s
-- **SAM!** 38m 7s
 
-| 8 | Total |
+| 1 | 2 | 3 | 4 | 5 | 9 | Total |
+| --- | --- | --- | --- | --- | --- | --- |
+| 2 | 4 | 3 | 1 | 1 | 1 | 12 |
+
+- **LIZY** 56m 33s
+
+| 3 | Total |
 | --- | --- |
 | 1 | 1 |
+
+- **SAM!** 38m 7s
+
+| 7 | 8 | Total |
+| --- | --- | --- |
+| 1 | 4 | 5 |
 
 
 #### Mar 11, 2026 at 11:42 PM
@@ -23,13 +33,13 @@ Time in songs this run: **KYLE** 20m 27s.
 Time in songs this run: **SAM!** 13m 30s.
 Time in songs this run: **LIZY** 45m 6s.
 
-- **Player** set a new score for **GANGNAM STYLE - PSY [owenviau1]** (Elemwarr Misc) - Hard, dance-single - 90.43% DP on 2026-03-11.
+- **Player** set a new score for **GANGNAM STYLE - PSY [owenviau1]** (Elemwarr Misc) - Hard (8), dance-single - 90.43% DP on 2026-03-11.
 - **SAM!** set a new score for **Da Dip** (Everlasting Memories) - Medium (8), dance-single - 82.46% DP on 2026-03-11.
-- **SAM!** set a new score for **Animal** (JBEAN Exclusives - 2011) - Challenge, dance-single - 16.51% DP on 2026-03-11.
+- **SAM!** set a new score for **Animal** (JBEAN Exclusives - 2011) - Challenge (8), dance-single - 16.51% DP on 2026-03-11.
 - **LIZY** set a new score for **Call Me Maybe** (Ben Speirs&apos; SPEIRMIX GALAXY) - Medium, dance-single - 3.62% DP on 2026-03-11.
 - **LIZY** set a new score for **Call Me Maybe** (Ben Speirs&apos; SPEIRMIX GALAXY) - Easy, dance-single - 34.67% DP on 2026-03-11.
 - **LIZY** set a new score for **Call Me Maybe** (Ben Speirs&apos; SPEIRMIX GALAXY) - Medium, dance-single - 0.00% DP on 2026-03-11.
-- **LIZY** set a new score for **I Knew You Were Trouble** (JBEAN Exclusives - 2013) - Easy, dance-single - 62.65% DP on 2026-03-11.
+- **LIZY** set a new score for **I Knew You Were Trouble** (JBEAN Exclusives - 2013) - Easy (3), dance-single - 62.65% DP on 2026-03-11.
 
 #### Mar 11, 2026 at 3:01 AM
 
@@ -676,7 +686,7 @@ Time in songs this run: **KYLE** 34m 24s.
 Time in songs this run: **SAM!** 24m 37s.
 Time in songs this run: **LIZY** 7m 29s.
 
-- **KYLE** set a new score for **Still into You** (Anthem Series - Garage Rewind) - Challenge, dance-single - 88.10% DP on 2026-03-09.
+- **KYLE** set a new score for **Still into You** (Anthem Series - Garage Rewind) - Challenge (9), dance-single - 88.10% DP on 2026-03-09.
 - **KYLE** set a new score for **[T01] Boom Boom Pow** (BHOP Ball) - Challenge, dance-single - 90.11% DP on 2026-03-09.
 - **KYLE** set a new score for **[T02] ON FIRE** (BHOP Ball) - Challenge, dance-single - 88.59% DP on 2026-03-09.
 - **KYLE** set a new score for **[T04] Mr. Toot** (BHOP Ball) - Challenge, dance-single - 53.98% DP on 2026-03-09.
@@ -690,9 +700,9 @@ Time in songs this run: **LIZY** 7m 29s.
 - **SAM!** set a new score for **[T01] Shady Business (SH)** (BHOP Ball 4) - Challenge, dance-single - 73.57% DP on 2026-03-09.
 - **SAM!** set a new score for **[T01] Disco Pop (SH)** (BHOP Ball) - Hard, dance-single - 88.76% DP on 2026-03-09.
 - **SAM!** set a new score for **[T02] Coconut Mall** (BHOP Ball) - Challenge, dance-single - 72.20% DP on 2026-03-09.
-- **SAM!** set a new score for **Animals** (Elemwarr Misc) - Hard, dance-single - 80.19% DP on 2026-03-09.
-- **SAM!** set a new score for **Luminous Intensity (Radio Edit)** (Elemwarr Misc) - Hard, dance-single - 63.21% DP on 2026-03-09.
-- **SAM!** set a new score for **call me maybe** (Elemwarr Misc) - Medium, dance-single - 83.18% DP on 2026-03-09.
+- **SAM!** set a new score for **Animals** (Elemwarr Misc) - Hard (8), dance-single - 80.19% DP on 2026-03-09.
+- **SAM!** set a new score for **Luminous Intensity (Radio Edit)** (Elemwarr Misc) - Hard (8), dance-single - 63.21% DP on 2026-03-09.
+- **SAM!** set a new score for **call me maybe** (Elemwarr Misc) - Medium (7), dance-single - 83.18% DP on 2026-03-09.
 
 #### Feb 27, 2026 at 3:01 AM
 
@@ -1161,9 +1171,9 @@ Time in songs this run: **LIZY** 7m 29s.
 
 Time in songs this run: **KYLE** 4m 45s.
 
-- **KYLE** set a new score for **MAKE A JAM!** (DDR 2nd Mix) - Beginner, dance-single - 0.00% DP on 2026-02-17.
-- **KYLE** set a new score for **MAKE IT BETTER (So-REAL Mix)** (DDR 2nd Mix) - Beginner, dance-single - 62.66% DP on 2026-02-17.
-- **KYLE** set a new score for **PARANOiA KCET ~clean mix~** (DDR 2nd Mix) - Beginner, dance-single - 68.38% DP on 2026-02-17.
+- **KYLE** set a new score for **MAKE A JAM!** (DDR 2nd Mix) - Beginner (2), dance-single - 0.00% DP on 2026-02-17.
+- **KYLE** set a new score for **MAKE IT BETTER (So-REAL Mix)** (DDR 2nd Mix) - Beginner (2), dance-single - 62.66% DP on 2026-02-17.
+- **KYLE** set a new score for **PARANOiA KCET ~clean mix~** (DDR 2nd Mix) - Beginner (4), dance-single - 68.38% DP on 2026-02-17.
 
 #### Feb 17, 2026 at 10:45 PM
 
@@ -1246,8 +1256,8 @@ Time in songs this run: **KYLE** 4m 45s.
 
 Time in songs this run: **KYLE** 3m 13s.
 
-- **KYLE** set a new score for **PARANOiA MAX~DIRTY MIX~ (in roulette)** (DDR 2nd Mix) - Beginner, dance-single - 50.00% DP on 2026-02-17.
-- **KYLE** set a new score for **PARANOiA MAX~DIRTY MIX~** (DDR 2nd Mix) - Beginner, dance-single - 0.00% DP on 2026-02-17.
+- **KYLE** set a new score for **PARANOiA MAX~DIRTY MIX~ (in roulette)** (DDR 2nd Mix) - Beginner (1), dance-single - 50.00% DP on 2026-02-17.
+- **KYLE** set a new score for **PARANOiA MAX~DIRTY MIX~** (DDR 2nd Mix) - Beginner (5), dance-single - 0.00% DP on 2026-02-17.
 #### Pack and song changes
 
 **Removed**
@@ -1328,9 +1338,9 @@ Time in songs this run: **KYLE** 3m 13s.
 Time in songs this run: **KYLE** 4m 18s.
 Time in songs this run: **LIZY** 3m 58s.
 
-- **KYLE** set a new score for **PUT YOUR FAITH IN ME** (DDR 2nd Mix) - Beginner, dance-single - 0.00% DP on 2026-02-17.
+- **KYLE** set a new score for **PUT YOUR FAITH IN ME** (DDR 2nd Mix) - Beginner (3), dance-single - 0.00% DP on 2026-02-17.
 - **KYLE** set a new score for **SP-TRIP MACHINE~JUNGLE MIX~** (DDR 2nd Mix) - ,  - 0.00% DP on 2026-02-17.
-- **KYLE** set a new score for **Smoke** (DDR 2nd Mix) - Beginner, dance-single - 47.87% DP on 2026-02-17.
+- **KYLE** set a new score for **Smoke** (DDR 2nd Mix) - Beginner (2), dance-single - 47.87% DP on 2026-02-17.
 - **LIZY** set a new score for **Are You With Me** (Ben Speirs&apos; SPEIRMIX GALAXY) - Beginner, dance-single - 0.00% DP on 2026-02-17.
 - **LIZY** set a new score for **Back 2 U** (Ben Speirs&apos; SPEIRMIX GALAXY) - Beginner, dance-single - 52.81% DP on 2026-02-17.
 
@@ -1342,16 +1352,16 @@ No new scores this run.
 
 Time in songs this run: **KYLE** 2m 49s.
 
-- **KYLE** set a new score for **TUBTHUMPING** (DDR 2nd Mix) - Beginner, dance-single - 45.71% DP on 2026-02-17.
-- **KYLE** set a new score for **stomp to my beat** (DDR 2nd Mix) - Beginner, dance-single - 0.00% DP on 2026-02-17.
+- **KYLE** set a new score for **TUBTHUMPING** (DDR 2nd Mix) - Beginner (1), dance-single - 45.71% DP on 2026-02-17.
+- **KYLE** set a new score for **stomp to my beat** (DDR 2nd Mix) - Beginner (3), dance-single - 0.00% DP on 2026-02-17.
 
 ### Feb 17, 2026 at 4:50 PM
 
-- **KYLE** set a new score for **PUT YOUR FAITH IN ME (Jazzy Groove)** (DDR 2nd Mix) - Beginner, dance-single - 62.08% DP on 2026-02-17.
+- **KYLE** set a new score for **PUT YOUR FAITH IN ME (Jazzy Groove)** (DDR 2nd Mix) - Beginner (2), dance-single - 62.08% DP on 2026-02-17.
 
 ### Feb 17, 2026 at 4:42 PM
 
-- **KYLE** set a new score for **GENOM SCREAMS** (DDR 2nd Mix) - Beginner, dance-single - 49.04% DP on 2026-02-17.
+- **KYLE** set a new score for **GENOM SCREAMS** (DDR 2nd Mix) - Beginner (3), dance-single - 49.04% DP on 2026-02-17.
 
 <details>
 <summary><strong>Pack and song changes (last 30 days)</strong></summary>
