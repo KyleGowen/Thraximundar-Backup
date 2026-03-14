@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Stats>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<RecentSongScores>
+<HighScoreForASongAndSteps>
+<Song Dir='Songs/JBEAN Originals - 2020/The Woodchuck Song/'/>
+<Steps Difficulty='Medium' StepsType='dance-single'/>
+<HighScore>
+<Name></Name>
+<Grade>Failed</Grade>
+<Score>24</Score>
+<PercentDP>0.164400</PercentDP>
+<SurviveSeconds>51.765915</SurviveSeconds>
+<MaxCombo>61</MaxCombo>
+<StageAward></StageAward>
+<PeakComboAward></PeakComboAward>
+<Modifiers>NoHideLights, C335, FailImmediateContinue, Overhead</Modifiers>
+<DateTime>2026-03-13 17:34:12</DateTime>
+<PlayerGuid>2dde4d6e8737681e</PlayerGuid>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<ProductID>1</ProductID>
+<TapNoteScores>
+<HitMine>0</HitMine>
+<AvoidMine>0</AvoidMine>
+<CheckpointMiss>0</CheckpointMiss>
+<Miss>15</Miss>
+<W5>9</W5>
+<W4>10</W4>
+<W3>66</W3>
+<W2>46</W2>
+<W1>65</W1>
+<CheckpointHit>0</CheckpointHit>
+</TapNoteScores>
+<HoldNoteScores>
+<LetGo>4</LetGo>
+<Held>21</Held>
+<MissedHold>0</MissedHold>
+</HoldNoteScores>
+<RadarValues>
+<Stream>0.540541</Stream>
+<Voltage>0.354666</Voltage>
+<Air>0.545455</Air>
+<Freeze>0.840000</Freeze>
+<Chaos>0.164407</Chaos>
+<Notes>198.000000</Notes>
+<TapsAndHolds>187</TapsAndHolds>
+<Jumps>11</Jumps>
+<Holds>21</Holds>
+<Mines>0</Mines>
+<Hands>0</Hands>
+<Rolls>0</Rolls>
+<Lifts>0</Lifts>
+<Fakes>0</Fakes>
+</RadarValues>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<Disqualified>0</Disqualified>
+<Pad>33</Pad>
+<StageGuid>a71e6866-004b-4cf0-a016-29b4039263fb</StageGuid>
+<Guid>1df8182c-75e1-4557-a660-6dacfb5214f3</Guid>
+</HighScore>
+</HighScoreForASongAndSteps>
+</RecentSongScores>
+</Stats>

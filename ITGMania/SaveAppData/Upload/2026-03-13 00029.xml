@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Stats>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<RecentSongScores>
+<HighScoreForASongAndSteps>
+<Song Dir='Songs/JBEAN Originals - 2020/Twit/'/>
+<Steps Difficulty='Medium' StepsType='dance-single'/>
+<HighScore>
+<Name></Name>
+<Grade>Failed</Grade>
+<Score>21</Score>
+<PercentDP>0.071800</PercentDP>
+<SurviveSeconds>37.467747</SurviveSeconds>
+<MaxCombo>40</MaxCombo>
+<StageAward></StageAward>
+<PeakComboAward></PeakComboAward>
+<Modifiers>NoHideLights, C335, FailImmediateContinue, Overhead</Modifiers>
+<DateTime>2026-03-13 17:49:00</DateTime>
+<PlayerGuid>2dde4d6e8737681e</PlayerGuid>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<ProductID>1</ProductID>
+<TapNoteScores>
+<HitMine>0</HitMine>
+<AvoidMine>0</AvoidMine>
+<CheckpointMiss>0</CheckpointMiss>
+<Miss>29</Miss>
+<W5>14</W5>
+<W4>14</W4>
+<W3>63</W3>
+<W2>47</W2>
+<W1>60</W1>
+<CheckpointHit>0</CheckpointHit>
+</TapNoteScores>
+<HoldNoteScores>
+<LetGo>1</LetGo>
+<Held>3</Held>
+<MissedHold>0</MissedHold>
+</HoldNoteScores>
+<RadarValues>
+<Stream>0.480769</Stream>
+<Voltage>0.224547</Voltage>
+<Air>0.606061</Air>
+<Freeze>0.750000</Freeze>
+<Chaos>0.071861</Chaos>
+<Notes>217.000000</Notes>
+<TapsAndHolds>185</TapsAndHolds>
+<Jumps>33</Jumps>
+<Holds>3</Holds>
+<Mines>0</Mines>
+<Hands>0</Hands>
+<Rolls>0</Rolls>
+<Lifts>0</Lifts>
+<Fakes>0</Fakes>
+</RadarValues>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<Disqualified>0</Disqualified>
+<Pad>33</Pad>
+<StageGuid>55a3610e-b85c-485b-ac26-ac8be2417409</StageGuid>
+<Guid>97fe5dc5-db64-4ae2-ad5b-9b2402c7bbb6</Guid>
+</HighScore>
+</HighScoreForASongAndSteps>
+</RecentSongScores>
+</Stats>

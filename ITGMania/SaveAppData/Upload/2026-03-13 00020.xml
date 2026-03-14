@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Stats>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<RecentSongScores>
+<HighScoreForASongAndSteps>
+<Song Dir='Songs/Tech-Bit Adventures/Athletic (From -Super Mario World-)/'/>
+<Steps Difficulty='Hard' StepsType='dance-single'/>
+<HighScore>
+<Name></Name>
+<Grade>Failed</Grade>
+<Score>46</Score>
+<PercentDP>0.406600</PercentDP>
+<SurviveSeconds>70.491661</SurviveSeconds>
+<MaxCombo>128</MaxCombo>
+<StageAward></StageAward>
+<PeakComboAward></PeakComboAward>
+<Modifiers>NoHideLights, C600, 15% Mini, FailImmediateContinue, Overhead, Default</Modifiers>
+<DateTime>2026-03-13 16:03:44</DateTime>
+<PlayerGuid>4ad3a19834ee56bd</PlayerGuid>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<ProductID>1</ProductID>
+<TapNoteScores>
+<HitMine>5</HitMine>
+<AvoidMine>0</AvoidMine>
+<CheckpointMiss>0</CheckpointMiss>
+<Miss>52</Miss>
+<W5>13</W5>
+<W4>11</W4>
+<W3>108</W3>
+<W2>132</W2>
+<W1>168</W1>
+<CheckpointHit>0</CheckpointHit>
+</TapNoteScores>
+<HoldNoteScores>
+<LetGo>1</LetGo>
+<Held>77</Held>
+<MissedHold>9</MissedHold>
+</HoldNoteScores>
+<RadarValues>
+<Stream>0.600372</Stream>
+<Voltage>0.274622</Voltage>
+<Air>0.666667</Air>
+<Freeze>0.885057</Freeze>
+<Chaos>0.406655</Chaos>
+<Notes>461.000000</Notes>
+<TapsAndHolds>422</TapsAndHolds>
+<Jumps>48</Jumps>
+<Holds>77</Holds>
+<Mines>12</Mines>
+<Hands>2</Hands>
+<Rolls>0</Rolls>
+<Lifts>0</Lifts>
+<Fakes>0</Fakes>
+</RadarValues>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<Disqualified>0</Disqualified>
+<Pad>33</Pad>
+<StageGuid>63b72f53-30e8-4934-a539-99b873141c78</StageGuid>
+<Guid>8e6ac5bc-daa1-4d4e-aff9-8ffb5dcae794</Guid>
+</HighScore>
+</HighScoreForASongAndSteps>
+</RecentSongScores>
+</Stats>

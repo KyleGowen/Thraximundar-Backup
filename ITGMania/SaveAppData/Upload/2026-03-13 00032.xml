@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Stats>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<RecentSongScores>
+<HighScoreForASongAndSteps>
+<Song Dir='Songs/DDR Galaxy/It&apos;s Alright, It&apos;s OK/'/>
+<Steps Difficulty='Medium' StepsType='dance-single'/>
+<HighScore>
+<Name></Name>
+<Grade>Failed</Grade>
+<Score>19</Score>
+<PercentDP>0.126300</PercentDP>
+<SurviveSeconds>48.576019</SurviveSeconds>
+<MaxCombo>24</MaxCombo>
+<StageAward></StageAward>
+<PeakComboAward></PeakComboAward>
+<Modifiers>NoHideLights, C335, FailImmediateContinue, Overhead</Modifiers>
+<DateTime>2026-03-13 18:04:12</DateTime>
+<PlayerGuid>2dde4d6e8737681e</PlayerGuid>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<ProductID>1</ProductID>
+<TapNoteScores>
+<HitMine>0</HitMine>
+<AvoidMine>0</AvoidMine>
+<CheckpointMiss>0</CheckpointMiss>
+<Miss>22</Miss>
+<W5>5</W5>
+<W4>12</W4>
+<W3>48</W3>
+<W2>45</W2>
+<W1>63</W1>
+<CheckpointHit>0</CheckpointHit>
+</TapNoteScores>
+<HoldNoteScores>
+<LetGo>5</LetGo>
+<Held>14</Held>
+<MissedHold>6</MissedHold>
+</HoldNoteScores>
+<RadarValues>
+<Stream>0.558559</Stream>
+<Voltage>0.098825</Voltage>
+<Air>0.629630</Air>
+<Freeze>0.560000</Freeze>
+<Chaos>0.126364</Chaos>
+<Notes>191.000000</Notes>
+<TapsAndHolds>173</TapsAndHolds>
+<Jumps>24</Jumps>
+<Holds>14</Holds>
+<Mines>0</Mines>
+<Hands>0</Hands>
+<Rolls>0</Rolls>
+<Lifts>0</Lifts>
+<Fakes>0</Fakes>
+</RadarValues>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<Disqualified>0</Disqualified>
+<Pad>33</Pad>
+<StageGuid>d5d089c6-8c7e-42b7-a460-be2173173e82</StageGuid>
+<Guid>e1add8c7-7764-49ce-a12f-f51c1b761cd8</Guid>
+</HighScore>
+</HighScoreForASongAndSteps>
+</RecentSongScores>
+</Stats>

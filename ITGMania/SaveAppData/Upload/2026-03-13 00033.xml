@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Stats>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<RecentSongScores>
+<HighScoreForASongAndSteps>
+<Song Dir='Songs/DDR Galaxy/Poker Face/'/>
+<Steps Difficulty='Easy' StepsType='dance-single'/>
+<HighScore>
+<Name></Name>
+<Grade>Failed</Grade>
+<Score>23</Score>
+<PercentDP>0.403500</PercentDP>
+<SurviveSeconds>97.644829</SurviveSeconds>
+<MaxCombo>55</MaxCombo>
+<StageAward></StageAward>
+<PeakComboAward></PeakComboAward>
+<Modifiers>NoHideLights, C335, FailImmediateContinue, Overhead</Modifiers>
+<DateTime>2026-03-13 18:07:37</DateTime>
+<PlayerGuid>2dde4d6e8737681e</PlayerGuid>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<ProductID>1</ProductID>
+<TapNoteScores>
+<HitMine>0</HitMine>
+<AvoidMine>0</AvoidMine>
+<CheckpointMiss>0</CheckpointMiss>
+<Miss>12</Miss>
+<W5>5</W5>
+<W4>8</W4>
+<W3>65</W3>
+<W2>55</W2>
+<W1>63</W1>
+<CheckpointHit>0</CheckpointHit>
+</TapNoteScores>
+<HoldNoteScores>
+<LetGo>4</LetGo>
+<Held>13</Held>
+<MissedHold>1</MissedHold>
+</HoldNoteScores>
+<RadarValues>
+<Stream>0.568075</Stream>
+<Voltage>0.241362</Voltage>
+<Air>0.600000</Air>
+<Freeze>0.722222</Freeze>
+<Chaos>0.403540</Chaos>
+<Notes>196.000000</Notes>
+<TapsAndHolds>191</TapsAndHolds>
+<Jumps>5</Jumps>
+<Holds>13</Holds>
+<Mines>0</Mines>
+<Hands>0</Hands>
+<Rolls>0</Rolls>
+<Lifts>0</Lifts>
+<Fakes>0</Fakes>
+</RadarValues>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<Disqualified>0</Disqualified>
+<Pad>33</Pad>
+<StageGuid>56ff4ca6-a576-4416-a034-1cebc36e62a7</StageGuid>
+<Guid>a24f68d8-2195-4cdd-a4ad-a81ef51e7f77</Guid>
+</HighScore>
+</HighScoreForASongAndSteps>
+</RecentSongScores>
+</Stats>

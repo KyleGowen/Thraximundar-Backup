@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Stats>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<RecentSongScores>
+<HighScoreForASongAndSteps>
+<Song Dir='Songs/Tech-Bit Adventures/Hyrule Castle (From -The Legend of Zelda A Link to the Past-)/'/>
+<Steps Difficulty='Challenge' StepsType='dance-single'/>
+<HighScore>
+<Name></Name>
+<Grade>Failed</Grade>
+<Score>63</Score>
+<PercentDP>0.530800</PercentDP>
+<SurviveSeconds>94.342598</SurviveSeconds>
+<MaxCombo>86</MaxCombo>
+<StageAward></StageAward>
+<PeakComboAward></PeakComboAward>
+<Modifiers>NoHideLights, C600, 15% Mini, FailImmediateContinue, Overhead, Default</Modifiers>
+<DateTime>2026-03-13 16:06:21</DateTime>
+<PlayerGuid>4ad3a19834ee56bd</PlayerGuid>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<ProductID>1</ProductID>
+<TapNoteScores>
+<HitMine>7</HitMine>
+<AvoidMine>0</AvoidMine>
+<CheckpointMiss>0</CheckpointMiss>
+<Miss>27</Miss>
+<W5>3</W5>
+<W4>3</W4>
+<W3>91</W3>
+<W2>108</W2>
+<W1>270</W1>
+<CheckpointHit>0</CheckpointHit>
+</TapNoteScores>
+<HoldNoteScores>
+<LetGo>3</LetGo>
+<Held>61</Held>
+<MissedHold>4</MissedHold>
+</HoldNoteScores>
+<RadarValues>
+<Stream>0.750958</Stream>
+<Voltage>0.193433</Voltage>
+<Air>0.400000</Air>
+<Freeze>0.921875</Freeze>
+<Chaos>0.530877</Chaos>
+<Notes>489.000000</Notes>
+<TapsAndHolds>473</TapsAndHolds>
+<Jumps>18</Jumps>
+<Holds>59</Holds>
+<Mines>30</Mines>
+<Hands>0</Hands>
+<Rolls>2</Rolls>
+<Lifts>0</Lifts>
+<Fakes>0</Fakes>
+</RadarValues>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<Disqualified>0</Disqualified>
+<Pad>33</Pad>
+<StageGuid>92192d45-fc24-4329-a27e-09727b944717</StageGuid>
+<Guid>addd87af-6aca-4cc9-ac36-256d660419f3</Guid>
+</HighScore>
+</HighScoreForASongAndSteps>
+</RecentSongScores>
+</Stats>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Stats>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<RecentSongScores>
+<HighScoreForASongAndSteps>
+<Song Dir='Songs/JBEAN Originals - 2020/Hypnodancer/'/>
+<Steps Difficulty='Medium' StepsType='dance-single'/>
+<HighScore>
+<Name></Name>
+<Grade>Failed</Grade>
+<Score>33</Score>
+<PercentDP>0.215700</PercentDP>
+<SurviveSeconds>58.127483</SurviveSeconds>
+<MaxCombo>29</MaxCombo>
+<StageAward></StageAward>
+<PeakComboAward></PeakComboAward>
+<Modifiers>NoHideLights, C335, FailImmediateContinue, Overhead</Modifiers>
+<DateTime>2026-03-13 17:37:48</DateTime>
+<PlayerGuid>2dde4d6e8737681e</PlayerGuid>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<ProductID>1</ProductID>
+<TapNoteScores>
+<HitMine>0</HitMine>
+<AvoidMine>0</AvoidMine>
+<CheckpointMiss>0</CheckpointMiss>
+<Miss>21</Miss>
+<W5>17</W5>
+<W4>13</W4>
+<W3>62</W3>
+<W2>47</W2>
+<W1>89</W1>
+<CheckpointHit>0</CheckpointHit>
+</TapNoteScores>
+<HoldNoteScores>
+<LetGo>2</LetGo>
+<Held>14</Held>
+<MissedHold>2</MissedHold>
+</HoldNoteScores>
+<RadarValues>
+<Stream>0.563636</Stream>
+<Voltage>0.124168</Voltage>
+<Air>0.692308</Air>
+<Freeze>0.777778</Freeze>
+<Chaos>0.215730</Chaos>
+<Notes>237.000000</Notes>
+<TapsAndHolds>212</TapsAndHolds>
+<Jumps>25</Jumps>
+<Holds>14</Holds>
+<Mines>0</Mines>
+<Hands>0</Hands>
+<Rolls>0</Rolls>
+<Lifts>0</Lifts>
+<Fakes>0</Fakes>
+</RadarValues>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<Disqualified>0</Disqualified>
+<Pad>33</Pad>
+<StageGuid>ea0915a7-41d5-493a-afcd-95cfb264ce82</StageGuid>
+<Guid>35eee8e5-dca0-4a3e-a706-cb9a4342a809</Guid>
+</HighScore>
+</HighScoreForASongAndSteps>
+</RecentSongScores>
+</Stats>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Stats>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<RecentSongScores>
+<HighScoreForASongAndSteps>
+<Song Dir='Songs/Anthem Series - NOW That&apos;s What I Call Stamina/Bye Bye Bye - stam/'/>
+<Steps Difficulty='Challenge' StepsType='dance-single'/>
+<HighScore>
+<Name></Name>
+<Grade>Tier08</Grade>
+<Score>116</Score>
+<PercentDP>0.871500</PercentDP>
+<SurviveSeconds>136.499603</SurviveSeconds>
+<MaxCombo>365</MaxCombo>
+<StageAward></StageAward>
+<PeakComboAward></PeakComboAward>
+<Modifiers>NoHideLights, C600, 15% Mini, FailImmediateContinue, Overhead, Default</Modifiers>
+<DateTime>2026-03-13 15:01:46</DateTime>
+<PlayerGuid>4ad3a19834ee56bd</PlayerGuid>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<ProductID>1</ProductID>
+<TapNoteScores>
+<HitMine>0</HitMine>
+<AvoidMine>0</AvoidMine>
+<CheckpointMiss>0</CheckpointMiss>
+<Miss>4</Miss>
+<W5>6</W5>
+<W4>7</W4>
+<W3>44</W3>
+<W2>144</W2>
+<W1>469</W1>
+<CheckpointHit>0</CheckpointHit>
+</TapNoteScores>
+<HoldNoteScores>
+<LetGo>0</LetGo>
+<Held>19</Held>
+<MissedHold>0</MissedHold>
+</HoldNoteScores>
+<RadarValues>
+<Stream>0.905036</Stream>
+<Voltage>0.530408</Voltage>
+<Air>0.761905</Air>
+<Freeze>1.000000</Freeze>
+<Chaos>0.871573</Chaos>
+<Notes>683.000000</Notes>
+<TapsAndHolds>664</TapsAndHolds>
+<Jumps>20</Jumps>
+<Holds>18</Holds>
+<Mines>0</Mines>
+<Hands>0</Hands>
+<Rolls>1</Rolls>
+<Lifts>0</Lifts>
+<Fakes>0</Fakes>
+</RadarValues>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<Disqualified>0</Disqualified>
+<Pad>33</Pad>
+<StageGuid>be003ed0-2b01-436e-a19a-2fdd636b656b</StageGuid>
+<Guid>30c0426a-d652-4801-a0e4-f7fba0e43429</Guid>
+</HighScore>
+</HighScoreForASongAndSteps>
+</RecentSongScores>
+</Stats>

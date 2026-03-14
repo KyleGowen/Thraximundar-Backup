@@ -1,6 +1,6 @@
 # Pack list
 
-Generated from InstallPath on 2026-03-13 07:43. Filenames only; contents not backed up.
+Generated from InstallPath on 2026-03-14 03:00. Filenames only; contents not backed up.
 
 ## Songs
 
@@ -26025,6 +26025,11 @@ Generated from InstallPath on 2026-03-13 07:43. Filenames only; contents not bac
     - World In Motion.ssc
     - World In Motion-bg.png
     - World In Motion-jacket.png
+  - **Yakko's World**
+    - Yakko's World - bn.png
+    - Yakko's World - vid.mp4
+    - Yakko's World.ogg
+    - Yakko's World.ssc
   - **You give me something**
     - You give me something.dwi
     - You give me something.mp3

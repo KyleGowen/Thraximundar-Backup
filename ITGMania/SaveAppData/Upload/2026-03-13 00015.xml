@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Stats>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<RecentSongScores>
+<HighScoreForASongAndSteps>
+<Song Dir='Songs/C0m37&apos;s Originals/Candyman/'/>
+<Steps Difficulty='Challenge' StepsType='dance-single'/>
+<HighScore>
+<Name></Name>
+<Grade>Failed</Grade>
+<Score>95</Score>
+<PercentDP>0.434700</PercentDP>
+<SurviveSeconds>83.685249</SurviveSeconds>
+<MaxCombo>106</MaxCombo>
+<StageAward></StageAward>
+<PeakComboAward></PeakComboAward>
+<Modifiers>NoHideLights, C600, 15% Mini, FailImmediateContinue, Overhead, Default</Modifiers>
+<DateTime>2026-03-13 15:46:22</DateTime>
+<PlayerGuid>4ad3a19834ee56bd</PlayerGuid>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<ProductID>1</ProductID>
+<TapNoteScores>
+<HitMine>0</HitMine>
+<AvoidMine>0</AvoidMine>
+<CheckpointMiss>0</CheckpointMiss>
+<Miss>96</Miss>
+<W5>10</W5>
+<W4>11</W4>
+<W3>129</W3>
+<W2>154</W2>
+<W1>295</W1>
+<CheckpointHit>0</CheckpointHit>
+</TapNoteScores>
+<HoldNoteScores>
+<LetGo>0</LetGo>
+<Held>53</Held>
+<MissedHold>5</MissedHold>
+</HoldNoteScores>
+<RadarValues>
+<Stream>0.645638</Stream>
+<Voltage>0.145371</Voltage>
+<Air>0.540000</Air>
+<Freeze>0.913793</Freeze>
+<Chaos>0.434794</Chaos>
+<Notes>628.000000</Notes>
+<TapsAndHolds>591</TapsAndHolds>
+<Jumps>39</Jumps>
+<Holds>53</Holds>
+<Mines>0</Mines>
+<Hands>0</Hands>
+<Rolls>0</Rolls>
+<Lifts>0</Lifts>
+<Fakes>0</Fakes>
+</RadarValues>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<Disqualified>0</Disqualified>
+<Pad>33</Pad>
+<StageGuid>a293b6a9-fd2b-492c-a606-85e9617aba54</StageGuid>
+<Guid>a57a0c8f-7d46-4782-aafe-3e012e8db9db</Guid>
+</HighScore>
+</HighScoreForASongAndSteps>
+</RecentSongScores>
+</Stats>

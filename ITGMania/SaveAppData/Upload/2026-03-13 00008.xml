@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Stats>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<RecentSongScores>
+<HighScoreForASongAndSteps>
+<Song Dir='Songs/Anthem Series - The Girls/Crazy in Love/'/>
+<Steps Difficulty='Challenge' StepsType='dance-single'/>
+<HighScore>
+<Name></Name>
+<Grade>Tier08</Grade>
+<Score>113</Score>
+<PercentDP>0.870800</PercentDP>
+<SurviveSeconds>137.708359</SurviveSeconds>
+<MaxCombo>234</MaxCombo>
+<StageAward></StageAward>
+<PeakComboAward></PeakComboAward>
+<Modifiers>NoHideLights, C600, 15% Mini, FailImmediateContinue, Overhead, Default</Modifiers>
+<DateTime>2026-03-13 15:16:24</DateTime>
+<PlayerGuid>4ad3a19834ee56bd</PlayerGuid>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<ProductID>1</ProductID>
+<TapNoteScores>
+<HitMine>0</HitMine>
+<AvoidMine>0</AvoidMine>
+<CheckpointMiss>0</CheckpointMiss>
+<Miss>1</Miss>
+<W5>3</W5>
+<W4>2</W4>
+<W3>73</W3>
+<W2>146</W2>
+<W1>356</W1>
+<CheckpointHit>0</CheckpointHit>
+</TapNoteScores>
+<HoldNoteScores>
+<LetGo>0</LetGo>
+<Held>77</Held>
+<MissedHold>0</MissedHold>
+</HoldNoteScores>
+<RadarValues>
+<Stream>0.865478</Stream>
+<Voltage>0.357383</Voltage>
+<Air>0.742857</Air>
+<Freeze>1.000000</Freeze>
+<Chaos>0.870821</Chaos>
+<Notes>612.000000</Notes>
+<TapsAndHolds>578</TapsAndHolds>
+<Jumps>34</Jumps>
+<Holds>64</Holds>
+<Mines>0</Mines>
+<Hands>0</Hands>
+<Rolls>13</Rolls>
+<Lifts>0</Lifts>
+<Fakes>0</Fakes>
+</RadarValues>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<Disqualified>0</Disqualified>
+<Pad>33</Pad>
+<StageGuid>b0512a99-db65-4d32-af24-f7f99f53968e</StageGuid>
+<Guid>28394cdf-fa31-408e-a82d-987ff64a78ab</Guid>
+</HighScore>
+</HighScoreForASongAndSteps>
+</RecentSongScores>
+</Stats>

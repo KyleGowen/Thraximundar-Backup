@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Stats>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<RecentSongScores>
+<HighScoreForASongAndSteps>
+<Song Dir='Songs/DDR Galaxy/Delicate/'/>
+<Steps Difficulty='Medium' StepsType='dance-single'/>
+<HighScore>
+<Name></Name>
+<Grade>Failed</Grade>
+<Score>31</Score>
+<PercentDP>0.296300</PercentDP>
+<SurviveSeconds>92.414848</SurviveSeconds>
+<MaxCombo>31</MaxCombo>
+<StageAward></StageAward>
+<PeakComboAward></PeakComboAward>
+<Modifiers>NoHideLights, C335, FailImmediateContinue, Overhead</Modifiers>
+<DateTime>2026-03-13 17:54:22</DateTime>
+<PlayerGuid>2dde4d6e8737681e</PlayerGuid>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<ProductID>1</ProductID>
+<TapNoteScores>
+<HitMine>0</HitMine>
+<AvoidMine>0</AvoidMine>
+<CheckpointMiss>0</CheckpointMiss>
+<Miss>14</Miss>
+<W5>5</W5>
+<W4>12</W4>
+<W3>71</W3>
+<W2>47</W2>
+<W1>75</W1>
+<CheckpointHit>0</CheckpointHit>
+</TapNoteScores>
+<HoldNoteScores>
+<LetGo>6</LetGo>
+<Held>13</Held>
+<MissedHold>2</MissedHold>
+</HoldNoteScores>
+<RadarValues>
+<Stream>0.551867</Stream>
+<Voltage>0.149470</Voltage>
+<Air>0.588235</Air>
+<Freeze>0.619048</Freeze>
+<Chaos>0.296327</Chaos>
+<Notes>222.000000</Notes>
+<TapsAndHolds>205</TapsAndHolds>
+<Jumps>17</Jumps>
+<Holds>13</Holds>
+<Mines>0</Mines>
+<Hands>0</Hands>
+<Rolls>0</Rolls>
+<Lifts>0</Lifts>
+<Fakes>0</Fakes>
+</RadarValues>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<Disqualified>0</Disqualified>
+<Pad>33</Pad>
+<StageGuid>0d4549da-2ad6-4aad-aba7-309cfbe074f6</StageGuid>
+<Guid>c764db6c-380f-4df2-abae-377ed2bcf821</Guid>
+</HighScore>
+</HighScoreForASongAndSteps>
+</RecentSongScores>
+</Stats>
