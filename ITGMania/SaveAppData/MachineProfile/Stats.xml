@@ -18,7 +18,7 @@
 <Song Dir=''/>
 <Course/>
 <CurrentCombo>0</CurrentCombo>
-<TotalSessions>2564</TotalSessions>
+<TotalSessions>2565</TotalSessions>
 <TotalSessionSeconds>1128378</TotalSessionSeconds>
 <TotalGameplaySeconds>552684</TotalGameplaySeconds>
 <TotalCaloriesBurned>199269.234375</TotalCaloriesBurned>
@@ -26,7 +26,7 @@
 <GoalCalories>0</GoalCalories>
 <GoalSeconds>0</GoalSeconds>
 <LastPlayedMachineGuid>403d15c592378cca</LastPlayedMachineGuid>
-<LastPlayedDate>2026-03-13</LastPlayedDate>
+<LastPlayedDate>2026-03-14</LastPlayedDate>
 <TotalDancePoints>7900864</TotalDancePoints>
 <NumExtraStagesPassed>0</NumExtraStagesPassed>
 <NumExtraStagesFailed>0</NumExtraStagesFailed>
@@ -131494,8 +131494,8 @@
 <LastDays>
 <Today>0</Today>
 <Yesterday>0</Yesterday>
-<Day2Ago>1</Day2Ago>
-<Day3Ago>0</Day3Ago>
+<Day2Ago>0</Day2Ago>
+<Day3Ago>1</Day3Ago>
 <Day4Ago>0</Day4Ago>
 <Day5Ago>0</Day5Ago>
 <Day6Ago>0</Day6Ago>
@@ -131504,8 +131504,8 @@
 <ThisWeek>1</ThisWeek>
 <LastWeek>2</LastWeek>
 <Week02Ago>0</Week02Ago>
-<Week03Ago>0</Week03Ago>
-<Week04Ago>1</Week04Ago>
+<Week03Ago>1</Week03Ago>
+<Week04Ago>0</Week04Ago>
 <Week05Ago>0</Week05Ago>
 <Week06Ago>0</Week06Ago>
 <Week07Ago>0</Week07Ago>
@@ -131519,8 +131519,8 @@
 <Week15Ago>0</Week15Ago>
 <Week16Ago>0</Week16Ago>
 <Week17Ago>0</Week17Ago>
-<Week18Ago>0</Week18Ago>
-<Week19Ago>1</Week19Ago>
+<Week18Ago>1</Week18Ago>
+<Week19Ago>0</Week19Ago>
 <Week20Ago>0</Week20Ago>
 <Week21Ago>0</Week21Ago>
 <Week22Ago>0</Week22Ago>
@@ -131539,10 +131539,10 @@
 <Week35Ago>0</Week35Ago>
 <Week36Ago>0</Week36Ago>
 <Week37Ago>2</Week37Ago>
-<Week38Ago>0</Week38Ago>
-<Week39Ago>2</Week39Ago>
-<Week40Ago>1</Week40Ago>
-<Week41Ago>1</Week41Ago>
+<Week38Ago>1</Week38Ago>
+<Week39Ago>1</Week39Ago>
+<Week40Ago>2</Week40Ago>
+<Week41Ago>0</Week41Ago>
 <Week42Ago>0</Week42Ago>
 <Week43Ago>0</Week43Ago>
 <Week44Ago>1</Week44Ago>
