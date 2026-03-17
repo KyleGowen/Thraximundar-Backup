@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Stats>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<RecentSongScores>
+<HighScoreForASongAndSteps>
+<Song Dir='Songs/Anthem Series - Garage Rewind/In Too Deep/'/>
+<Steps Difficulty='Challenge' StepsType='dance-single'/>
+<HighScore>
+<Name></Name>
+<Grade>Tier10</Grade>
+<Score>107</Score>
+<PercentDP>0.829200</PercentDP>
+<SurviveSeconds>135.412018</SurviveSeconds>
+<MaxCombo>140</MaxCombo>
+<StageAward></StageAward>
+<PeakComboAward></PeakComboAward>
+<Modifiers>NoHideLights, C600, 15% Mini, FailImmediateContinue, Overhead, Default</Modifiers>
+<DateTime>2026-03-16 17:33:35</DateTime>
+<PlayerGuid>4ad3a19834ee56bd</PlayerGuid>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<ProductID>1</ProductID>
+<TapNoteScores>
+<HitMine>0</HitMine>
+<AvoidMine>0</AvoidMine>
+<CheckpointMiss>0</CheckpointMiss>
+<Miss>9</Miss>
+<W5>5</W5>
+<W4>7</W4>
+<W3>64</W3>
+<W2>128</W2>
+<W1>355</W1>
+<CheckpointHit>0</CheckpointHit>
+</TapNoteScores>
+<HoldNoteScores>
+<LetGo>0</LetGo>
+<Held>101</Held>
+<MissedHold>2</MissedHold>
+</HoldNoteScores>
+<RadarValues>
+<Stream>0.851282</Stream>
+<Voltage>0.266430</Voltage>
+<Air>0.764706</Air>
+<Freeze>0.979798</Freeze>
+<Chaos>0.829210</Chaos>
+<Notes>570.000000</Notes>
+<TapsAndHolds>554</TapsAndHolds>
+<Jumps>14</Jumps>
+<Holds>97</Holds>
+<Mines>0</Mines>
+<Hands>0</Hands>
+<Rolls>4</Rolls>
+<Lifts>0</Lifts>
+<Fakes>0</Fakes>
+</RadarValues>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<Disqualified>0</Disqualified>
+<Pad>33</Pad>
+<StageGuid>9a127043-98a6-43f8-abbf-c02cc00025dd</StageGuid>
+<Guid>82eff078-f481-4537-a4f1-9e0fd760e669</Guid>
+</HighScore>
+</HighScoreForASongAndSteps>
+</RecentSongScores>
+</Stats>

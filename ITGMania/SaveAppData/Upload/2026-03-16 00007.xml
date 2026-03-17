@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Stats>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<RecentSongScores>
+<HighScoreForASongAndSteps>
+<Song Dir='Songs/Anthem Series - Garage Rewind/Its My Life/'/>
+<Steps Difficulty='Challenge' StepsType='dance-single'/>
+<HighScore>
+<Name></Name>
+<Grade>Tier05</Grade>
+<Score>75</Score>
+<PercentDP>0.946800</PercentDP>
+<SurviveSeconds>131.075607</SurviveSeconds>
+<MaxCombo>383</MaxCombo>
+<StageAward>FullComboW3</StageAward>
+<PeakComboAward></PeakComboAward>
+<Modifiers>NoHideLights, C600, 15% Mini, FailImmediateContinue, Overhead, Default</Modifiers>
+<DateTime>2026-03-16 17:38:44</DateTime>
+<PlayerGuid>4ad3a19834ee56bd</PlayerGuid>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<ProductID>1</ProductID>
+<TapNoteScores>
+<HitMine>0</HitMine>
+<AvoidMine>0</AvoidMine>
+<CheckpointMiss>0</CheckpointMiss>
+<Miss>0</Miss>
+<W5>0</W5>
+<W4>0</W4>
+<W3>17</W3>
+<W2>85</W2>
+<W1>231</W1>
+<CheckpointHit>0</CheckpointHit>
+</TapNoteScores>
+<HoldNoteScores>
+<LetGo>0</LetGo>
+<Held>179</Held>
+<MissedHold>0</MissedHold>
+</HoldNoteScores>
+<RadarValues>
+<Stream>0.950392</Stream>
+<Voltage>1.000000</Voltage>
+<Air>0.980000</Air>
+<Freeze>1.000000</Freeze>
+<Chaos>0.946875</Chaos>
+<Notes>383.000000</Notes>
+<TapsAndHolds>333</TapsAndHolds>
+<Jumps>50</Jumps>
+<Holds>172</Holds>
+<Mines>0</Mines>
+<Hands>0</Hands>
+<Rolls>7</Rolls>
+<Lifts>0</Lifts>
+<Fakes>0</Fakes>
+</RadarValues>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<Disqualified>0</Disqualified>
+<Pad>33</Pad>
+<StageGuid>d1c00373-cbd1-425f-a59e-8a503f2806a6</StageGuid>
+<Guid>c6be9201-de2f-4beb-a68f-2e6533688158</Guid>
+</HighScore>
+</HighScoreForASongAndSteps>
+</RecentSongScores>
+</Stats>

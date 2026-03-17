@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Stats>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<RecentSongScores>
+<HighScoreForASongAndSteps>
+<Song Dir='Songs/Anthem Series - Garage Rewind/The Middle/'/>
+<Steps Difficulty='Challenge' StepsType='dance-single'/>
+<HighScore>
+<Name></Name>
+<Grade>Failed</Grade>
+<Score>70</Score>
+<PercentDP>0.517300</PercentDP>
+<SurviveSeconds>84.774536</SurviveSeconds>
+<MaxCombo>240</MaxCombo>
+<StageAward></StageAward>
+<PeakComboAward></PeakComboAward>
+<Modifiers>NoHideLights, C600, 15% Mini, FailImmediateContinue, Overhead, Default</Modifiers>
+<DateTime>2026-03-16 17:41:34</DateTime>
+<PlayerGuid>4ad3a19834ee56bd</PlayerGuid>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<ProductID>1</ProductID>
+<TapNoteScores>
+<HitMine>0</HitMine>
+<AvoidMine>0</AvoidMine>
+<CheckpointMiss>0</CheckpointMiss>
+<Miss>12</Miss>
+<W5>7</W5>
+<W4>10</W4>
+<W3>75</W3>
+<W2>80</W2>
+<W1>324</W1>
+<CheckpointHit>0</CheckpointHit>
+</TapNoteScores>
+<HoldNoteScores>
+<LetGo>0</LetGo>
+<Held>58</Held>
+<MissedHold>0</MissedHold>
+</HoldNoteScores>
+<RadarValues>
+<Stream>0.797348</Stream>
+<Voltage>0.462302</Voltage>
+<Air>0.750000</Air>
+<Freeze>1.000000</Freeze>
+<Chaos>0.517314</Chaos>
+<Notes>509.000000</Notes>
+<TapsAndHolds>489</TapsAndHolds>
+<Jumps>20</Jumps>
+<Holds>58</Holds>
+<Mines>0</Mines>
+<Hands>0</Hands>
+<Rolls>0</Rolls>
+<Lifts>0</Lifts>
+<Fakes>0</Fakes>
+</RadarValues>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<Disqualified>0</Disqualified>
+<Pad>33</Pad>
+<StageGuid>f185c8df-2ed1-4ef3-aafa-4becb9afdff5</StageGuid>
+<Guid>0f8273aa-7c62-4967-af8f-a160fe990df8</Guid>
+</HighScore>
+</HighScoreForASongAndSteps>
+</RecentSongScores>
+</Stats>
