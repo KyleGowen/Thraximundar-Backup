@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Stats>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<RecentSongScores>
+<HighScoreForASongAndSteps>
+<Song Dir='Songs/JBEAN Exclusives - 2013/I Knew You Were Trouble/'/>
+<Steps Difficulty='Medium' StepsType='dance-single'/>
+<HighScore>
+<Name></Name>
+<Grade>Failed</Grade>
+<Score>17</Score>
+<PercentDP>0.017700</PercentDP>
+<SurviveSeconds>22.543526</SurviveSeconds>
+<MaxCombo>28</MaxCombo>
+<StageAward></StageAward>
+<PeakComboAward></PeakComboAward>
+<Modifiers>NoHideLights, C335, FailImmediateContinue, Overhead</Modifiers>
+<DateTime>2026-03-30 20:15:37</DateTime>
+<PlayerGuid>2dde4d6e8737681e</PlayerGuid>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<ProductID>1</ProductID>
+<TapNoteScores>
+<HitMine>0</HitMine>
+<AvoidMine>0</AvoidMine>
+<CheckpointMiss>0</CheckpointMiss>
+<Miss>45</Miss>
+<W5>15</W5>
+<W4>23</W4>
+<W3>54</W3>
+<W2>42</W2>
+<W1>62</W1>
+<CheckpointHit>0</CheckpointHit>
+</TapNoteScores>
+<HoldNoteScores>
+<LetGo>2</LetGo>
+<Held>5</Held>
+<MissedHold>0</MissedHold>
+</HoldNoteScores>
+<RadarValues>
+<Stream>0.428571</Stream>
+<Voltage>0.124631</Voltage>
+<Air>0.181818</Air>
+<Freeze>0.714286</Freeze>
+<Chaos>0.017742</Chaos>
+<Notes>190.000000</Notes>
+<TapsAndHolds>181</TapsAndHolds>
+<Jumps>10</Jumps>
+<Holds>5</Holds>
+<Mines>0</Mines>
+<Hands>0</Hands>
+<Rolls>0</Rolls>
+<Lifts>0</Lifts>
+<Fakes>0</Fakes>
+</RadarValues>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<Disqualified>0</Disqualified>
+<Pad>33</Pad>
+<StageGuid>cd599ed2-c6d8-4dec-a8d0-9a8293f13c83</StageGuid>
+<Guid>ebdcea5b-f13e-46cd-a1d8-b9c5f1a0f24c</Guid>
+</HighScore>
+</HighScoreForASongAndSteps>
+</RecentSongScores>
+</Stats>

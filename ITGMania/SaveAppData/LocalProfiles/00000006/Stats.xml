@@ -12,60 +12,60 @@
 <IsMale>1</IsMale>
 <IsMachine>0</IsMachine>
 <Guid>2dde4d6e8737681e</Guid>
-<SortOrder>Group</SortOrder>
-<LastDifficulty>Easy</LastDifficulty>
+<SortOrder>Artist</SortOrder>
+<LastDifficulty>Beginner</LastDifficulty>
 <LastCourseDifficulty>Medium</LastCourseDifficulty>
 <LastStepsType>dance-single</LastStepsType>
-<Song Dir='Songs/DDR Galaxy/Poker Face/'/>
+<Song Dir='Songs/DDR Galaxy/Delicate/'/>
 <Course/>
-<CurrentCombo>26</CurrentCombo>
+<CurrentCombo>4</CurrentCombo>
 <TotalSessions>0</TotalSessions>
-<TotalSessionSeconds>163738</TotalSessionSeconds>
-<TotalGameplaySeconds>64837</TotalGameplaySeconds>
-<TotalCaloriesBurned>8074.655762</TotalCaloriesBurned>
+<TotalSessionSeconds>164278</TotalSessionSeconds>
+<TotalGameplaySeconds>65113</TotalGameplaySeconds>
+<TotalCaloriesBurned>8102.543457</TotalCaloriesBurned>
 <GoalType>0</GoalType>
 <GoalCalories>0</GoalCalories>
 <GoalSeconds>0</GoalSeconds>
 <LastPlayedMachineGuid>403d15c592378cca</LastPlayedMachineGuid>
-<LastPlayedDate>2026-03-13</LastPlayedDate>
-<TotalDancePoints>126901</TotalDancePoints>
+<LastPlayedDate>2026-03-30</LastPlayedDate>
+<TotalDancePoints>126871</TotalDancePoints>
 <NumExtraStagesPassed>0</NumExtraStagesPassed>
 <NumExtraStagesFailed>0</NumExtraStagesFailed>
 <NumToasties>0</NumToasties>
-<TotalTapsAndHolds>64633</TotalTapsAndHolds>
-<TotalJumps>4028</TotalJumps>
-<TotalHolds>4774</TotalHolds>
+<TotalTapsAndHolds>64864</TotalTapsAndHolds>
+<TotalJumps>4038</TotalJumps>
+<TotalHolds>4779</TotalHolds>
 <TotalRolls>157</TotalRolls>
 <TotalMines>2</TotalMines>
 <TotalHands>0</TotalHands>
 <TotalLifts>0</TotalLifts>
 <DefaultModifiers>
-<dance>NoHideLights, C335, Overhead</dance>
+<dance>NoHideLights, C240, Overhead</dance>
 </DefaultModifiers>
 <Unlocks/>
 <NumSongsPlayedByPlayMode>
-<Regular>506</Regular>
+<Regular>508</Regular>
 </NumSongsPlayedByPlayMode>
 <NumSongsPlayedByStyle>
-<Style Game='dance' Style='single'>506</Style>
+<Style Game='dance' Style='single'>508</Style>
 </NumSongsPlayedByStyle>
 <NumSongsPlayedByDifficulty>
-<Beginner>190</Beginner>
+<Beginner>191</Beginner>
 <Easy>261</Easy>
-<Medium>51</Medium>
+<Medium>52</Medium>
 <Hard>4</Hard>
 </NumSongsPlayedByDifficulty>
 <NumSongsPlayedByMeter>
-<Meter1>120</Meter1>
+<Meter1>121</Meter1>
 <Meter2>77</Meter2>
 <Meter3>145</Meter3>
 <Meter4>69</Meter4>
 <Meter5>64</Meter5>
-<Meter6>27</Meter6>
+<Meter6>28</Meter6>
 <Meter7>3</Meter7>
 <Meter8>1</Meter8>
 </NumSongsPlayedByMeter>
-<NumTotalSongsPlayed>506</NumTotalSongsPlayed>
+<NumTotalSongsPlayed>508</NumTotalSongsPlayed>
 <NumStagesPassedByPlayMode>
 <Regular>260</Regular>
 </NumStagesPassedByPlayMode>
@@ -8254,6 +8254,63 @@
 </Steps>
 </Song>
 <Song Dir='Songs/DDR Galaxy/Delicate/'>
+<Steps Difficulty='Beginner' StepsType='dance-single'>
+<HighScoreList>
+<NumTimesPlayed>2</NumTimesPlayed>
+<LastPlayed>2026-03-30</LastPlayed>
+<HighGrade>Failed</HighGrade>
+<HighScore>
+<Name>LIZY</Name>
+<Grade>Failed</Grade>
+<Score>2</Score>
+<PercentDP>0.000000</PercentDP>
+<SurviveSeconds>35.679241</SurviveSeconds>
+<MaxCombo>5</MaxCombo>
+<StageAward></StageAward>
+<PeakComboAward></PeakComboAward>
+<Modifiers>NoHideLights, C240, FailImmediateContinue, Overhead</Modifiers>
+<DateTime>2026-03-30 20:20:26</DateTime>
+<PlayerGuid>2dde4d6e8737681e</PlayerGuid>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<ProductID>1</ProductID>
+<TapNoteScores>
+<HitMine>0</HitMine>
+<AvoidMine>0</AvoidMine>
+<CheckpointMiss>0</CheckpointMiss>
+<Miss>35</Miss>
+<W5>17</W5>
+<W4>9</W4>
+<W3>24</W3>
+<W2>7</W2>
+<W1>10</W1>
+<CheckpointHit>0</CheckpointHit>
+</TapNoteScores>
+<HoldNoteScores>
+<LetGo>0</LetGo>
+<Held>0</Held>
+<MissedHold>0</MissedHold>
+</HoldNoteScores>
+<RadarValues>
+<Stream>0.166667</Stream>
+<Voltage>0.041899</Voltage>
+<Air>0.000000</Air>
+<Freeze>0.000000</Freeze>
+<Chaos>0.000000</Chaos>
+<Notes>50.000000</Notes>
+<TapsAndHolds>50</TapsAndHolds>
+<Jumps>0</Jumps>
+<Holds>0</Holds>
+<Mines>0</Mines>
+<Hands>0</Hands>
+<Rolls>0</Rolls>
+<Lifts>0</Lifts>
+<Fakes>0</Fakes>
+</RadarValues>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<Disqualified>0</Disqualified>
+</HighScore>
+</HighScoreList>
+</Steps>
 <Steps Difficulty='Easy' StepsType='dance-single'>
 <HighScoreList>
 <NumTimesPlayed>1</NumTimesPlayed>
@@ -10629,8 +10686,8 @@
 <Song Dir='Songs/JBEAN Exclusives - 2013/I Knew You Were Trouble/'>
 <Steps Difficulty='Easy' StepsType='dance-single'>
 <HighScoreList>
-<NumTimesPlayed>1</NumTimesPlayed>
-<LastPlayed>2026-03-11</LastPlayed>
+<NumTimesPlayed>2</NumTimesPlayed>
+<LastPlayed>2026-03-30</LastPlayed>
 <HighGrade>Tier15</HighGrade>
 <HighScore>
 <Name>LIZY</Name>
@@ -10673,6 +10730,63 @@
 <TapsAndHolds>141</TapsAndHolds>
 <Jumps>8</Jumps>
 <Holds>18</Holds>
+<Mines>0</Mines>
+<Hands>0</Hands>
+<Rolls>0</Rolls>
+<Lifts>0</Lifts>
+<Fakes>0</Fakes>
+</RadarValues>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<Disqualified>0</Disqualified>
+</HighScore>
+</HighScoreList>
+</Steps>
+<Steps Difficulty='Medium' StepsType='dance-single'>
+<HighScoreList>
+<NumTimesPlayed>1</NumTimesPlayed>
+<LastPlayed>2026-03-30</LastPlayed>
+<HighGrade>Failed</HighGrade>
+<HighScore>
+<Name>LIZY</Name>
+<Grade>Failed</Grade>
+<Score>17</Score>
+<PercentDP>0.017700</PercentDP>
+<SurviveSeconds>22.543526</SurviveSeconds>
+<MaxCombo>28</MaxCombo>
+<StageAward></StageAward>
+<PeakComboAward></PeakComboAward>
+<Modifiers>NoHideLights, C335, FailImmediateContinue, Overhead</Modifiers>
+<DateTime>2026-03-30 20:15:37</DateTime>
+<PlayerGuid>2dde4d6e8737681e</PlayerGuid>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<ProductID>1</ProductID>
+<TapNoteScores>
+<HitMine>0</HitMine>
+<AvoidMine>0</AvoidMine>
+<CheckpointMiss>0</CheckpointMiss>
+<Miss>45</Miss>
+<W5>15</W5>
+<W4>23</W4>
+<W3>54</W3>
+<W2>42</W2>
+<W1>62</W1>
+<CheckpointHit>0</CheckpointHit>
+</TapNoteScores>
+<HoldNoteScores>
+<LetGo>2</LetGo>
+<Held>5</Held>
+<MissedHold>0</MissedHold>
+</HoldNoteScores>
+<RadarValues>
+<Stream>0.428571</Stream>
+<Voltage>0.124631</Voltage>
+<Air>0.181818</Air>
+<Freeze>0.714286</Freeze>
+<Chaos>0.017742</Chaos>
+<Notes>190.000000</Notes>
+<TapsAndHolds>181</TapsAndHolds>
+<Jumps>10</Jumps>
+<Holds>5</Holds>
 <Mines>0</Mines>
 <Hands>0</Hands>
 <Rolls>0</Rolls>
@@ -24639,5 +24753,6 @@
 <CaloriesBurned Date='2026-03-09'>75.788788</CaloriesBurned>
 <CaloriesBurned Date='2026-03-11'>529.450500</CaloriesBurned>
 <CaloriesBurned Date='2026-03-13'>192.547089</CaloriesBurned>
+<CaloriesBurned Date='2026-03-30'>27.887926</CaloriesBurned>
 </CalorieData>
 </Stats>

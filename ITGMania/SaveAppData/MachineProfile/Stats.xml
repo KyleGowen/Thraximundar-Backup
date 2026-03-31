@@ -18,22 +18,22 @@
 <Song Dir=''/>
 <Course/>
 <CurrentCombo>0</CurrentCombo>
-<TotalSessions>2575</TotalSessions>
-<TotalSessionSeconds>1131376</TotalSessionSeconds>
-<TotalGameplaySeconds>554494</TotalGameplaySeconds>
-<TotalCaloriesBurned>200389.109375</TotalCaloriesBurned>
+<TotalSessions>2576</TotalSessions>
+<TotalSessionSeconds>1131916</TotalSessionSeconds>
+<TotalGameplaySeconds>554770</TotalGameplaySeconds>
+<TotalCaloriesBurned>200416.984375</TotalCaloriesBurned>
 <GoalType>0</GoalType>
 <GoalCalories>0</GoalCalories>
 <GoalSeconds>0</GoalSeconds>
 <LastPlayedMachineGuid>403d15c592378cca</LastPlayedMachineGuid>
-<LastPlayedDate>2026-03-16</LastPlayedDate>
-<TotalDancePoints>7937416</TotalDancePoints>
+<LastPlayedDate>2026-03-30</LastPlayedDate>
+<TotalDancePoints>7937386</TotalDancePoints>
 <NumExtraStagesPassed>0</NumExtraStagesPassed>
 <NumExtraStagesFailed>0</NumExtraStagesFailed>
 <NumToasties>879</NumToasties>
-<TotalTapsAndHolds>1717066</TotalTapsAndHolds>
-<TotalJumps>105801</TotalJumps>
-<TotalHolds>167891</TotalHolds>
+<TotalTapsAndHolds>1717297</TotalTapsAndHolds>
+<TotalJumps>105811</TotalJumps>
+<TotalHolds>167896</TotalHolds>
 <TotalRolls>6844</TotalRolls>
 <TotalMines>69682</TotalMines>
 <TotalHands>3396</TotalHands>
@@ -41,26 +41,26 @@
 <DefaultModifiers/>
 <Unlocks/>
 <NumSongsPlayedByPlayMode>
-<Regular>4077</Regular>
+<Regular>4079</Regular>
 </NumSongsPlayedByPlayMode>
 <NumSongsPlayedByStyle>
-<Style Game='dance' Style='single'>2482</Style>
+<Style Game='dance' Style='single'>2484</Style>
 </NumSongsPlayedByStyle>
 <NumSongsPlayedByDifficulty>
-<Beginner>352</Beginner>
+<Beginner>353</Beginner>
 <Easy>664</Easy>
-<Medium>707</Medium>
+<Medium>708</Medium>
 <Hard>1184</Hard>
 <Challenge>1167</Challenge>
 <Edit>3</Edit>
 </NumSongsPlayedByDifficulty>
 <NumSongsPlayedByMeter>
-<Meter1>210</Meter1>
+<Meter1>211</Meter1>
 <Meter2>136</Meter2>
 <Meter3>280</Meter3>
 <Meter4>163</Meter4>
 <Meter5>187</Meter5>
-<Meter6>320</Meter6>
+<Meter6>321</Meter6>
 <Meter7>440</Meter7>
 <Meter8>539</Meter8>
 <Meter9>869</Meter9>
@@ -71,7 +71,7 @@
 <Meter14>22</Meter14>
 <Meter15>1</Meter15>
 </NumSongsPlayedByMeter>
-<NumTotalSongsPlayed>4077</NumTotalSongsPlayed>
+<NumTotalSongsPlayed>4079</NumTotalSongsPlayed>
 <NumStagesPassedByPlayMode>
 <Regular>3362</Regular>
 </NumStagesPassedByPlayMode>
@@ -31976,6 +31976,12 @@
 </Steps>
 </Song>
 <Song Dir='Songs/DDR Galaxy/Delicate/'>
+<Steps Difficulty='Beginner' StepsType='dance-single'>
+<HighScoreList>
+<NumTimesPlayed>2</NumTimesPlayed>
+<LastPlayed>2026-03-30</LastPlayed>
+</HighScoreList>
+</Steps>
 <Steps Difficulty='Easy' StepsType='dance-single'>
 <HighScoreList>
 <NumTimesPlayed>1</NumTimesPlayed>
@@ -67968,8 +67974,8 @@
 <Song Dir='Songs/JBEAN Exclusives - 2013/I Knew You Were Trouble/'>
 <Steps Difficulty='Easy' StepsType='dance-single'>
 <HighScoreList>
-<NumTimesPlayed>1</NumTimesPlayed>
-<LastPlayed>2026-03-11</LastPlayed>
+<NumTimesPlayed>2</NumTimesPlayed>
+<LastPlayed>2026-03-30</LastPlayed>
 <HighGrade>Tier15</HighGrade>
 <HighScore>
 <Name>LIZY</Name>
@@ -68021,6 +68027,12 @@
 <LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
 <Disqualified>0</Disqualified>
 </HighScore>
+</HighScoreList>
+</Steps>
+<Steps Difficulty='Medium' StepsType='dance-single'>
+<HighScoreList>
+<NumTimesPlayed>1</NumTimesPlayed>
+<LastPlayed>2026-03-30</LastPlayed>
 </HighScoreList>
 </Steps>
 </Song>
@@ -131953,6 +131965,7 @@
 <CaloriesBurned Date='2026-03-11'>1547.199097</CaloriesBurned>
 <CaloriesBurned Date='2026-03-13'>2040.008057</CaloriesBurned>
 <CaloriesBurned Date='2026-03-16'>1119.881470</CaloriesBurned>
+<CaloriesBurned Date='2026-03-30'>27.887926</CaloriesBurned>
 </CalorieData>
 <CoinData>
 <LastDays>
@@ -131961,18 +131974,18 @@
 <Day2Ago>0</Day2Ago>
 <Day3Ago>0</Day3Ago>
 <Day4Ago>0</Day4Ago>
-<Day5Ago>1</Day5Ago>
+<Day5Ago>0</Day5Ago>
 <Day6Ago>0</Day6Ago>
 </LastDays>
 <LastWeeks>
 <ThisWeek>0</ThisWeek>
-<LastWeek>1</LastWeek>
-<Week02Ago>2</Week02Ago>
-<Week03Ago>0</Week03Ago>
-<Week04Ago>0</Week04Ago>
-<Week05Ago>1</Week05Ago>
+<LastWeek>0</LastWeek>
+<Week02Ago>0</Week02Ago>
+<Week03Ago>1</Week03Ago>
+<Week04Ago>2</Week04Ago>
+<Week05Ago>0</Week05Ago>
 <Week06Ago>0</Week06Ago>
-<Week07Ago>0</Week07Ago>
+<Week07Ago>1</Week07Ago>
 <Week08Ago>0</Week08Ago>
 <Week09Ago>0</Week09Ago>
 <Week10Ago>0</Week10Ago>
@@ -131985,38 +131998,38 @@
 <Week17Ago>0</Week17Ago>
 <Week18Ago>0</Week18Ago>
 <Week19Ago>0</Week19Ago>
-<Week20Ago>1</Week20Ago>
+<Week20Ago>0</Week20Ago>
 <Week21Ago>0</Week21Ago>
-<Week22Ago>0</Week22Ago>
+<Week22Ago>1</Week22Ago>
 <Week23Ago>0</Week23Ago>
-<Week24Ago>1</Week24Ago>
+<Week24Ago>0</Week24Ago>
 <Week25Ago>0</Week25Ago>
-<Week26Ago>0</Week26Ago>
+<Week26Ago>1</Week26Ago>
 <Week27Ago>0</Week27Ago>
 <Week28Ago>0</Week28Ago>
-<Week29Ago>1</Week29Ago>
+<Week29Ago>0</Week29Ago>
 <Week30Ago>0</Week30Ago>
-<Week31Ago>0</Week31Ago>
+<Week31Ago>1</Week31Ago>
 <Week32Ago>0</Week32Ago>
 <Week33Ago>0</Week33Ago>
 <Week34Ago>0</Week34Ago>
-<Week35Ago>1</Week35Ago>
+<Week35Ago>0</Week35Ago>
 <Week36Ago>0</Week36Ago>
-<Week37Ago>0</Week37Ago>
-<Week38Ago>2</Week38Ago>
+<Week37Ago>1</Week37Ago>
+<Week38Ago>0</Week38Ago>
 <Week39Ago>0</Week39Ago>
 <Week40Ago>2</Week40Ago>
-<Week41Ago>1</Week41Ago>
-<Week42Ago>1</Week42Ago>
-<Week43Ago>0</Week43Ago>
-<Week44Ago>0</Week44Ago>
-<Week45Ago>1</Week45Ago>
+<Week41Ago>0</Week41Ago>
+<Week42Ago>2</Week42Ago>
+<Week43Ago>1</Week43Ago>
+<Week44Ago>1</Week44Ago>
+<Week45Ago>0</Week45Ago>
 <Week46Ago>0</Week46Ago>
-<Week47Ago>0</Week47Ago>
-<Week48Ago>1</Week48Ago>
+<Week47Ago>1</Week47Ago>
+<Week48Ago>0</Week48Ago>
 <Week49Ago>0</Week49Ago>
 <Week50Ago>0</Week50Ago>
-<Week51Ago>0</Week51Ago>
+<Week51Ago>1</Week51Ago>
 </LastWeeks>
 <DayOfWeek>
 <Sunday>6</Sunday>
