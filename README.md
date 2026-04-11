@@ -1,8 +1,8 @@
 ﻿# ITGMania Backup
 
-#### Last backup: Apr 10, 2026 at 3:01 AM
+#### Last backup: Apr 11, 2026 at 3:02 AM
 
-#### Next backup: Apr 11, 2026 at 3:00 AM
+#### Next backup: Apr 12, 2026 at 3:00 AM
 
 ## 30-day digest
 
@@ -16,15 +16,15 @@
 
 - **LIZY** 1h 19m 35s
 
-| 3 | 4 | 6 | Total |
-| --- | --- | --- | --- |
-| 1 | 1 | 4 | 6 |
+| 4 | 6 | Total |
+| --- | --- | --- |
+| 1 | 4 | 5 |
 
 - **SAM!** 51m 34s
 
 | 8 | Total |
 | --- | --- |
-| 3 | 3 |
+| 1 | 1 |
 
 
 #### Mar 31, 2026 at 3:01 AM
@@ -2113,4 +2113,44 @@ Time in songs this run: **KYLE** 2m 49s.
 </details>
 
 ## Changes since last backup
+
+### ITGMania/SaveAppData/Preferences.ini
+
+Game preferences (theme, options, etc.).
+
+```diff
+diff --git a/ITGMania/SaveAppData/Preferences.ini b/ITGMania/SaveAppData/Preferences.ini
+index a7fe0e1..e0f3ade 100644
+--- a/ITGMania/SaveAppData/Preferences.ini
++++ b/ITGMania/SaveAppData/Preferences.ini
+@@ -50,7 +50,7 @@ CustomSongsMaxSeconds=120.000000
+ DebounceCoinInputTime=0.000000
+ DebugLights=0
+ DebugMenuEnabled=1
+-DefaultLocalProfileIDP1=00000006
++DefaultLocalProfileIDP1=00000000
+ DefaultLocalProfileIDP2=
+ DefaultModifiers=NoHideLights, FailImmediateContinue, Overhead
+ DefaultRecordLength=4.000000
+```
+
+### ITGMania/SaveAppData/ThemePrefs.ini
+
+Backed up file.
+
+```diff
+diff --git a/ITGMania/SaveAppData/ThemePrefs.ini b/ITGMania/SaveAppData/ThemePrefs.ini
+index 856760e..c61e4e3 100644
+--- a/ITGMania/SaveAppData/ThemePrefs.ini
++++ b/ITGMania/SaveAppData/ThemePrefs.ini
+@@ -38,7 +38,7 @@ ScreenPlayerOptionsMenuTimer=90
+ ScreenSelectMusicCasualMenuTimer=300
+ ScreenSelectMusicMenuTimer=300
+ SeparateUnlocksByPlayer=false
+-SimplyLoveColor=6
++SimplyLoveColor=7
+ StepStats=Show
+ UseImageCache=false
+ VisualStyle=Technique
+```
 
