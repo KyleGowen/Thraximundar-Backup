@@ -1,8 +1,8 @@
 ﻿# ITGMania Backup
 
-#### Last backup: Apr 12, 2026 at 3:02 AM
+#### Last backup: Apr 13, 2026 at 3:01 AM
 
-#### Next backup: Apr 13, 2026 at 3:00 AM
+#### Next backup: Apr 14, 2026 at 3:00 AM
 
 ## 30-day digest
 
@@ -12,20 +12,10 @@
 
 | 8 | 9 | 10 | 11 | Total |
 | --- | --- | --- | --- | --- |
-| 1 | 4 | 2 | 3 | 10 |
+| 1 | 3 | 2 | 3 | 9 |
 
 - **LIZY** 1h 19m 35s
-
-| 4 | 6 | Total |
-| --- | --- | --- |
-| 1 | 4 | 5 |
-
 - **SAM!** 51m 34s
-
-| 8 | Total |
-| --- | --- |
-| 1 | 1 |
-
 
 #### Mar 31, 2026 at 3:01 AM
 
