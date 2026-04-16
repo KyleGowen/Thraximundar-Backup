@@ -1,19 +1,14 @@
 ﻿# ITGMania Backup
 
-#### Last backup: Apr 15, 2026 at 3:01 AM
+#### Last backup: Apr 16, 2026 at 3:02 AM
 
-#### Next backup: Apr 16, 2026 at 3:00 AM
+#### Next backup: Apr 17, 2026 at 3:00 AM
 
 ## 30-day digest
 
 ### 30-day play time (in songs)
 
 - **KYLE** 2h 18m 40s
-
-| 8 | 9 | 10 | 11 | Total |
-| --- | --- | --- | --- | --- |
-| 1 | 3 | 2 | 3 | 9 |
-
 - **LIZY** 1h 19m 35s
 - **SAM!** 51m 34s
 
