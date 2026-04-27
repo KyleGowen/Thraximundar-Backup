@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Stats>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<RecentSongScores>
+<HighScoreForASongAndSteps>
+<Song Dir='Songs/Floor Filler/DANCING WITH OUR HANDS TIED/'/>
+<Steps Difficulty='Medium' StepsType='dance-single'/>
+<HighScore>
+<Name></Name>
+<Grade>Failed</Grade>
+<Score>4</Score>
+<PercentDP>0.000000</PercentDP>
+<SurviveSeconds>24.816219</SurviveSeconds>
+<MaxCombo>6</MaxCombo>
+<StageAward></StageAward>
+<PeakComboAward></PeakComboAward>
+<Modifiers>NoHideLights, C240, FailImmediateContinue, Overhead</Modifiers>
+<DateTime>2026-04-26 13:02:30</DateTime>
+<PlayerGuid>2dde4d6e8737681e</PlayerGuid>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<ProductID>1</ProductID>
+<TapNoteScores>
+<HitMine>0</HitMine>
+<AvoidMine>0</AvoidMine>
+<CheckpointMiss>0</CheckpointMiss>
+<Miss>89</Miss>
+<W5>18</W5>
+<W4>29</W4>
+<W3>49</W3>
+<W2>29</W2>
+<W1>23</W1>
+<CheckpointHit>0</CheckpointHit>
+</TapNoteScores>
+<HoldNoteScores>
+<LetGo>10</LetGo>
+<Held>16</Held>
+<MissedHold>9</MissedHold>
+</HoldNoteScores>
+<RadarValues>
+<Stream>0.222642</Stream>
+<Voltage>0.022537</Voltage>
+<Air>0.178571</Air>
+<Freeze>0.457143</Freeze>
+<Chaos>0.000000</Chaos>
+<Notes>146.000000</Notes>
+<TapsAndHolds>131</TapsAndHolds>
+<Jumps>15</Jumps>
+<Holds>16</Holds>
+<Mines>0</Mines>
+<Hands>0</Hands>
+<Rolls>0</Rolls>
+<Lifts>0</Lifts>
+<Fakes>0</Fakes>
+</RadarValues>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<Disqualified>0</Disqualified>
+<Pad>33</Pad>
+<StageGuid>a596beb5-b3fe-4137-a6d4-70f9740f97a0</StageGuid>
+<Guid>7f523316-def7-4053-a803-0ae6cd5f94b4</Guid>
+</HighScore>
+</HighScoreForASongAndSteps>
+</RecentSongScores>
+</Stats>
