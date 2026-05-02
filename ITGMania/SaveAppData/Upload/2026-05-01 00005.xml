@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Stats>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<RecentSongScores>
+<HighScoreForASongAndSteps>
+<Song Dir='Songs/Ben Speirs&apos; SPEIRMIX GALAXY/Break Free/'/>
+<Steps Difficulty='Medium' StepsType='dance-single'/>
+<HighScore>
+<Name></Name>
+<Grade>Failed</Grade>
+<Score>14</Score>
+<PercentDP>0.000000</PercentDP>
+<SurviveSeconds>19.216993</SurviveSeconds>
+<MaxCombo>14</MaxCombo>
+<StageAward></StageAward>
+<PeakComboAward></PeakComboAward>
+<Modifiers>NoHideLights, C240, FailImmediateContinue, Overhead</Modifiers>
+<DateTime>2026-05-01 13:17:27</DateTime>
+<PlayerGuid>2dde4d6e8737681e</PlayerGuid>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<ProductID>1</ProductID>
+<TapNoteScores>
+<HitMine>0</HitMine>
+<AvoidMine>0</AvoidMine>
+<CheckpointMiss>0</CheckpointMiss>
+<Miss>144</Miss>
+<W5>30</W5>
+<W4>25</W4>
+<W3>58</W3>
+<W2>28</W2>
+<W1>28</W1>
+<CheckpointHit>0</CheckpointHit>
+</TapNoteScores>
+<HoldNoteScores>
+<LetGo>4</LetGo>
+<Held>6</Held>
+<MissedHold>9</MissedHold>
+</HoldNoteScores>
+<RadarValues>
+<Stream>0.185976</Stream>
+<Voltage>0.047856</Voltage>
+<Air>0.200000</Air>
+<Freeze>0.315789</Freeze>
+<Chaos>0.000000</Chaos>
+<Notes>146.000000</Notes>
+<TapsAndHolds>141</TapsAndHolds>
+<Jumps>6</Jumps>
+<Holds>6</Holds>
+<Mines>0</Mines>
+<Hands>0</Hands>
+<Rolls>0</Rolls>
+<Lifts>0</Lifts>
+<Fakes>0</Fakes>
+</RadarValues>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<Disqualified>0</Disqualified>
+<Pad>33</Pad>
+<StageGuid>af41248f-6367-4814-aadb-1e011c6dd1d0</StageGuid>
+<Guid>8d2ed1a0-47c8-4106-a43c-a91875685d70</Guid>
+</HighScore>
+</HighScoreForASongAndSteps>
+</RecentSongScores>
+</Stats>

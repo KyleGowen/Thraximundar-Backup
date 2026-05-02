@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Stats>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<RecentSongScores>
+<HighScoreForASongAndSteps>
+<Song Dir='Songs/JBEAN Exclusives - 2012/Part Of Me/'/>
+<Steps Difficulty='Easy' StepsType='dance-single'/>
+<HighScore>
+<Name></Name>
+<Grade>Tier14</Grade>
+<Score>12</Score>
+<PercentDP>0.640200</PercentDP>
+<SurviveSeconds>121.009613</SurviveSeconds>
+<MaxCombo>27</MaxCombo>
+<StageAward></StageAward>
+<PeakComboAward></PeakComboAward>
+<Modifiers>NoHideLights, C240, FailImmediateContinue, Overhead</Modifiers>
+<DateTime>2026-05-01 13:03:59</DateTime>
+<PlayerGuid>2dde4d6e8737681e</PlayerGuid>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<ProductID>1</ProductID>
+<TapNoteScores>
+<HitMine>0</HitMine>
+<AvoidMine>0</AvoidMine>
+<CheckpointMiss>0</CheckpointMiss>
+<Miss>1</Miss>
+<W5>2</W5>
+<W4>9</W4>
+<W3>46</W3>
+<W2>45</W2>
+<W1>39</W1>
+<CheckpointHit>0</CheckpointHit>
+</TapNoteScores>
+<HoldNoteScores>
+<LetGo>2</LetGo>
+<Held>10</Held>
+<MissedHold>0</MissedHold>
+</HoldNoteScores>
+<RadarValues>
+<Stream>0.592105</Stream>
+<Voltage>0.225700</Voltage>
+<Air>0.400000</Air>
+<Freeze>0.833333</Freeze>
+<Chaos>0.640260</Chaos>
+<Notes>148.000000</Notes>
+<TapsAndHolds>139</TapsAndHolds>
+<Jumps>9</Jumps>
+<Holds>10</Holds>
+<Mines>0</Mines>
+<Hands>0</Hands>
+<Rolls>0</Rolls>
+<Lifts>0</Lifts>
+<Fakes>0</Fakes>
+</RadarValues>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<Disqualified>0</Disqualified>
+<Pad>33</Pad>
+<StageGuid>ec7fbc86-4498-4922-a86a-2f31ede10cba</StageGuid>
+<Guid>3950167c-dde2-4c8d-a874-db20554ee9b7</Guid>
+</HighScore>
+</HighScoreForASongAndSteps>
+</RecentSongScores>
+</Stats>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Stats>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<RecentSongScores>
+<HighScoreForASongAndSteps>
+<Song Dir='Songs/Ben Speirs&apos; SPEIRMIX GALAXY/Blow Me (One Last Kiss)/'/>
+<Steps Difficulty='Easy' StepsType='dance-single'/>
+<HighScore>
+<Name></Name>
+<Grade>Failed</Grade>
+<Score>12</Score>
+<PercentDP>0.038200</PercentDP>
+<SurviveSeconds>31.865843</SurviveSeconds>
+<MaxCombo>20</MaxCombo>
+<StageAward></StageAward>
+<PeakComboAward></PeakComboAward>
+<Modifiers>NoHideLights, C240, FailImmediateContinue, Overhead</Modifiers>
+<DateTime>2026-05-01 13:32:51</DateTime>
+<PlayerGuid>2dde4d6e8737681e</PlayerGuid>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<ProductID>1</ProductID>
+<TapNoteScores>
+<HitMine>0</HitMine>
+<AvoidMine>0</AvoidMine>
+<CheckpointMiss>0</CheckpointMiss>
+<Miss>10</Miss>
+<W5>10</W5>
+<W4>10</W4>
+<W3>48</W3>
+<W2>40</W2>
+<W1>38</W1>
+<CheckpointHit>0</CheckpointHit>
+</TapNoteScores>
+<HoldNoteScores>
+<LetGo>2</LetGo>
+<Held>4</Held>
+<MissedHold>0</MissedHold>
+</HoldNoteScores>
+<RadarValues>
+<Stream>0.481928</Stream>
+<Voltage>0.109695</Voltage>
+<Air>0.200000</Air>
+<Freeze>0.666667</Freeze>
+<Chaos>0.038272</Chaos>
+<Notes>142.000000</Notes>
+<TapsAndHolds>136</TapsAndHolds>
+<Jumps>6</Jumps>
+<Holds>4</Holds>
+<Mines>0</Mines>
+<Hands>0</Hands>
+<Rolls>0</Rolls>
+<Lifts>0</Lifts>
+<Fakes>0</Fakes>
+</RadarValues>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<Disqualified>0</Disqualified>
+<Pad>33</Pad>
+<StageGuid>7fc89aa2-7f93-4f3b-aff6-3ade2ded6b4b</StageGuid>
+<Guid>7864ac0c-9e91-4107-ab0e-e7c366a8e4f4</Guid>
+</HighScore>
+</HighScoreForASongAndSteps>
+</RecentSongScores>
+</Stats>

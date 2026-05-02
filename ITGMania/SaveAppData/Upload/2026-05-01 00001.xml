@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Stats>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<RecentSongScores>
+<HighScoreForASongAndSteps>
+<Song Dir='Songs/Ben Speirs&apos; SPEIRMIX GALAXY/Hot n Cold/'/>
+<Steps Difficulty='Medium' StepsType='dance-single'/>
+<HighScore>
+<Name></Name>
+<Grade>Failed</Grade>
+<Score>11</Score>
+<PercentDP>0.000000</PercentDP>
+<SurviveSeconds>15.728804</SurviveSeconds>
+<MaxCombo>7</MaxCombo>
+<StageAward></StageAward>
+<PeakComboAward></PeakComboAward>
+<Modifiers>NoHideLights, C240, FailImmediateContinue, Overhead</Modifiers>
+<DateTime>2026-05-01 13:01:08</DateTime>
+<PlayerGuid>2dde4d6e8737681e</PlayerGuid>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<ProductID>1</ProductID>
+<TapNoteScores>
+<HitMine>0</HitMine>
+<AvoidMine>0</AvoidMine>
+<CheckpointMiss>0</CheckpointMiss>
+<Miss>96</Miss>
+<W5>28</W5>
+<W4>21</W4>
+<W3>60</W3>
+<W2>18</W2>
+<W1>31</W1>
+<CheckpointHit>0</CheckpointHit>
+</TapNoteScores>
+<HoldNoteScores>
+<LetGo>2</LetGo>
+<Held>28</Held>
+<MissedHold>11</MissedHold>
+</HoldNoteScores>
+<RadarValues>
+<Stream>0.214286</Stream>
+<Voltage>0.027334</Voltage>
+<Air>0.259259</Air>
+<Freeze>0.682927</Freeze>
+<Chaos>0.000000</Chaos>
+<Notes>169.000000</Notes>
+<TapsAndHolds>137</TapsAndHolds>
+<Jumps>32</Jumps>
+<Holds>28</Holds>
+<Mines>0</Mines>
+<Hands>0</Hands>
+<Rolls>0</Rolls>
+<Lifts>0</Lifts>
+<Fakes>0</Fakes>
+</RadarValues>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<Disqualified>0</Disqualified>
+<Pad>33</Pad>
+<StageGuid>3f9ac8ca-0473-440c-a2d1-7598b6ab9ad2</StageGuid>
+<Guid>62284569-ae44-4d97-ac7f-b5f9699441d5</Guid>
+</HighScore>
+</HighScoreForASongAndSteps>
+</RecentSongScores>
+</Stats>
