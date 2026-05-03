@@ -18,22 +18,22 @@
 <Song Dir=''/>
 <Course/>
 <CurrentCombo>0</CurrentCombo>
-<TotalSessions>2582</TotalSessions>
-<TotalSessionSeconds>1142986</TotalSessionSeconds>
-<TotalGameplaySeconds>561364</TotalGameplaySeconds>
-<TotalCaloriesBurned>202808.906250</TotalCaloriesBurned>
+<TotalSessions>2587</TotalSessions>
+<TotalSessionSeconds>1143612</TotalSessionSeconds>
+<TotalGameplaySeconds>561601</TotalGameplaySeconds>
+<TotalCaloriesBurned>202825.046875</TotalCaloriesBurned>
 <GoalType>0</GoalType>
 <GoalCalories>0</GoalCalories>
 <GoalSeconds>0</GoalSeconds>
 <LastPlayedMachineGuid>403d15c592378cca</LastPlayedMachineGuid>
-<LastPlayedDate>2026-05-01</LastPlayedDate>
-<TotalDancePoints>7996611</TotalDancePoints>
+<LastPlayedDate>2026-05-02</LastPlayedDate>
+<TotalDancePoints>7996712</TotalDancePoints>
 <NumExtraStagesPassed>0</NumExtraStagesPassed>
 <NumExtraStagesFailed>0</NumExtraStagesFailed>
 <NumToasties>879</NumToasties>
-<TotalTapsAndHolds>1732185</TotalTapsAndHolds>
-<TotalJumps>106625</TotalJumps>
-<TotalHolds>169222</TotalHolds>
+<TotalTapsAndHolds>1732307</TotalTapsAndHolds>
+<TotalJumps>106628</TotalJumps>
+<TotalHolds>169253</TotalHolds>
 <TotalRolls>6888</TotalRolls>
 <TotalMines>69760</TotalMines>
 <TotalHands>3396</TotalHands>
@@ -41,13 +41,13 @@
 <DefaultModifiers/>
 <Unlocks/>
 <NumSongsPlayedByPlayMode>
-<Regular>4130</Regular>
+<Regular>4132</Regular>
 </NumSongsPlayedByPlayMode>
 <NumSongsPlayedByStyle>
-<Style Game='dance' Style='single'>2535</Style>
+<Style Game='dance' Style='single'>2537</Style>
 </NumSongsPlayedByStyle>
 <NumSongsPlayedByDifficulty>
-<Beginner>354</Beginner>
+<Beginner>356</Beginner>
 <Easy>682</Easy>
 <Medium>716</Medium>
 <Hard>1198</Hard>
@@ -56,7 +56,7 @@
 </NumSongsPlayedByDifficulty>
 <NumSongsPlayedByMeter>
 <Meter1>212</Meter1>
-<Meter2>140</Meter2>
+<Meter2>142</Meter2>
 <Meter3>288</Meter3>
 <Meter4>169</Meter4>
 <Meter5>191</Meter5>
@@ -71,7 +71,7 @@
 <Meter14>22</Meter14>
 <Meter15>1</Meter15>
 </NumSongsPlayedByMeter>
-<NumTotalSongsPlayed>4130</NumTotalSongsPlayed>
+<NumTotalSongsPlayed>4132</NumTotalSongsPlayed>
 <NumStagesPassedByPlayMode>
 <Regular>3392</Regular>
 </NumStagesPassedByPlayMode>
@@ -20527,8 +20527,8 @@
 <Song Dir='Songs/Ben Speirs&apos; SPEIRMIX GALAXY/Good Time/'>
 <Steps Difficulty='Beginner' StepsType='dance-single'>
 <HighScoreList>
-<NumTimesPlayed>2</NumTimesPlayed>
-<LastPlayed>2025-04-17</LastPlayed>
+<NumTimesPlayed>5</NumTimesPlayed>
+<LastPlayed>2026-05-02</LastPlayed>
 <HighGrade>Tier17</HighGrade>
 <HighScore>
 <Name>LIZY</Name>
@@ -31010,6 +31010,12 @@
 </Steps>
 </Song>
 <Song Dir='Songs/DDR Galaxy/Chained to the Rhythm/'>
+<Steps Difficulty='Beginner' StepsType='dance-single'>
+<HighScoreList>
+<NumTimesPlayed>1</NumTimesPlayed>
+<LastPlayed>2026-05-02</LastPlayed>
+</HighScoreList>
+</Steps>
 <Steps Difficulty='Easy' StepsType='dance-single'>
 <HighScoreList>
 <NumTimesPlayed>1</NumTimesPlayed>
@@ -132334,6 +132340,7 @@
 <CaloriesBurned Date='2026-04-26'>1026.091675</CaloriesBurned>
 <CaloriesBurned Date='2026-04-27'>1116.375854</CaloriesBurned>
 <CaloriesBurned Date='2026-05-01'>249.395432</CaloriesBurned>
+<CaloriesBurned Date='2026-05-02'>16.129379</CaloriesBurned>
 </CalorieData>
 <CoinData>
 <LastDays>
@@ -132391,8 +132398,8 @@
 <Week42Ago>0</Week42Ago>
 <Week43Ago>0</Week43Ago>
 <Week44Ago>2</Week44Ago>
-<Week45Ago>1</Week45Ago>
-<Week46Ago>1</Week46Ago>
+<Week45Ago>0</Week45Ago>
+<Week46Ago>2</Week46Ago>
 <Week47Ago>1</Week47Ago>
 <Week48Ago>1</Week48Ago>
 <Week49Ago>0</Week49Ago>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Stats>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<RecentSongScores>
+<HighScoreForASongAndSteps>
+<Song Dir='Songs/Ben Speirs&apos; SPEIRMIX GALAXY/Good Time/'/>
+<Steps Difficulty='Beginner' StepsType='dance-single'/>
+<HighScore>
+<Name></Name>
+<Grade>Failed</Grade>
+<Score>1</Score>
+<PercentDP>0.000000</PercentDP>
+<SurviveSeconds>16.150587</SurviveSeconds>
+<MaxCombo>4</MaxCombo>
+<StageAward></StageAward>
+<PeakComboAward></PeakComboAward>
+<Modifiers>NoHideLights, C200, FailImmediateContinue, Overhead</Modifiers>
+<DateTime>2026-05-02 18:39:26</DateTime>
+<PlayerGuid></PlayerGuid>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<ProductID>1</ProductID>
+<TapNoteScores>
+<HitMine>0</HitMine>
+<AvoidMine>0</AvoidMine>
+<CheckpointMiss>0</CheckpointMiss>
+<Miss>76</Miss>
+<W5>4</W5>
+<W4>6</W4>
+<W3>10</W3>
+<W2>5</W2>
+<W1>3</W1>
+<CheckpointHit>0</CheckpointHit>
+</TapNoteScores>
+<HoldNoteScores>
+<LetGo>0</LetGo>
+<Held>0</Held>
+<MissedHold>0</MissedHold>
+</HoldNoteScores>
+<RadarValues>
+<Stream>0.082569</Stream>
+<Voltage>0.017970</Voltage>
+<Air>0.000000</Air>
+<Freeze>0.000000</Freeze>
+<Chaos>0.000000</Chaos>
+<Notes>26.000000</Notes>
+<TapsAndHolds>25</TapsAndHolds>
+<Jumps>1</Jumps>
+<Holds>0</Holds>
+<Mines>0</Mines>
+<Hands>0</Hands>
+<Rolls>0</Rolls>
+<Lifts>0</Lifts>
+<Fakes>0</Fakes>
+</RadarValues>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<Disqualified>0</Disqualified>
+<Pad>33</Pad>
+<StageGuid>c1f5f55c-afb5-42f6-a08c-b7cd9822684e</StageGuid>
+<Guid>4bf968b7-c450-4556-a982-e41e04294db6</Guid>
+</HighScore>
+</HighScoreForASongAndSteps>
+</RecentSongScores>
+</Stats>
