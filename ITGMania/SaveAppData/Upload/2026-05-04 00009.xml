@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Stats>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<RecentSongScores>
+<HighScoreForASongAndSteps>
+<Song Dir='Songs/Anthem Series - The Boys/Hey Ya!/'/>
+<Steps Difficulty='Challenge' StepsType='dance-single'/>
+<HighScore>
+<Name></Name>
+<Grade>Tier05</Grade>
+<Score>86</Score>
+<PercentDP>0.942000</PercentDP>
+<SurviveSeconds>118.472824</SurviveSeconds>
+<MaxCombo>453</MaxCombo>
+<StageAward></StageAward>
+<PeakComboAward></PeakComboAward>
+<Modifiers>NoHideLights, C610, 15% Mini, FailImmediateContinue, Overhead, Default</Modifiers>
+<DateTime>2026-05-04 15:51:14</DateTime>
+<PlayerGuid>4ad3a19834ee56bd</PlayerGuid>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<ProductID>1</ProductID>
+<TapNoteScores>
+<HitMine>0</HitMine>
+<AvoidMine>0</AvoidMine>
+<CheckpointMiss>0</CheckpointMiss>
+<Miss>0</Miss>
+<W5>0</W5>
+<W4>1</W4>
+<W3>28</W3>
+<W2>72</W2>
+<W1>328</W1>
+<CheckpointHit>0</CheckpointHit>
+</TapNoteScores>
+<HoldNoteScores>
+<LetGo>0</LetGo>
+<Held>127</Held>
+<MissedHold>0</MissedHold>
+</HoldNoteScores>
+<RadarValues>
+<Stream>0.923747</Stream>
+<Voltage>0.989908</Voltage>
+<Air>0.758621</Air>
+<Freeze>1.000000</Freeze>
+<Chaos>0.942086</Chaos>
+<Notes>459.000000</Notes>
+<TapsAndHolds>429</TapsAndHolds>
+<Jumps>29</Jumps>
+<Holds>126</Holds>
+<Mines>0</Mines>
+<Hands>1</Hands>
+<Rolls>1</Rolls>
+<Lifts>0</Lifts>
+<Fakes>0</Fakes>
+</RadarValues>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<Disqualified>0</Disqualified>
+<Pad>33</Pad>
+<StageGuid>de97e2e2-b917-4fd7-a569-ee26c5e5cff0</StageGuid>
+<Guid>fcf98ea7-2488-455e-af22-f1c341478aeb</Guid>
+</HighScore>
+</HighScoreForASongAndSteps>
+</RecentSongScores>
+</Stats>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Stats>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<RecentSongScores>
+<HighScoreForASongAndSteps>
+<Song Dir='Songs/Anthem Series - The Boys/Sandstorm/'/>
+<Steps Difficulty='Challenge' StepsType='dance-single'/>
+<HighScore>
+<Name></Name>
+<Grade>Tier11</Grade>
+<Score>127</Score>
+<PercentDP>0.780300</PercentDP>
+<SurviveSeconds>147.656723</SurviveSeconds>
+<MaxCombo>183</MaxCombo>
+<StageAward></StageAward>
+<PeakComboAward></PeakComboAward>
+<Modifiers>NoHideLights, C610, 15% Mini, FailImmediateContinue, Overhead, Default</Modifiers>
+<DateTime>2026-05-04 16:08:06</DateTime>
+<PlayerGuid>4ad3a19834ee56bd</PlayerGuid>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<ProductID>1</ProductID>
+<TapNoteScores>
+<HitMine>0</HitMine>
+<AvoidMine>0</AvoidMine>
+<CheckpointMiss>0</CheckpointMiss>
+<Miss>15</Miss>
+<W5>2</W5>
+<W4>5</W4>
+<W3>127</W3>
+<W2>212</W2>
+<W1>448</W1>
+<CheckpointHit>0</CheckpointHit>
+</TapNoteScores>
+<HoldNoteScores>
+<LetGo>0</LetGo>
+<Held>6</Held>
+<MissedHold>0</MissedHold>
+</HoldNoteScores>
+<RadarValues>
+<Stream>0.817402</Stream>
+<Voltage>0.306431</Voltage>
+<Air>0.857143</Air>
+<Freeze>1.000000</Freeze>
+<Chaos>0.780368</Chaos>
+<Notes>799.000000</Notes>
+<TapsAndHolds>792</TapsAndHolds>
+<Jumps>7</Jumps>
+<Holds>6</Holds>
+<Mines>0</Mines>
+<Hands>0</Hands>
+<Rolls>0</Rolls>
+<Lifts>0</Lifts>
+<Fakes>0</Fakes>
+</RadarValues>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<Disqualified>0</Disqualified>
+<Pad>33</Pad>
+<StageGuid>88568927-7a27-4bc0-a2f1-05cf65b8d6f9</StageGuid>
+<Guid>383ad9f7-6cb4-4907-a38a-8d8a110ad18d</Guid>
+</HighScore>
+</HighScoreForASongAndSteps>
+</RecentSongScores>
+</Stats>

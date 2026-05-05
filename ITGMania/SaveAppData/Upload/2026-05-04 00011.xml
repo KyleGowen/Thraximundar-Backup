@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Stats>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<RecentSongScores>
+<HighScoreForASongAndSteps>
+<Song Dir='Songs/Anthem Series - The Girls/Case of the Ex/'/>
+<Steps Difficulty='Challenge' StepsType='dance-single'/>
+<HighScore>
+<Name></Name>
+<Grade>Tier06</Grade>
+<Score>121</Score>
+<PercentDP>0.931800</PercentDP>
+<SurviveSeconds>146.724091</SurviveSeconds>
+<MaxCombo>509</MaxCombo>
+<StageAward></StageAward>
+<PeakComboAward></PeakComboAward>
+<Modifiers>NoHideLights, C610, 15% Mini, FailImmediateContinue, Overhead, Default</Modifiers>
+<DateTime>2026-05-04 15:59:59</DateTime>
+<PlayerGuid>4ad3a19834ee56bd</PlayerGuid>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<ProductID>1</ProductID>
+<TapNoteScores>
+<HitMine>0</HitMine>
+<AvoidMine>0</AvoidMine>
+<CheckpointMiss>0</CheckpointMiss>
+<Miss>0</Miss>
+<W5>0</W5>
+<W4>1</W4>
+<W3>20</W3>
+<W2>167</W2>
+<W1>432</W1>
+<CheckpointHit>0</CheckpointHit>
+</TapNoteScores>
+<HoldNoteScores>
+<LetGo>0</LetGo>
+<Held>61</Held>
+<MissedHold>0</MissedHold>
+</HoldNoteScores>
+<RadarValues>
+<Stream>0.965135</Stream>
+<Voltage>0.740311</Voltage>
+<Air>1.000000</Air>
+<Freeze>1.000000</Freeze>
+<Chaos>0.931865</Chaos>
+<Notes>631.000000</Notes>
+<TapsAndHolds>620</TapsAndHolds>
+<Jumps>11</Jumps>
+<Holds>61</Holds>
+<Mines>0</Mines>
+<Hands>0</Hands>
+<Rolls>0</Rolls>
+<Lifts>0</Lifts>
+<Fakes>0</Fakes>
+</RadarValues>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<Disqualified>0</Disqualified>
+<Pad>33</Pad>
+<StageGuid>2ffc8c71-7944-4a64-af1c-b1728494af7f</StageGuid>
+<Guid>180bd070-03a8-4036-a3d2-887d06a479c8</Guid>
+</HighScore>
+</HighScoreForASongAndSteps>
+</RecentSongScores>
+</Stats>

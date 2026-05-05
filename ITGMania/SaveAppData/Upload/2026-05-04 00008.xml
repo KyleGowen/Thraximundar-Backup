@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Stats>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<RecentSongScores>
+<HighScoreForASongAndSteps>
+<Song Dir='Songs/Anthem Series - The Boys/Mambo No 5/'/>
+<Steps Difficulty='Challenge' StepsType='dance-single'/>
+<HighScore>
+<Name></Name>
+<Grade>Tier08</Grade>
+<Score>89</Score>
+<PercentDP>0.864500</PercentDP>
+<SurviveSeconds>146.157242</SurviveSeconds>
+<MaxCombo>134</MaxCombo>
+<StageAward></StageAward>
+<PeakComboAward></PeakComboAward>
+<Modifiers>NoHideLights, C610, 15% Mini, FailImmediateContinue, Overhead, Default</Modifiers>
+<DateTime>2026-05-04 15:47:40</DateTime>
+<PlayerGuid>4ad3a19834ee56bd</PlayerGuid>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<ProductID>1</ProductID>
+<TapNoteScores>
+<HitMine>0</HitMine>
+<AvoidMine>0</AvoidMine>
+<CheckpointMiss>0</CheckpointMiss>
+<Miss>5</Miss>
+<W5>0</W5>
+<W4>1</W4>
+<W3>72</W3>
+<W2>146</W2>
+<W1>304</W1>
+<CheckpointHit>0</CheckpointHit>
+</TapNoteScores>
+<HoldNoteScores>
+<LetGo>3</LetGo>
+<Held>165</Held>
+<MissedHold>1</MissedHold>
+</HoldNoteScores>
+<RadarValues>
+<Stream>0.850181</Stream>
+<Voltage>0.241933</Voltage>
+<Air>0.863636</Air>
+<Freeze>0.975155</Freeze>
+<Chaos>0.864562</Chaos>
+<Notes>548.000000</Notes>
+<TapsAndHolds>523</TapsAndHolds>
+<Jumps>21</Jumps>
+<Holds>157</Holds>
+<Mines>0</Mines>
+<Hands>11</Hands>
+<Rolls>8</Rolls>
+<Lifts>0</Lifts>
+<Fakes>0</Fakes>
+</RadarValues>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<Disqualified>0</Disqualified>
+<Pad>33</Pad>
+<StageGuid>3ddaf253-db46-4578-a5fa-eaf467567ffc</StageGuid>
+<Guid>881d65ba-b2fa-486a-ac16-39d4f7893032</Guid>
+</HighScore>
+</HighScoreForASongAndSteps>
+</RecentSongScores>
+</Stats>
