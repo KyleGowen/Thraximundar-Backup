@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Stats>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<RecentSongScores>
+<HighScoreForASongAndSteps>
+<Song Dir='Songs/Misc. Collected/Waters of Nazareth/'/>
+<Steps Difficulty='Easy' StepsType='dance-single'/>
+<HighScore>
+<Name></Name>
+<Grade>Tier09</Grade>
+<Score>42</Score>
+<PercentDP>0.847500</PercentDP>
+<SurviveSeconds>95.466591</SurviveSeconds>
+<MaxCombo>249</MaxCombo>
+<StageAward></StageAward>
+<PeakComboAward></PeakComboAward>
+<Modifiers>NoHideLights, C450, FailImmediateContinue, Overhead, Default</Modifiers>
+<DateTime>2026-06-08 18:20:37</DateTime>
+<PlayerGuid>d876307e83faa0ea</PlayerGuid>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<ProductID>1</ProductID>
+<TapNoteScores>
+<HitMine>0</HitMine>
+<AvoidMine>0</AvoidMine>
+<CheckpointMiss>0</CheckpointMiss>
+<Miss>1</Miss>
+<W5>0</W5>
+<W4>0</W4>
+<W3>27</W3>
+<W2>85</W2>
+<W1>126</W1>
+<CheckpointHit>0</CheckpointHit>
+</TapNoteScores>
+<HoldNoteScores>
+<LetGo>0</LetGo>
+<Held>1</Held>
+<MissedHold>0</MissedHold>
+</HoldNoteScores>
+<RadarValues>
+<Stream>0.846457</Stream>
+<Voltage>0.959107</Voltage>
+<Air>0.600000</Air>
+<Freeze>1.000000</Freeze>
+<Chaos>0.847500</Chaos>
+<Notes>253.000000</Notes>
+<TapsAndHolds>238</TapsAndHolds>
+<Jumps>15</Jumps>
+<Holds>1</Holds>
+<Mines>0</Mines>
+<Hands>0</Hands>
+<Rolls>0</Rolls>
+<Lifts>0</Lifts>
+<Fakes>0</Fakes>
+</RadarValues>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<Disqualified>0</Disqualified>
+<Pad>33</Pad>
+<StageGuid>95d0237e-60d8-4c11-a820-518d789dbfb4</StageGuid>
+<Guid>901c10f0-8e85-45f2-a900-074d61b1c82c</Guid>
+</HighScore>
+</HighScoreForASongAndSteps>
+</RecentSongScores>
+</Stats>

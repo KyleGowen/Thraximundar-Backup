@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Stats>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<RecentSongScores>
+<HighScoreForASongAndSteps>
+<Song Dir='Songs/Misc. Collected/Boom Shakalaka/'/>
+<Steps Difficulty='Medium' StepsType='dance-single'/>
+<HighScore>
+<Name></Name>
+<Grade>Failed</Grade>
+<Score>66</Score>
+<PercentDP>0.000000</PercentDP>
+<SurviveSeconds>11.081625</SurviveSeconds>
+<MaxCombo>108</MaxCombo>
+<StageAward></StageAward>
+<PeakComboAward></PeakComboAward>
+<Modifiers>NoHideLights, C450, FailImmediateContinue, Overhead, Default</Modifiers>
+<DateTime>2026-06-08 18:31:06</DateTime>
+<PlayerGuid>d876307e83faa0ea</PlayerGuid>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<ProductID>1</ProductID>
+<TapNoteScores>
+<HitMine>0</HitMine>
+<AvoidMine>0</AvoidMine>
+<CheckpointMiss>0</CheckpointMiss>
+<Miss>29</Miss>
+<W5>6</W5>
+<W4>1</W4>
+<W3>27</W3>
+<W2>94</W2>
+<W1>277</W1>
+<CheckpointHit>0</CheckpointHit>
+</TapNoteScores>
+<HoldNoteScores>
+<LetGo>0</LetGo>
+<Held>86</Held>
+<MissedHold>6</MissedHold>
+</HoldNoteScores>
+<RadarValues>
+<Stream>0.846667</Stream>
+<Voltage>0.276881</Voltage>
+<Air>0.812500</Air>
+<Freeze>0.918919</Freeze>
+<Chaos>0.000000</Chaos>
+<Notes>415.000000</Notes>
+<TapsAndHolds>399</TapsAndHolds>
+<Jumps>14</Jumps>
+<Holds>68</Holds>
+<Mines>0</Mines>
+<Hands>0</Hands>
+<Rolls>18</Rolls>
+<Lifts>0</Lifts>
+<Fakes>6</Fakes>
+</RadarValues>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<Disqualified>0</Disqualified>
+<Pad>33</Pad>
+<StageGuid>054b3390-3bee-45d0-af66-23d4705d82f2</StageGuid>
+<Guid>7690b3bc-8df6-414a-a3d2-e15bfcfc3745</Guid>
+</HighScore>
+</HighScoreForASongAndSteps>
+</RecentSongScores>
+</Stats>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Stats>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<RecentSongScores>
+<HighScoreForASongAndSteps>
+<Song Dir='Songs/Anthem Series - The Girls/Telephone/'/>
+<Steps Difficulty='Challenge' StepsType='dance-single'/>
+<HighScore>
+<Name></Name>
+<Grade>Tier05</Grade>
+<Score>91</Score>
+<PercentDP>0.953800</PercentDP>
+<SurviveSeconds>162.281586</SurviveSeconds>
+<MaxCombo>387</MaxCombo>
+<StageAward></StageAward>
+<PeakComboAward></PeakComboAward>
+<Modifiers>NoHideLights, C615, 15% Mini, FailImmediateContinue, Overhead, Default</Modifiers>
+<DateTime>2026-06-08 17:17:41</DateTime>
+<PlayerGuid>4ad3a19834ee56bd</PlayerGuid>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<ProductID>1</ProductID>
+<TapNoteScores>
+<HitMine>0</HitMine>
+<AvoidMine>0</AvoidMine>
+<CheckpointMiss>0</CheckpointMiss>
+<Miss>0</Miss>
+<W5>1</W5>
+<W4>0</W4>
+<W3>22</W3>
+<W2>82</W2>
+<W1>440</W1>
+<CheckpointHit>0</CheckpointHit>
+</TapNoteScores>
+<HoldNoteScores>
+<LetGo>0</LetGo>
+<Held>144</Held>
+<MissedHold>0</MissedHold>
+</HoldNoteScores>
+<RadarValues>
+<Stream>0.951872</Stream>
+<Voltage>0.674309</Voltage>
+<Air>0.875000</Air>
+<Freeze>1.000000</Freeze>
+<Chaos>0.953846</Chaos>
+<Notes>559.000000</Notes>
+<TapsAndHolds>544</TapsAndHolds>
+<Jumps>16</Jumps>
+<Holds>82</Holds>
+<Mines>0</Mines>
+<Hands>0</Hands>
+<Rolls>62</Rolls>
+<Lifts>0</Lifts>
+<Fakes>0</Fakes>
+</RadarValues>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<Disqualified>0</Disqualified>
+<Pad>33</Pad>
+<StageGuid>e3ce1a86-10ed-4f9b-a811-797dfff831f2</StageGuid>
+<Guid>fd053827-b189-4208-a566-750667201ce1</Guid>
+</HighScore>
+</HighScoreForASongAndSteps>
+</RecentSongScores>
+</Stats>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Stats>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<RecentSongScores>
+<HighScoreForASongAndSteps>
+<Song Dir='Songs/Anthem Series - Garage Rewind/Without Me/'/>
+<Steps Difficulty='Challenge' StepsType='dance-single'/>
+<HighScore>
+<Name></Name>
+<Grade>Tier08</Grade>
+<Score>122</Score>
+<PercentDP>0.886000</PercentDP>
+<SurviveSeconds>161.043015</SurviveSeconds>
+<MaxCombo>267</MaxCombo>
+<StageAward></StageAward>
+<PeakComboAward></PeakComboAward>
+<Modifiers>NoHideLights, C610, 15% Mini, FailImmediateContinue, Overhead, Default</Modifiers>
+<DateTime>2026-06-08 17:02:54</DateTime>
+<PlayerGuid>4ad3a19834ee56bd</PlayerGuid>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<ProductID>1</ProductID>
+<TapNoteScores>
+<HitMine>0</HitMine>
+<AvoidMine>0</AvoidMine>
+<CheckpointMiss>0</CheckpointMiss>
+<Miss>1</Miss>
+<W5>5</W5>
+<W4>7</W4>
+<W3>68</W3>
+<W2>154</W2>
+<W1>418</W1>
+<CheckpointHit>0</CheckpointHit>
+</TapNoteScores>
+<HoldNoteScores>
+<LetGo>0</LetGo>
+<Held>163</Held>
+<MissedHold>0</MissedHold>
+</HoldNoteScores>
+<RadarValues>
+<Stream>0.879285</Stream>
+<Voltage>0.411517</Voltage>
+<Air>0.888889</Air>
+<Freeze>1.000000</Freeze>
+<Chaos>0.886029</Chaos>
+<Notes>665.000000</Notes>
+<TapsAndHolds>647</TapsAndHolds>
+<Jumps>18</Jumps>
+<Holds>160</Holds>
+<Mines>4</Mines>
+<Hands>0</Hands>
+<Rolls>3</Rolls>
+<Lifts>0</Lifts>
+<Fakes>1</Fakes>
+</RadarValues>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<Disqualified>0</Disqualified>
+<Pad>33</Pad>
+<StageGuid>4122c02c-1d5e-41cf-a7b6-ee818da5476f</StageGuid>
+<Guid>fab13cec-a5ab-42cb-a026-4cc0641d7341</Guid>
+</HighScore>
+</HighScoreForASongAndSteps>
+</RecentSongScores>
+</Stats>

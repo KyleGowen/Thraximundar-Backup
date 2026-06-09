@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Stats>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<RecentSongScores>
+<HighScoreForASongAndSteps>
+<Song Dir='Songs/Misc. Collected/The Whistle Song/'/>
+<Steps Difficulty='Medium' StepsType='dance-single'/>
+<HighScore>
+<Name></Name>
+<Grade>Tier13</Grade>
+<Score>48</Score>
+<PercentDP>0.694100</PercentDP>
+<SurviveSeconds>97.163673</SurviveSeconds>
+<MaxCombo>115</MaxCombo>
+<StageAward></StageAward>
+<PeakComboAward></PeakComboAward>
+<Modifiers>NoHideLights, C450, FailImmediateContinue, Overhead, Default</Modifiers>
+<DateTime>2026-06-08 18:18:10</DateTime>
+<PlayerGuid>d876307e83faa0ea</PlayerGuid>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<ProductID>1</ProductID>
+<TapNoteScores>
+<HitMine>0</HitMine>
+<AvoidMine>0</AvoidMine>
+<CheckpointMiss>0</CheckpointMiss>
+<Miss>13</Miss>
+<W5>0</W5>
+<W4>6</W4>
+<W3>42</W3>
+<W2>97</W2>
+<W1>150</W1>
+<CheckpointHit>0</CheckpointHit>
+</TapNoteScores>
+<HoldNoteScores>
+<LetGo>0</LetGo>
+<Held>2</Held>
+<MissedHold>0</MissedHold>
+</HoldNoteScores>
+<RadarValues>
+<Stream>0.785124</Stream>
+<Voltage>0.338369</Voltage>
+<Air>0.872727</Air>
+<Freeze>1.000000</Freeze>
+<Chaos>0.694194</Chaos>
+<Notes>350.000000</Notes>
+<TapsAndHolds>295</TapsAndHolds>
+<Jumps>54</Jumps>
+<Holds>2</Holds>
+<Mines>0</Mines>
+<Hands>0</Hands>
+<Rolls>0</Rolls>
+<Lifts>0</Lifts>
+<Fakes>0</Fakes>
+</RadarValues>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<Disqualified>0</Disqualified>
+<Pad>33</Pad>
+<StageGuid>75e853a5-0809-49b2-abd6-931be85705bc</StageGuid>
+<Guid>538d348e-8b75-4712-abb7-3a3dc4d28ef5</Guid>
+</HighScore>
+</HighScoreForASongAndSteps>
+</RecentSongScores>
+</Stats>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Stats>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<RecentSongScores>
+<HighScoreForASongAndSteps>
+<Song Dir='Songs/Misc. Collected/Real Groove (Studio 2054 Initial Talk Remix)/'/>
+<Steps Difficulty='Medium' StepsType='dance-single'/>
+<HighScore>
+<Name></Name>
+<Grade>Tier11</Grade>
+<Score>50</Score>
+<PercentDP>0.779000</PercentDP>
+<SurviveSeconds>131.531143</SurviveSeconds>
+<MaxCombo>106</MaxCombo>
+<StageAward></StageAward>
+<PeakComboAward></PeakComboAward>
+<Modifiers>NoHideLights, C450, FailImmediateContinue, Overhead, Default</Modifiers>
+<DateTime>2026-06-08 18:04:47</DateTime>
+<PlayerGuid>d876307e83faa0ea</PlayerGuid>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<ProductID>1</ProductID>
+<TapNoteScores>
+<HitMine>0</HitMine>
+<AvoidMine>0</AvoidMine>
+<CheckpointMiss>0</CheckpointMiss>
+<Miss>4</Miss>
+<W5>0</W5>
+<W4>3</W4>
+<W3>64</W3>
+<W2>111</W2>
+<W1>137</W1>
+<CheckpointHit>0</CheckpointHit>
+</TapNoteScores>
+<HoldNoteScores>
+<LetGo>1</LetGo>
+<Held>34</Held>
+<MissedHold>0</MissedHold>
+</HoldNoteScores>
+<RadarValues>
+<Stream>0.767045</Stream>
+<Voltage>0.315901</Voltage>
+<Air>0.818182</Air>
+<Freeze>0.967742</Freeze>
+<Chaos>0.779096</Chaos>
+<Notes>348.000000</Notes>
+<TapsAndHolds>315</TapsAndHolds>
+<Jumps>32</Jumps>
+<Holds>30</Holds>
+<Mines>0</Mines>
+<Hands>0</Hands>
+<Rolls>4</Rolls>
+<Lifts>0</Lifts>
+<Fakes>0</Fakes>
+</RadarValues>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<Disqualified>0</Disqualified>
+<Pad>33</Pad>
+<StageGuid>d3951352-644e-464c-a717-467a15af5a95</StageGuid>
+<Guid>8af827a8-8991-4399-ae29-a2a20845fc4e</Guid>
+</HighScore>
+</HighScoreForASongAndSteps>
+</RecentSongScores>
+</Stats>

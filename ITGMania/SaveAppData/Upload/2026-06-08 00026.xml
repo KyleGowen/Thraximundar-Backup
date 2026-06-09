@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Stats>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<RecentSongScores>
+<HighScoreForASongAndSteps>
+<Song Dir='Songs/Misc. Collected/antidepressants/'/>
+<Steps Difficulty='Medium' StepsType='dance-single'/>
+<HighScore>
+<Name></Name>
+<Grade>Tier12</Grade>
+<Score>59</Score>
+<PercentDP>0.754500</PercentDP>
+<SurviveSeconds>105.731018</SurviveSeconds>
+<MaxCombo>126</MaxCombo>
+<StageAward></StageAward>
+<PeakComboAward></PeakComboAward>
+<Modifiers>NoHideLights, C450, FailImmediateContinue, Overhead, Default</Modifiers>
+<DateTime>2026-06-08 18:25:05</DateTime>
+<PlayerGuid>d876307e83faa0ea</PlayerGuid>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<ProductID>1</ProductID>
+<TapNoteScores>
+<HitMine>0</HitMine>
+<AvoidMine>0</AvoidMine>
+<CheckpointMiss>0</CheckpointMiss>
+<Miss>10</Miss>
+<W5>11</W5>
+<W4>11</W4>
+<W3>26</W3>
+<W2>84</W2>
+<W1>245</W1>
+<CheckpointHit>0</CheckpointHit>
+</TapNoteScores>
+<HoldNoteScores>
+<LetGo>1</LetGo>
+<Held>33</Held>
+<MissedHold>1</MissedHold>
+</HoldNoteScores>
+<RadarValues>
+<Stream>0.849383</Stream>
+<Voltage>0.312756</Voltage>
+<Air>0.777778</Air>
+<Freeze>0.909091</Freeze>
+<Chaos>0.754502</Chaos>
+<Notes>384.000000</Notes>
+<TapsAndHolds>366</TapsAndHolds>
+<Jumps>18</Jumps>
+<Holds>20</Holds>
+<Mines>0</Mines>
+<Hands>0</Hands>
+<Rolls>13</Rolls>
+<Lifts>0</Lifts>
+<Fakes>0</Fakes>
+</RadarValues>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<Disqualified>0</Disqualified>
+<Pad>33</Pad>
+<StageGuid>8baa4599-9f50-4c78-acb1-e6666a77752c</StageGuid>
+<Guid>15c29df9-1987-45ab-acdf-b7dadf800174</Guid>
+</HighScore>
+</HighScoreForASongAndSteps>
+</RecentSongScores>
+</Stats>

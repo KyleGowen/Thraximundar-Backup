@@ -1,6 +1,6 @@
 # Pack list
 
-Generated from InstallPath on 2026-05-31 03:00. Filenames only; contents not backed up.
+Generated from InstallPath on 2026-06-09 03:00. Filenames only; contents not backed up.
 
 ## Songs
 
@@ -29870,6 +29870,7 @@ Generated from InstallPath on 2026-05-31 03:00. Filenames only; contents not bac
     - Woman.sm
     - Woman-bg.png
 - instructions.txt
+- parsec-windows.exe
 
 ## AdditionalSongs
 
