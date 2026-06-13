@@ -18,24 +18,24 @@
 <LastStepsType>dance-single</LastStepsType>
 <Song Dir='Songs/Misc. Collected/Boom Shakalaka/'/>
 <Course/>
-<CurrentCombo>0</CurrentCombo>
+<CurrentCombo>97</CurrentCombo>
 <TotalSessions>0</TotalSessions>
-<TotalSessionSeconds>202744</TotalSessionSeconds>
-<TotalGameplaySeconds>82493</TotalGameplaySeconds>
-<TotalCaloriesBurned>12292.487305</TotalCaloriesBurned>
+<TotalSessionSeconds>202880</TotalSessionSeconds>
+<TotalGameplaySeconds>82615</TotalGameplaySeconds>
+<TotalCaloriesBurned>12326.751953</TotalCaloriesBurned>
 <GoalType>0</GoalType>
 <GoalCalories>0</GoalCalories>
 <GoalSeconds>0</GoalSeconds>
 <LastPlayedMachineGuid>403d15c592378cca</LastPlayedMachineGuid>
-<LastPlayedDate>2026-06-08</LastPlayedDate>
-<TotalDancePoints>747083</TotalDancePoints>
+<LastPlayedDate>2026-06-12</LastPlayedDate>
+<TotalDancePoints>747606</TotalDancePoints>
 <NumExtraStagesPassed>0</NumExtraStagesPassed>
 <NumExtraStagesFailed>0</NumExtraStagesFailed>
 <NumToasties>0</NumToasties>
-<TotalTapsAndHolds>183526</TotalTapsAndHolds>
-<TotalJumps>13404</TotalJumps>
-<TotalHolds>16564</TotalHolds>
-<TotalRolls>355</TotalRolls>
+<TotalTapsAndHolds>183926</TotalTapsAndHolds>
+<TotalJumps>13420</TotalJumps>
+<TotalHolds>16637</TotalHolds>
+<TotalRolls>372</TotalRolls>
 <TotalMines>418</TotalMines>
 <TotalHands>18</TotalHands>
 <TotalLifts>0</TotalLifts>
@@ -44,15 +44,15 @@
 </DefaultModifiers>
 <Unlocks/>
 <NumSongsPlayedByPlayMode>
-<Regular>648</Regular>
+<Regular>649</Regular>
 </NumSongsPlayedByPlayMode>
 <NumSongsPlayedByStyle>
-<Style Game='dance' Style='single'>648</Style>
+<Style Game='dance' Style='single'>649</Style>
 </NumSongsPlayedByStyle>
 <NumSongsPlayedByDifficulty>
 <Beginner>29</Beginner>
 <Easy>104</Easy>
-<Medium>338</Medium>
+<Medium>339</Medium>
 <Hard>171</Hard>
 <Challenge>6</Challenge>
 </NumSongsPlayedByDifficulty>
@@ -63,13 +63,13 @@
 <Meter4>47</Meter4>
 <Meter5>99</Meter5>
 <Meter6>230</Meter6>
-<Meter7>221</Meter7>
+<Meter7>222</Meter7>
 <Meter8>20</Meter8>
 <Meter9>2</Meter9>
 <Meter10>2</Meter10>
 <Meter11>1</Meter11>
 </NumSongsPlayedByMeter>
-<NumTotalSongsPlayed>648</NumTotalSongsPlayed>
+<NumTotalSongsPlayed>649</NumTotalSongsPlayed>
 <NumStagesPassedByPlayMode>
 <Regular>569</Regular>
 </NumStagesPassedByPlayMode>
@@ -23752,8 +23752,8 @@
 <Song Dir='Songs/Misc. Collected/Boom Shakalaka/'>
 <Steps Difficulty='Medium' StepsType='dance-single'>
 <HighScoreList>
-<NumTimesPlayed>9</NumTimesPlayed>
-<LastPlayed>2026-06-08</LastPlayed>
+<NumTimesPlayed>10</NumTimesPlayed>
+<LastPlayed>2026-06-12</LastPlayed>
 <HighGrade>Tier12</HighGrade>
 <HighScore>
 <Name>SAM!</Name>
@@ -23858,14 +23858,14 @@
 <HighScore>
 <Name>SAM!</Name>
 <Grade>Failed</Grade>
-<Score>69</Score>
-<PercentDP>0.012100</PercentDP>
-<SurviveSeconds>17.058506</SurviveSeconds>
-<MaxCombo>94</MaxCombo>
+<Score>58</Score>
+<PercentDP>0.198800</PercentDP>
+<SurviveSeconds>51.448120</SurviveSeconds>
+<MaxCombo>97</MaxCombo>
 <StageAward></StageAward>
 <PeakComboAward></PeakComboAward>
-<Modifiers>NoHideLights, C420, FailImmediateContinue, Overhead, Default</Modifiers>
-<DateTime>2025-08-05 17:39:03</DateTime>
+<Modifiers>NoHideLights, C450, FailImmediateContinue, Overhead, Default</Modifiers>
+<DateTime>2026-06-12 07:36:15</DateTime>
 <PlayerGuid>d876307e83faa0ea</PlayerGuid>
 <MachineGuid>403d15c592378cca</MachineGuid>
 <ProductID>1</ProductID>
@@ -23873,32 +23873,32 @@
 <HitMine>0</HitMine>
 <AvoidMine>0</AvoidMine>
 <CheckpointMiss>0</CheckpointMiss>
-<Miss>18</Miss>
-<W5>11</W5>
-<W4>11</W4>
-<W3>54</W3>
-<W2>125</W2>
-<W1>215</W1>
+<Miss>30</Miss>
+<W5>4</W5>
+<W4>4</W4>
+<W3>77</W3>
+<W2>115</W2>
+<W1>204</W1>
 <CheckpointHit>0</CheckpointHit>
 </TapNoteScores>
 <HoldNoteScores>
-<LetGo>2</LetGo>
-<Held>88</Held>
+<LetGo>0</LetGo>
+<Held>90</Held>
 <MissedHold>2</MissedHold>
 </HoldNoteScores>
 <RadarValues>
-<Stream>0.782222</Stream>
-<Voltage>0.197969</Voltage>
-<Air>0.937500</Air>
-<Freeze>0.972973</Freeze>
-<Chaos>0.012167</Chaos>
-<Notes>420.000000</Notes>
-<TapsAndHolds>405</TapsAndHolds>
+<Stream>0.742222</Stream>
+<Voltage>0.215498</Voltage>
+<Air>0.875000</Air>
+<Freeze>0.986486</Freeze>
+<Chaos>0.198859</Chaos>
+<Notes>416.000000</Notes>
+<TapsAndHolds>400</TapsAndHolds>
 <Jumps>16</Jumps>
-<Holds>72</Holds>
+<Holds>73</Holds>
 <Mines>0</Mines>
 <Hands>0</Hands>
-<Rolls>16</Rolls>
+<Rolls>17</Rolls>
 <Lifts>0</Lifts>
 <Fakes>6</Fakes>
 </RadarValues>
@@ -35786,5 +35786,6 @@
 <CaloriesBurned Date='2026-03-11'>162.325256</CaloriesBurned>
 <CaloriesBurned Date='2026-03-13'>163.271759</CaloriesBurned>
 <CaloriesBurned Date='2026-06-08'>376.149475</CaloriesBurned>
+<CaloriesBurned Date='2026-06-12'>34.264893</CaloriesBurned>
 </CalorieData>
 </Stats>

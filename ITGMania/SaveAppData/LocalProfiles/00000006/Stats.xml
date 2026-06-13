@@ -12,7 +12,7 @@
 <IsMale>1</IsMale>
 <IsMachine>0</IsMachine>
 <Guid>2dde4d6e8737681e</Guid>
-<SortOrder>Artist</SortOrder>
+<SortOrder>Group</SortOrder>
 <LastDifficulty>Beginner</LastDifficulty>
 <LastCourseDifficulty>Medium</LastCourseDifficulty>
 <LastStepsType>dance-single</LastStepsType>
@@ -20,21 +20,21 @@
 <Course/>
 <CurrentCombo>0</CurrentCombo>
 <TotalSessions>0</TotalSessions>
-<TotalSessionSeconds>170674</TotalSessionSeconds>
-<TotalGameplaySeconds>68674</TotalGameplaySeconds>
-<TotalCaloriesBurned>8561.800781</TotalCaloriesBurned>
+<TotalSessionSeconds>170868</TotalSessionSeconds>
+<TotalGameplaySeconds>68793</TotalGameplaySeconds>
+<TotalCaloriesBurned>8568.477539</TotalCaloriesBurned>
 <GoalType>0</GoalType>
 <GoalCalories>0</GoalCalories>
 <GoalSeconds>0</GoalSeconds>
 <LastPlayedMachineGuid>403d15c592378cca</LastPlayedMachineGuid>
-<LastPlayedDate>2026-05-02</LastPlayedDate>
-<TotalDancePoints>131116</TotalDancePoints>
+<LastPlayedDate>2026-06-12</LastPlayedDate>
+<TotalDancePoints>131551</TotalDancePoints>
 <NumExtraStagesPassed>0</NumExtraStagesPassed>
 <NumExtraStagesFailed>0</NumExtraStagesFailed>
 <NumToasties>0</NumToasties>
-<TotalTapsAndHolds>68438</TotalTapsAndHolds>
-<TotalJumps>4264</TotalJumps>
-<TotalHolds>5077</TotalHolds>
+<TotalTapsAndHolds>68532</TotalTapsAndHolds>
+<TotalJumps>4265</TotalJumps>
+<TotalHolds>5113</TotalHolds>
 <TotalRolls>157</TotalRolls>
 <TotalMines>2</TotalMines>
 <TotalHands>0</TotalHands>
@@ -44,20 +44,20 @@
 </DefaultModifiers>
 <Unlocks/>
 <NumSongsPlayedByPlayMode>
-<Regular>535</Regular>
+<Regular>536</Regular>
 </NumSongsPlayedByPlayMode>
 <NumSongsPlayedByStyle>
-<Style Game='dance' Style='single'>535</Style>
+<Style Game='dance' Style='single'>536</Style>
 </NumSongsPlayedByStyle>
 <NumSongsPlayedByDifficulty>
-<Beginner>193</Beginner>
+<Beginner>194</Beginner>
 <Easy>279</Easy>
 <Medium>59</Medium>
 <Hard>4</Hard>
 </NumSongsPlayedByDifficulty>
 <NumSongsPlayedByMeter>
 <Meter1>122</Meter1>
-<Meter2>82</Meter2>
+<Meter2>83</Meter2>
 <Meter3>153</Meter3>
 <Meter4>75</Meter4>
 <Meter5>68</Meter5>
@@ -65,9 +65,9 @@
 <Meter7>3</Meter7>
 <Meter8>1</Meter8>
 </NumSongsPlayedByMeter>
-<NumTotalSongsPlayed>535</NumTotalSongsPlayed>
+<NumTotalSongsPlayed>536</NumTotalSongsPlayed>
 <NumStagesPassedByPlayMode>
-<Regular>265</Regular>
+<Regular>266</Regular>
 </NumStagesPassedByPlayMode>
 <NumStagesPassedByGrade>
 <Tier10>3</Tier10>
@@ -75,7 +75,7 @@
 <Tier12>19</Tier12>
 <Tier13>34</Tier13>
 <Tier14>30</Tier14>
-<Tier15>41</Tier15>
+<Tier15>42</Tier15>
 <Tier16>32</Tier16>
 <Tier17>99</Tier17>
 </NumStagesPassedByGrade>
@@ -8343,9 +8343,59 @@
 <Song Dir='Songs/DDR Galaxy/Chained to the Rhythm/'>
 <Steps Difficulty='Beginner' StepsType='dance-single'>
 <HighScoreList>
-<NumTimesPlayed>1</NumTimesPlayed>
-<LastPlayed>2026-05-02</LastPlayed>
-<HighGrade>Failed</HighGrade>
+<NumTimesPlayed>3</NumTimesPlayed>
+<LastPlayed>2026-06-12</LastPlayed>
+<HighGrade>Tier15</HighGrade>
+<HighScore>
+<Name>LIZY</Name>
+<Grade>Tier15</Grade>
+<Score>8</Score>
+<PercentDP>0.617000</PercentDP>
+<SurviveSeconds>119.064987</SurviveSeconds>
+<MaxCombo>23</MaxCombo>
+<StageAward></StageAward>
+<PeakComboAward></PeakComboAward>
+<Modifiers>NoHideLights, 1.75x, FailImmediateContinue, Overhead</Modifiers>
+<DateTime>2026-06-12 07:31:10</DateTime>
+<PlayerGuid>2dde4d6e8737681e</PlayerGuid>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<ProductID>1</ProductID>
+<TapNoteScores>
+<HitMine>0</HitMine>
+<AvoidMine>0</AvoidMine>
+<CheckpointMiss>0</CheckpointMiss>
+<Miss>2</Miss>
+<W5>6</W5>
+<W4>6</W4>
+<W3>33</W3>
+<W2>26</W2>
+<W1>29</W1>
+<CheckpointHit>0</CheckpointHit>
+</TapNoteScores>
+<HoldNoteScores>
+<LetGo>3</LetGo>
+<Held>36</Held>
+<MissedHold>0</MissedHold>
+</HoldNoteScores>
+<RadarValues>
+<Stream>0.528846</Stream>
+<Voltage>0.171829</Voltage>
+<Air>0.500000</Air>
+<Freeze>0.923077</Freeze>
+<Chaos>0.617021</Chaos>
+<Notes>95.000000</Notes>
+<TapsAndHolds>94</TapsAndHolds>
+<Jumps>1</Jumps>
+<Holds>36</Holds>
+<Mines>0</Mines>
+<Hands>0</Hands>
+<Rolls>0</Rolls>
+<Lifts>0</Lifts>
+<Fakes>0</Fakes>
+</RadarValues>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<Disqualified>0</Disqualified>
+</HighScore>
 <HighScore>
 <Name>LIZY</Name>
 <Grade>Failed</Grade>
@@ -26205,5 +26255,6 @@
 <CaloriesBurned Date='2026-04-26'>201.742310</CaloriesBurned>
 <CaloriesBurned Date='2026-05-01'>249.395432</CaloriesBurned>
 <CaloriesBurned Date='2026-05-02'>8.118588</CaloriesBurned>
+<CaloriesBurned Date='2026-06-12'>6.676592</CaloriesBurned>
 </CalorieData>
 </Stats>

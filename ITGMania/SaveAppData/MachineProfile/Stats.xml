@@ -18,50 +18,50 @@
 <Song Dir=''/>
 <Course/>
 <CurrentCombo>0</CurrentCombo>
-<TotalSessions>2593</TotalSessions>
-<TotalSessionSeconds>1153307</TotalSessionSeconds>
-<TotalGameplaySeconds>567227</TotalGameplaySeconds>
-<TotalCaloriesBurned>205608.578125</TotalCaloriesBurned>
+<TotalSessions>2596</TotalSessions>
+<TotalSessionSeconds>1153637</TotalSessionSeconds>
+<TotalGameplaySeconds>567468</TotalGameplaySeconds>
+<TotalCaloriesBurned>205649.515625</TotalCaloriesBurned>
 <GoalType>0</GoalType>
 <GoalCalories>0</GoalCalories>
 <GoalSeconds>0</GoalSeconds>
 <LastPlayedMachineGuid>403d15c592378cca</LastPlayedMachineGuid>
-<LastPlayedDate>2026-06-08</LastPlayedDate>
-<TotalDancePoints>8091182</TotalDancePoints>
+<LastPlayedDate>2026-06-12</LastPlayedDate>
+<TotalDancePoints>8092140</TotalDancePoints>
 <NumExtraStagesPassed>0</NumExtraStagesPassed>
 <NumExtraStagesFailed>0</NumExtraStagesFailed>
 <NumToasties>879</NumToasties>
-<TotalTapsAndHolds>1751788</TotalTapsAndHolds>
-<TotalJumps>107459</TotalJumps>
-<TotalHolds>171831</TotalHolds>
-<TotalRolls>7040</TotalRolls>
+<TotalTapsAndHolds>1752282</TotalTapsAndHolds>
+<TotalJumps>107476</TotalJumps>
+<TotalHolds>171940</TotalHolds>
+<TotalRolls>7057</TotalRolls>
 <TotalMines>69768</TotalMines>
 <TotalHands>3408</TotalHands>
 <TotalLifts>0</TotalLifts>
 <DefaultModifiers/>
 <Unlocks/>
 <NumSongsPlayedByPlayMode>
-<Regular>4177</Regular>
+<Regular>4179</Regular>
 </NumSongsPlayedByPlayMode>
 <NumSongsPlayedByStyle>
-<Style Game='dance' Style='single'>2582</Style>
+<Style Game='dance' Style='single'>2584</Style>
 </NumSongsPlayedByStyle>
 <NumSongsPlayedByDifficulty>
-<Beginner>356</Beginner>
+<Beginner>357</Beginner>
 <Easy>685</Easy>
-<Medium>729</Medium>
+<Medium>730</Medium>
 <Hard>1201</Hard>
 <Challenge>1201</Challenge>
 <Edit>5</Edit>
 </NumSongsPlayedByDifficulty>
 <NumSongsPlayedByMeter>
 <Meter1>212</Meter1>
-<Meter2>142</Meter2>
+<Meter2>143</Meter2>
 <Meter3>288</Meter3>
 <Meter4>169</Meter4>
 <Meter5>191</Meter5>
 <Meter6>324</Meter6>
-<Meter7>458</Meter7>
+<Meter7>459</Meter7>
 <Meter8>551</Meter8>
 <Meter9>900</Meter9>
 <Meter10>457</Meter10>
@@ -71,9 +71,9 @@
 <Meter14>22</Meter14>
 <Meter15>1</Meter15>
 </NumSongsPlayedByMeter>
-<NumTotalSongsPlayed>4177</NumTotalSongsPlayed>
+<NumTotalSongsPlayed>4179</NumTotalSongsPlayed>
 <NumStagesPassedByPlayMode>
-<Regular>3433</Regular>
+<Regular>3434</Regular>
 </NumStagesPassedByPlayMode>
 <NumStagesPassedByGrade>
 <Tier01>2</Tier01>
@@ -90,7 +90,7 @@
 <Tier12>270</Tier12>
 <Tier13>198</Tier13>
 <Tier14>120</Tier14>
-<Tier15>108</Tier15>
+<Tier15>109</Tier15>
 <Tier16>75</Tier16>
 <Tier17>207</Tier17>
 </NumStagesPassedByGrade>
@@ -31136,8 +31136,59 @@
 <Song Dir='Songs/DDR Galaxy/Chained to the Rhythm/'>
 <Steps Difficulty='Beginner' StepsType='dance-single'>
 <HighScoreList>
-<NumTimesPlayed>1</NumTimesPlayed>
-<LastPlayed>2026-05-02</LastPlayed>
+<NumTimesPlayed>3</NumTimesPlayed>
+<LastPlayed>2026-06-12</LastPlayed>
+<HighGrade>Tier15</HighGrade>
+<HighScore>
+<Name>LIZY</Name>
+<Grade>Tier15</Grade>
+<Score>8</Score>
+<PercentDP>0.617000</PercentDP>
+<SurviveSeconds>119.064987</SurviveSeconds>
+<MaxCombo>23</MaxCombo>
+<StageAward></StageAward>
+<PeakComboAward></PeakComboAward>
+<Modifiers>NoHideLights, 1.75x, FailImmediateContinue, Overhead</Modifiers>
+<DateTime>2026-06-12 07:31:10</DateTime>
+<PlayerGuid>2dde4d6e8737681e</PlayerGuid>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<ProductID>1</ProductID>
+<TapNoteScores>
+<HitMine>0</HitMine>
+<AvoidMine>0</AvoidMine>
+<CheckpointMiss>0</CheckpointMiss>
+<Miss>2</Miss>
+<W5>6</W5>
+<W4>6</W4>
+<W3>33</W3>
+<W2>26</W2>
+<W1>29</W1>
+<CheckpointHit>0</CheckpointHit>
+</TapNoteScores>
+<HoldNoteScores>
+<LetGo>3</LetGo>
+<Held>36</Held>
+<MissedHold>0</MissedHold>
+</HoldNoteScores>
+<RadarValues>
+<Stream>0.528846</Stream>
+<Voltage>0.171829</Voltage>
+<Air>0.500000</Air>
+<Freeze>0.923077</Freeze>
+<Chaos>0.617021</Chaos>
+<Notes>95.000000</Notes>
+<TapsAndHolds>94</TapsAndHolds>
+<Jumps>1</Jumps>
+<Holds>36</Holds>
+<Mines>0</Mines>
+<Hands>0</Hands>
+<Rolls>0</Rolls>
+<Lifts>0</Lifts>
+<Fakes>0</Fakes>
+</RadarValues>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<Disqualified>0</Disqualified>
+</HighScore>
 </HighScoreList>
 </Steps>
 <Steps Difficulty='Easy' StepsType='dance-single'>
@@ -85932,8 +85983,8 @@
 <Song Dir='Songs/Misc. Collected/Boom Shakalaka/'>
 <Steps Difficulty='Medium' StepsType='dance-single'>
 <HighScoreList>
-<NumTimesPlayed>9</NumTimesPlayed>
-<LastPlayed>2026-06-08</LastPlayed>
+<NumTimesPlayed>10</NumTimesPlayed>
+<LastPlayed>2026-06-12</LastPlayed>
 <HighGrade>Tier12</HighGrade>
 <HighScore>
 <Name>SAM!</Name>
@@ -132695,6 +132746,7 @@
 <CaloriesBurned Date='2026-05-02'>16.129379</CaloriesBurned>
 <CaloriesBurned Date='2026-05-04'>1286.079224</CaloriesBurned>
 <CaloriesBurned Date='2026-06-08'>1497.486206</CaloriesBurned>
+<CaloriesBurned Date='2026-06-12'>40.941486</CaloriesBurned>
 </CalorieData>
 <CoinData>
 <LastDays>
@@ -132723,8 +132775,8 @@
 <Week13Ago>1</Week13Ago>
 <Week14Ago>2</Week14Ago>
 <Week15Ago>0</Week15Ago>
-<Week16Ago>0</Week16Ago>
-<Week17Ago>1</Week17Ago>
+<Week16Ago>1</Week16Ago>
+<Week17Ago>0</Week17Ago>
 <Week18Ago>0</Week18Ago>
 <Week19Ago>0</Week19Ago>
 <Week20Ago>0</Week20Ago>
@@ -132738,8 +132790,8 @@
 <Week28Ago>0</Week28Ago>
 <Week29Ago>0</Week29Ago>
 <Week30Ago>0</Week30Ago>
-<Week31Ago>0</Week31Ago>
-<Week32Ago>1</Week32Ago>
+<Week31Ago>1</Week31Ago>
+<Week32Ago>0</Week32Ago>
 <Week33Ago>0</Week33Ago>
 <Week34Ago>0</Week34Ago>
 <Week35Ago>0</Week35Ago>
@@ -132758,7 +132810,7 @@
 <Week48Ago>0</Week48Ago>
 <Week49Ago>0</Week49Ago>
 <Week50Ago>2</Week50Ago>
-<Week51Ago>0</Week51Ago>
+<Week51Ago>1</Week51Ago>
 </LastWeeks>
 <DayOfWeek>
 <Sunday>6</Sunday>
