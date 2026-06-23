@@ -18,41 +18,41 @@
 <Song Dir=''/>
 <Course/>
 <CurrentCombo>0</CurrentCombo>
-<TotalSessions>2596</TotalSessions>
-<TotalSessionSeconds>1153637</TotalSessionSeconds>
-<TotalGameplaySeconds>567468</TotalGameplaySeconds>
-<TotalCaloriesBurned>205649.515625</TotalCaloriesBurned>
+<TotalSessions>2598</TotalSessions>
+<TotalSessionSeconds>1157726</TotalSessionSeconds>
+<TotalGameplaySeconds>569470</TotalGameplaySeconds>
+<TotalCaloriesBurned>206841.281250</TotalCaloriesBurned>
 <GoalType>0</GoalType>
 <GoalCalories>0</GoalCalories>
 <GoalSeconds>0</GoalSeconds>
 <LastPlayedMachineGuid>403d15c592378cca</LastPlayedMachineGuid>
-<LastPlayedDate>2026-06-12</LastPlayedDate>
-<TotalDancePoints>8092140</TotalDancePoints>
+<LastPlayedDate>2026-06-22</LastPlayedDate>
+<TotalDancePoints>8123022</TotalDancePoints>
 <NumExtraStagesPassed>0</NumExtraStagesPassed>
 <NumExtraStagesFailed>0</NumExtraStagesFailed>
 <NumToasties>879</NumToasties>
-<TotalTapsAndHolds>1752282</TotalTapsAndHolds>
-<TotalJumps>107476</TotalJumps>
-<TotalHolds>171940</TotalHolds>
-<TotalRolls>7057</TotalRolls>
-<TotalMines>69768</TotalMines>
+<TotalTapsAndHolds>1759115</TotalTapsAndHolds>
+<TotalJumps>107861</TotalJumps>
+<TotalHolds>172275</TotalHolds>
+<TotalRolls>7091</TotalRolls>
+<TotalMines>69900</TotalMines>
 <TotalHands>3408</TotalHands>
 <TotalLifts>0</TotalLifts>
 <DefaultModifiers/>
 <Unlocks/>
 <NumSongsPlayedByPlayMode>
-<Regular>4179</Regular>
+<Regular>4195</Regular>
 </NumSongsPlayedByPlayMode>
 <NumSongsPlayedByStyle>
-<Style Game='dance' Style='single'>2584</Style>
+<Style Game='dance' Style='single'>2600</Style>
 </NumSongsPlayedByStyle>
 <NumSongsPlayedByDifficulty>
 <Beginner>357</Beginner>
 <Easy>685</Easy>
 <Medium>730</Medium>
-<Hard>1201</Hard>
-<Challenge>1201</Challenge>
-<Edit>5</Edit>
+<Hard>1210</Hard>
+<Challenge>1207</Challenge>
+<Edit>6</Edit>
 </NumSongsPlayedByDifficulty>
 <NumSongsPlayedByMeter>
 <Meter1>212</Meter1>
@@ -62,36 +62,36 @@
 <Meter5>191</Meter5>
 <Meter6>324</Meter6>
 <Meter7>459</Meter7>
-<Meter8>551</Meter8>
-<Meter9>900</Meter9>
-<Meter10>457</Meter10>
+<Meter8>559</Meter8>
+<Meter9>906</Meter9>
+<Meter10>459</Meter10>
 <Meter11>219</Meter11>
 <Meter12>148</Meter12>
 <Meter13>95</Meter13>
 <Meter14>22</Meter14>
 <Meter15>1</Meter15>
 </NumSongsPlayedByMeter>
-<NumTotalSongsPlayed>4179</NumTotalSongsPlayed>
+<NumTotalSongsPlayed>4195</NumTotalSongsPlayed>
 <NumStagesPassedByPlayMode>
-<Regular>3434</Regular>
+<Regular>3450</Regular>
 </NumStagesPassedByPlayMode>
 <NumStagesPassedByGrade>
 <Tier01>2</Tier01>
 <Tier02>95</Tier02>
 <Tier03>219</Tier03>
 <Tier04>311</Tier04>
-<Tier05>181</Tier05>
-<Tier06>186</Tier06>
-<Tier07>310</Tier07>
-<Tier08>309</Tier08>
-<Tier09>296</Tier09>
+<Tier05>183</Tier05>
+<Tier06>189</Tier06>
+<Tier07>311</Tier07>
+<Tier08>311</Tier08>
+<Tier09>300</Tier09>
 <Tier10>249</Tier10>
-<Tier11>297</Tier11>
-<Tier12>270</Tier12>
+<Tier11>298</Tier11>
+<Tier12>272</Tier12>
 <Tier13>198</Tier13>
 <Tier14>120</Tier14>
 <Tier15>109</Tier15>
-<Tier16>75</Tier16>
+<Tier16>76</Tier16>
 <Tier17>207</Tier17>
 </NumStagesPassedByGrade>
 </GeneralData>
@@ -84090,8 +84090,8 @@
 </Steps>
 <Steps Difficulty='Hard' StepsType='dance-single'>
 <HighScoreList>
-<NumTimesPlayed>3</NumTimesPlayed>
-<LastPlayed>2026-04-27</LastPlayed>
+<NumTimesPlayed>4</NumTimesPlayed>
+<LastPlayed>2026-06-22</LastPlayed>
 <HighGrade>Tier07</HighGrade>
 <HighScore>
 <Name>KYLE</Name>
@@ -84149,20 +84149,20 @@
 <Song Dir='Songs/Misc. Collected/Acceptable in the 80s/'>
 <Steps Difficulty='Hard' StepsType='dance-single'>
 <HighScoreList>
-<NumTimesPlayed>2</NumTimesPlayed>
-<LastPlayed>2025-07-11</LastPlayed>
-<HighGrade>Tier07</HighGrade>
+<NumTimesPlayed>3</NumTimesPlayed>
+<LastPlayed>2026-06-22</LastPlayed>
+<HighGrade>Tier05</HighGrade>
 <HighScore>
 <Name>KYLE</Name>
-<Grade>Tier07</Grade>
-<Score>51</Score>
-<PercentDP>0.916200</PercentDP>
-<SurviveSeconds>100.810013</SurviveSeconds>
+<Grade>Tier05</Grade>
+<Score>49</Score>
+<PercentDP>0.953300</PercentDP>
+<SurviveSeconds>100.791779</SurviveSeconds>
 <MaxCombo>247</MaxCombo>
-<StageAward>FullComboW3</StageAward>
+<StageAward>SingleDigitW3</StageAward>
 <PeakComboAward></PeakComboAward>
-<Modifiers>NoHideLights, C580, 10% Mini, FailImmediateContinue, Overhead, Default</Modifiers>
-<DateTime>2025-07-11 19:17:31</DateTime>
+<Modifiers>NoHideLights, C615, 15% Mini, FailImmediateContinue, Overhead, Default</Modifiers>
+<DateTime>2026-06-22 17:04:30</DateTime>
 <PlayerGuid>4ad3a19834ee56bd</PlayerGuid>
 <MachineGuid>403d15c592378cca</MachineGuid>
 <ProductID>1</ProductID>
@@ -84173,9 +84173,9 @@
 <Miss>0</Miss>
 <W5>0</W5>
 <W4>0</W4>
-<W3>21</W3>
-<W2>43</W2>
-<W1>165</W1>
+<W3>4</W3>
+<W2>47</W2>
+<W1>178</W1>
 <CheckpointHit>0</CheckpointHit>
 </TapNoteScores>
 <HoldNoteScores>
@@ -84184,11 +84184,11 @@
 <MissedHold>0</MissedHold>
 </HoldNoteScores>
 <RadarValues>
-<Stream>0.914980</Stream>
-<Voltage>1.000000</Voltage>
-<Air>0.777778</Air>
+<Stream>0.983806</Stream>
+<Voltage>0.999651</Voltage>
+<Air>1.000000</Air>
 <Freeze>1.000000</Freeze>
-<Chaos>0.916206</Chaos>
+<Chaos>0.953360</Chaos>
 <Notes>247.000000</Notes>
 <TapsAndHolds>229</TapsAndHolds>
 <Jumps>18</Jumps>
@@ -86040,8 +86040,8 @@
 </Steps>
 <Steps Difficulty='Hard' StepsType='dance-single'>
 <HighScoreList>
-<NumTimesPlayed>8</NumTimesPlayed>
-<LastPlayed>2026-03-13</LastPlayed>
+<NumTimesPlayed>9</NumTimesPlayed>
+<LastPlayed>2026-06-22</LastPlayed>
 <HighGrade>Tier07</HighGrade>
 <HighScore>
 <Name>KYLE</Name>
@@ -86394,8 +86394,8 @@
 </Steps>
 <Steps Difficulty='Challenge' StepsType='dance-single'>
 <HighScoreList>
-<NumTimesPlayed>5</NumTimesPlayed>
-<LastPlayed>2026-04-27</LastPlayed>
+<NumTimesPlayed>6</NumTimesPlayed>
+<LastPlayed>2026-06-22</LastPlayed>
 <HighGrade>Tier08</HighGrade>
 <HighScore>
 <Name>KYLE</Name>
@@ -87441,6 +87441,63 @@
 <Mines>0</Mines>
 <Hands>0</Hands>
 <Rolls>0</Rolls>
+<Lifts>0</Lifts>
+<Fakes>0</Fakes>
+</RadarValues>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<Disqualified>0</Disqualified>
+</HighScore>
+</HighScoreList>
+</Steps>
+<Steps Difficulty='Challenge' StepsType='dance-single'>
+<HighScoreList>
+<NumTimesPlayed>1</NumTimesPlayed>
+<LastPlayed>2026-06-22</LastPlayed>
+<HighGrade>Tier11</HighGrade>
+<HighScore>
+<Name>KYLE</Name>
+<Grade>Tier11</Grade>
+<Score>53</Score>
+<PercentDP>0.797100</PercentDP>
+<SurviveSeconds>115.042503</SurviveSeconds>
+<MaxCombo>141</MaxCombo>
+<StageAward></StageAward>
+<PeakComboAward></PeakComboAward>
+<Modifiers>NoHideLights, C615, 15% Mini, FailImmediateContinue, Overhead, Default</Modifiers>
+<DateTime>2026-06-22 17:15:38</DateTime>
+<PlayerGuid>4ad3a19834ee56bd</PlayerGuid>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<ProductID>1</ProductID>
+<TapNoteScores>
+<HitMine>0</HitMine>
+<AvoidMine>0</AvoidMine>
+<CheckpointMiss>0</CheckpointMiss>
+<Miss>2</Miss>
+<W5>1</W5>
+<W4>4</W4>
+<W3>41</W3>
+<W2>90</W2>
+<W1>175</W1>
+<CheckpointHit>0</CheckpointHit>
+</TapNoteScores>
+<HoldNoteScores>
+<LetGo>15</LetGo>
+<Held>20</Held>
+<MissedHold>0</MissedHold>
+</HoldNoteScores>
+<RadarValues>
+<Stream>0.847134</Stream>
+<Voltage>0.570448</Voltage>
+<Air>1.000000</Air>
+<Freeze>1.000000</Freeze>
+<Chaos>0.797126</Chaos>
+<Notes>311.000000</Notes>
+<TapsAndHolds>310</TapsAndHolds>
+<Jumps>1</Jumps>
+<Holds>4</Holds>
+<Mines>0</Mines>
+<Hands>0</Hands>
+<Rolls>16</Rolls>
 <Lifts>0</Lifts>
 <Fakes>0</Fakes>
 </RadarValues>
@@ -89920,8 +89977,59 @@
 </Steps>
 <Steps Difficulty='Challenge' StepsType='dance-single'>
 <HighScoreList>
-<NumTimesPlayed>1</NumTimesPlayed>
-<LastPlayed>2025-04-16</LastPlayed>
+<NumTimesPlayed>3</NumTimesPlayed>
+<LastPlayed>2026-06-22</LastPlayed>
+<HighGrade>Tier09</HighGrade>
+<HighScore>
+<Name>KYLE</Name>
+<Grade>Tier09</Grade>
+<Score>74</Score>
+<PercentDP>0.851400</PercentDP>
+<SurviveSeconds>124.652084</SurviveSeconds>
+<MaxCombo>228</MaxCombo>
+<StageAward></StageAward>
+<PeakComboAward></PeakComboAward>
+<Modifiers>NoHideLights, C615, 15% Mini, FailImmediateContinue, Overhead, Default</Modifiers>
+<DateTime>2026-06-22 17:20:26</DateTime>
+<PlayerGuid>4ad3a19834ee56bd</PlayerGuid>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<ProductID>1</ProductID>
+<TapNoteScores>
+<HitMine>0</HitMine>
+<AvoidMine>0</AvoidMine>
+<CheckpointMiss>0</CheckpointMiss>
+<Miss>0</Miss>
+<W5>3</W5>
+<W4>2</W4>
+<W3>55</W3>
+<W2>144</W2>
+<W1>230</W1>
+<CheckpointHit>0</CheckpointHit>
+</TapNoteScores>
+<HoldNoteScores>
+<LetGo>0</LetGo>
+<Held>40</Held>
+<MissedHold>0</MissedHold>
+</HoldNoteScores>
+<RadarValues>
+<Stream>0.860987</Stream>
+<Voltage>0.524234</Voltage>
+<Air>0.916667</Air>
+<Freeze>1.000000</Freeze>
+<Chaos>0.851477</Chaos>
+<Notes>443.000000</Notes>
+<TapsAndHolds>431</TapsAndHolds>
+<Jumps>12</Jumps>
+<Holds>40</Holds>
+<Mines>0</Mines>
+<Hands>0</Hands>
+<Rolls>0</Rolls>
+<Lifts>0</Lifts>
+<Fakes>0</Fakes>
+</RadarValues>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<Disqualified>0</Disqualified>
+</HighScore>
 </HighScoreList>
 </Steps>
 </Song>
@@ -90279,8 +90387,8 @@
 <Song Dir='Songs/Misc. Collected/Evil Eye/'>
 <Steps Difficulty='Hard' StepsType='dance-single'>
 <HighScoreList>
-<NumTimesPlayed>5</NumTimesPlayed>
-<LastPlayed>2025-11-02</LastPlayed>
+<NumTimesPlayed>6</NumTimesPlayed>
+<LastPlayed>2026-06-22</LastPlayed>
 <HighGrade>Tier04</HighGrade>
 <HighScore>
 <Name>KYLE</Name>
@@ -92580,20 +92688,20 @@
 </Steps>
 <Steps Difficulty='Hard' StepsType='dance-single'>
 <HighScoreList>
-<NumTimesPlayed>12</NumTimesPlayed>
-<LastPlayed>2025-07-13</LastPlayed>
-<HighGrade>Tier07</HighGrade>
+<NumTimesPlayed>13</NumTimesPlayed>
+<LastPlayed>2026-06-22</LastPlayed>
+<HighGrade>Tier06</HighGrade>
 <HighScore>
 <Name>KYLE</Name>
-<Grade>Tier07</Grade>
-<Score>79</Score>
-<PercentDP>0.918200</PercentDP>
-<SurviveSeconds>118.976738</SurviveSeconds>
-<MaxCombo>411</MaxCombo>
-<StageAward>FullComboW3</StageAward>
+<Grade>Tier06</Grade>
+<Score>81</Score>
+<PercentDP>0.920300</PercentDP>
+<SurviveSeconds>118.208199</SurviveSeconds>
+<MaxCombo>312</MaxCombo>
+<StageAward></StageAward>
 <PeakComboAward></PeakComboAward>
-<Modifiers>NoHideLights, C575, 10% Mini, FailImmediateContinue, Overhead, Default</Modifiers>
-<DateTime>2025-07-06 10:27:18</DateTime>
+<Modifiers>NoHideLights, C615, 15% Mini, FailImmediateContinue, Overhead, Default</Modifiers>
+<DateTime>2026-06-22 17:27:20</DateTime>
 <PlayerGuid>4ad3a19834ee56bd</PlayerGuid>
 <MachineGuid>403d15c592378cca</MachineGuid>
 <ProductID>1</ProductID>
@@ -92601,12 +92709,12 @@
 <HitMine>0</HitMine>
 <AvoidMine>0</AvoidMine>
 <CheckpointMiss>0</CheckpointMiss>
-<Miss>0</Miss>
+<Miss>2</Miss>
 <W5>0</W5>
 <W4>0</W4>
-<W3>21</W3>
-<W2>96</W2>
-<W1>257</W1>
+<W3>15</W3>
+<W2>76</W2>
+<W1>281</W1>
 <CheckpointHit>0</CheckpointHit>
 </TapNoteScores>
 <HoldNoteScores>
@@ -92615,13 +92723,13 @@
 <MissedHold>0</MissedHold>
 </HoldNoteScores>
 <RadarValues>
-<Stream>0.946472</Stream>
-<Voltage>0.999359</Voltage>
-<Air>0.891892</Air>
+<Stream>0.958637</Stream>
+<Voltage>0.779651</Voltage>
+<Air>1.000000</Air>
 <Freeze>1.000000</Freeze>
-<Chaos>0.918252</Chaos>
-<Notes>411.000000</Notes>
-<TapsAndHolds>374</TapsAndHolds>
+<Chaos>0.920308</Chaos>
+<Notes>409.000000</Notes>
+<TapsAndHolds>373</TapsAndHolds>
 <Jumps>37</Jumps>
 <Holds>15</Holds>
 <Mines>0</Mines>
@@ -93329,20 +93437,20 @@
 </Steps>
 <Steps Difficulty='Hard' StepsType='dance-single'>
 <HighScoreList>
-<NumTimesPlayed>29</NumTimesPlayed>
-<LastPlayed>2026-04-27</LastPlayed>
+<NumTimesPlayed>30</NumTimesPlayed>
+<LastPlayed>2026-06-22</LastPlayed>
 <HighGrade>Tier06</HighGrade>
 <HighScore>
 <Name>KYLE</Name>
 <Grade>Tier06</Grade>
-<Score>95</Score>
-<PercentDP>0.925000</PercentDP>
-<SurviveSeconds>140.258484</SurviveSeconds>
-<MaxCombo>548</MaxCombo>
-<StageAward>FullComboW3</StageAward>
+<Score>102</Score>
+<PercentDP>0.926900</PercentDP>
+<SurviveSeconds>140.246170</SurviveSeconds>
+<MaxCombo>290</MaxCombo>
+<StageAward></StageAward>
 <PeakComboAward></PeakComboAward>
-<Modifiers>NoHideLights, C575, 10% Mini, FailImmediateContinue, Overhead, Default</Modifiers>
-<DateTime>2025-07-05 13:33:21</DateTime>
+<Modifiers>NoHideLights, C615, 15% Mini, FailImmediateContinue, Overhead, Default</Modifiers>
+<DateTime>2026-06-22 17:34:44</DateTime>
 <PlayerGuid>4ad3a19834ee56bd</PlayerGuid>
 <MachineGuid>403d15c592378cca</MachineGuid>
 <ProductID>1</ProductID>
@@ -93350,12 +93458,12 @@
 <HitMine>0</HitMine>
 <AvoidMine>0</AvoidMine>
 <CheckpointMiss>0</CheckpointMiss>
-<Miss>0</Miss>
+<Miss>1</Miss>
 <W5>0</W5>
 <W4>0</W4>
-<W3>26</W3>
-<W2>128</W2>
-<W1>378</W1>
+<W3>23</W3>
+<W2>115</W2>
+<W1>393</W1>
 <CheckpointHit>0</CheckpointHit>
 </TapNoteScores>
 <HoldNoteScores>
@@ -93364,13 +93472,13 @@
 <MissedHold>0</MissedHold>
 </HoldNoteScores>
 <RadarValues>
-<Stream>0.950730</Stream>
-<Voltage>1.000000</Voltage>
-<Air>0.875000</Air>
+<Stream>0.956204</Stream>
+<Voltage>0.477796</Voltage>
+<Air>1.000000</Air>
 <Freeze>1.000000</Freeze>
-<Chaos>0.925091</Chaos>
-<Notes>548.000000</Notes>
-<TapsAndHolds>532</TapsAndHolds>
+<Chaos>0.926909</Chaos>
+<Notes>547.000000</Notes>
+<TapsAndHolds>531</TapsAndHolds>
 <Jumps>16</Jumps>
 <Holds>18</Holds>
 <Mines>2</Mines>
@@ -93866,8 +93974,8 @@
 </Steps>
 <Steps Difficulty='Hard' StepsType='dance-single'>
 <HighScoreList>
-<NumTimesPlayed>9</NumTimesPlayed>
-<LastPlayed>2026-04-27</LastPlayed>
+<NumTimesPlayed>10</NumTimesPlayed>
+<LastPlayed>2026-06-22</LastPlayed>
 <HighGrade>Tier06</HighGrade>
 <HighScore>
 <Name>KYLE</Name>
@@ -94146,8 +94254,8 @@
 </Steps>
 <Steps Difficulty='Hard' StepsType='dance-single'>
 <HighScoreList>
-<NumTimesPlayed>5</NumTimesPlayed>
-<LastPlayed>2026-02-14</LastPlayed>
+<NumTimesPlayed>6</NumTimesPlayed>
+<LastPlayed>2026-06-22</LastPlayed>
 <HighGrade>Tier13</HighGrade>
 <HighScore>
 <Name>KYLE</Name>
@@ -94510,8 +94618,8 @@
 </Steps>
 <Steps Difficulty='Challenge' StepsType='dance-single'>
 <HighScoreList>
-<NumTimesPlayed>21</NumTimesPlayed>
-<LastPlayed>2026-05-02</LastPlayed>
+<NumTimesPlayed>23</NumTimesPlayed>
+<LastPlayed>2026-06-22</LastPlayed>
 <HighGrade>Tier04</HighGrade>
 <HighScore>
 <Name>KYLE</Name>
@@ -95463,8 +95571,8 @@
 </Steps>
 <Steps Difficulty='Challenge' StepsType='dance-single'>
 <HighScoreList>
-<NumTimesPlayed>18</NumTimesPlayed>
-<LastPlayed>2026-03-11</LastPlayed>
+<NumTimesPlayed>19</NumTimesPlayed>
+<LastPlayed>2026-06-22</LastPlayed>
 <HighGrade>Tier11</HighGrade>
 <HighScore>
 <Name>KYLE</Name>
@@ -99295,20 +99403,20 @@
 <Song Dir='Songs/Misc. Collected/Rolling in the Deep/'>
 <Steps Difficulty='Hard' StepsType='dance-single'>
 <HighScoreList>
-<NumTimesPlayed>1</NumTimesPlayed>
-<LastPlayed>2025-05-26</LastPlayed>
-<HighGrade>Tier11</HighGrade>
+<NumTimesPlayed>2</NumTimesPlayed>
+<LastPlayed>2026-06-22</LastPlayed>
+<HighGrade>Tier09</HighGrade>
 <HighScore>
 <Name>KYLE</Name>
-<Grade>Tier11</Grade>
-<Score>78</Score>
-<PercentDP>0.799500</PercentDP>
-<SurviveSeconds>152.395340</SurviveSeconds>
-<MaxCombo>337</MaxCombo>
+<Grade>Tier09</Grade>
+<Score>83</Score>
+<PercentDP>0.856600</PercentDP>
+<SurviveSeconds>152.372391</SurviveSeconds>
+<MaxCombo>358</MaxCombo>
 <StageAward></StageAward>
 <PeakComboAward></PeakComboAward>
-<Modifiers>NoHideLights, C565, 10% Mini, FailImmediateContinue, Overhead, Default</Modifiers>
-<DateTime>2025-05-26 11:16:08</DateTime>
+<Modifiers>NoHideLights, C615, 15% Mini, FailImmediateContinue, Overhead, Default</Modifiers>
+<DateTime>2026-06-22 17:55:54</DateTime>
 <PlayerGuid>4ad3a19834ee56bd</PlayerGuid>
 <MachineGuid>403d15c592378cca</MachineGuid>
 <ProductID>1</ProductID>
@@ -99317,11 +99425,11 @@
 <AvoidMine>0</AvoidMine>
 <CheckpointMiss>0</CheckpointMiss>
 <Miss>4</Miss>
-<W5>5</W5>
-<W4>10</W4>
-<W3>64</W3>
-<W2>109</W2>
-<W1>279</W1>
+<W5>3</W5>
+<W4>4</W4>
+<W3>46</W3>
+<W2>80</W2>
+<W1>334</W1>
 <CheckpointHit>0</CheckpointHit>
 </TapNoteScores>
 <HoldNoteScores>
@@ -99330,14 +99438,14 @@
 <MissedHold>0</MissedHold>
 </HoldNoteScores>
 <RadarValues>
-<Stream>0.819149</Stream>
-<Voltage>0.657821</Voltage>
-<Air>0.763441</Air>
+<Stream>0.882979</Stream>
+<Voltage>0.688283</Voltage>
+<Air>0.860215</Air>
 <Freeze>1.000000</Freeze>
-<Chaos>0.799577</Chaos>
-<Notes>549.000000</Notes>
+<Chaos>0.856660</Chaos>
+<Notes>554.000000</Notes>
 <TapsAndHolds>464</TapsAndHolds>
-<Jumps>90</Jumps>
+<Jumps>92</Jumps>
 <Holds>2</Holds>
 <Mines>16</Mines>
 <Hands>0</Hands>
@@ -102072,8 +102180,8 @@
 <Song Dir='Songs/Misc. Collected/Take My Breath/'>
 <Steps Difficulty='Hard' StepsType='dance-single'>
 <HighScoreList>
-<NumTimesPlayed>3</NumTimesPlayed>
-<LastPlayed>2025-09-28</LastPlayed>
+<NumTimesPlayed>4</NumTimesPlayed>
+<LastPlayed>2026-06-22</LastPlayed>
 <HighGrade>Tier08</HighGrade>
 <HighScore>
 <Name>KYLE</Name>
@@ -102672,8 +102780,8 @@
 </Steps>
 <Steps Difficulty='Hard' StepsType='dance-single'>
 <HighScoreList>
-<NumTimesPlayed>8</NumTimesPlayed>
-<LastPlayed>2026-04-26</LastPlayed>
+<NumTimesPlayed>9</NumTimesPlayed>
+<LastPlayed>2026-06-22</LastPlayed>
 <HighGrade>Tier06</HighGrade>
 <HighScore>
 <Name>KYLE</Name>
@@ -104534,8 +104642,8 @@
 <Song Dir='Songs/Misc. Collected/Yakko&apos;s World/'>
 <Steps Description='spin' Difficulty='Edit' Hash='0' StepsType='dance-single'>
 <HighScoreList>
-<NumTimesPlayed>9</NumTimesPlayed>
-<LastPlayed>2026-05-04</LastPlayed>
+<NumTimesPlayed>10</NumTimesPlayed>
+<LastPlayed>2026-06-22</LastPlayed>
 <HighGrade>Tier14</HighGrade>
 <HighScore>
 <Name>KYLE</Name>
@@ -123339,8 +123447,8 @@
 <Song Dir='Songs/The Starter Pack of Stamina/Breathe - [Braeden&amp;Tuuc]/'>
 <Steps Difficulty='Challenge' StepsType='dance-single'>
 <HighScoreList>
-<NumTimesPlayed>12</NumTimesPlayed>
-<LastPlayed>2025-12-04</LastPlayed>
+<NumTimesPlayed>14</NumTimesPlayed>
+<LastPlayed>2026-06-22</LastPlayed>
 <HighGrade>Tier04</HighGrade>
 <HighScore>
 <Name>KYLE</Name>
@@ -132747,6 +132855,7 @@
 <CaloriesBurned Date='2026-05-04'>1286.079224</CaloriesBurned>
 <CaloriesBurned Date='2026-06-08'>1497.486206</CaloriesBurned>
 <CaloriesBurned Date='2026-06-12'>40.941486</CaloriesBurned>
+<CaloriesBurned Date='2026-06-22'>1191.751587</CaloriesBurned>
 </CalorieData>
 <CoinData>
 <LastDays>
@@ -132772,13 +132881,13 @@
 <Week10Ago>0</Week10Ago>
 <Week11Ago>0</Week11Ago>
 <Week12Ago>0</Week12Ago>
-<Week13Ago>1</Week13Ago>
-<Week14Ago>2</Week14Ago>
-<Week15Ago>0</Week15Ago>
-<Week16Ago>1</Week16Ago>
+<Week13Ago>0</Week13Ago>
+<Week14Ago>0</Week14Ago>
+<Week15Ago>1</Week15Ago>
+<Week16Ago>2</Week16Ago>
 <Week17Ago>0</Week17Ago>
 <Week18Ago>0</Week18Ago>
-<Week19Ago>0</Week19Ago>
+<Week19Ago>1</Week19Ago>
 <Week20Ago>0</Week20Ago>
 <Week21Ago>0</Week21Ago>
 <Week22Ago>0</Week22Ago>
@@ -132790,27 +132899,27 @@
 <Week28Ago>0</Week28Ago>
 <Week29Ago>0</Week29Ago>
 <Week30Ago>0</Week30Ago>
-<Week31Ago>1</Week31Ago>
+<Week31Ago>0</Week31Ago>
 <Week32Ago>0</Week32Ago>
 <Week33Ago>0</Week33Ago>
-<Week34Ago>0</Week34Ago>
+<Week34Ago>1</Week34Ago>
 <Week35Ago>0</Week35Ago>
-<Week36Ago>1</Week36Ago>
+<Week36Ago>0</Week36Ago>
 <Week37Ago>0</Week37Ago>
-<Week38Ago>0</Week38Ago>
+<Week38Ago>1</Week38Ago>
 <Week39Ago>0</Week39Ago>
 <Week40Ago>0</Week40Ago>
-<Week41Ago>1</Week41Ago>
+<Week41Ago>0</Week41Ago>
 <Week42Ago>0</Week42Ago>
-<Week43Ago>0</Week43Ago>
+<Week43Ago>1</Week43Ago>
 <Week44Ago>0</Week44Ago>
 <Week45Ago>0</Week45Ago>
 <Week46Ago>0</Week46Ago>
-<Week47Ago>1</Week47Ago>
+<Week47Ago>0</Week47Ago>
 <Week48Ago>0</Week48Ago>
-<Week49Ago>0</Week49Ago>
-<Week50Ago>2</Week50Ago>
-<Week51Ago>1</Week51Ago>
+<Week49Ago>1</Week49Ago>
+<Week50Ago>0</Week50Ago>
+<Week51Ago>0</Week51Ago>
 </LastWeeks>
 <DayOfWeek>
 <Sunday>6</Sunday>
