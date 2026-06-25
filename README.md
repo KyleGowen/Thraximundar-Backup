@@ -1,8 +1,8 @@
 ﻿# ITGMania Backup
 
-#### Last backup: Jun 24, 2026 at 2:00 PM
+#### Last backup: Jun 25, 2026 at 3:02 AM
 
-#### Next backup: Jun 25, 2026 at 3:00 AM
+#### Next backup: Jun 26, 2026 at 3:00 AM
 
 ## 30-day digest
 
@@ -2212,51 +2212,4 @@ Time in songs this run: **KYLE** 2m 49s.
 </details>
 
 ## Changes since last backup
-
-### ITGMania/SaveAppData/MachineProfile/Stats.xml
-
-Machine-level profile and stats.
-
-```diff
-diff --git a/ITGMania/SaveAppData/MachineProfile/Stats.xml b/ITGMania/SaveAppData/MachineProfile/Stats.xml
-index 95ce0e4..3b70ab8 100644
---- a/ITGMania/SaveAppData/MachineProfile/Stats.xml
-+++ b/ITGMania/SaveAppData/MachineProfile/Stats.xml
-@@ -18,7 +18,7 @@
- <Song Dir=''/>
- <Course/>
- <CurrentCombo>0</CurrentCombo>
--<TotalSessions>2598</TotalSessions>
-+<TotalSessions>2599</TotalSessions>
- <TotalSessionSeconds>1157726</TotalSessionSeconds>
- <TotalGameplaySeconds>569470</TotalGameplaySeconds>
- <TotalCaloriesBurned>206841.281250</TotalCaloriesBurned>
-@@ -26,7 +26,7 @@
- <GoalCalories>0</GoalCalories>
- <GoalSeconds>0</GoalSeconds>
- <LastPlayedMachineGuid>403d15c592378cca</LastPlayedMachineGuid>
--<LastPlayedDate>2026-06-22</LastPlayedDate>
-+<LastPlayedDate>2026-06-24</LastPlayedDate>
- <TotalDancePoints>8123022</TotalDancePoints>
- <NumExtraStagesPassed>0</NumExtraStagesPassed>
- <NumExtraStagesFailed>0</NumExtraStagesFailed>
-```
-
-### ITGMania/SaveAppData/MachineProfile/Type.ini
-
-Machine-level profile and stats.
-
-```diff
-diff --git a/ITGMania/SaveAppData/MachineProfile/Type.ini b/ITGMania/SaveAppData/MachineProfile/Type.ini
-index 1d0387b..5803407 100644
---- a/ITGMania/SaveAppData/MachineProfile/Type.ini
-+++ b/ITGMania/SaveAppData/MachineProfile/Type.ini
-@@ -1,5 +1,5 @@
- [ListPosition]
--LastPlayedDate=2026-06-22 18:04:45
-+LastPlayedDate=2026-06-24 13:57:34
- Priority=0
- Type=Normal
- 
-```
 
