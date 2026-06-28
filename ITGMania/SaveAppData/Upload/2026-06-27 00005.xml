@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Stats>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<RecentSongScores>
+<HighScoreForASongAndSteps>
+<Song Dir='Songs/DDR Xxtreme/E.T/'/>
+<Steps Difficulty='Medium' StepsType='dance-single'/>
+<HighScore>
+<Name></Name>
+<Grade>Tier06</Grade>
+<Score>63</Score>
+<PercentDP>0.931000</PercentDP>
+<SurviveSeconds>127.393303</SurviveSeconds>
+<MaxCombo>177</MaxCombo>
+<StageAward></StageAward>
+<PeakComboAward></PeakComboAward>
+<Modifiers>NoHideLights, C615, 15% Mini, FailImmediateContinue, Overhead, Default</Modifiers>
+<DateTime>2026-06-27 13:33:25</DateTime>
+<PlayerGuid>4ad3a19834ee56bd</PlayerGuid>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<ProductID>1</ProductID>
+<TapNoteScores>
+<HitMine>0</HitMine>
+<AvoidMine>0</AvoidMine>
+<CheckpointMiss>0</CheckpointMiss>
+<Miss>1</Miss>
+<W5>1</W5>
+<W4>1</W4>
+<W3>8</W3>
+<W2>62</W2>
+<W1>231</W1>
+<CheckpointHit>0</CheckpointHit>
+</TapNoteScores>
+<HoldNoteScores>
+<LetGo>2</LetGo>
+<Held>68</Held>
+<MissedHold>0</MissedHold>
+</HoldNoteScores>
+<RadarValues>
+<Stream>0.955882</Stream>
+<Voltage>0.458690</Voltage>
+<Air>1.000000</Air>
+<Freeze>0.971429</Freeze>
+<Chaos>0.931016</Chaos>
+<Notes>337.000000</Notes>
+<TapsAndHolds>302</TapsAndHolds>
+<Jumps>36</Jumps>
+<Holds>68</Holds>
+<Mines>0</Mines>
+<Hands>0</Hands>
+<Rolls>0</Rolls>
+<Lifts>0</Lifts>
+<Fakes>0</Fakes>
+</RadarValues>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<Disqualified>0</Disqualified>
+<Pad>33</Pad>
+<StageGuid>40449938-3db5-47ad-aa6b-4cb43de4bee6</StageGuid>
+<Guid>313f9fe1-306d-4ad7-a65c-0b1a415c151e</Guid>
+</HighScore>
+</HighScoreForASongAndSteps>
+</RecentSongScores>
+</Stats>

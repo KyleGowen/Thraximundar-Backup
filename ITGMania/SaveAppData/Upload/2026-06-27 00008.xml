@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Stats>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<RecentSongScores>
+<HighScoreForASongAndSteps>
+<Song Dir='Songs/JBEAN Originals - 2020/Harleys In Hawaii/'/>
+<Steps Difficulty='Challenge' StepsType='dance-single'/>
+<HighScore>
+<Name></Name>
+<Grade>Tier09</Grade>
+<Score>88</Score>
+<PercentDP>0.838300</PercentDP>
+<SurviveSeconds>124.011978</SurviveSeconds>
+<MaxCombo>158</MaxCombo>
+<StageAward></StageAward>
+<PeakComboAward></PeakComboAward>
+<Modifiers>NoHideLights, C615, 15% Mini, FailImmediateContinue, Overhead, Default</Modifiers>
+<DateTime>2026-06-27 13:43:00</DateTime>
+<PlayerGuid>4ad3a19834ee56bd</PlayerGuid>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<ProductID>1</ProductID>
+<TapNoteScores>
+<HitMine>0</HitMine>
+<AvoidMine>0</AvoidMine>
+<CheckpointMiss>0</CheckpointMiss>
+<Miss>6</Miss>
+<W5>1</W5>
+<W4>2</W4>
+<W3>62</W3>
+<W2>133</W2>
+<W1>327</W1>
+<CheckpointHit>0</CheckpointHit>
+</TapNoteScores>
+<HoldNoteScores>
+<LetGo>0</LetGo>
+<Held>16</Held>
+<MissedHold>0</MissedHold>
+</HoldNoteScores>
+<RadarValues>
+<Stream>0.866545</Stream>
+<Voltage>0.309847</Voltage>
+<Air>0.875000</Air>
+<Freeze>1.000000</Freeze>
+<Chaos>0.838391</Chaos>
+<Notes>539.000000</Notes>
+<TapsAndHolds>524</TapsAndHolds>
+<Jumps>15</Jumps>
+<Holds>16</Holds>
+<Mines>0</Mines>
+<Hands>0</Hands>
+<Rolls>0</Rolls>
+<Lifts>0</Lifts>
+<Fakes>0</Fakes>
+</RadarValues>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<Disqualified>0</Disqualified>
+<Pad>33</Pad>
+<StageGuid>693c8022-9f18-4695-a658-b829cffd3f1d</StageGuid>
+<Guid>ae7d5582-49c6-413c-a6ec-c5cc8b4b3f49</Guid>
+</HighScore>
+</HighScoreForASongAndSteps>
+</RecentSongScores>
+</Stats>

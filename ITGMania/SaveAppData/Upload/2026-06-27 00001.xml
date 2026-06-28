@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Stats>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<RecentSongScores>
+<HighScoreForASongAndSteps>
+<Song Dir='Songs/80s Greatest Hits Volume 1/Maneater/'/>
+<Steps Difficulty='Hard' StepsType='dance-single'/>
+<HighScore>
+<Name></Name>
+<Grade>Tier08</Grade>
+<Score>80</Score>
+<PercentDP>0.887200</PercentDP>
+<SurviveSeconds>138.062943</SurviveSeconds>
+<MaxCombo>334</MaxCombo>
+<StageAward></StageAward>
+<PeakComboAward></PeakComboAward>
+<Modifiers>NoHideLights, C615, 15% Mini, FailImmediateContinue, Overhead, Default</Modifiers>
+<DateTime>2026-06-27 13:19:16</DateTime>
+<PlayerGuid>4ad3a19834ee56bd</PlayerGuid>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<ProductID>1</ProductID>
+<TapNoteScores>
+<HitMine>0</HitMine>
+<AvoidMine>0</AvoidMine>
+<CheckpointMiss>0</CheckpointMiss>
+<Miss>3</Miss>
+<W5>0</W5>
+<W4>0</W4>
+<W3>42</W3>
+<W2>119</W2>
+<W1>319</W1>
+<CheckpointHit>0</CheckpointHit>
+</TapNoteScores>
+<HoldNoteScores>
+<LetGo>0</LetGo>
+<Held>42</Held>
+<MissedHold>0</MissedHold>
+</HoldNoteScores>
+<RadarValues>
+<Stream>0.908752</Stream>
+<Voltage>0.621834</Voltage>
+<Air>0.925926</Air>
+<Freeze>1.000000</Freeze>
+<Chaos>0.887238</Chaos>
+<Notes>533.000000</Notes>
+<TapsAndHolds>481</TapsAndHolds>
+<Jumps>54</Jumps>
+<Holds>42</Holds>
+<Mines>0</Mines>
+<Hands>0</Hands>
+<Rolls>0</Rolls>
+<Lifts>0</Lifts>
+<Fakes>0</Fakes>
+</RadarValues>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<Disqualified>0</Disqualified>
+<Pad>33</Pad>
+<StageGuid>dfad44ec-d576-405f-a83a-99e277f052e0</StageGuid>
+<Guid>ecd6f516-44da-453b-a40a-31ca2d458dad</Guid>
+</HighScore>
+</HighScoreForASongAndSteps>
+</RecentSongScores>
+</Stats>

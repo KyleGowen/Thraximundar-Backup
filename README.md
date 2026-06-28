@@ -1,14 +1,19 @@
 ﻿# ITGMania Backup
 
-#### Last backup: Jun 27, 2026 at 3:02 AM
+#### Last backup: Jun 28, 2026 at 3:02 AM
 
-#### Next backup: Jun 28, 2026 at 3:00 AM
+#### Next backup: Jun 29, 2026 at 3:00 AM
 
 ## 30-day digest
 
 ### 30-day play time (in songs)
 
-- **KYLE** 4h 46m 31s
+- **KYLE** 5h 5m 5s
+
+| 8 | 9 | 10 | Total |
+| --- | --- | --- | --- |
+| 1 | 3 | 2 | 6 |
+
 - **LIZY** 2h 20m 55s
 - **Player** 2m 2s
 - **SAM!** 1h 23m 24s
@@ -17,6 +22,17 @@
 | --- | --- |
 | 2 | 2 |
 
+
+#### Jun 28, 2026 at 3:02 AM
+
+Time in songs this run: **KYLE** 18m 34s.
+
+- **KYLE** set a new score for **Chained to the Rhythm** (DDR Galaxy) - Challenge (9), dance-single - 94.47% DP on 2026-06-27.
+- **KYLE** set a new score for **Firework** (DDR Massive Mania) - Medium (8), dance-single - 95.21% DP on 2026-06-27.
+- **KYLE** set a new score for **Firework** (DDR Massive Mania) - Hard (10), dance-single - 91.32% DP on 2026-06-27.
+- **KYLE** set a new score for **E.T** (DDR Xxtreme) - Medium (9), dance-single - 93.10% DP on 2026-06-27.
+- **KYLE** set a new score for **Bon Appetit (Feat. Migos)** (JBEAN Originals - 2019) - Challenge (10), dance-single - 85.28% DP on 2026-06-27.
+- **KYLE** set a new score for **Harleys In Hawaii** (JBEAN Originals - 2020) - Challenge (9), dance-single - 83.83% DP on 2026-06-27.
 
 #### Jun 23, 2026 at 3:01 AM
 
@@ -2212,4 +2228,2285 @@ Time in songs this run: **KYLE** 2m 49s.
 </details>
 
 ## Changes since last backup
+
+### ITGMania/SaveAppData/LocalProfiles/00000002/Stats.xml
+
+Per-profile stats and score history.
+
+```diff
+diff --git a/ITGMania/SaveAppData/LocalProfiles/00000002/Stats.xml b/ITGMania/SaveAppData/LocalProfiles/00000002/Stats.xml
+index 94cc0ae..03d17b7 100644
+--- a/ITGMania/SaveAppData/LocalProfiles/00000002/Stats.xml
++++ b/ITGMania/SaveAppData/LocalProfiles/00000002/Stats.xml
+@@ -12,31 +12,31 @@
+ <IsMale>1</IsMale>
+ <IsMachine>0</IsMachine>
+ <Guid>4ad3a19834ee56bd</Guid>
+-<SortOrder>Group</SortOrder>
++<SortOrder>Artist</SortOrder>
+ <LastDifficulty>Challenge</LastDifficulty>
+ <LastCourseDifficulty>Medium</LastCourseDifficulty>
+ <LastStepsType>dance-single</LastStepsType>
+-<Song Dir='Songs/Misc. Collected/Yakko&apos;s World/'/>
++<Song Dir='Songs/JBEAN Originals - 2018/Swish Swish/'/>
+ <Course FullTitle='Ben Speirs&apos; SPEIRMIX 2+3 [DDR Rating] Random'/>
+-<CurrentCombo>4</CurrentCombo>
++<CurrentCombo>62</CurrentCombo>
+ <TotalSessions>0</TotalSessions>
+-<TotalSessionSeconds>321208</TotalSessionSeconds>
+-<TotalGameplaySeconds>189876</TotalGameplaySeconds>
+-<TotalCaloriesBurned>105976.601562</TotalCaloriesBurned>
++<TotalSessionSeconds>323004</TotalSessionSeconds>
++<TotalGameplaySeconds>190990</TotalGameplaySeconds>
++<TotalCaloriesBurned>106577.156250</TotalCaloriesBurned>
+ <GoalType>0</GoalType>
+ <GoalCalories>0</GoalCalories>
+ <GoalSeconds>0</GoalSeconds>
+ <LastPlayedMachineGuid>403d15c592378cca</LastPlayedMachineGuid>
+-<LastPlayedDate>2026-06-22</LastPlayedDate>
+-<TotalDancePoints>2893152</TotalDancePoints>
++<LastPlayedDate>2026-06-27</LastPlayedDate>
++<TotalDancePoints>2910586</TotalDancePoints>
+ <NumExtraStagesPassed>0</NumExtraStagesPassed>
+ <NumExtraStagesFailed>0</NumExtraStagesFailed>
+ <NumToasties>16</NumToasties>
+-<TotalTapsAndHolds>635093</TotalTapsAndHolds>
+-<TotalJumps>31038</TotalJumps>
+-<TotalHolds>58163</TotalHolds>
++<TotalTapsAndHolds>638664</TotalTapsAndHolds>
++<TotalJumps>31250</TotalJumps>
++<TotalHolds>58448</TotalHolds>
+ <TotalRolls>2605</TotalRolls>
+-<TotalMines>8337</TotalMines>
++<TotalMines>8339</TotalMines>
+ <TotalHands>446</TotalHands>
+ <TotalLifts>0</TotalLifts>
+ <DefaultModifiers>
+@@ -44,18 +44,18 @@
+ </DefaultModifiers>
+ <Unlocks/>
+ <NumSongsPlayedByPlayMode>
+-<Regular>1405</Regular>
++<Regular>1414</Regular>
+ </NumSongsPlayedByPlayMode>
+ <NumSongsPlayedByStyle>
+-<Style Game='dance' Style='single'>1385</Style>
++<Style Game='dance' Style='single'>1394</Style>
+ <Style Game='dance' Style='versus'>20</Style>
+ </NumSongsPlayedByStyle>
+ <NumSongsPlayedByDifficulty>
+ <Beginner>30</Beginner>
+ <Easy>94</Easy>
+-<Medium>182</Medium>
+-<Hard>704</Hard>
+-<Challenge>389</Challenge>
++<Medium>184</Medium>
++<Hard>708</Hard>
++<Challenge>392</Challenge>
+ <Edit>6</Edit>
+ </NumSongsPlayedByDifficulty>
+ <NumSongsPlayedByMeter>
+@@ -65,26 +65,26 @@
+ <Meter4>6</Meter4>
+ <Meter5>8</Meter5>
+ <Meter6>23</Meter6>
+-<Meter7>135</Meter7>
+-<Meter8>424</Meter8>
+-<Meter9>542</Meter9>
+-<Meter10>180</Meter10>
++<Meter7>136</Meter7>
++<Meter8>426</Meter8>
++<Meter9>546</Meter9>
++<Meter10>182</Meter10>
+ <Meter11>28</Meter11>
+ <Meter12>15</Meter12>
+ <Meter13>10</Meter13>
+ <Meter14>3</Meter14>
+ </NumSongsPlayedByMeter>
+-<NumTotalSongsPlayed>1405</NumTotalSongsPlayed>
++<NumTotalSongsPlayed>1414</NumTotalSongsPlayed>
+ <NumStagesPassedByPlayMode>
+-<Regular>1275</Regular>
++<Regular>1284</Regular>
+ </NumStagesPassedByPlayMode>
+ <NumStagesPassedByGrade>
+ <Tier04>9</Tier04>
+-<Tier05>39</Tier05>
+-<Tier06>91</Tier06>
+-<Tier07>204</Tier07>
+-<Tier08>201</Tier08>
+-<Tier09>185</Tier09>
++<Tier05>42</Tier05>
++<Tier06>92</Tier06>
++<Tier07>206</Tier07>
++<Tier08>202</Tier08>
++<Tier09>187</Tier09>
+ <Tier10>141</Tier10>
+ <Tier11>149</Tier11>
+ <Tier12>113</Tier12>
+@@ -1882,8 +1882,8 @@
+ <Song Dir='Songs/80s Greatest Hits Volume 1/It&apos;s Tricky/'>
+ <Steps Difficulty='Hard' StepsType='dance-single'>
+ <HighScoreList>
+-<NumTimesPlayed>6</NumTimesPlayed>
+-<LastPlayed>2026-04-26</LastPlayed>
++<NumTimesPlayed>7</NumTimesPlayed>
++<LastPlayed>2026-06-27</LastPlayed>
+ <HighGrade>Tier07</HighGrade>
+ <HighScore>
+ <Name>KYLE</Name>
+@@ -1937,15 +1937,15 @@
+ </HighScore>
+ <HighScore>
+ <Name>KYLE</Name>
+-<Grade>Tier08</Grade>
+-<Score>97</Score>
+-<PercentDP>0.881000</PercentDP>
+-<SurviveSeconds>148.568253</SurviveSeconds>
+-<MaxCombo>280</MaxCombo>
++<Grade>Tier07</Grade>
++<Score>100</Score>
++<PercentDP>0.896000</PercentDP>
++<SurviveSeconds>148.523636</SurviveSeconds>
++<MaxCombo>154</MaxCombo>
+ <StageAward></StageAward>
+ <PeakComboAward></PeakComboAward>
+-<Modifiers>NoHideLights, C600, 15% Mini, FailImmediateContinue, Overhead, Default</Modifiers>
+-<DateTime>2026-04-26 12:08:36</DateTime>
++<Modifiers>NoHideLights, C615, 15% Mini, FailImmediateContinue, Overhead, Default</Modifiers>
++<DateTime>2026-06-27 13:16:03</DateTime>
+ <PlayerGuid>4ad3a19834ee56bd</PlayerGuid>
+ <MachineGuid>403d15c592378cca</MachineGuid>
+ <ProductID>1</ProductID>
+@@ -1953,12 +1953,12 @@
+ <HitMine>0</HitMine>
+ <AvoidMine>0</AvoidMine>
+ <CheckpointMiss>0</CheckpointMiss>
+-<Miss>1</Miss>
++<Miss>3</Miss>
+ <W5>0</W5>
+-<W4>5</W4>
+-<W3>49</W3>
+-<W2>153</W2>
+-<W1>351</W1>
++<W4>4</W4>
++<W3>35</W3>
++<W2>123</W2>
++<W1>394</W1>
+ <CheckpointHit>0</CheckpointHit>
+ </TapNoteScores>
+ <HoldNoteScores>
+@@ -1967,13 +1967,13 @@
+ <MissedHold>0</MissedHold>
+ </HoldNoteScores>
+ <RadarValues>
+-<Stream>0.901926</Stream>
+-<Voltage>0.501656</Voltage>
++<Stream>0.926445</Stream>
++<Voltage>0.275944</Voltage>
+ <Air>1.000000</Air>
+ <Freeze>1.000000</Freeze>
+-<Chaos>0.881043</Chaos>
+-<Notes>569.000000</Notes>
+-<TapsAndHolds>558</TapsAndHolds>
++<Chaos>0.896000</Chaos>
++<Notes>568.000000</Notes>
++<TapsAndHolds>556</TapsAndHolds>
+ <Jumps>12</Jumps>
+ <Holds>16</Holds>
+ <Mines>0</Mines>
+@@ -1988,14 +1988,14 @@
+ <HighScore>
+ <Name>KYLE</Name>
+ <Grade>Tier08</Grade>
+-<Score>105</Score>
+-<PercentDP>0.870200</PercentDP>
+-<SurviveSeconds>148.463440</SurviveSeconds>
+-<MaxCombo>169</MaxCombo>
++<Score>97</Score>
++<PercentDP>0.881000</PercentDP>
++<SurviveSeconds>148.568253</SurviveSeconds>
++<MaxCombo>280</MaxCombo>
+ <StageAward></StageAward>
+ <PeakComboAward></PeakComboAward>
+-<Modifiers>NoHideLights, C585, 10% Mini, FailImmediateContinue, Overhead, Default</Modifiers>
+-<DateTime>2025-11-01 10:44:34</DateTime>
++<Modifiers>NoHideLights, C600, 15% Mini, FailImmediateContinue, Overhead, Default</Modifiers>
++<DateTime>2026-04-26 12:08:36</DateTime>
+ <PlayerGuid>4ad3a19834ee56bd</PlayerGuid>
+ <MachineGuid>403d15c592378cca</MachineGuid>
+ <ProductID>1</ProductID>
+@@ -2003,12 +2003,12 @@
+ <HitMine>0</HitMine>
+ <AvoidMine>0</AvoidMine>
+ <CheckpointMiss>0</CheckpointMiss>
+-<Miss>5</Miss>
+-<W5>1</W5>
+-<W4>3</W4>
+-<W3>52</W3>
+-<W2>106</W2>
+-<W1>392</W1>
++<Miss>1</Miss>
++<W5>0</W5>
++<W4>5</W4>
++<W3>49</W3>
++<W2>153</W2>
++<W1>351</W1>
+ <CheckpointHit>0</CheckpointHit>
+ </TapNoteScores>
+ <HoldNoteScores>
+@@ -2017,13 +2017,13 @@
+ <MissedHold>0</MissedHold>
+ </HoldNoteScores>
+ <RadarValues>
+-<Stream>0.889667</Stream>
+-<Voltage>0.287354</Voltage>
+-<Air>0.916667</Air>
++<Stream>0.901926</Stream>
++<Voltage>0.501656</Voltage>
++<Air>1.000000</Air>
+ <Freeze>1.000000</Freeze>
+-<Chaos>0.870261</Chaos>
+-<Notes>565.000000</Notes>
+-<TapsAndHolds>553</TapsAndHolds>
++<Chaos>0.881043</Chaos>
++<Notes>569.000000</Notes>
++<TapsAndHolds>558</TapsAndHolds>
+ <Jumps>12</Jumps>
+ <Holds>16</Holds>
+ <Mines>0</Mines>
+@@ -2527,12 +2527,62 @@
+ <Song Dir='Songs/80s Greatest Hits Volume 1/Maneater/'>
+ <Steps Difficulty='Hard' StepsType='dance-single'>
+ <HighScoreList>
+-<NumTimesPlayed>7</NumTimesPlayed>
+-<LastPlayed>2026-03-11</LastPlayed>
++<NumTimesPlayed>8</NumTimesPlayed>
++<LastPlayed>2026-06-27</LastPlayed>
+ <HighGrade>Tier08</HighGrade>
+ <HighScore>
+ <Name>KYLE</Name>
+ <Grade>Tier08</Grade>
++<Score>80</Score>
++<PercentDP>0.887200</PercentDP>
++<SurviveSeconds>138.062943</SurviveSeconds>
++<MaxCombo>334</MaxCombo>
++<StageAward></StageAward>
++<PeakComboAward></PeakComboAward>
++<Modifiers>NoHideLights, C615, 15% Mini, FailImmediateContinue, Overhead, Default</Modifiers>
++<DateTime>2026-06-27 13:19:16</DateTime>
++<PlayerGuid>4ad3a19834ee56bd</PlayerGuid>
++<MachineGuid>403d15c592378cca</MachineGuid>
++<ProductID>1</ProductID>
++<TapNoteScores>
++<HitMine>0</HitMine>
++<AvoidMine>0</AvoidMine>
++<CheckpointMiss>0</CheckpointMiss>
++<Miss>3</Miss>
++<W5>0</W5>
++<W4>0</W4>
++<W3>42</W3>
++<W2>119</W2>
++<W1>319</W1>
++<CheckpointHit>0</CheckpointHit>
++</TapNoteScores>
++<HoldNoteScores>
++<LetGo>0</LetGo>
++<Held>42</Held>
++<MissedHold>0</MissedHold>
++</HoldNoteScores>
++<RadarValues>
++<Stream>0.908752</Stream>
++<Voltage>0.621834</Voltage>
++<Air>0.925926</Air>
++<Freeze>1.000000</Freeze>
++<Chaos>0.887238</Chaos>
++<Notes>533.000000</Notes>
++<TapsAndHolds>481</TapsAndHolds>
++<Jumps>54</Jumps>
++<Holds>42</Holds>
++<Mines>0</Mines>
++<Hands>0</Hands>
++<Rolls>0</Rolls>
++<Lifts>0</Lifts>
++<Fakes>0</Fakes>
++</RadarValues>
++<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
++<Disqualified>0</Disqualified>
++</HighScore>
++<HighScore>
++<Name>KYLE</Name>
++<Grade>Tier08</Grade>
+ <Score>96</Score>
+ <PercentDP>0.880700</PercentDP>
+ <SurviveSeconds>138.124359</SurviveSeconds>
+@@ -2630,56 +2680,6 @@
+ <LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+ <Disqualified>0</Disqualified>
+ </HighScore>
+-<HighScore>
+-<Name>KYLE</Name>
+-<Grade>Tier09</Grade>
+-<Score>90</Score>
+-<PercentDP>0.859000</PercentDP>
+-<SurviveSeconds>138.056519</SurviveSeconds>
+-<MaxCombo>171</MaxCombo>
+-<StageAward></StageAward>
+-<PeakComboAward></PeakComboAward>
+-<Modifiers>NoHideLights, C580, 10% Mini, FailImmediateContinue, Overhead, Default</Modifiers>
+-<DateTime>2025-08-22 13:06:28</DateTime>
+-<PlayerGuid>4ad3a19834ee56bd</PlayerGuid>
+-<MachineGuid>403d15c592378cca</MachineGuid>
+-<ProductID>1</ProductID>
+-<TapNoteScores>
+-<HitMine>0</HitMine>
+-<AvoidMine>0</AvoidMine>
+-<CheckpointMiss>0</CheckpointMiss>
+-<Miss>6</Miss>
+-<W5>0</W5>
+-<W4>6</W4>
+-<W3>46</W3>
+-<W2>100</W2>
+-<W1>325</W1>
+-<CheckpointHit>0</CheckpointHit>
+-</TapNoteScores>
+-<HoldNoteScores>
+-<LetGo>0</LetGo>
+-<Held>42</Held>
+-<MissedHold>0</MissedHold>
+-</HoldNoteScores>
+-<RadarValues>
+-<Stream>0.884544</Stream>
+-<Voltage>0.331678</Voltage>
+-<Air>0.870370</Air>
+-<Freeze>1.000000</Freeze>
+-<Chaos>0.859048</Chaos>
+-<Notes>531.000000</Notes>
+-<TapsAndHolds>478</TapsAndHolds>
+-<Jumps>53</Jumps>
+-<Holds>42</Holds>
+-<Mines>0</Mines>
+-<Hands>0</Hands>
+-<Rolls>0</Rolls>
+-<Lifts>0</Lifts>
+-<Fakes>0</Fakes>
+-</RadarValues>
+-<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+-<Disqualified>0</Disqualified>
+-</HighScore>
+ </HighScoreList>
+ </Steps>
+ </Song>
+@@ -4063,9 +4063,59 @@
+ <Song Dir='Songs/80s Greatest Hits Volume 1/Word Up/'>
+ <Steps Difficulty='Hard' StepsType='dance-single'>
+ <HighScoreList>
+-<NumTimesPlayed>3</NumTimesPlayed>
+-<LastPlayed>2026-04-26</LastPlayed>
+-<HighGrade>Tier06</HighGrade>
++<NumTimesPlayed>4</NumTimesPlayed>
++<LastPlayed>2026-06-27</LastPlayed>
++<HighGrade>Tier05</HighGrade>
++<HighScore>
++<Name>KYLE</Name>
++<Grade>Tier05</Grade>
++<Score>57</Score>
++<PercentDP>0.940900</PercentDP>
++<SurviveSeconds>118.463867</SurviveSeconds>
++<MaxCombo>190</MaxCombo>
++<StageAward></StageAward>
++<PeakComboAward></PeakComboAward>
++<Modifiers>NoHideLights, C615, 15% Mini, FailImmediateContinue, Overhead, Default</Modifiers>
++<DateTime>2026-06-27 13:22:16</DateTime>
++<PlayerGuid>4ad3a19834ee56bd</PlayerGuid>
++<MachineGuid>403d15c592378cca</MachineGuid>
++<ProductID>1</ProductID>
++<TapNoteScores>
++<HitMine>0</HitMine>
++<AvoidMine>0</AvoidMine>
++<CheckpointMiss>0</CheckpointMiss>
++<Miss>0</Miss>
++<W5>1</W5>
++<W4>1</W4>
++<W3>11</W3>
++<W2>64</W2>
++<W1>244</W1>
++<CheckpointHit>0</CheckpointHit>
++</TapNoteScores>
++<HoldNoteScores>
++<LetGo>0</LetGo>
++<Held>62</Held>
++<MissedHold>0</MissedHold>
++</HoldNoteScores>
++<RadarValues>
++<Stream>0.961424</Stream>
++<Voltage>0.572185</Voltage>
++<Air>0.875000</Air>
++<Freeze>1.000000</Freeze>
++<Chaos>0.940992</Chaos>
++<Notes>336.000000</Notes>
++<TapsAndHolds>320</TapsAndHolds>
++<Jumps>16</Jumps>
++<Holds>62</Holds>
++<Mines>0</Mines>
++<Hands>0</Hands>
++<Rolls>0</Rolls>
++<Lifts>0</Lifts>
++<Fakes>0</Fakes>
++</RadarValues>
++<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
++<Disqualified>0</Disqualified>
++</HighScore>
+ <HighScore>
+ <Name>KYLE</Name>
+ <Grade>Tier06</Grade>
+@@ -7489,6 +7539,14 @@
+ </HighScoreList>
+ </Steps>
+ </Song>
++<Song Dir='Songs/Anthem Series - NOW That&apos;s What I Call Stamina/Hot N Cold - stam/'>
++<Steps Difficulty='Challenge' StepsType='dance-single'>
++<HighScoreList>
++<NumTimesPlayed>1</NumTimesPlayed>
++<LastPlayed>2026-06-27</LastPlayed>
++</HighScoreList>
++</Steps>
++</Song>
+ <Song Dir='Songs/Anthem Series - NOW That&apos;s What I Call Stamina/Just a Girl - stam/'>
+ <Steps Difficulty='Challenge' StepsType='dance-single'>
+ <HighScoreList>
+@@ -17578,6 +17636,65 @@
+ </HighScoreList>
+ </Steps>
+ </Song>
++<Song Dir='Songs/DDR Galaxy/Chained to the Rhythm/'>
++<Steps Difficulty='Challenge' StepsType='dance-single'>
++<HighScoreList>
++<NumTimesPlayed>1</NumTimesPlayed>
++<LastPlayed>2026-06-27</LastPlayed>
++<HighGrade>Tier05</HighGrade>
++<HighScore>
++<Name>KYLE</Name>
++<Grade>Tier05</Grade>
++<Score>74</Score>
++<PercentDP>0.944700</PercentDP>
++<SurviveSeconds>119.060692</SurviveSeconds>
++<MaxCombo>352</MaxCombo>
++<StageAward>FullComboW3</StageAward>
++<PeakComboAward></PeakComboAward>
++<Modifiers>NoHideLights, C615, 15% Mini, FailImmediateContinue, Overhead, Default</Modifiers>
++<DateTime>2026-06-27 13:30:25</DateTime>
++<PlayerGuid>4ad3a19834ee56bd</PlayerGuid>
++<MachineGuid>403d15c592378cca</MachineGuid>
++<ProductID>1</ProductID>
++<TapNoteScores>
++<HitMine>0</HitMine>
++<AvoidMine>0</AvoidMine>
++<CheckpointMiss>0</CheckpointMiss>
++<Miss>0</Miss>
++<W5>0</W5>
++<W4>0</W4>
++<W3>15</W3>
++<W2>61</W2>
++<W1>256</W1>
++<CheckpointHit>0</CheckpointHit>
++</TapNoteScores>
++<HoldNoteScores>
++<LetGo>0</LetGo>
++<Held>52</Held>
++<MissedHold>0</MissedHold>
++</HoldNoteScores>
++<RadarValues>
++<Stream>0.946023</Stream>
++<Voltage>0.999561</Voltage>
++<Air>0.900000</Air>
++<Freeze>1.000000</Freeze>
++<Chaos>0.944792</Chaos>
++<Notes>350.000000</Notes>
++<TapsAndHolds>332</TapsAndHolds>
++<Jumps>20</Jumps>
++<Holds>52</Holds>
++<Mines>0</Mines>
++<Hands>0</Hands>
++<Rolls>0</Rolls>
++<Lifts>0</Lifts>
++<Fakes>0</Fakes>
++</RadarValues>
++<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
++<Disqualified>0</Disqualified>
++</HighScore>
++</HighScoreList>
++</Steps>
++</Song>
+ <Song Dir='Songs/DDR Galaxy/Clint Eastwood/'>
+ <Steps Difficulty='Hard' StepsType='dance-single'>
+ <HighScoreList>
+@@ -19138,6 +19255,122 @@
+ </HighScoreList>
+ </Steps>
+ </Song>
++<Song Dir='Songs/DDR Massive Mania/Firework/'>
++<Steps Difficulty='Medium' StepsType='dance-single'>
++<HighScoreList>
++<NumTimesPlayed>1</NumTimesPlayed>
++<LastPlayed>2026-06-27</LastPlayed>
++<HighGrade>Tier05</HighGrade>
++<HighScore>
++<Name>KYLE</Name>
++<Grade>Tier05</Grade>
++<Score>51</Score>
++<PercentDP>0.952100</PercentDP>
++<SurviveSeconds>104.862175</SurviveSeconds>
++<MaxCombo>246</MaxCombo>
++<StageAward>SingleDigitW3</StageAward>
++<PeakComboAward></PeakComboAward>
++<Modifiers>NoHideLights, C615, 15% Mini, FailImmediateContinue, Overhead, Default</Modifiers>
++<DateTime>2026-06-27 13:38:01</DateTime>
++<PlayerGuid>4ad3a19834ee56bd</PlayerGuid>
++<MachineGuid>403d15c592378cca</MachineGuid>
++<ProductID>1</ProductID>
++<TapNoteScores>
++<HitMine>0</HitMine>
++<AvoidMine>0</AvoidMine>
++<CheckpointMiss>0</CheckpointMiss>
++<Miss>0</Miss>
++<W5>0</W5>
++<W4>0</W4>
++<W3>2</W3>
++<W2>49</W2>
++<W1>165</W1>
++<CheckpointHit>0</CheckpointHit>
++</TapNoteScores>
++<HoldNoteScores>
++<LetGo>0</LetGo>
++<Held>14</Held>
++<MissedHold>0</MissedHold>
++</HoldNoteScores>
++<RadarValues>
++<Stream>0.991870</Stream>
++<Voltage>0.999342</Voltage>
++<Air>1.000000</Air>
++<Freeze>1.000000</Freeze>
++<Chaos>0.952174</Chaos>
++<Notes>246.000000</Notes>
++<TapsAndHolds>216</TapsAndHolds>
++<Jumps>30</Jumps>
++<Holds>14</Holds>
++<Mines>0</Mines>
++<Hands>0</Hands>
++<Rolls>0</Rolls>
++<Lifts>0</Lifts>
++<Fakes>0</Fakes>
++</RadarValues>
++<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
++<Disqualified>0</Disqualified>
++</HighScore>
++</HighScoreList>
++</Steps>
++<Steps Difficulty='Hard' StepsType='dance-single'>
++<HighScoreList>
++<NumTimesPlayed>1</NumTimesPlayed>
++<LastPlayed>2026-06-27</LastPlayed>
++<HighGrade>Tier07</HighGrade>
++<HighScore>
++<Name>KYLE</Name>
++<Grade>Tier07</Grade>
++<Score>62</Score>
++<PercentDP>0.913200</PercentDP>
++<SurviveSeconds>104.845573</SurviveSeconds>
++<MaxCombo>199</MaxCombo>
++<StageAward></StageAward>
++<PeakComboAward></PeakComboAward>
++<Modifiers>NoHideLights, C615, 15% Mini, FailImmediateContinue, Overhead, Default</Modifiers>
++<DateTime>2026-06-27 13:40:14</DateTime>
++<PlayerGuid>4ad3a19834ee56bd</PlayerGuid>
++<MachineGuid>403d15c592378cca</MachineGuid>
++<ProductID>1</ProductID>
++<TapNoteScores>
++<HitMine>0</HitMine>
++<AvoidMine>0</AvoidMine>
++<CheckpointMiss>0</CheckpointMiss>
++<Miss>1</Miss>
++<W5>0</W5>
++<W4>0</W4>
++<W3>11</W3>
++<W2>82</W2>
++<W1>210</W1>
++<CheckpointHit>0</CheckpointHit>
++</TapNoteScores>
++<HoldNoteScores>
++<LetGo>1</LetGo>
++<Held>11</Held>
++<MissedHold>0</MissedHold>
++</HoldNoteScores>
++<RadarValues>
++<Stream>0.962963</Stream>
++<Voltage>0.587629</Voltage>
++<Air>1.000000</Air>
++<Freeze>0.916667</Freeze>
++<Chaos>0.913291</Chaos>
++<Notes>323.000000</Notes>
++<TapsAndHolds>303</TapsAndHolds>
++<Jumps>20</Jumps>
++<Holds>11</Holds>
++<Mines>0</Mines>
++<Hands>0</Hands>
++<Rolls>0</Rolls>
++<Lifts>0</Lifts>
++<Fakes>0</Fakes>
++</RadarValues>
++<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
++<Disqualified>0</Disqualified>
++</HighScore>
++</HighScoreList>
++</Steps>
++</Song>
+ <Song Dir='Songs/DDR Massive Mania/Wannabe/'>
+ <Steps Difficulty='Beginner' StepsType='dance-single'>
+ <HighScoreList>
+@@ -19256,6 +19489,65 @@
+ </HighScoreList>
+ </Steps>
+ </Song>
++<Song Dir='Songs/DDR Xxtreme/E.T/'>
++<Steps Difficulty='Medium' StepsType='dance-single'>
++<HighScoreList>
++<NumTimesPlayed>1</NumTimesPlayed>
++<LastPlayed>2026-06-27</LastPlayed>
++<HighGrade>Tier06</HighGrade>
++<HighScore>
++<Name>KYLE</Name>
++<Grade>Tier06</Grade>
++<Score>63</Score>
++<PercentDP>0.931000</PercentDP>
++<SurviveSeconds>127.393303</SurviveSeconds>
++<MaxCombo>177</MaxCombo>
++<StageAward></StageAward>
++<PeakComboAward></PeakComboAward>
++<Modifiers>NoHideLights, C615, 15% Mini, FailImmediateContinue, Overhead, Default</Modifiers>
++<DateTime>2026-06-27 13:33:25</DateTime>
++<PlayerGuid>4ad3a19834ee56bd</PlayerGuid>
++<MachineGuid>403d15c592378cca</MachineGuid>
++<ProductID>1</ProductID>
++<TapNoteScores>
++<HitMine>0</HitMine>
++<AvoidMine>0</AvoidMine>
++<CheckpointMiss>0</CheckpointMiss>
++<Miss>1</Miss>
++<W5>1</W5>
++<W4>1</W4>
++<W3>8</W3>
++<W2>62</W2>
++<W1>231</W1>
++<CheckpointHit>0</CheckpointHit>
++</TapNoteScores>
++<HoldNoteScores>
++<LetGo>2</LetGo>
++<Held>68</Held>
++<MissedHold>0</MissedHold>
++</HoldNoteScores>
++<RadarValues>
++<Stream>0.955882</Stream>
++<Voltage>0.458690</Voltage>
++<Air>1.000000</Air>
++<Freeze>0.971429</Freeze>
++<Chaos>0.931016</Chaos>
++<Notes>337.000000</Notes>
++<TapsAndHolds>302</TapsAndHolds>
++<Jumps>36</Jumps>
++<Holds>68</Holds>
++<Mines>0</Mines>
++<Hands>0</Hands>
++<Rolls>0</Rolls>
++<Lifts>0</Lifts>
++<Fakes>0</Fakes>
++</RadarValues>
++<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
++<Disqualified>0</Disqualified>
++</HighScore>
++</HighScoreList>
++</Steps>
++</Song>
+ <Song Dir='Songs/DDR Xxtreme/Spiderwebs/'>
+ <Steps Difficulty='Medium' StepsType='dance-single'>
+ <HighScoreList>
+@@ -27590,8 +27882,8 @@
+ <Song Dir='Songs/JBEAN Originals - 2018/Swish Swish/'>
+ <Steps Difficulty='Challenge' StepsType='dance-single'>
+ <HighScoreList>
+-<NumTimesPlayed>1</NumTimesPlayed>
+-<LastPlayed>2025-10-11</LastPlayed>
++<NumTimesPlayed>2</NumTimesPlayed>
++<LastPlayed>2026-06-27</LastPlayed>
+ <HighGrade>Tier07</HighGrade>
+ <HighScore>
+ <Name>KYLE</Name>
+@@ -28139,6 +28431,65 @@
+ </HighScoreList>
+ </Steps>
+ </Song>
++<Song Dir='Songs/JBEAN Originals - 2019/Bon Appetit (Feat. Migos)/'>
++<Steps Difficulty='Challenge' StepsType='dance-single'>
++<HighScoreList>
++<NumTimesPlayed>1</NumTimesPlayed>
++<LastPlayed>2026-06-27</LastPlayed>
++<HighGrade>Tier09</HighGrade>
++<HighScore>
++<Name>KYLE</Name>
++<Grade>Tier09</Grade>
++<Score>94</Score>
++<PercentDP>0.852800</PercentDP>
++<SurviveSeconds>132.703506</SurviveSeconds>
++<MaxCombo>230</MaxCombo>
++<StageAward></StageAward>
++<PeakComboAward></PeakComboAward>
++<Modifiers>NoHideLights, C615, 15% Mini, FailImmediateContinue, Overhead, Default</Modifiers>
++<DateTime>2026-06-27 13:27:46</DateTime>
++<PlayerGuid>4ad3a19834ee56bd</PlayerGuid>
++<MachineGuid>403d15c592378cca</MachineGuid>
++<ProductID>1</ProductID>
++<TapNoteScores>
++<HitMine>0</HitMine>
++<AvoidMine>0</AvoidMine>
++<CheckpointMiss>0</CheckpointMiss>
++<Miss>4</Miss>
++<W5>4</W5>
++<W4>2</W4>
++<W3>54</W3>
++<W2>120</W2>
++<W1>361</W1>
++<CheckpointHit>0</CheckpointHit>
++</TapNoteScores>
++<HoldNoteScores>
++<LetGo>0</LetGo>
++<Held>4</Held>
++<MissedHold>0</MissedHold>
++</HoldNoteScores>
++<RadarValues>
++<Stream>0.884477</Stream>
++<Voltage>0.440017</Voltage>
++<Air>1.000000</Air>
++<Freeze>1.000000</Freeze>
++<Chaos>0.852823</Chaos>
++<Notes>546.000000</Notes>
++<TapsAndHolds>537</TapsAndHolds>
++<Jumps>9</Jumps>
++<Holds>4</Holds>
++<Mines>2</Mines>
++<Hands>0</Hands>
++<Rolls>0</Rolls>
++<Lifts>0</Lifts>
++<Fakes>0</Fakes>
++</RadarValues>
++<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
++<Disqualified>0</Disqualified>
++</HighScore>
++</HighScoreList>
++</Steps>
++</Song>
+ <Song Dir='Songs/JBEAN Originals - 2019/Cryin In The Rain (Video Edit)/'>
+ <Steps Difficulty='Challenge' StepsType='dance-single'>
+ <HighScoreList>
+@@ -28934,6 +29285,65 @@
+ </HighScoreList>
+ </Steps>
+ </Song>
++<Song Dir='Songs/JBEAN Originals - 2020/Harleys In Hawaii/'>
++<Steps Difficulty='Challenge' StepsType='dance-single'>
++<HighScoreList>
++<NumTimesPlayed>1</NumTimesPlayed>
++<LastPlayed>2026-06-27</LastPlayed>
++<HighGrade>Tier09</HighGrade>
++<HighScore>
++<Name>KYLE</Name>
++<Grade>Tier09</Grade>
++<Score>88</Score>
++<PercentDP>0.838300</PercentDP>
++<SurviveSeconds>124.011978</SurviveSeconds>
++<MaxCombo>158</MaxCombo>
++<StageAward></StageAward>
++<PeakComboAward></PeakComboAward>
++<Modifiers>NoHideLights, C615, 15% Mini, FailImmediateContinue, Overhead, Default</Modifiers>
++<DateTime>2026-06-27 13:43:00</DateTime>
++<PlayerGuid>4ad3a19834ee56bd</PlayerGuid>
++<MachineGuid>403d15c592378cca</MachineGuid>
++<ProductID>1</ProductID>
++<TapNoteScores>
++<HitMine>0</HitMine>
++<AvoidMine>0</AvoidMine>
++<CheckpointMiss>0</CheckpointMiss>
++<Miss>6</Miss>
++<W5>1</W5>
++<W4>2</W4>
++<W3>62</W3>
++<W2>133</W2>
++<W1>327</W1>
++<CheckpointHit>0</CheckpointHit>
++</TapNoteScores>
++<HoldNoteScores>
++<LetGo>0</LetGo>
++<Held>16</Held>
++<MissedHold>0</MissedHold>
++</HoldNoteScores>
++<RadarValues>
++<Stream>0.866545</Stream>
++<Voltage>0.309847</Voltage>
++<Air>0.875000</Air>
++<Freeze>1.000000</Freeze>
++<Chaos>0.838391</Chaos>
++<Notes>539.000000</Notes>
++<TapsAndHolds>524</TapsAndHolds>
++<Jumps>15</Jumps>
++<Holds>16</Holds>
++<Mines>0</Mines>
++<Hands>0</Hands>
++<Rolls>0</Rolls>
++<Lifts>0</Lifts>
++<Fakes>0</Fakes>
++</RadarValues>
++<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
++<Disqualified>0</Disqualified>
++</HighScore>
++</HighScoreList>
++</Steps>
++</Song>
+ <Song Dir='Songs/JBEAN Originals - 2020/Hypnodancer/'>
+ <Steps Difficulty='Challenge' StepsType='dance-single'>
+ <HighScoreList>
+@@ -68872,5 +69282,6 @@
+ <CaloriesBurned Date='2026-05-04'>1286.079224</CaloriesBurned>
+ <CaloriesBurned Date='2026-06-08'>1121.336426</CaloriesBurned>
+ <CaloriesBurned Date='2026-06-22'>1191.751587</CaloriesBurned>
++<CaloriesBurned Date='2026-06-27'>600.562134</CaloriesBurned>
+ </CalorieData>
+ </Stats>
+```
+
+### ITGMania/SaveAppData/LocalProfiles/00000002/Type.ini
+
+Per-profile save data.
+
+```diff
+diff --git a/ITGMania/SaveAppData/LocalProfiles/00000002/Type.ini b/ITGMania/SaveAppData/LocalProfiles/00000002/Type.ini
+index 8a82273..795a64f 100644
+--- a/ITGMania/SaveAppData/LocalProfiles/00000002/Type.ini
++++ b/ITGMania/SaveAppData/LocalProfiles/00000002/Type.ini
+@@ -1,5 +1,5 @@
+ [ListPosition]
+-LastPlayedDate=2026-06-22 18:04:46
++LastPlayedDate=2026-06-27 13:48:23
+ Priority=2
+ Type=Normal
+ 
+```
+
+### ITGMania/SaveAppData/MachineProfile/Stats.xml
+
+Machine-level profile and stats.
+
+```diff
+diff --git a/ITGMania/SaveAppData/MachineProfile/Stats.xml b/ITGMania/SaveAppData/MachineProfile/Stats.xml
+index 3b70ab8..e7a3027 100644
+--- a/ITGMania/SaveAppData/MachineProfile/Stats.xml
++++ b/ITGMania/SaveAppData/MachineProfile/Stats.xml
+@@ -18,40 +18,40 @@
+ <Song Dir=''/>
+ <Course/>
+ <CurrentCombo>0</CurrentCombo>
+-<TotalSessions>2599</TotalSessions>
+-<TotalSessionSeconds>1157726</TotalSessionSeconds>
+-<TotalGameplaySeconds>569470</TotalGameplaySeconds>
+-<TotalCaloriesBurned>206841.281250</TotalCaloriesBurned>
++<TotalSessions>2600</TotalSessions>
++<TotalSessionSeconds>1159522</TotalSessionSeconds>
++<TotalGameplaySeconds>570584</TotalGameplaySeconds>
++<TotalCaloriesBurned>207441.843750</TotalCaloriesBurned>
+ <GoalType>0</GoalType>
+ <GoalCalories>0</GoalCalories>
+ <GoalSeconds>0</GoalSeconds>
+ <LastPlayedMachineGuid>403d15c592378cca</LastPlayedMachineGuid>
+-<LastPlayedDate>2026-06-24</LastPlayedDate>
+-<TotalDancePoints>8123022</TotalDancePoints>
++<LastPlayedDate>2026-06-27</LastPlayedDate>
++<TotalDancePoints>8140456</TotalDancePoints>
+ <NumExtraStagesPassed>0</NumExtraStagesPassed>
+ <NumExtraStagesFailed>0</NumExtraStagesFailed>
+ <NumToasties>879</NumToasties>
+-<TotalTapsAndHolds>1759115</TotalTapsAndHolds>
+-<TotalJumps>107861</TotalJumps>
+-<TotalHolds>172275</TotalHolds>
++<TotalTapsAndHolds>1762686</TotalTapsAndHolds>
++<TotalJumps>108073</TotalJumps>
++<TotalHolds>172560</TotalHolds>
+ <TotalRolls>7091</TotalRolls>
+-<TotalMines>69900</TotalMines>
++<TotalMines>69902</TotalMines>
+ <TotalHands>3408</TotalHands>
+ <TotalLifts>0</TotalLifts>
+ <DefaultModifiers/>
+ <Unlocks/>
+ <NumSongsPlayedByPlayMode>
+-<Regular>4195</Regular>
++<Regular>4204</Regular>
+ </NumSongsPlayedByPlayMode>
+ <NumSongsPlayedByStyle>
+-<Style Game='dance' Style='single'>2600</Style>
++<Style Game='dance' Style='single'>2609</Style>
+ </NumSongsPlayedByStyle>
+ <NumSongsPlayedByDifficulty>
+ <Beginner>357</Beginner>
+ <Easy>685</Easy>
+-<Medium>730</Medium>
+-<Hard>1210</Hard>
+-<Challenge>1207</Challenge>
++<Medium>732</Medium>
++<Hard>1214</Hard>
++<Challenge>1210</Challenge>
+ <Edit>6</Edit>
+ </NumSongsPlayedByDifficulty>
+ <NumSongsPlayedByMeter>
+@@ -61,30 +61,30 @@
+ <Meter4>169</Meter4>
+ <Meter5>191</Meter5>
+ <Meter6>324</Meter6>
+-<Meter7>459</Meter7>
+-<Meter8>559</Meter8>
+-<Meter9>906</Meter9>
+-<Meter10>459</Meter10>
++<Meter7>460</Meter7>
++<Meter8>561</Meter8>
++<Meter9>910</Meter9>
++<Meter10>461</Meter10>
+ <Meter11>219</Meter11>
+ <Meter12>148</Meter12>
+ <Meter13>95</Meter13>
+ <Meter14>22</Meter14>
+ <Meter15>1</Meter15>
+ </NumSongsPlayedByMeter>
+-<NumTotalSongsPlayed>4195</NumTotalSongsPlayed>
++<NumTotalSongsPlayed>4204</NumTotalSongsPlayed>
+ <NumStagesPassedByPlayMode>
+-<Regular>3450</Regular>
++<Regular>3459</Regular>
+ </NumStagesPassedByPlayMode>
+ <NumStagesPassedByGrade>
+ <Tier01>2</Tier01>
+ <Tier02>95</Tier02>
+ <Tier03>219</Tier03>
+ <Tier04>311</Tier04>
+-<Tier05>183</Tier05>
+-<Tier06>189</Tier06>
+-<Tier07>311</Tier07>
+-<Tier08>311</Tier08>
+-<Tier09>300</Tier09>
++<Tier05>186</Tier05>
++<Tier06>190</Tier06>
++<Tier07>313</Tier07>
++<Tier08>312</Tier08>
++<Tier09>302</Tier09>
+ <Tier10>249</Tier10>
+ <Tier11>298</Tier11>
+ <Tier12>272</Tier12>
+@@ -4485,8 +4485,8 @@
+ </Steps>
+ <Steps Difficulty='Hard' StepsType='dance-single'>
+ <HighScoreList>
+-<NumTimesPlayed>6</NumTimesPlayed>
+-<LastPlayed>2026-04-26</LastPlayed>
++<NumTimesPlayed>7</NumTimesPlayed>
++<LastPlayed>2026-06-27</LastPlayed>
+ <HighGrade>Tier07</HighGrade>
+ <HighScore>
+ <Name>KYLE</Name>
+@@ -4849,20 +4849,20 @@
+ </Steps>
+ <Steps Difficulty='Hard' StepsType='dance-single'>
+ <HighScoreList>
+-<NumTimesPlayed>7</NumTimesPlayed>
+-<LastPlayed>2026-03-11</LastPlayed>
++<NumTimesPlayed>8</NumTimesPlayed>
++<LastPlayed>2026-06-27</LastPlayed>
+ <HighGrade>Tier08</HighGrade>
+ <HighScore>
+ <Name>KYLE</Name>
+ <Grade>Tier08</Grade>
+-<Score>96</Score>
+-<PercentDP>0.880700</PercentDP>
+-<SurviveSeconds>138.124359</SurviveSeconds>
+-<MaxCombo>267</MaxCombo>
++<Score>80</Score>
++<PercentDP>0.887200</PercentDP>
++<SurviveSeconds>138.062943</SurviveSeconds>
++<MaxCombo>334</MaxCombo>
+ <StageAward></StageAward>
+ <PeakComboAward></PeakComboAward>
+-<Modifiers>NoHideLights, C585, 10% Mini, FailImmediateContinue, Overhead, Default</Modifiers>
+-<DateTime>2025-11-24 16:52:42</DateTime>
++<Modifiers>NoHideLights, C615, 15% Mini, FailImmediateContinue, Overhead, Default</Modifiers>
++<DateTime>2026-06-27 13:19:16</DateTime>
+ <PlayerGuid>4ad3a19834ee56bd</PlayerGuid>
+ <MachineGuid>403d15c592378cca</MachineGuid>
+ <ProductID>1</ProductID>
+@@ -4870,29 +4870,29 @@
+ <HitMine>0</HitMine>
+ <AvoidMine>0</AvoidMine>
+ <CheckpointMiss>0</CheckpointMiss>
+-<Miss>5</Miss>
+-<W5>1</W5>
+-<W4>1</W4>
+-<W3>40</W3>
+-<W2>87</W2>
+-<W1>349</W1>
++<Miss>3</Miss>
++<W5>0</W5>
++<W4>0</W4>
++<W3>42</W3>
++<W2>119</W2>
++<W1>319</W1>
+ <CheckpointHit>0</CheckpointHit>
+ </TapNoteScores>
+ <HoldNoteScores>
+ <LetGo>0</LetGo>
+-<Held>41</Held>
+-<MissedHold>1</MissedHold>
++<Held>42</Held>
++<MissedHold>0</MissedHold>
+ </HoldNoteScores>
+ <RadarValues>
+ <Stream>0.908752</Stream>
+-<Voltage>0.510774</Voltage>
+-<Air>0.944444</Air>
+-<Freeze>0.976190</Freeze>
+-<Chaos>0.880762</Chaos>
+-<Notes>530.000000</Notes>
+-<TapsAndHolds>477</TapsAndHolds>
+-<Jumps>53</Jumps>
+-<Holds>41</Holds>
++<Voltage>0.621834</Voltage>
++<Air>0.925926</Air>
++<Freeze>1.000000</Freeze>
++<Chaos>0.887238</Chaos>
++<Notes>533.000000</Notes>
++<TapsAndHolds>481</TapsAndHolds>
++<Jumps>54</Jumps>
++<Holds>42</Holds>
+ <Mines>0</Mines>
+ <Hands>0</Hands>
+ <Rolls>0</Rolls>
+@@ -5905,20 +5905,20 @@
+ <Song Dir='Songs/80s Greatest Hits Volume 1/Word Up/'>
+ <Steps Difficulty='Hard' StepsType='dance-single'>
+ <HighScoreList>
+-<NumTimesPlayed>3</NumTimesPlayed>
+-<LastPlayed>2026-04-26</LastPlayed>
+-<HighGrade>Tier06</HighGrade>
++<NumTimesPlayed>4</NumTimesPlayed>
++<LastPlayed>2026-06-27</LastPlayed>
++<HighGrade>Tier05</HighGrade>
+ <HighScore>
+ <Name>KYLE</Name>
+-<Grade>Tier06</Grade>
+-<Score>74</Score>
+-<PercentDP>0.931500</PercentDP>
+-<SurviveSeconds>118.443413</SurviveSeconds>
+-<MaxCombo>337</MaxCombo>
+-<StageAward>FullComboW3</StageAward>
++<Grade>Tier05</Grade>
++<Score>57</Score>
++<PercentDP>0.940900</PercentDP>
++<SurviveSeconds>118.463867</SurviveSeconds>
++<MaxCombo>190</MaxCombo>
++<StageAward></StageAward>
+ <PeakComboAward></PeakComboAward>
+-<Modifiers>NoHideLights, C600, 15% Mini, FailImmediateContinue, Overhead, Default</Modifiers>
+-<DateTime>2026-04-26 12:17:51</DateTime>
++<Modifiers>NoHideLights, C615, 15% Mini, FailImmediateContinue, Overhead, Default</Modifiers>
++<DateTime>2026-06-27 13:22:16</DateTime>
+ <PlayerGuid>4ad3a19834ee56bd</PlayerGuid>
+ <MachineGuid>403d15c592378cca</MachineGuid>
+ <ProductID>1</ProductID>
+@@ -5927,11 +5927,11 @@
+ <AvoidMine>0</AvoidMine>
+ <CheckpointMiss>0</CheckpointMiss>
+ <Miss>0</Miss>
+-<W5>0</W5>
+-<W4>0</W4>
+-<W3>16</W3>
+-<W2>83</W2>
+-<W1>222</W1>
++<W5>1</W5>
++<W4>1</W4>
++<W3>11</W3>
++<W2>64</W2>
++<W1>244</W1>
+ <CheckpointHit>0</CheckpointHit>
+ </TapNoteScores>
+ <HoldNoteScores>
+@@ -5940,13 +5940,13 @@
+ <MissedHold>0</MissedHold>
+ </HoldNoteScores>
+ <RadarValues>
+-<Stream>0.943620</Stream>
+-<Voltage>0.999421</Voltage>
++<Stream>0.961424</Stream>
++<Voltage>0.572185</Voltage>
+ <Air>0.875000</Air>
+ <Freeze>1.000000</Freeze>
+-<Chaos>0.931593</Chaos>
++<Chaos>0.940992</Chaos>
+ <Notes>336.000000</Notes>
+-<TapsAndHolds>321</TapsAndHolds>
++<TapsAndHolds>320</TapsAndHolds>
+ <Jumps>16</Jumps>
+ <Holds>62</Holds>
+ <Mines>0</Mines>
+@@ -9829,6 +9829,14 @@
+ </HighScoreList>
+ </Steps>
+ </Song>
++<Song Dir='Songs/Anthem Series - NOW That&apos;s What I Call Stamina/Hot N Cold - stam/'>
++<Steps Difficulty='Challenge' StepsType='dance-single'>
++<HighScoreList>
++<NumTimesPlayed>1</NumTimesPlayed>
++<LastPlayed>2026-06-27</LastPlayed>
++</HighScoreList>
++</Steps>
++</Song>
+ <Song Dir='Songs/Anthem Series - NOW That&apos;s What I Call Stamina/Just a Girl - stam/'>
+ <Steps Difficulty='Challenge' StepsType='dance-single'>
+ <HighScoreList>
+@@ -31197,6 +31205,63 @@
+ <LastPlayed>2025-07-17</LastPlayed>
+ </HighScoreList>
+ </Steps>
++<Steps Difficulty='Challenge' StepsType='dance-single'>
++<HighScoreList>
++<NumTimesPlayed>1</NumTimesPlayed>
++<LastPlayed>2026-06-27</LastPlayed>
++<HighGrade>Tier05</HighGrade>
++<HighScore>
++<Name>KYLE</Name>
++<Grade>Tier05</Grade>
++<Score>74</Score>
++<PercentDP>0.944700</PercentDP>
++<SurviveSeconds>119.060692</SurviveSeconds>
++<MaxCombo>352</MaxCombo>
++<StageAward>FullComboW3</StageAward>
++<PeakComboAward></PeakComboAward>
++<Modifiers>NoHideLights, C615, 15% Mini, FailImmediateContinue, Overhead, Default</Modifiers>
++<DateTime>2026-06-27 13:30:25</DateTime>
++<PlayerGuid>4ad3a19834ee56bd</PlayerGuid>
++<MachineGuid>403d15c592378cca</MachineGuid>
++<ProductID>1</ProductID>
++<TapNoteScores>
++<HitMine>0</HitMine>
++<AvoidMine>0</AvoidMine>
++<CheckpointMiss>0</CheckpointMiss>
++<Miss>0</Miss>
++<W5>0</W5>
++<W4>0</W4>
++<W3>15</W3>
++<W2>61</W2>
++<W1>256</W1>
++<CheckpointHit>0</CheckpointHit>
++</TapNoteScores>
++<HoldNoteScores>
++<LetGo>0</LetGo>
++<Held>52</Held>
++<MissedHold>0</MissedHold>
++</HoldNoteScores>
++<RadarValues>
++<Stream>0.946023</Stream>
++<Voltage>0.999561</Voltage>
++<Air>0.900000</Air>
++<Freeze>1.000000</Freeze>
++<Chaos>0.944792</Chaos>
++<Notes>350.000000</Notes>
++<TapsAndHolds>332</TapsAndHolds>
++<Jumps>20</Jumps>
++<Holds>52</Holds>
++<Mines>0</Mines>
++<Hands>0</Hands>
++<Rolls>0</Rolls>
++<Lifts>0</Lifts>
++<Fakes>0</Fakes>
++</RadarValues>
++<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
++<Disqualified>0</Disqualified>
++</HighScore>
++</HighScoreList>
++</Steps>
+ </Song>
+ <Song Dir='Songs/DDR Galaxy/Cheap Thrills/'>
+ <Steps Difficulty='Beginner' StepsType='dance-single'>
+@@ -36043,6 +36108,122 @@
+ </HighScoreList>
+ </Steps>
+ </Song>
++<Song Dir='Songs/DDR Massive Mania/Firework/'>
++<Steps Difficulty='Medium' StepsType='dance-single'>
++<HighScoreList>
++<NumTimesPlayed>1</NumTimesPlayed>
++<LastPlayed>2026-06-27</LastPlayed>
++<HighGrade>Tier05</HighGrade>
++<HighScore>
++<Name>KYLE</Name>
++<Grade>Tier05</Grade>
++<Score>51</Score>
++<PercentDP>0.952100</PercentDP>
++<SurviveSeconds>104.862175</SurviveSeconds>
++<MaxCombo>246</MaxCombo>
++<StageAward>SingleDigitW3</StageAward>
++<PeakComboAward></PeakComboAward>
++<Modifiers>NoHideLights, C615, 15% Mini, FailImmediateContinue, Overhead, Default</Modifiers>
++<DateTime>2026-06-27 13:38:01</DateTime>
++<PlayerGuid>4ad3a19834ee56bd</PlayerGuid>
++<MachineGuid>403d15c592378cca</MachineGuid>
++<ProductID>1</ProductID>
++<TapNoteScores>
++<HitMine>0</HitMine>
++<AvoidMine>0</AvoidMine>
++<CheckpointMiss>0</CheckpointMiss>
++<Miss>0</Miss>
++<W5>0</W5>
++<W4>0</W4>
++<W3>2</W3>
++<W2>49</W2>
++<W1>165</W1>
++<CheckpointHit>0</CheckpointHit>
++</TapNoteScores>
++<HoldNoteScores>
++<LetGo>0</LetGo>
++<Held>14</Held>
++<MissedHold>0</MissedHold>
++</HoldNoteScores>
++<RadarValues>
++<Stream>0.991870</Stream>
++<Voltage>0.999342</Voltage>
++<Air>1.000000</Air>
++<Freeze>1.000000</Freeze>
++<Chaos>0.952174</Chaos>
++<Notes>246.000000</Notes>
++<TapsAndHolds>216</TapsAndHolds>
++<Jumps>30</Jumps>
++<Holds>14</Holds>
++<Mines>0</Mines>
++<Hands>0</Hands>
++<Rolls>0</Rolls>
++<Lifts>0</Lifts>
++<Fakes>0</Fakes>
++</RadarValues>
++<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
++<Disqualified>0</Disqualified>
++</HighScore>
++</HighScoreList>
++</Steps>
++<Steps Difficulty='Hard' StepsType='dance-single'>
++<HighScoreList>
++<NumTimesPlayed>1</NumTimesPlayed>
++<LastPlayed>2026-06-27</LastPlayed>
++<HighGrade>Tier07</HighGrade>
++<HighScore>
++<Name>KYLE</Name>
++<Grade>Tier07</Grade>
++<Score>62</Score>
++<PercentDP>0.913200</PercentDP>
++<SurviveSeconds>104.845573</SurviveSeconds>
++<MaxCombo>199</MaxCombo>
++<StageAward></StageAward>
++<PeakComboAward></PeakComboAward>
++<Modifiers>NoHideLights, C615, 15% Mini, FailImmediateContinue, Overhead, Default</Modifiers>
++<DateTime>2026-06-27 13:40:14</DateTime>
++<PlayerGuid>4ad3a19834ee56bd</PlayerGuid>
++<MachineGuid>403d15c592378cca</MachineGuid>
++<ProductID>1</ProductID>
++<TapNoteScores>
++<HitMine>0</HitMine>
++<AvoidMine>0</AvoidMine>
++<CheckpointMiss>0</CheckpointMiss>
++<Miss>1</Miss>
++<W5>0</W5>
++<W4>0</W4>
++<W3>11</W3>
++<W2>82</W2>
++<W1>210</W1>
++<CheckpointHit>0</CheckpointHit>
++</TapNoteScores>
++<HoldNoteScores>
++<LetGo>1</LetGo>
++<Held>11</Held>
++<MissedHold>0</MissedHold>
++</HoldNoteScores>
++<RadarValues>
++<Stream>0.962963</Stream>
++<Voltage>0.587629</Voltage>
++<Air>1.000000</Air>
++<Freeze>0.916667</Freeze>
++<Chaos>0.913291</Chaos>
++<Notes>323.000000</Notes>
++<TapsAndHolds>303</TapsAndHolds>
++<Jumps>20</Jumps>
++<Holds>11</Holds>
++<Mines>0</Mines>
++<Hands>0</Hands>
++<Rolls>0</Rolls>
++<Lifts>0</Lifts>
++<Fakes>0</Fakes>
++</RadarValues>
++<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
++<Disqualified>0</Disqualified>
++</HighScore>
++</HighScoreList>
++</Steps>
++</Song>
+ <Song Dir='Songs/DDR Massive Mania/GET UP (BEFORE THE NIGHT IS OVER)/'>
+ <Steps Difficulty='Hard' StepsType='dance-single'>
+ <HighScoreList>
+@@ -36402,6 +36583,65 @@
+ </HighScoreList>
+ </Steps>
+ </Song>
++<Song Dir='Songs/DDR Xxtreme/E.T/'>
++<Steps Difficulty='Medium' StepsType='dance-single'>
++<HighScoreList>
++<NumTimesPlayed>1</NumTimesPlayed>
++<LastPlayed>2026-06-27</LastPlayed>
++<HighGrade>Tier06</HighGrade>
++<HighScore>
++<Name>KYLE</Name>
++<Grade>Tier06</Grade>
++<Score>63</Score>
++<PercentDP>0.931000</PercentDP>
++<SurviveSeconds>127.393303</SurviveSeconds>
++<MaxCombo>177</MaxCombo>
++<StageAward></StageAward>
++<PeakComboAward></PeakComboAward>
++<Modifiers>NoHideLights, C615, 15% Mini, FailImmediateContinue, Overhead, Default</Modifiers>
++<DateTime>2026-06-27 13:33:25</DateTime>
++<PlayerGuid>4ad3a19834ee56bd</PlayerGuid>
++<MachineGuid>403d15c592378cca</MachineGuid>
++<ProductID>1</ProductID>
++<TapNoteScores>
++<HitMine>0</HitMine>
++<AvoidMine>0</AvoidMine>
++<CheckpointMiss>0</CheckpointMiss>
++<Miss>1</Miss>
++<W5>1</W5>
++<W4>1</W4>
++<W3>8</W3>
++<W2>62</W2>
++<W1>231</W1>
++<CheckpointHit>0</CheckpointHit>
++</TapNoteScores>
++<HoldNoteScores>
++<LetGo>2</LetGo>
++<Held>68</Held>
++<MissedHold>0</MissedHold>
++</HoldNoteScores>
++<RadarValues>
++<Stream>0.955882</Stream>
++<Voltage>0.458690</Voltage>
++<Air>1.000000</Air>
++<Freeze>0.971429</Freeze>
++<Chaos>0.931016</Chaos>
++<Notes>337.000000</Notes>
++<TapsAndHolds>302</TapsAndHolds>
++<Jumps>36</Jumps>
++<Holds>68</Holds>
++<Mines>0</Mines>
++<Hands>0</Hands>
++<Rolls>0</Rolls>
++<Lifts>0</Lifts>
++<Fakes>0</Fakes>
++</RadarValues>
++<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
++<Disqualified>0</Disqualified>
++</HighScore>
++</HighScoreList>
++</Steps>
++</Song>
+ <Song Dir='Songs/DDR Xxtreme/Spiderwebs/'>
+ <Steps Difficulty='Medium' StepsType='dance-single'>
+ <HighScoreList>
+@@ -69376,8 +69616,8 @@
+ </Steps>
+ <Steps Difficulty='Challenge' StepsType='dance-single'>
+ <HighScoreList>
+-<NumTimesPlayed>1</NumTimesPlayed>
+-<LastPlayed>2025-10-11</LastPlayed>
++<NumTimesPlayed>2</NumTimesPlayed>
++<LastPlayed>2026-06-27</LastPlayed>
+ <HighGrade>Tier07</HighGrade>
+ <HighScore>
+ <Name>KYLE</Name>
+@@ -69849,6 +70089,65 @@
+ </HighScoreList>
+ </Steps>
+ </Song>
++<Song Dir='Songs/JBEAN Originals - 2019/Bon Appetit (Feat. Migos)/'>
++<Steps Difficulty='Challenge' StepsType='dance-single'>
++<HighScoreList>
++<NumTimesPlayed>1</NumTimesPlayed>
++<LastPlayed>2026-06-27</LastPlayed>
++<HighGrade>Tier09</HighGrade>
++<HighScore>
++<Name>KYLE</Name>
++<Grade>Tier09</Grade>
++<Score>94</Score>
++<PercentDP>0.852800</PercentDP>
++<SurviveSeconds>132.703506</SurviveSeconds>
++<MaxCombo>230</MaxCombo>
++<StageAward></StageAward>
++<PeakComboAward></PeakComboAward>
++<Modifiers>NoHideLights, C615, 15% Mini, FailImmediateContinue, Overhead, Default</Modifiers>
++<DateTime>2026-06-27 13:27:46</DateTime>
++<PlayerGuid>4ad3a19834ee56bd</PlayerGuid>
++<MachineGuid>403d15c592378cca</MachineGuid>
++<ProductID>1</ProductID>
++<TapNoteScores>
++<HitMine>0</HitMine>
++<AvoidMine>0</AvoidMine>
++<CheckpointMiss>0</CheckpointMiss>
++<Miss>4</Miss>
++<W5>4</W5>
++<W4>2</W4>
++<W3>54</W3>
++<W2>120</W2>
++<W1>361</W1>
++<CheckpointHit>0</CheckpointHit>
++</TapNoteScores>
++<HoldNoteScores>
++<LetGo>0</LetGo>
++<Held>4</Held>
++<MissedHold>0</MissedHold>
++</HoldNoteScores>
++<RadarValues>
++<Stream>0.884477</Stream>
++<Voltage>0.440017</Voltage>
++<Air>1.000000</Air>
++<Freeze>1.000000</Freeze>
++<Chaos>0.852823</Chaos>
++<Notes>546.000000</Notes>
++<TapsAndHolds>537</TapsAndHolds>
++<Jumps>9</Jumps>
++<Holds>4</Holds>
++<Mines>2</Mines>
++<Hands>0</Hands>
++<Rolls>0</Rolls>
++<Lifts>0</Lifts>
++<Fakes>0</Fakes>
++</RadarValues>
++<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
++<Disqualified>0</Disqualified>
++</HighScore>
++</HighScoreList>
++</Steps>
++</Song>
+ <Song Dir='Songs/JBEAN Originals - 2019/Cryin In The Rain (Video Edit)/'>
+ <Steps Difficulty='Challenge' StepsType='dance-single'>
+ <HighScoreList>
+@@ -72511,6 +72810,63 @@
+ <LastPlayed>2026-05-01</LastPlayed>
+ </HighScoreList>
+ </Steps>
++<Steps Difficulty='Challenge' StepsType='dance-single'>
++<HighScoreList>
++<NumTimesPlayed>1</NumTimesPlayed>
++<LastPlayed>2026-06-27</LastPlayed>
++<HighGrade>Tier09</HighGrade>
++<HighScore>
++<Name>KYLE</Name>
++<Grade>Tier09</Grade>
++<Score>88</Score>
++<PercentDP>0.838300</PercentDP>
++<SurviveSeconds>124.011978</SurviveSeconds>
++<MaxCombo>158</MaxCombo>
++<StageAward></StageAward>
++<PeakComboAward></PeakComboAward>
++<Modifiers>NoHideLights, C615, 15% Mini, FailImmediateContinue, Overhead, Default</Modifiers>
++<DateTime>2026-06-27 13:43:00</DateTime>
++<PlayerGuid>4ad3a19834ee56bd</PlayerGuid>
++<MachineGuid>403d15c592378cca</MachineGuid>
++<ProductID>1</ProductID>
++<TapNoteScores>
++<HitMine>0</HitMine>
++<AvoidMine>0</AvoidMine>
++<CheckpointMiss>0</CheckpointMiss>
++<Miss>6</Miss>
++<W5>1</W5>
++<W4>2</W4>
++<W3>62</W3>
++<W2>133</W2>
++<W1>327</W1>
++<CheckpointHit>0</CheckpointHit>
++</TapNoteScores>
++<HoldNoteScores>
++<LetGo>0</LetGo>
++<Held>16</Held>
++<MissedHold>0</MissedHold>
++</HoldNoteScores>
++<RadarValues>
++<Stream>0.866545</Stream>
++<Voltage>0.309847</Voltage>
++<Air>0.875000</Air>
++<Freeze>1.000000</Freeze>
++<Chaos>0.838391</Chaos>
++<Notes>539.000000</Notes>
++<TapsAndHolds>524</TapsAndHolds>
++<Jumps>15</Jumps>
++<Holds>16</Holds>
++<Mines>0</Mines>
++<Hands>0</Hands>
++<Rolls>0</Rolls>
++<Lifts>0</Lifts>
++<Fakes>0</Fakes>
++</RadarValues>
++<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
++<Disqualified>0</Disqualified>
++</HighScore>
++</HighScoreList>
++</Steps>
+ </Song>
+ <Song Dir='Songs/JBEAN Originals - 2020/Hypnodancer/'>
+ <Steps Difficulty='Easy' StepsType='dance-single'>
+@@ -132856,6 +133212,7 @@
+ <CaloriesBurned Date='2026-06-08'>1497.486206</CaloriesBurned>
+ <CaloriesBurned Date='2026-06-12'>40.941486</CaloriesBurned>
+ <CaloriesBurned Date='2026-06-22'>1191.751587</CaloriesBurned>
++<CaloriesBurned Date='2026-06-27'>600.562134</CaloriesBurned>
+ </CalorieData>
+ <CoinData>
+ <LastDays>
+```
+
+### ITGMania/SaveAppData/MachineProfile/Type.ini
+
+Machine-level profile and stats.
+
+```diff
+diff --git a/ITGMania/SaveAppData/MachineProfile/Type.ini b/ITGMania/SaveAppData/MachineProfile/Type.ini
+index 5803407..1985c81 100644
+--- a/ITGMania/SaveAppData/MachineProfile/Type.ini
++++ b/ITGMania/SaveAppData/MachineProfile/Type.ini
+@@ -1,5 +1,5 @@
+ [ListPosition]
+-LastPlayedDate=2026-06-24 13:57:34
++LastPlayedDate=2026-06-27 13:48:23
+ Priority=0
+ Type=Normal
+ 
+```
+
+### ITGMania/SaveAppData/ThemePrefs.ini
+
+Backed up file.
+
+```diff
+diff --git a/ITGMania/SaveAppData/ThemePrefs.ini b/ITGMania/SaveAppData/ThemePrefs.ini
+index 5d7ef4f..c61e4e3 100644
+--- a/ITGMania/SaveAppData/ThemePrefs.ini
++++ b/ITGMania/SaveAppData/ThemePrefs.ini
+@@ -38,7 +38,7 @@ ScreenPlayerOptionsMenuTimer=90
+ ScreenSelectMusicCasualMenuTimer=300
+ ScreenSelectMusicMenuTimer=300
+ SeparateUnlocksByPlayer=false
+-SimplyLoveColor=4
++SimplyLoveColor=7
+ StepStats=Show
+ UseImageCache=false
+ VisualStyle=Technique
+```
+
+### ITGMania/SaveAppData/Upload/2026-06-27 00000.xml
+
+Replay/upload queue.
+
+```diff
+diff --git a/ITGMania/SaveAppData/Upload/2026-06-27 00000.xml b/ITGMania/SaveAppData/Upload/2026-06-27 00000.xml
+new file mode 100644
+index 0000000..d34cb7a
+--- /dev/null
++++ b/ITGMania/SaveAppData/Upload/2026-06-27 00000.xml	
+@@ -0,0 +1,64 @@
++<?xml version="1.0" encoding="UTF-8" ?>
++
++<Stats>
++<MachineGuid>403d15c592378cca</MachineGuid>
++<RecentSongScores>
++<HighScoreForASongAndSteps>
++<Song Dir='Songs/80s Greatest Hits Volume 1/It&apos;s Tricky/'/>
++<Steps Difficulty='Hard' StepsType='dance-single'/>
++<HighScore>
++<Name></Name>
++<Grade>Tier07</Grade>
++<Score>100</Score>
++<PercentDP>0.896000</PercentDP>
++<SurviveSeconds>148.523636</SurviveSeconds>
++<MaxCombo>154</MaxCombo>
++<StageAward></StageAward>
++<PeakComboAward></PeakComboAward>
++<Modifiers>NoHideLights, C615, 15% Mini, FailImmediateContinue, Overhead, Default</Modifiers>
++<DateTime>2026-06-27 13:16:03</DateTime>
++<PlayerGuid>4ad3a19834ee56bd</PlayerGuid>
++<MachineGuid>403d15c592378cca</MachineGuid>
++<ProductID>1</ProductID>
++<TapNoteScores>
++<HitMine>0</HitMine>
++<AvoidMine>0</AvoidMine>
++<CheckpointMiss>0</CheckpointMiss>
++<Miss>3</Miss>
++<W5>0</W5>
++<W4>4</W4>
++<W3>35</W3>
++<W2>123</W2>
++<W1>394</W1>
++<CheckpointHit>0</CheckpointHit>
++</TapNoteScores>
++<HoldNoteScores>
++<LetGo>0</LetGo>
++<Held>16</Held>
++<MissedHold>0</MissedHold>
++</HoldNoteScores>
++<RadarValues>
++<Stream>0.926445</Stream>
++<Voltage>0.275944</Voltage>
++<Air>1.000000</Air>
++<Freeze>1.000000</Freeze>
++<Chaos>0.896000</Chaos>
++<Notes>568.000000</Notes>
++<TapsAndHolds>556</TapsAndHolds>
++<Jumps>12</Jumps>
++<Holds>16</Holds>
++<Mines>0</Mines>
++<Hands>0</Hands>
++<Rolls>0</Rolls>
++<Lifts>0</Lifts>
++<Fakes>0</Fakes>
++</RadarValues>
++<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
++<Disqualified>0</Disqualified>
++<Pad>33</Pad>
++<StageGuid>6d67cb6f-2558-4963-a972-58a317ae56af</StageGuid>
++<Guid>63b2113b-34fb-4daf-ad12-83b00c5bd34b</Guid>
++</HighScore>
++</HighScoreForASongAndSteps>
++</RecentSongScores>
++</Stats>
+```
+
+### ITGMania/SaveAppData/Upload/2026-06-27 00001.xml
+
+Replay/upload queue.
+
+```diff
+diff --git a/ITGMania/SaveAppData/Upload/2026-06-27 00001.xml b/ITGMania/SaveAppData/Upload/2026-06-27 00001.xml
+new file mode 100644
+index 0000000..5b83cf8
+--- /dev/null
++++ b/ITGMania/SaveAppData/Upload/2026-06-27 00001.xml	
+@@ -0,0 +1,64 @@
++<?xml version="1.0" encoding="UTF-8" ?>
++
++<Stats>
++<MachineGuid>403d15c592378cca</MachineGuid>
++<RecentSongScores>
++<HighScoreForASongAndSteps>
++<Song Dir='Songs/80s Greatest Hits Volume 1/Maneater/'/>
++<Steps Difficulty='Hard' StepsType='dance-single'/>
++<HighScore>
++<Name></Name>
++<Grade>Tier08</Grade>
++<Score>80</Score>
++<PercentDP>0.887200</PercentDP>
++<SurviveSeconds>138.062943</SurviveSeconds>
++<MaxCombo>334</MaxCombo>
++<StageAward></StageAward>
++<PeakComboAward></PeakComboAward>
++<Modifiers>NoHideLights, C615, 15% Mini, FailImmediateContinue, Overhead, Default</Modifiers>
++<DateTime>2026-06-27 13:19:16</DateTime>
++<PlayerGuid>4ad3a19834ee56bd</PlayerGuid>
++<MachineGuid>403d15c592378cca</MachineGuid>
++<ProductID>1</ProductID>
++<TapNoteScores>
++<HitMine>0</HitMine>
++<AvoidMine>0</AvoidMine>
++<CheckpointMiss>0</CheckpointMiss>
++<Miss>3</Miss>
++<W5>0</W5>
++<W4>0</W4>
++<W3>42</W3>
++<W2>119</W2>
++<W1>319</W1>
++<CheckpointHit>0</CheckpointHit>
++</TapNoteScores>
++<HoldNoteScores>
++<LetGo>0</LetGo>
++<Held>42</Held>
++<MissedHold>0</MissedHold>
++</HoldNoteScores>
++<RadarValues>
++<Stream>0.908752</Stream>
++<Voltage>0.621834</Voltage>
++<Air>0.925926</Air>
++<Freeze>1.000000</Freeze>
++<Chaos>0.887238</Chaos>
++<Notes>533.000000</Notes>
++<TapsAndHolds>481</TapsAndHolds>
++<Jumps>54</Jumps>
++<Holds>42</Holds>
++<Mines>0</Mines>
++<Hands>0</Hands>
++<Rolls>0</Rolls>
++<Lifts>0</Lifts>
++<Fakes>0</Fakes>
++</RadarValues>
++<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
++<Disqualified>0</Disqualified>
++<Pad>33</Pad>
++<StageGuid>dfad44ec-d576-405f-a83a-99e277f052e0</StageGuid>
++<Guid>ecd6f516-44da-453b-a40a-31ca2d458dad</Guid>
++</HighScore>
++</HighScoreForASongAndSteps>
++</RecentSongScores>
++</Stats>
+```
+
+### ITGMania/SaveAppData/Upload/2026-06-27 00002.xml
+
+Replay/upload queue.
+
+```diff
+diff --git a/ITGMania/SaveAppData/Upload/2026-06-27 00002.xml b/ITGMania/SaveAppData/Upload/2026-06-27 00002.xml
+new file mode 100644
+index 0000000..010cce5
+--- /dev/null
++++ b/ITGMania/SaveAppData/Upload/2026-06-27 00002.xml	
+@@ -0,0 +1,64 @@
++<?xml version="1.0" encoding="UTF-8" ?>
++
++<Stats>
++<MachineGuid>403d15c592378cca</MachineGuid>
++<RecentSongScores>
++<HighScoreForASongAndSteps>
++<Song Dir='Songs/80s Greatest Hits Volume 1/Word Up/'/>
++<Steps Difficulty='Hard' StepsType='dance-single'/>
++<HighScore>
++<Name></Name>
++<Grade>Tier05</Grade>
++<Score>57</Score>
++<PercentDP>0.940900</PercentDP>
++<SurviveSeconds>118.463867</SurviveSeconds>
++<MaxCombo>190</MaxCombo>
++<StageAward></StageAward>
++<PeakComboAward></PeakComboAward>
++<Modifiers>NoHideLights, C615, 15% Mini, FailImmediateContinue, Overhead, Default</Modifiers>
++<DateTime>2026-06-27 13:22:16</DateTime>
++<PlayerGuid>4ad3a19834ee56bd</PlayerGuid>
++<MachineGuid>403d15c592378cca</MachineGuid>
++<ProductID>1</ProductID>
++<TapNoteScores>
++<HitMine>0</HitMine>
++<AvoidMine>0</AvoidMine>
++<CheckpointMiss>0</CheckpointMiss>
++<Miss>0</Miss>
++<W5>1</W5>
++<W4>1</W4>
++<W3>11</W3>
++<W2>64</W2>
++<W1>244</W1>
++<CheckpointHit>0</CheckpointHit>
++</TapNoteScores>
++<HoldNoteScores>
++<LetGo>0</LetGo>
++<Held>62</Held>
++<MissedHold>0</MissedHold>
++</HoldNoteScores>
++<RadarValues>
++<Stream>0.961424</Stream>
++<Voltage>0.572185</Voltage>
++<Air>0.875000</Air>
++<Freeze>1.000000</Freeze>
++<Chaos>0.940992</Chaos>
++<Notes>336.000000</Notes>
++<TapsAndHolds>320</TapsAndHolds>
++<Jumps>16</Jumps>
++<Holds>62</Holds>
++<Mines>0</Mines>
++<Hands>0</Hands>
++<Rolls>0</Rolls>
++<Lifts>0</Lifts>
++<Fakes>0</Fakes>
++</RadarValues>
++<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
++<Disqualified>0</Disqualified>
++<Pad>33</Pad>
++<StageGuid>2d9a9e1f-5d9d-400b-a7e7-84d94b881c41</StageGuid>
++<Guid>3fc72170-dcb3-4ee0-ac68-89d297c3e9ca</Guid>
++</HighScore>
++</HighScoreForASongAndSteps>
++</RecentSongScores>
++</Stats>
+```
+
+### ITGMania/SaveAppData/Upload/2026-06-27 00003.xml
+
+Replay/upload queue.
+
+```diff
+diff --git a/ITGMania/SaveAppData/Upload/2026-06-27 00003.xml b/ITGMania/SaveAppData/Upload/2026-06-27 00003.xml
+new file mode 100644
+index 0000000..b449853
+--- /dev/null
++++ b/ITGMania/SaveAppData/Upload/2026-06-27 00003.xml	
+@@ -0,0 +1,64 @@
++<?xml version="1.0" encoding="UTF-8" ?>
++
++<Stats>
++<MachineGuid>403d15c592378cca</MachineGuid>
++<RecentSongScores>
++<HighScoreForASongAndSteps>
++<Song Dir='Songs/JBEAN Originals - 2019/Bon Appetit (Feat. Migos)/'/>
++<Steps Difficulty='Challenge' StepsType='dance-single'/>
++<HighScore>
++<Name></Name>
++<Grade>Tier09</Grade>
++<Score>94</Score>
++<PercentDP>0.852800</PercentDP>
++<SurviveSeconds>132.703506</SurviveSeconds>
++<MaxCombo>230</MaxCombo>
++<StageAward></StageAward>
++<PeakComboAward></PeakComboAward>
++<Modifiers>NoHideLights, C615, 15% Mini, FailImmediateContinue, Overhead, Default</Modifiers>
++<DateTime>2026-06-27 13:27:46</DateTime>
++<PlayerGuid>4ad3a19834ee56bd</PlayerGuid>
++<MachineGuid>403d15c592378cca</MachineGuid>
++<ProductID>1</ProductID>
++<TapNoteScores>
++<HitMine>0</HitMine>
++<AvoidMine>0</AvoidMine>
++<CheckpointMiss>0</CheckpointMiss>
++<Miss>4</Miss>
++<W5>4</W5>
++<W4>2</W4>
++<W3>54</W3>
++<W2>120</W2>
++<W1>361</W1>
++<CheckpointHit>0</CheckpointHit>
++</TapNoteScores>
++<HoldNoteScores>
++<LetGo>0</LetGo>
++<Held>4</Held>
++<MissedHold>0</MissedHold>
++</HoldNoteScores>
++<RadarValues>
++<Stream>0.884477</Stream>
++<Voltage>0.440017</Voltage>
++<Air>1.000000</Air>
++<Freeze>1.000000</Freeze>
++<Chaos>0.852823</Chaos>
++<Notes>546.000000</Notes>
++<TapsAndHolds>537</TapsAndHolds>
++<Jumps>9</Jumps>
++<Holds>4</Holds>
++<Mines>2</Mines>
++<Hands>0</Hands>
++<Rolls>0</Rolls>
++<Lifts>0</Lifts>
++<Fakes>0</Fakes>
++</RadarValues>
++<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
++<Disqualified>0</Disqualified>
++<Pad>33</Pad>
++<StageGuid>ea3495e8-fcd0-44a5-a580-a84dcc90fe55</StageGuid>
++<Guid>a265c91f-5c92-4f7a-a6e8-74b0c47cdeae</Guid>
++</HighScore>
++</HighScoreForASongAndSteps>
++</RecentSongScores>
++</Stats>
+```
+
+### ITGMania/SaveAppData/Upload/2026-06-27 00004.xml
+
+Replay/upload queue.
+
+```diff
+diff --git a/ITGMania/SaveAppData/Upload/2026-06-27 00004.xml b/ITGMania/SaveAppData/Upload/2026-06-27 00004.xml
+new file mode 100644
+index 0000000..4910300
+--- /dev/null
++++ b/ITGMania/SaveAppData/Upload/2026-06-27 00004.xml	
+@@ -0,0 +1,64 @@
++<?xml version="1.0" encoding="UTF-8" ?>
++
++<Stats>
++<MachineGuid>403d15c592378cca</MachineGuid>
++<RecentSongScores>
++<HighScoreForASongAndSteps>
++<Song Dir='Songs/DDR Galaxy/Chained to the Rhythm/'/>
++<Steps Difficulty='Challenge' StepsType='dance-single'/>
++<HighScore>
++<Name></Name>
++<Grade>Tier05</Grade>
++<Score>74</Score>
++<PercentDP>0.944700</PercentDP>
++<SurviveSeconds>119.060692</SurviveSeconds>
++<MaxCombo>352</MaxCombo>
++<StageAward>FullComboW3</StageAward>
++<PeakComboAward></PeakComboAward>
++<Modifiers>NoHideLights, C615, 15% Mini, FailImmediateContinue, Overhead, Default</Modifiers>
++<DateTime>2026-06-27 13:30:25</DateTime>
++<PlayerGuid>4ad3a19834ee56bd</PlayerGuid>
++<MachineGuid>403d15c592378cca</MachineGuid>
++<ProductID>1</ProductID>
++<TapNoteScores>
++<HitMine>0</HitMine>
++<AvoidMine>0</AvoidMine>
++<CheckpointMiss>0</CheckpointMiss>
++<Miss>0</Miss>
++<W5>0</W5>
++<W4>0</W4>
++<W3>15</W3>
++<W2>61</W2>
++<W1>256</W1>
++<CheckpointHit>0</CheckpointHit>
++</TapNoteScores>
++<HoldNoteScores>
++<LetGo>0</LetGo>
++<Held>52</Held>
++<MissedHold>0</MissedHold>
++</HoldNoteScores>
++<RadarValues>
++<Stream>0.946023</Stream>
++<Voltage>0.999561</Voltage>
++<Air>0.900000</Air>
++<Freeze>1.000000</Freeze>
++<Chaos>0.944792</Chaos>
++<Notes>350.000000</Notes>
++<TapsAndHolds>332</TapsAndHolds>
++<Jumps>20</Jumps>
++<Holds>52</Holds>
++<Mines>0</Mines>
++<Hands>0</Hands>
++<Rolls>0</Rolls>
++<Lifts>0</Lifts>
++<Fakes>0</Fakes>
++</RadarValues>
++<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
++<Disqualified>0</Disqualified>
++<Pad>33</Pad>
++<StageGuid>98ef3f84-1b2e-4e77-a050-c0387b33e61c</StageGuid>
++<Guid>b30ae970-6f5a-415a-a1b5-39d94cfbb852</Guid>
++</HighScore>
++</HighScoreForASongAndSteps>
++</RecentSongScores>
++</Stats>
+```
+
+### ITGMania/SaveAppData/Upload/2026-06-27 00005.xml
+
+Replay/upload queue.
+
+```diff
+diff --git a/ITGMania/SaveAppData/Upload/2026-06-27 00005.xml b/ITGMania/SaveAppData/Upload/2026-06-27 00005.xml
+new file mode 100644
+index 0000000..97a645a
+--- /dev/null
++++ b/ITGMania/SaveAppData/Upload/2026-06-27 00005.xml	
+@@ -0,0 +1,64 @@
++<?xml version="1.0" encoding="UTF-8" ?>
++
++<Stats>
++<MachineGuid>403d15c592378cca</MachineGuid>
++<RecentSongScores>
++<HighScoreForASongAndSteps>
++<Song Dir='Songs/DDR Xxtreme/E.T/'/>
++<Steps Difficulty='Medium' StepsType='dance-single'/>
++<HighScore>
++<Name></Name>
++<Grade>Tier06</Grade>
++<Score>63</Score>
++<PercentDP>0.931000</PercentDP>
++<SurviveSeconds>127.393303</SurviveSeconds>
++<MaxCombo>177</MaxCombo>
++<StageAward></StageAward>
++<PeakComboAward></PeakComboAward>
++<Modifiers>NoHideLights, C615, 15% Mini, FailImmediateContinue, Overhead, Default</Modifiers>
++<DateTime>2026-06-27 13:33:25</DateTime>
++<PlayerGuid>4ad3a19834ee56bd</PlayerGuid>
++<MachineGuid>403d15c592378cca</MachineGuid>
++<ProductID>1</ProductID>
++<TapNoteScores>
++<HitMine>0</HitMine>
++<AvoidMine>0</AvoidMine>
++<CheckpointMiss>0</CheckpointMiss>
++<Miss>1</Miss>
++<W5>1</W5>
++<W4>1</W4>
++<W3>8</W3>
++<W2>62</W2>
++<W1>231</W1>
++<CheckpointHit>0</CheckpointHit>
++</TapNoteScores>
++<HoldNoteScores>
++<LetGo>2</LetGo>
++<Held>68</Held>
++<MissedHold>0</MissedHold>
++</HoldNoteScores>
++<RadarValues>
++<Stream>0.955882</Stream>
++<Voltage>0.458690</Voltage>
++<Air>1.000000</Air>
++<Freeze>0.971429</Freeze>
++<Chaos>0.931016</Chaos>
++<Notes>337.000000</Notes>
++<TapsAndHolds>302</TapsAndHolds>
++<Jumps>36</Jumps>
++<Holds>68</Holds>
++<Mines>0</Mines>
++<Hands>0</Hands>
++<Rolls>0</Rolls>
++<Lifts>0</Lifts>
++<Fakes>0</Fakes>
++</RadarValues>
++<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
++<Disqualified>0</Disqualified>
++<Pad>33</Pad>
++<StageGuid>40449938-3db5-47ad-aa6b-4cb43de4bee6</StageGuid>
++<Guid>313f9fe1-306d-4ad7-a65c-0b1a415c151e</Guid>
++</HighScore>
++</HighScoreForASongAndSteps>
++</RecentSongScores>
++</Stats>
+```
+
+### ITGMania/SaveAppData/Upload/2026-06-27 00006.xml
+
+Replay/upload queue.
+
+```diff
+diff --git a/ITGMania/SaveAppData/Upload/2026-06-27 00006.xml b/ITGMania/SaveAppData/Upload/2026-06-27 00006.xml
+new file mode 100644
+index 0000000..256af6e
+--- /dev/null
++++ b/ITGMania/SaveAppData/Upload/2026-06-27 00006.xml	
+@@ -0,0 +1,64 @@
++<?xml version="1.0" encoding="UTF-8" ?>
++
++<Stats>
++<MachineGuid>403d15c592378cca</MachineGuid>
++<RecentSongScores>
++<HighScoreForASongAndSteps>
++<Song Dir='Songs/DDR Massive Mania/Firework/'/>
++<Steps Difficulty='Medium' StepsType='dance-single'/>
++<HighScore>
++<Name></Name>
++<Grade>Tier05</Grade>
++<Score>51</Score>
++<PercentDP>0.952100</PercentDP>
++<SurviveSeconds>104.862175</SurviveSeconds>
++<MaxCombo>246</MaxCombo>
++<StageAward>SingleDigitW3</StageAward>
++<PeakComboAward></PeakComboAward>
++<Modifiers>NoHideLights, C615, 15% Mini, FailImmediateContinue, Overhead, Default</Modifiers>
++<DateTime>2026-06-27 13:38:01</DateTime>
++<PlayerGuid>4ad3a19834ee56bd</PlayerGuid>
++<MachineGuid>403d15c592378cca</MachineGuid>
++<ProductID>1</ProductID>
++<TapNoteScores>
++<HitMine>0</HitMine>
++<AvoidMine>0</AvoidMine>
++<CheckpointMiss>0</CheckpointMiss>
++<Miss>0</Miss>
++<W5>0</W5>
++<W4>0</W4>
++<W3>2</W3>
++<W2>49</W2>
++<W1>165</W1>
++<CheckpointHit>0</CheckpointHit>
++</TapNoteScores>
++<HoldNoteScores>
++<LetGo>0</LetGo>
++<Held>14</Held>
++<MissedHold>0</MissedHold>
++</HoldNoteScores>
++<RadarValues>
++<Stream>0.991870</Stream>
++<Voltage>0.999342</Voltage>
++<Air>1.000000</Air>
++<Freeze>1.000000</Freeze>
++<Chaos>0.952174</Chaos>
++<Notes>246.000000</Notes>
++<TapsAndHolds>216</TapsAndHolds>
++<Jumps>30</Jumps>
++<Holds>14</Holds>
++<Mines>0</Mines>
++<Hands>0</Hands>
++<Rolls>0</Rolls>
++<Lifts>0</Lifts>
++<Fakes>0</Fakes>
++</RadarValues>
++<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
++<Disqualified>0</Disqualified>
++<Pad>33</Pad>
++<StageGuid>c15817fc-971f-4e82-a5ee-8e61c10c6180</StageGuid>
++<Guid>f08e2685-6086-470e-a7ad-8a4d9cb9e7f8</Guid>
++</HighScore>
++</HighScoreForASongAndSteps>
++</RecentSongScores>
++</Stats>
+```
+
+### ITGMania/SaveAppData/Upload/2026-06-27 00007.xml
+
+Replay/upload queue.
+
+```diff
+diff --git a/ITGMania/SaveAppData/Upload/2026-06-27 00007.xml b/ITGMania/SaveAppData/Upload/2026-06-27 00007.xml
+new file mode 100644
+index 0000000..12cb896
+--- /dev/null
++++ b/ITGMania/SaveAppData/Upload/2026-06-27 00007.xml	
+@@ -0,0 +1,64 @@
++<?xml version="1.0" encoding="UTF-8" ?>
++
++<Stats>
++<MachineGuid>403d15c592378cca</MachineGuid>
++<RecentSongScores>
++<HighScoreForASongAndSteps>
++<Song Dir='Songs/DDR Massive Mania/Firework/'/>
++<Steps Difficulty='Hard' StepsType='dance-single'/>
++<HighScore>
++<Name></Name>
++<Grade>Tier07</Grade>
++<Score>62</Score>
++<PercentDP>0.913200</PercentDP>
++<SurviveSeconds>104.845573</SurviveSeconds>
++<MaxCombo>199</MaxCombo>
++<StageAward></StageAward>
++<PeakComboAward></PeakComboAward>
++<Modifiers>NoHideLights, C615, 15% Mini, FailImmediateContinue, Overhead, Default</Modifiers>
++<DateTime>2026-06-27 13:40:14</DateTime>
++<PlayerGuid>4ad3a19834ee56bd</PlayerGuid>
++<MachineGuid>403d15c592378cca</MachineGuid>
++<ProductID>1</ProductID>
++<TapNoteScores>
++<HitMine>0</HitMine>
++<AvoidMine>0</AvoidMine>
++<CheckpointMiss>0</CheckpointMiss>
++<Miss>1</Miss>
++<W5>0</W5>
++<W4>0</W4>
++<W3>11</W3>
++<W2>82</W2>
++<W1>210</W1>
++<CheckpointHit>0</CheckpointHit>
++</TapNoteScores>
++<HoldNoteScores>
++<LetGo>1</LetGo>
++<Held>11</Held>
++<MissedHold>0</MissedHold>
++</HoldNoteScores>
++<RadarValues>
++<Stream>0.962963</Stream>
++<Voltage>0.587629</Voltage>
++<Air>1.000000</Air>
++<Freeze>0.916667</Freeze>
++<Chaos>0.913291</Chaos>
++<Notes>323.000000</Notes>
++<TapsAndHolds>303</TapsAndHolds>
++<Jumps>20</Jumps>
++<Holds>11</Holds>
++<Mines>0</Mines>
++<Hands>0</Hands>
++<Rolls>0</Rolls>
++<Lifts>0</Lifts>
++<Fakes>0</Fakes>
++</RadarValues>
++<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
++<Disqualified>0</Disqualified>
++<Pad>33</Pad>
++<StageGuid>1d54c378-0ad9-4cf4-aaae-2af1dac9d166</StageGuid>
++<Guid>d8c1130b-32a4-439e-a0e3-d19e6f90638e</Guid>
++</HighScore>
++</HighScoreForASongAndSteps>
++</RecentSongScores>
++</Stats>
+```
+
+### ITGMania/SaveAppData/Upload/2026-06-27 00008.xml
+
+Replay/upload queue.
+
+```diff
+diff --git a/ITGMania/SaveAppData/Upload/2026-06-27 00008.xml b/ITGMania/SaveAppData/Upload/2026-06-27 00008.xml
+new file mode 100644
+index 0000000..1dd5069
+--- /dev/null
++++ b/ITGMania/SaveAppData/Upload/2026-06-27 00008.xml	
+@@ -0,0 +1,64 @@
++<?xml version="1.0" encoding="UTF-8" ?>
++
++<Stats>
++<MachineGuid>403d15c592378cca</MachineGuid>
++<RecentSongScores>
++<HighScoreForASongAndSteps>
++<Song Dir='Songs/JBEAN Originals - 2020/Harleys In Hawaii/'/>
++<Steps Difficulty='Challenge' StepsType='dance-single'/>
++<HighScore>
++<Name></Name>
++<Grade>Tier09</Grade>
++<Score>88</Score>
++<PercentDP>0.838300</PercentDP>
++<SurviveSeconds>124.011978</SurviveSeconds>
++<MaxCombo>158</MaxCombo>
++<StageAward></StageAward>
++<PeakComboAward></PeakComboAward>
++<Modifiers>NoHideLights, C615, 15% Mini, FailImmediateContinue, Overhead, Default</Modifiers>
++<DateTime>2026-06-27 13:43:00</DateTime>
++<PlayerGuid>4ad3a19834ee56bd</PlayerGuid>
++<MachineGuid>403d15c592378cca</MachineGuid>
++<ProductID>1</ProductID>
++<TapNoteScores>
++<HitMine>0</HitMine>
++<AvoidMine>0</AvoidMine>
++<CheckpointMiss>0</CheckpointMiss>
++<Miss>6</Miss>
++<W5>1</W5>
++<W4>2</W4>
++<W3>62</W3>
++<W2>133</W2>
++<W1>327</W1>
++<CheckpointHit>0</CheckpointHit>
++</TapNoteScores>
++<HoldNoteScores>
++<LetGo>0</LetGo>
++<Held>16</Held>
++<MissedHold>0</MissedHold>
++</HoldNoteScores>
++<RadarValues>
++<Stream>0.866545</Stream>
++<Voltage>0.309847</Voltage>
++<Air>0.875000</Air>
++<Freeze>1.000000</Freeze>
++<Chaos>0.838391</Chaos>
++<Notes>539.000000</Notes>
++<TapsAndHolds>524</TapsAndHolds>
++<Jumps>15</Jumps>
++<Holds>16</Holds>
++<Mines>0</Mines>
++<Hands>0</Hands>
++<Rolls>0</Rolls>
++<Lifts>0</Lifts>
++<Fakes>0</Fakes>
++</RadarValues>
++<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
++<Disqualified>0</Disqualified>
++<Pad>33</Pad>
++<StageGuid>693c8022-9f18-4695-a658-b829cffd3f1d</StageGuid>
++<Guid>ae7d5582-49c6-413c-a6ec-c5cc8b4b3f49</Guid>
++</HighScore>
++</HighScoreForASongAndSteps>
++</RecentSongScores>
++</Stats>
+```
 
