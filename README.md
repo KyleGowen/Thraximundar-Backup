@@ -1,8 +1,8 @@
 ﻿# ITGMania Backup
 
-#### Last backup: Jun 29, 2026 at 3:02 AM
+#### Last backup: Jun 30, 2026 at 3:02 AM
 
-#### Next backup: Jun 30, 2026 at 3:00 AM
+#### Next backup: Jul 1, 2026 at 3:00 AM
 
 ## 30-day digest
 
@@ -2228,4 +2228,24 @@ Time in songs this run: **KYLE** 2m 49s.
 </details>
 
 ## Changes since last backup
+
+### ITGMania/SaveAppData/ThemePrefs.ini
+
+Backed up file.
+
+```diff
+diff --git a/ITGMania/SaveAppData/ThemePrefs.ini b/ITGMania/SaveAppData/ThemePrefs.ini
+index c61e4e3..16894cf 100644
+--- a/ITGMania/SaveAppData/ThemePrefs.ini
++++ b/ITGMania/SaveAppData/ThemePrefs.ini
+@@ -15,7 +15,7 @@ AutoStyle=single
+ CasualMaxMeter=10
+ DefaultGameMode=ITG
+ EditModeLastSeenDifficulty=Difficulty_Beginner
+-EditModeLastSeenSong=/80s Greatest Hits Volume 1/Bad To The Bone
++EditModeLastSeenSong=/80s Greatest Hits Volume 1/You Spin Me Round
+ EditModeLastSeenStepsType=StepsType_Dance_Single
+ EditModeLastSeenStyleType=StyleType_OnePlayerOneSide
+ EnableGrooveStats=false
+```
 
