@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Stats>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<RecentSongScores>
+<HighScoreForASongAndSteps>
+<Song Dir='Songs/Misc. Collected/The Decisive Battle/'/>
+<Steps Difficulty='Hard' StepsType='dance-single'/>
+<HighScore>
+<Name></Name>
+<Grade>Tier08</Grade>
+<Score>52</Score>
+<PercentDP>0.862900</PercentDP>
+<SurviveSeconds>112.105896</SurviveSeconds>
+<MaxCombo>161</MaxCombo>
+<StageAward></StageAward>
+<PeakComboAward></PeakComboAward>
+<Modifiers>NoHideLights, C615, 15% Mini, FailImmediateContinue, Overhead, Default</Modifiers>
+<DateTime>2026-07-02 19:52:34</DateTime>
+<PlayerGuid>4ad3a19834ee56bd</PlayerGuid>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<ProductID>1</ProductID>
+<TapNoteScores>
+<HitMine>0</HitMine>
+<AvoidMine>0</AvoidMine>
+<CheckpointMiss>0</CheckpointMiss>
+<Miss>3</Miss>
+<W5>1</W5>
+<W4>1</W4>
+<W3>33</W3>
+<W2>91</W2>
+<W1>176</W1>
+<CheckpointHit>0</CheckpointHit>
+</TapNoteScores>
+<HoldNoteScores>
+<LetGo>0</LetGo>
+<Held>70</Held>
+<MissedHold>0</MissedHold>
+</HoldNoteScores>
+<RadarValues>
+<Stream>0.876506</Stream>
+<Voltage>0.481730</Voltage>
+<Air>0.814815</Air>
+<Freeze>1.000000</Freeze>
+<Chaos>0.862933</Chaos>
+<Notes>328.000000</Notes>
+<TapsAndHolds>301</TapsAndHolds>
+<Jumps>26</Jumps>
+<Holds>70</Holds>
+<Mines>0</Mines>
+<Hands>0</Hands>
+<Rolls>0</Rolls>
+<Lifts>0</Lifts>
+<Fakes>0</Fakes>
+</RadarValues>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<Disqualified>0</Disqualified>
+<Pad>33</Pad>
+<StageGuid>103a09cd-1641-4e09-a162-994e363e531a</StageGuid>
+<Guid>83a97711-cd6c-45e1-a9ba-ef7a4ca65bfb</Guid>
+</HighScore>
+</HighScoreForASongAndSteps>
+</RecentSongScores>
+</Stats>

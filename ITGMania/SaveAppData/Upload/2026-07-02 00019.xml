@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Stats>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<RecentSongScores>
+<HighScoreForASongAndSteps>
+<Song Dir='Songs/Anthem Series - The Girls/Get the Party Started/'/>
+<Steps Difficulty='Challenge' StepsType='dance-single'/>
+<HighScore>
+<Name></Name>
+<Grade>Tier06</Grade>
+<Score>67</Score>
+<PercentDP>0.925800</PercentDP>
+<SurviveSeconds>90.323654</SurviveSeconds>
+<MaxCombo>128</MaxCombo>
+<StageAward></StageAward>
+<PeakComboAward></PeakComboAward>
+<Modifiers>NoHideLights, C620, 15% Mini, FailImmediateContinue, Overhead, Default</Modifiers>
+<DateTime>2026-07-02 20:47:36</DateTime>
+<PlayerGuid>4ad3a19834ee56bd</PlayerGuid>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<ProductID>1</ProductID>
+<TapNoteScores>
+<HitMine>0</HitMine>
+<AvoidMine>0</AvoidMine>
+<CheckpointMiss>0</CheckpointMiss>
+<Miss>0</Miss>
+<W5>2</W5>
+<W4>3</W4>
+<W3>12</W3>
+<W2>69</W2>
+<W1>221</W1>
+<CheckpointHit>0</CheckpointHit>
+</TapNoteScores>
+<HoldNoteScores>
+<LetGo>0</LetGo>
+<Held>76</Held>
+<MissedHold>0</MissedHold>
+</HoldNoteScores>
+<RadarValues>
+<Stream>0.940439</Stream>
+<Voltage>0.363932</Voltage>
+<Air>0.916667</Air>
+<Freeze>1.000000</Freeze>
+<Chaos>0.925849</Chaos>
+<Notes>317.000000</Notes>
+<TapsAndHolds>305</TapsAndHolds>
+<Jumps>11</Jumps>
+<Holds>64</Holds>
+<Mines>0</Mines>
+<Hands>0</Hands>
+<Rolls>12</Rolls>
+<Lifts>0</Lifts>
+<Fakes>0</Fakes>
+</RadarValues>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<Disqualified>0</Disqualified>
+<Pad>33</Pad>
+<StageGuid>ee039aee-c8f6-4b4c-a92d-67f50bb3096b</StageGuid>
+<Guid>9197028d-7409-4e23-a3f0-cd280840fe1b</Guid>
+</HighScore>
+</HighScoreForASongAndSteps>
+</RecentSongScores>
+</Stats>

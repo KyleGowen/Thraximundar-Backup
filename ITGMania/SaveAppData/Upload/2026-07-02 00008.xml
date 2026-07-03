@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Stats>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<RecentSongScores>
+<HighScoreForASongAndSteps>
+<Song Dir='Songs/Ben Speirs&apos; SPEIRMIX GALAXY/Chained To The Rhythm/'/>
+<Steps Difficulty='Challenge' StepsType='dance-single'/>
+<HighScore>
+<Name></Name>
+<Grade>Tier07</Grade>
+<Score>100</Score>
+<PercentDP>0.900500</PercentDP>
+<SurviveSeconds>141.821671</SurviveSeconds>
+<MaxCombo>229</MaxCombo>
+<StageAward></StageAward>
+<PeakComboAward></PeakComboAward>
+<Modifiers>NoHideLights, C620, 15% Mini, FailImmediateContinue, Overhead, Default</Modifiers>
+<DateTime>2026-07-02 20:09:50</DateTime>
+<PlayerGuid>4ad3a19834ee56bd</PlayerGuid>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<ProductID>1</ProductID>
+<TapNoteScores>
+<HitMine>0</HitMine>
+<AvoidMine>0</AvoidMine>
+<CheckpointMiss>0</CheckpointMiss>
+<Miss>2</Miss>
+<W5>1</W5>
+<W4>1</W4>
+<W3>30</W3>
+<W2>113</W2>
+<W1>356</W1>
+<CheckpointHit>0</CheckpointHit>
+</TapNoteScores>
+<HoldNoteScores>
+<LetGo>0</LetGo>
+<Held>6</Held>
+<MissedHold>0</MissedHold>
+</HoldNoteScores>
+<RadarValues>
+<Stream>0.932331</Stream>
+<Voltage>0.415724</Voltage>
+<Air>0.896552</Air>
+<Freeze>1.000000</Freeze>
+<Chaos>0.900589</Chaos>
+<Notes>527.000000</Notes>
+<TapsAndHolds>500</TapsAndHolds>
+<Jumps>28</Jumps>
+<Holds>6</Holds>
+<Mines>0</Mines>
+<Hands>0</Hands>
+<Rolls>0</Rolls>
+<Lifts>0</Lifts>
+<Fakes>0</Fakes>
+</RadarValues>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<Disqualified>0</Disqualified>
+<Pad>33</Pad>
+<StageGuid>915dd46d-b8ba-49aa-a3e3-a78457c64125</StageGuid>
+<Guid>684632e2-0c50-4636-ac21-6e3f1e7556fb</Guid>
+</HighScore>
+</HighScoreForASongAndSteps>
+</RecentSongScores>
+</Stats>

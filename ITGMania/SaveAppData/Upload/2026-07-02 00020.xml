@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Stats>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<RecentSongScores>
+<HighScoreForASongAndSteps>
+<Song Dir='Songs/Anthem Series - The Boys/It Boy/'/>
+<Steps Difficulty='Challenge' StepsType='dance-single'/>
+<HighScore>
+<Name></Name>
+<Grade>Tier11</Grade>
+<Score>80</Score>
+<PercentDP>0.793700</PercentDP>
+<SurviveSeconds>118.608772</SurviveSeconds>
+<MaxCombo>157</MaxCombo>
+<StageAward></StageAward>
+<PeakComboAward></PeakComboAward>
+<Modifiers>NoHideLights, C620, 15% Mini, FailImmediateContinue, Overhead, Default</Modifiers>
+<DateTime>2026-07-02 20:50:31</DateTime>
+<PlayerGuid>4ad3a19834ee56bd</PlayerGuid>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<ProductID>1</ProductID>
+<TapNoteScores>
+<HitMine>4</HitMine>
+<AvoidMine>0</AvoidMine>
+<CheckpointMiss>0</CheckpointMiss>
+<Miss>7</Miss>
+<W5>5</W5>
+<W4>6</W4>
+<W3>56</W3>
+<W2>114</W2>
+<W1>285</W1>
+<CheckpointHit>0</CheckpointHit>
+</TapNoteScores>
+<HoldNoteScores>
+<LetGo>1</LetGo>
+<Held>33</Held>
+<MissedHold>2</MissedHold>
+</HoldNoteScores>
+<RadarValues>
+<Stream>0.850099</Stream>
+<Voltage>0.327987</Voltage>
+<Air>0.705882</Air>
+<Freeze>0.911765</Freeze>
+<Chaos>0.793713</Chaos>
+<Notes>494.000000</Notes>
+<TapsAndHolds>463</TapsAndHolds>
+<Jumps>33</Jumps>
+<Holds>31</Holds>
+<Mines>1</Mines>
+<Hands>0</Hands>
+<Rolls>2</Rolls>
+<Lifts>0</Lifts>
+<Fakes>0</Fakes>
+</RadarValues>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<Disqualified>0</Disqualified>
+<Pad>33</Pad>
+<StageGuid>ba397710-7514-4113-aac2-74252b3b3b0d</StageGuid>
+<Guid>f82ced7d-08f7-4a3f-a851-160f355e72d2</Guid>
+</HighScore>
+</HighScoreForASongAndSteps>
+</RecentSongScores>
+</Stats>

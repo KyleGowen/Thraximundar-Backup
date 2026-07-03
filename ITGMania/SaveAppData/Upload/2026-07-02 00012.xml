@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Stats>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<RecentSongScores>
+<HighScoreForASongAndSteps>
+<Song Dir='Songs/Anthem Series - The Girls/Hips Don&apos;t Lie/'/>
+<Steps Difficulty='Challenge' StepsType='dance-single'/>
+<HighScore>
+<Name></Name>
+<Grade>Tier06</Grade>
+<Score>116</Score>
+<PercentDP>0.925300</PercentDP>
+<SurviveSeconds>144.228256</SurviveSeconds>
+<MaxCombo>432</MaxCombo>
+<StageAward></StageAward>
+<PeakComboAward></PeakComboAward>
+<Modifiers>NoHideLights, C620, 15% Mini, FailImmediateContinue, Overhead, Default</Modifiers>
+<DateTime>2026-07-02 20:23:45</DateTime>
+<PlayerGuid>4ad3a19834ee56bd</PlayerGuid>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<ProductID>1</ProductID>
+<TapNoteScores>
+<HitMine>0</HitMine>
+<AvoidMine>0</AvoidMine>
+<CheckpointMiss>0</CheckpointMiss>
+<Miss>0</Miss>
+<W5>3</W5>
+<W4>0</W4>
+<W3>27</W3>
+<W2>131</W2>
+<W1>392</W1>
+<CheckpointHit>0</CheckpointHit>
+</TapNoteScores>
+<HoldNoteScores>
+<LetGo>0</LetGo>
+<Held>103</Held>
+<MissedHold>0</MissedHold>
+</HoldNoteScores>
+<RadarValues>
+<Stream>0.946809</Stream>
+<Voltage>0.763527</Voltage>
+<Air>1.000000</Air>
+<Freeze>1.000000</Freeze>
+<Chaos>0.925305</Chaos>
+<Notes>561.000000</Notes>
+<TapsAndHolds>550</TapsAndHolds>
+<Jumps>11</Jumps>
+<Holds>103</Holds>
+<Mines>0</Mines>
+<Hands>0</Hands>
+<Rolls>0</Rolls>
+<Lifts>0</Lifts>
+<Fakes>0</Fakes>
+</RadarValues>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<Disqualified>0</Disqualified>
+<Pad>33</Pad>
+<StageGuid>326bc229-51cc-4c8f-a63e-b72a2c555685</StageGuid>
+<Guid>131d3d77-427c-401d-add2-ac12e3833994</Guid>
+</HighScore>
+</HighScoreForASongAndSteps>
+</RecentSongScores>
+</Stats>

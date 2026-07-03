@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Stats>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<RecentSongScores>
+<HighScoreForASongAndSteps>
+<Song Dir='Songs/Misc. Collected/Turn Me On/'/>
+<Steps Difficulty='Hard' StepsType='dance-single'/>
+<HighScore>
+<Name></Name>
+<Grade>Tier07</Grade>
+<Score>81</Score>
+<PercentDP>0.918500</PercentDP>
+<SurviveSeconds>122.859825</SurviveSeconds>
+<MaxCombo>171</MaxCombo>
+<StageAward></StageAward>
+<PeakComboAward></PeakComboAward>
+<Modifiers>NoHideLights, C620, 15% Mini, FailImmediateContinue, Overhead, Default</Modifiers>
+<DateTime>2026-07-02 20:04:28</DateTime>
+<PlayerGuid>4ad3a19834ee56bd</PlayerGuid>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<ProductID>1</ProductID>
+<TapNoteScores>
+<HitMine>0</HitMine>
+<AvoidMine>0</AvoidMine>
+<CheckpointMiss>0</CheckpointMiss>
+<Miss>0</Miss>
+<W5>0</W5>
+<W4>4</W4>
+<W3>28</W3>
+<W2>98</W2>
+<W1>296</W1>
+<CheckpointHit>0</CheckpointHit>
+</TapNoteScores>
+<HoldNoteScores>
+<LetGo>0</LetGo>
+<Held>70</Held>
+<MissedHold>0</MissedHold>
+</HoldNoteScores>
+<RadarValues>
+<Stream>0.923963</Stream>
+<Voltage>0.462360</Voltage>
+<Air>0.625000</Air>
+<Freeze>1.000000</Freeze>
+<Chaos>0.918548</Chaos>
+<Notes>434.000000</Notes>
+<TapsAndHolds>426</TapsAndHolds>
+<Jumps>8</Jumps>
+<Holds>70</Holds>
+<Mines>0</Mines>
+<Hands>0</Hands>
+<Rolls>0</Rolls>
+<Lifts>0</Lifts>
+<Fakes>0</Fakes>
+</RadarValues>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<Disqualified>0</Disqualified>
+<Pad>33</Pad>
+<StageGuid>d16e032a-94a7-4c3b-a9c8-0772c6607bee</StageGuid>
+<Guid>5e82ec14-3372-4eea-a887-3baea4444630</Guid>
+</HighScore>
+</HighScoreForASongAndSteps>
+</RecentSongScores>
+</Stats>

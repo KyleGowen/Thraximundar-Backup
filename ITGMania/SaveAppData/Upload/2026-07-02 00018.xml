@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Stats>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<RecentSongScores>
+<HighScoreForASongAndSteps>
+<Song Dir='Songs/Anthem Series - The Girls/Untouched/'/>
+<Steps Difficulty='Challenge' StepsType='dance-single'/>
+<HighScore>
+<Name></Name>
+<Grade>Tier08</Grade>
+<Score>115</Score>
+<PercentDP>0.884100</PercentDP>
+<SurviveSeconds>161.373871</SurviveSeconds>
+<MaxCombo>259</MaxCombo>
+<StageAward></StageAward>
+<PeakComboAward></PeakComboAward>
+<Modifiers>NoHideLights, C620, 15% Mini, FailImmediateContinue, Overhead, Default</Modifiers>
+<DateTime>2026-07-02 20:45:12</DateTime>
+<PlayerGuid>4ad3a19834ee56bd</PlayerGuid>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<ProductID>1</ProductID>
+<TapNoteScores>
+<HitMine>0</HitMine>
+<AvoidMine>0</AvoidMine>
+<CheckpointMiss>0</CheckpointMiss>
+<Miss>4</Miss>
+<W5>1</W5>
+<W4>4</W4>
+<W3>45</W3>
+<W2>156</W2>
+<W1>413</W1>
+<CheckpointHit>0</CheckpointHit>
+</TapNoteScores>
+<HoldNoteScores>
+<LetGo>0</LetGo>
+<Held>58</Held>
+<MissedHold>1</MissedHold>
+</HoldNoteScores>
+<RadarValues>
+<Stream>0.910937</Stream>
+<Voltage>0.395417</Voltage>
+<Air>0.705882</Air>
+<Freeze>0.982456</Freeze>
+<Chaos>0.884164</Chaos>
+<Notes>635.000000</Notes>
+<TapsAndHolds>619</TapsAndHolds>
+<Jumps>16</Jumps>
+<Holds>56</Holds>
+<Mines>0</Mines>
+<Hands>0</Hands>
+<Rolls>2</Rolls>
+<Lifts>0</Lifts>
+<Fakes>0</Fakes>
+</RadarValues>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<Disqualified>0</Disqualified>
+<Pad>33</Pad>
+<StageGuid>76b10c89-09a0-4677-ab15-bdd98b4e830a</StageGuid>
+<Guid>a4c0ad8e-5d0e-420d-a8f1-80cc782c7c6c</Guid>
+</HighScore>
+</HighScoreForASongAndSteps>
+</RecentSongScores>
+</Stats>

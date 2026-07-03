@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Stats>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<RecentSongScores>
+<HighScoreForASongAndSteps>
+<Song Dir='Songs/JBEAN Originals - 2018/Swish Swish/'/>
+<Steps Difficulty='Easy' StepsType='dance-single'/>
+<HighScore>
+<Name></Name>
+<Grade>Failed</Grade>
+<Score>8</Score>
+<PercentDP>0.015700</PercentDP>
+<SurviveSeconds>35.474003</SurviveSeconds>
+<MaxCombo>26</MaxCombo>
+<StageAward></StageAward>
+<PeakComboAward></PeakComboAward>
+<Modifiers>NoHideLights, 1.75x, FailImmediateContinue, Overhead</Modifiers>
+<DateTime>2026-07-02 20:31:52</DateTime>
+<PlayerGuid>2dde4d6e8737681e</PlayerGuid>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<ProductID>1</ProductID>
+<TapNoteScores>
+<HitMine>0</HitMine>
+<AvoidMine>0</AvoidMine>
+<CheckpointMiss>0</CheckpointMiss>
+<Miss>8</Miss>
+<W5>6</W5>
+<W4>10</W4>
+<W3>46</W3>
+<W2>19</W2>
+<W1>30</W1>
+<CheckpointHit>0</CheckpointHit>
+</TapNoteScores>
+<HoldNoteScores>
+<LetGo>4</LetGo>
+<Held>13</Held>
+<MissedHold>4</MissedHold>
+</HoldNoteScores>
+<RadarValues>
+<Stream>0.416000</Stream>
+<Voltage>0.185811</Voltage>
+<Air>0.166667</Air>
+<Freeze>0.619048</Freeze>
+<Chaos>0.015714</Chaos>
+<Notes>111.000000</Notes>
+<TapsAndHolds>106</TapsAndHolds>
+<Jumps>6</Jumps>
+<Holds>13</Holds>
+<Mines>0</Mines>
+<Hands>0</Hands>
+<Rolls>0</Rolls>
+<Lifts>0</Lifts>
+<Fakes>0</Fakes>
+</RadarValues>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<Disqualified>0</Disqualified>
+<Pad>33</Pad>
+<StageGuid>0cbcf885-62d4-4afb-a38d-b4ff9da35d7b</StageGuid>
+<Guid>207a26e1-9409-4ee2-a7aa-a64e1884c215</Guid>
+</HighScore>
+</HighScoreForASongAndSteps>
+</RecentSongScores>
+</Stats>

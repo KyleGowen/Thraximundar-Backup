@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Stats>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<RecentSongScores>
+<HighScoreForASongAndSteps>
+<Song Dir='Songs/DDR Galaxy/Whistle While You Work It/'/>
+<Steps Difficulty='Easy' StepsType='dance-single'/>
+<HighScore>
+<Name></Name>
+<Grade>Failed</Grade>
+<Score>17</Score>
+<PercentDP>0.000000</PercentDP>
+<SurviveSeconds>21.397589</SurviveSeconds>
+<MaxCombo>52</MaxCombo>
+<StageAward></StageAward>
+<PeakComboAward></PeakComboAward>
+<Modifiers>NoHideLights, 1.75x, FailImmediateContinue, Overhead</Modifiers>
+<DateTime>2026-07-02 20:38:01</DateTime>
+<PlayerGuid>2dde4d6e8737681e</PlayerGuid>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<ProductID>1</ProductID>
+<TapNoteScores>
+<HitMine>0</HitMine>
+<AvoidMine>0</AvoidMine>
+<CheckpointMiss>0</CheckpointMiss>
+<Miss>29</Miss>
+<W5>13</W5>
+<W4>16</W4>
+<W3>48</W3>
+<W2>36</W2>
+<W1>36</W1>
+<CheckpointHit>0</CheckpointHit>
+</TapNoteScores>
+<HoldNoteScores>
+<LetGo>2</LetGo>
+<Held>5</Held>
+<MissedHold>2</MissedHold>
+</HoldNoteScores>
+<RadarValues>
+<Stream>0.400000</Stream>
+<Voltage>0.262110</Voltage>
+<Air>0.333333</Air>
+<Freeze>0.555556</Freeze>
+<Chaos>0.000000</Chaos>
+<Notes>148.000000</Notes>
+<TapsAndHolds>136</TapsAndHolds>
+<Jumps>12</Jumps>
+<Holds>5</Holds>
+<Mines>0</Mines>
+<Hands>0</Hands>
+<Rolls>0</Rolls>
+<Lifts>0</Lifts>
+<Fakes>0</Fakes>
+</RadarValues>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<Disqualified>0</Disqualified>
+<Pad>33</Pad>
+<StageGuid>e593e93a-77d2-46ff-a138-6b39fee00ba8</StageGuid>
+<Guid>bc95d53b-1255-45b6-aea9-5da63e4e686c</Guid>
+</HighScore>
+</HighScoreForASongAndSteps>
+</RecentSongScores>
+</Stats>
