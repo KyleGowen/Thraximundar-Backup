@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Stats>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<RecentSongScores>
+<HighScoreForASongAndSteps>
+<Song Dir='Songs/DDR Galaxy/Chained to the Rhythm/'/>
+<Steps Difficulty='Easy' StepsType='dance-single'/>
+<HighScore>
+<Name></Name>
+<Grade>Failed</Grade>
+<Score>13</Score>
+<PercentDP>0.049200</PercentDP>
+<SurviveSeconds>29.208614</SurviveSeconds>
+<MaxCombo>18</MaxCombo>
+<StageAward></StageAward>
+<PeakComboAward></PeakComboAward>
+<Modifiers>NoHideLights, C275, FailImmediateContinue, Overhead</Modifiers>
+<DateTime>2026-07-15 16:42:50</DateTime>
+<PlayerGuid>2dde4d6e8737681e</PlayerGuid>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<ProductID>1</ProductID>
+<TapNoteScores>
+<HitMine>0</HitMine>
+<AvoidMine>0</AvoidMine>
+<CheckpointMiss>0</CheckpointMiss>
+<Miss>20</Miss>
+<W5>13</W5>
+<W4>12</W4>
+<W3>50</W3>
+<W2>37</W2>
+<W1>37</W1>
+<CheckpointHit>0</CheckpointHit>
+</TapNoteScores>
+<HoldNoteScores>
+<LetGo>4</LetGo>
+<Held>30</Held>
+<MissedHold>4</MissedHold>
+</HoldNoteScores>
+<RadarValues>
+<Stream>0.440678</Stream>
+<Voltage>0.107802</Voltage>
+<Air>0.625000</Air>
+<Freeze>0.789474</Freeze>
+<Chaos>0.049275</Chaos>
+<Notes>143.000000</Notes>
+<TapsAndHolds>136</TapsAndHolds>
+<Jumps>6</Jumps>
+<Holds>30</Holds>
+<Mines>0</Mines>
+<Hands>0</Hands>
+<Rolls>0</Rolls>
+<Lifts>0</Lifts>
+<Fakes>0</Fakes>
+</RadarValues>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<Disqualified>0</Disqualified>
+<Pad>33</Pad>
+<StageGuid>54c56c5e-4cac-4766-ae0c-f8daaae109c8</StageGuid>
+<Guid>31d25775-15be-49e8-a14c-9351d63b1e40</Guid>
+</HighScore>
+</HighScoreForASongAndSteps>
+</RecentSongScores>
+</Stats>
