@@ -1,8 +1,8 @@
 ﻿# ITGMania Backup
 
-#### Last backup: Jul 31, 2026 at 3:02 AM
+#### Last backup: Aug 1, 2026 at 3:02 AM
 
-#### Next backup: Aug 1, 2026 at 3:00 AM
+#### Next backup: Aug 2, 2026 at 3:00 AM
 
 ## 30-day digest
 
@@ -2259,4 +2259,173 @@ Time in songs this run: **KYLE** 2m 49s.
 </details>
 
 ## Changes since last backup
+
+### ITGMania/SaveAppData/MachineProfile/Stats.xml
+
+Machine-level profile and stats.
+
+```diff
+diff --git a/ITGMania/SaveAppData/MachineProfile/Stats.xml b/ITGMania/SaveAppData/MachineProfile/Stats.xml
+index b634b45..0225d1f 100644
+--- a/ITGMania/SaveAppData/MachineProfile/Stats.xml
++++ b/ITGMania/SaveAppData/MachineProfile/Stats.xml
+@@ -18,7 +18,7 @@
+ <Song Dir=''/>
+ <Course/>
+ <CurrentCombo>0</CurrentCombo>
+-<TotalSessions>2628</TotalSessions>
++<TotalSessions>2629</TotalSessions>
+ <TotalSessionSeconds>1166315</TotalSessionSeconds>
+ <TotalGameplaySeconds>574826</TotalGameplaySeconds>
+ <TotalCaloriesBurned>208989.796875</TotalCaloriesBurned>
+@@ -26,7 +26,7 @@
+ <GoalCalories>0</GoalCalories>
+ <GoalSeconds>0</GoalSeconds>
+ <LastPlayedMachineGuid>403d15c592378cca</LastPlayedMachineGuid>
+-<LastPlayedDate>2026-07-15</LastPlayedDate>
++<LastPlayedDate>2026-07-31</LastPlayedDate>
+ <TotalDancePoints>8186649</TotalDancePoints>
+ <NumExtraStagesPassed>0</NumExtraStagesPassed>
+ <NumExtraStagesFailed>0</NumExtraStagesFailed>
+@@ -133530,7 +133530,7 @@
+ </CalorieData>
+ <CoinData>
+ <LastDays>
+-<Today>2</Today>
++<Today>0</Today>
+ <Yesterday>0</Yesterday>
+ <Day2Ago>0</Day2Ago>
+ <Day3Ago>0</Day3Ago>
+@@ -133539,7 +133539,7 @@
+ <Day6Ago>0</Day6Ago>
+ </LastDays>
+ <LastWeeks>
+-<ThisWeek>2</ThisWeek>
++<ThisWeek>0</ThisWeek>
+ <LastWeek>0</LastWeek>
+ <Week02Ago>0</Week02Ago>
+ <Week03Ago>0</Week03Ago>
+@@ -133557,13 +133557,13 @@
+ <Week15Ago>0</Week15Ago>
+ <Week16Ago>0</Week16Ago>
+ <Week17Ago>0</Week17Ago>
+-<Week18Ago>1</Week18Ago>
+-<Week19Ago>2</Week19Ago>
+-<Week20Ago>0</Week20Ago>
+-<Week21Ago>0</Week21Ago>
+-<Week22Ago>1</Week22Ago>
++<Week18Ago>0</Week18Ago>
++<Week19Ago>0</Week19Ago>
++<Week20Ago>1</Week20Ago>
++<Week21Ago>2</Week21Ago>
++<Week22Ago>0</Week22Ago>
+ <Week23Ago>0</Week23Ago>
+-<Week24Ago>0</Week24Ago>
++<Week24Ago>1</Week24Ago>
+ <Week25Ago>0</Week25Ago>
+ <Week26Ago>0</Week26Ago>
+ <Week27Ago>0</Week27Ago>
+@@ -133576,18 +133576,18 @@
+ <Week34Ago>0</Week34Ago>
+ <Week35Ago>0</Week35Ago>
+ <Week36Ago>0</Week36Ago>
+-<Week37Ago>1</Week37Ago>
++<Week37Ago>0</Week37Ago>
+ <Week38Ago>0</Week38Ago>
+-<Week39Ago>0</Week39Ago>
++<Week39Ago>1</Week39Ago>
+ <Week40Ago>0</Week40Ago>
+-<Week41Ago>1</Week41Ago>
++<Week41Ago>0</Week41Ago>
+ <Week42Ago>0</Week42Ago>
+-<Week43Ago>0</Week43Ago>
++<Week43Ago>1</Week43Ago>
+ <Week44Ago>0</Week44Ago>
+ <Week45Ago>0</Week45Ago>
+-<Week46Ago>1</Week46Ago>
++<Week46Ago>0</Week46Ago>
+ <Week47Ago>0</Week47Ago>
+-<Week48Ago>0</Week48Ago>
++<Week48Ago>1</Week48Ago>
+ <Week49Ago>0</Week49Ago>
+ <Week50Ago>0</Week50Ago>
+ <Week51Ago>0</Week51Ago>
+@@ -133596,7 +133596,7 @@
+ <Sunday>6</Sunday>
+ <Monday>0</Monday>
+ <Tuesday>1</Tuesday>
+-<Wednesday>4</Wednesday>
++<Wednesday>2</Wednesday>
+ <Thursday>1</Thursday>
+ <Friday>1</Friday>
+ <Saturday>5</Saturday>
+@@ -133618,7 +133618,7 @@
+ <Hour13>0</Hour13>
+ <Hour14>2</Hour14>
+ <Hour15>2</Hour15>
+-<Hour16>2</Hour16>
++<Hour16>0</Hour16>
+ <Hour17>1</Hour17>
+ <Hour18>1</Hour18>
+ <Hour19>2</Hour19>
+```
+
+### ITGMania/SaveAppData/MachineProfile/Type.ini
+
+Machine-level profile and stats.
+
+```diff
+diff --git a/ITGMania/SaveAppData/MachineProfile/Type.ini b/ITGMania/SaveAppData/MachineProfile/Type.ini
+index 8826ad7..967aa09 100644
+--- a/ITGMania/SaveAppData/MachineProfile/Type.ini
++++ b/ITGMania/SaveAppData/MachineProfile/Type.ini
+@@ -1,5 +1,5 @@
+ [ListPosition]
+-LastPlayedDate=2026-07-15 17:20:24
++LastPlayedDate=2026-07-31 15:18:03
+ Priority=0
+ Type=Normal
+ 
+```
+
+### ITGMania/SaveAppData/Preferences.ini
+
+Game preferences (theme, options, etc.).
+
+```diff
+diff --git a/ITGMania/SaveAppData/Preferences.ini b/ITGMania/SaveAppData/Preferences.ini
+index 0e2c7fa..f435f40 100644
+--- a/ITGMania/SaveAppData/Preferences.ini
++++ b/ITGMania/SaveAppData/Preferences.ini
+@@ -66,9 +66,9 @@ DisableUploadDir=0
+ DisabledSongs=
+ DisplayAspectRatio=1.777778
+ DisplayColorDepth=32
+-DisplayHeight=1080
++DisplayHeight=720
+ DisplayId=\\.\DISPLAY2
+-DisplayWidth=1920
++DisplayWidth=1280
+ Disqualification=0
+ EasterEggs=1
+ EditClearPromptThreshold=50
+@@ -103,7 +103,7 @@ InputDeviceOrder=
+ InputDrivers=
+ Interlaced=0
+ Language=en
+-LastSeenInputDevices=MonkeyKeyboard|Mouse|Keyboard
++LastSeenInputDevices=MonkeyKeyboard|Mouse|StepManiaX|Keyboard
+ LastSeenVideoDriver=Intel(R) Graphics
+ LifeDifficultyScale=1.000000
+ LightsAheadSeconds=0.050000
+@@ -279,7 +279,7 @@ UseUnlockSystem=0
+ VideoRenderers=opengl,d3d
+ VisualDelaySeconds=0.000000
+ Vsync=1
+-Windowed=0
++Windowed=1
+ 
+ [Game-dance]
+ Announcer=
+```
 
