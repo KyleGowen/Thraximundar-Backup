@@ -1,6 +1,6 @@
 # Pack list
 
-Generated from InstallPath on 2026-08-01 03:01. Filenames only; contents not backed up.
+Generated from InstallPath on 2026-08-02 03:01. Filenames only; contents not backed up.
 
 ## Songs
 
@@ -247,6 +247,74 @@ Generated from InstallPath on 2026-08-01 03:01. Filenames only; contents not bac
   - **Zaveid The Exile**
     - Zaveid The Exile.mp3
     - Zaveid The Exile.sm
+- **Albumix 3.V**
+  - **Ambivalent**
+    - Ambivalent.mp3
+    - Ambivalent.sm
+  - **Blackout**
+    - Blackout.mp3
+    - Blackout.sm
+  - **Break The Ice (Jason Nevins Remix)**
+    - Break The Ice (Jason Nevins Remix).mp3
+    - Break The Ice (Jason Nevins Remix).sm
+  - **Checkpoint**
+    - Checkpoint.mp3
+    - Checkpoint.sm
+  - **Evacuate The Dance Floow**
+    - Evacuate The Dance Floow.mp3
+    - Evacuate The Dance Floow.sm
+  - **Fire**
+    - Fire.mp3
+    - Fire.sm
+  - **Hypnodancer**
+    - Hypnodancer.mp3
+    - Hypnodancer.sm
+  - **I Like It Loud (Myah Marie)**
+    - I Like It Loud (Myah Marie).mp3
+    - I Like It Loud (Myah Marie).sm
+  - **I'm Blue (Hannover Remix)**
+    - I'm Blue (Hannover Remix).mp3
+    - I'm Blue (Hannover Remix).sm
+  - **Karma (TOTA US Intro)**
+    - Karma (TOTA US Intro).avi
+    - Karma (TOTA US Intro).mp3
+    - Karma (TOTA US Intro).png
+    - Karma (TOTA US Intro).sm
+    - Karma (TOTA US Intro)-bg.png
+    - Karma (TOTA US Intro)-jacket.png
+  - **Mind Mapping**
+    - Mind Mapping.mp3
+    - Mind Mapping.sm
+  - **Mind Mapping (Kors K Mix)**
+    - Mind Mapping (Kors K Mix).mp3
+    - Mind Mapping (Kors K Mix).sm
+  - **Monster (DotEXE Remix)**
+    - Monster (DotEXE Remix).mp3
+    - Monster (DotEXE Remix).sm
+  - **Perfect (Electro Swing Remix)**
+    - Perfect (Electro Swing Remix).mp3
+    - Perfect (Electro Swing Remix).sm
+  - **Sinking**
+    - Sinking.mp3
+    - Sinking.sm
+  - **Spider Dance**
+    - Spider Dance.mp3
+    - Spider Dance.sm
+  - **Stronger Than You**
+    - Stronger Than You.mp3
+    - Stronger Than You.sm
+  - **The Darkness**
+    - The Darkness.mp3
+    - The Darkness.sm
+  - **Vancouver Beatdown**
+    - Vancouver Beatdown.mp3
+    - Vancouver Beatdown.sm
+  - **Witchcraft (Pegboard Nerds Remix)**
+    - Witchcraft (Pegboard Nerds Remix).mp3
+    - Witchcraft (Pegboard Nerds Remix).png
+    - Witchcraft (Pegboard Nerds Remix).sm
+    - Witchcraft (Pegboard Nerds Remix)-bg.png
+    - Witchcraft (Pegboard Nerds Remix)-jacket.png
 - **Andrei's 8th Pop-Pack**
   - **12**
     - 12.dwi
@@ -640,6 +708,7 @@ Generated from InstallPath on 2026-08-01 03:01. Filenames only; contents not bac
   - bn.png
   - CD.png
   - Garage Rewind Readme.txt
+  - Pack.ini
 - **Anthem Series - NOW That's What I Call Stamina**
   - **[M] Rock on**
     - rock anthem mix 147 - 150.ogg
@@ -824,6 +893,7 @@ Generated from InstallPath on 2026-08-01 03:01. Filenames only; contents not bac
   - bg.png
   - bn.png
   - cd.png
+  - Pack.ini
 - **Anthem Series - The Boys**
   - **Animals**
     - Animals 128.ogg
@@ -948,6 +1018,7 @@ Generated from InstallPath on 2026-08-01 03:01. Filenames only; contents not bac
   - bg.png
   - bn.png
   - cd.png
+  - Pack.ini
   - Release notes 2024.txt
 - **Anthem Series - The Girls**
   - **Barbie Girl**
@@ -1052,6 +1123,7 @@ Generated from InstallPath on 2026-08-01 03:01. Filenames only; contents not bac
   - bg.png
   - bn.png
   - cd.png
+  - Pack.ini
   - The Girls - readme.txt
 - **Banzaitv's ITG1 Home**
   - **Arcadia**
@@ -1947,6 +2019,7 @@ Generated from InstallPath on 2026-08-01 03:01. Filenames only; contents not bac
   - Ben Speirs' SPEIRMIX.png
   - extra1.crs
   - extra2.crs
+  - Pack.ini
 - **Ben Speirs' SPEIRMIX GALAXY**
   - **(Hashtag) SELFIE**
     - (Hashtag) SELFIE.avi
@@ -4077,6 +4150,7 @@ Generated from InstallPath on 2026-08-01 03:01. Filenames only; contents not bac
     - You're All I Have.ssc
     - You're All I Have-bg.png
     - You're All I Have-jacket.png
+  - Pack.ini
 - **C0m37's Originals**
   - **Ba Kkwo**
     - bakkwo.ogg
@@ -4452,7 +4526,129 @@ Generated from InstallPath on 2026-08-01 03:01. Filenames only; contents not bac
     - Umbrella.ogg
     - Umbrella.sm
   - Cosmic Evolution.png
+  - Pack.ini
   - Read Mevolution.txt
+- **Cosmic Incarnate**
+  - **Archetype**
+    - Archetype.ogg
+    - Archetype.sm
+    - Bg-Archetype.png
+    - Bn-Archetype.png
+  - **Bagpipe**
+    - Bagpipe.ogg
+    - Bagpipe.sm
+    - Bg-Bagpipe.png
+    - Bn-Bagpipe.png
+  - **Bing Bang**
+    - Bg-BingBang.png
+    - Bing Bang (Lazytown).ogg
+    - Bing Bang.sm
+    - BingBang.avi
+    - Bn-BingBang.png
+  - **Charlene (Rock Mix)**
+    - Bg-Charlene.png
+    - Bn-Charlene.png
+    - Charlene (Rock Mix).sm
+    - Charlene -Rock Mix- (Gracia).ogg
+  - **Dead Souls**
+    - Bg-Dead.png
+    - Bn-Dead.png
+    - Dead Souls (Tekno Dred).ogg
+    - Dead Souls.sm
+  - **Desert Rose**
+    - Bg-Desert.png
+    - Bn-Desert.png
+    - Desert Rose.sm
+    - Metalcan - Desert Rose.mp3
+  - **Disconnected Remix**
+    - Bg-Disconnected.png
+    - Bn-Disconnected.png
+    - Disconnected (Remix).ogg
+    - Disconnected (Remix).sm
+  - **Explosive (Remix)**
+    - Bg-Explosive.png
+    - Bn-Explosive.png
+    - Explosive (Remix).sm
+    - Explosive -Remix- (Bond).ogg
+  - **Fantasia**
+    - Bg-Fantasia.png
+    - Bn-Fantasia.png
+    - Fantasia.ogg
+    - Fantasia.sm
+  - **Fire!**
+    - Bg-Fire.png
+    - Bn-Fire.png
+    - Fire!.ogg
+    - Fire!.sm
+  - **Girlfriend**
+    - Bg-Girlfriend.png
+    - Bn-Girlfriend.png
+    - Girlfriend (Avril Lavigne).ogg
+    - Girlfriend.avi
+    - Girlfriend.sm
+  - **Hasse Mich**
+    - Bg-HasseMich.png
+    - Bn-HasseMich.png
+    - Hasse Mich.ogg
+    - Hasse Mich.sm
+  - **James Bond (Breakbeat)**
+    - Bg-Breakbeat.png
+    - Bn-Breakbeat.png
+    - James Bond (Breakbeat).sm
+    - James Bond Breakbeat (Cornandbeans).ogg
+  - **Land of the Rising Sun (Diskowarp Mix)**
+    - Bg-LandoftheRisingSun.png
+    - Bn-LandoftheRisingSun.png
+    - Land of the Rising Sun (Diskowarp Mix).ogg
+    - Land of the Rising Sun (Diskowarp Mix).sm
+  - **Mile High Spy**
+    - Bg-MileHigh.png
+    - Bn-MileHigh.png
+    - Mile High Spy (Dust Devil).ogg
+    - Mile High Spy.sm
+  - **Mr. Dinosaur**
+    - Bg-Dinosaur.png
+    - Bn-Dinosaur.png
+    - Mr. Dinosaur.ogg
+    - Mr. Dinosaur.sm
+  - **Re-Rave**
+    - Bg-Rave.png
+    - Bn-Rave.png
+    - Re-Rave.ogg
+    - Re-Rave.sm
+  - **Rush Blutonium BX**
+    - Bg-Blutonium.png
+    - Bn-Blutonium.png
+    - Rush Blutonium BX.ogg
+    - Rush Blutonium BX.sm
+  - **Summer Kamp**
+    - Bg-Kamp.png
+    - Bn-Kamp.png
+    - Summer Kamp.ogg
+    - Summer Kamp.sm
+  - **Sun Son Sunday (Orange mix)**
+    - Bg-Sun.png
+    - Bn-Sun.png
+    - Sun Son Sunday (Orange mix).sm
+    - Sun_Son_Sunday_Orange_Mix.ogg
+  - **Techno Latino**
+    - Bg-Latino.png
+    - Bn-Latino.png
+    - Techno Latino (Chucho Merchan).ogg
+    - Techno Latino.sm
+  - **What I've Done**
+    - Bg-What.png
+    - Bn-What.png
+    - What I've Done.avi
+    - What I've Done.ogg
+    - What I've Done.sm
+  - **When the Sun Goes Down (Radio Edit)**
+    - Bg-Sun.png
+    - Bn-Sun.png
+    - When The Sun Goes Down (Radio Edit).sm
+    - When The Sun Goes Down.ogg
+  - Cosmic Incarnate.png
+  - Pack.ini
 - **Cosmic Reincarnate**
   - **2 Gether 4 Ever (Clubraiders Edit)**
     - 08 - 2 Gether 4 Ever (Clubraiders Edit).ogg
@@ -4617,6 +4813,7 @@ Generated from InstallPath on 2026-08-01 03:01. Filenames only; contents not bac
     - Y2Z.sm
   - Cosmic Read Me.txt
   - CosmicReincarnate.png
+  - Pack.ini
 - **DDR 2nd Mix**
   - **AM-3P**
     - AM-3P.avi
@@ -4798,6 +4995,7 @@ Generated from InstallPath on 2026-08-01 03:01. Filenames only; contents not bac
     - TUBTHUMPING-bg.png
     - TUBTHUMPING-jacket.png
   - Dance Dance Revolution 2ndMIX (AC) (Japan).png
+  - Pack.ini
 - **DDR 3rd Mix**
   - **20,NOVEMBER (D.D.R. version)**
     - 20,NOVEMBER (D.D.R. version).ogg
@@ -5111,6 +5309,7 @@ Generated from InstallPath on 2026-08-01 03:01. Filenames only; contents not bac
     - XANADU-bg.png
     - XANADU-jacket.png
   - Dance Dance Revolution 3rdMIX (AC) (Japan).png
+  - Pack.ini
 - **DDR 4th Mix**
   - **.59**
     - .59.ogg
@@ -5510,6 +5709,7 @@ Generated from InstallPath on 2026-08-01 03:01. Filenames only; contents not bac
     - YOUR LOVE-bg.png
     - YOUR LOVE-jacket.png
   - Dance Dance Revolution 4thMIX (AC) (Japan).png
+  - Pack.ini
 - **DDR 5th Mix**
   - **17SAI**
     - 17SAI.ogg
@@ -5755,6 +5955,7 @@ Generated from InstallPath on 2026-08-01 03:01. Filenames only; contents not bac
     - TRIBAL DANCE (ALMIGHTY MIX)-bg.png
     - TRIBAL DANCE (ALMIGHTY MIX)-jacket.png
   - Dance Dance Revolution 5thMIX (AC) (Japan).png
+  - Pack.ini
 - **DDR 6th Mix (DDR Max)**
   - **BYE BYE BABY BALLOON**
     - BYE BYE BABY BALLOON.ogg
@@ -6010,6 +6211,7 @@ Generated from InstallPath on 2026-08-01 03:01. Filenames only; contents not bac
     - YOZORA NO MUKO-bg.png
     - YOZORA NO MUKO-jacket.png
   - DDRMAX -Dance Dance Revolution 6thMIX- (AC) (Japan).png
+  - Pack.ini
 - **DDR 7th Mix (DDR Max 2)**
   - **A MINUTE (EXTENDED MIX)**
     - A MINUTE (EXTENDED MIX).ogg
@@ -6339,6 +6541,7 @@ Generated from InstallPath on 2026-08-01 03:01. Filenames only; contents not bac
     - WILD RUSH(FROM NONSTOP MEGAMIX)-bg.png
     - WILD RUSH(FROM NONSTOP MEGAMIX)-jacket.png
   - DDRMAX2 -Dance Dance Revolution 7thMIX- (AC) (Japan).png
+  - Pack.ini
 - **DDR Galaxy**
   - **1103**
     - 1103.avi
@@ -8011,6 +8214,7 @@ Generated from InstallPath on 2026-08-01 03:01. Filenames only; contents not bac
     - ZVVL-bg.png
     - ZVVL-jacket.png
   - Dance Dance Revolution Galaxy.png
+  - Pack.ini
 - **DDR Massive Mania**
   - **01 ANGEL**
     - 01 ANGEL.ogg
@@ -11713,6 +11917,7 @@ Generated from InstallPath on 2026-08-01 03:01. Filenames only; contents not bac
     - ZEPHYRANTHES.sm
     - ZEPHYRANTHES-bg.png
     - ZEPHYRANTHES-jacket.png
+  - Pack.ini
 - **DDR OSC 4 - DDR**
   - **5 COLOURS IN HER HAIR**
     - **Original bg image**
@@ -12031,6 +12236,7 @@ Generated from InstallPath on 2026-08-01 03:01. Filenames only; contents not bac
     - steps.sm.old
     - WWF Bushwackers.wav
   - DDR OSC 4 - DDR.png
+  - Pack.ini
 - **DDR Xxtreme**
   - **.59**
     - .59.ogg
@@ -16161,6 +16367,1158 @@ Generated from InstallPath on 2026-08-01 03:01. Filenames only; contents not bac
     - Zorba the Greek.sm
     - Zorba the Greek-bg.png
     - Zorba the Greek-jacket.png
+  - Pack.ini
+- **dimocracy**
+  - **(R1) Hysteria**
+    - hysteria.ogg
+    - hysteria.sm
+    - hysteria.ssc
+    - hysteria_bg.png
+    - hysteria_bn.png
+  - **(R1) Megadecibel**
+    - megadecibel.ogg
+    - megadecibel.sm
+    - megadecibel.ssc
+    - megadecibel_bg.png
+    - megadecibel_bn.png
+  - **(R10) Auburn Halo**
+    - Auburn Halo.ogg
+    - Auburn Halo.ssc
+    - Auburn Halo-bga.mp4
+    - Auburn Halo-bn.mp4
+  - **(R10) Daydream**
+    - Daydream.mp4
+    - Daydream.ogg
+    - Daydream.sm
+    - Daydream.ssc
+    - Daydream-bg.png
+    - Daydream-bn.png
+  - **(R10) Flamenco House**
+    - Flamenco House.ogg
+    - Flamenco House.sm
+    - Flamenco House.ssc
+    - Flamenco_House-bg.png
+    - Flamenco_House-bn.png
+  - **(R10) La Primavera**
+    - La Primavera.ogg
+    - La Primavera.sm
+    - La Primavera.ssc
+    - pasta-bg.png
+    - pasta-bn.png
+  - **(R10) MASAMUNE**
+    - masamune.mp4
+    - masamune.ogg
+    - masamune.ssc
+    - masamune-bg.png
+    - masamune-bn.png
+  - **(R10) Pon Pon Pompoko Dai Sen Saw**
+    - pompoko.ogg
+    - pompoko.ssc
+    - pompoko-bg.png
+    - pompoko-bn.png
+    - pompoko-sd.png
+  - **(R10) POPPERS [1st]**
+    - Poppers.sm
+    - Poppers.ssc
+    - Poppers.ssc.old
+    - poppers_bg.png
+    - poppers_bn.png
+    - poppers_sd.png
+    - THRIVE OR DIE - PRIDE OR DIE Compilation - 01 foxsky - POPPERS -ft. strider-.ogg
+  - **(R10) Warp Zone**
+    - **lua**
+      - default.lua
+      - easing.lua
+      - modhelpers.lua
+      - mods.lua
+      - portal_0.png
+      - portal_1.png
+    - warp zone bg.png
+    - warp zone bn.png
+    - warp zone.ogg
+    - warp zone.ssc
+  - **(R2) AGEN WIDA**
+    - AGEN WIDA.ogg
+    - AGEN WIDA.ssc
+    - agenwida-bg.png
+    - agenwida-bn.png
+  - **(R2) Day by Day (PSYQUI remix)**
+    - day by day.ogg
+    - day by day.ssc
+    - daybyday-bg-ws.png
+    - daybyday-bn.png
+  - **(R3) Garuda**
+    - Garuda.ogg
+    - Garuda.ssc
+    - garuda_bg.png
+    - garuda_bn.png
+  - **(R3) Mantis**
+    - mantis.ogg
+    - mantis.ssc
+    - mantis-bg.png
+    - mantis-bn.png
+  - **(R4) Another Night**
+    - Another Night.ogg
+    - Another Night.sm
+    - Another Night.ssc
+    - banner.png
+    - bg.png
+  - **(R4) Subside**
+    - Subside.ogg
+    - Subside.ssc
+    - subside_bg.png
+    - subside_bn.png
+  - **(R5) Let Me Hear That**
+    - **lua**
+      - default.lua
+      - default.xml
+      - easing.lua
+      - easing.xml
+      - floor.png
+      - modhelpers.lua
+      - modhelpers.xml
+      - mods.lua
+      - sky.png
+      - sun.png
+      - text0001.png
+      - text0002.png
+      - text0003.png
+      - text0004.png
+      - text0005.png
+      - text0006.png
+      - text0007.png
+      - text0008.png
+      - text0009.png
+      - underfloor.png
+    - let me hear that.ogg
+    - let me hear that.sm
+    - let me hear that-bg.png
+    - let me hear that-bn.png
+  - **(R5) Work**
+    - work.ogg
+    - work.sm
+    - work_bg.png
+    - work_bn.png
+  - **(R6) Deathtrap**
+    - deathtrap.ogg
+    - deathtrap.ssc
+    - deathtrap-bg.png
+    - deathtrap-bn.png
+  - **(R6) House With Legs**
+    - house_with_legs.ogg
+    - house_with_legs.sm
+    - house_with_legs.ssc
+    - House_With_Legs-bg.png
+    - House_With_Legs-bn.png
+  - **(R6) Moshi**
+    - moshi.ogg
+    - moshi.sm
+    - moshi-bg.png
+    - moshi-bn.png
+  - **(R6) Waltz Capriccio**
+    - **bg**
+      - _black.png
+      - default.lua
+      - waltz-bg.png
+      - waltz-sd.png
+    - **lua**
+      - default.lua
+      - easing.lua
+      - masako_cast 2x2.png
+      - masako_idle 2x2.png
+      - modhelpers.lua
+      - mods.lua
+      - overlay2 3x4.png
+      - TopscreenActorList.txt
+    - _black.png
+    - waltz_capriccio.ogg
+    - waltz_capriccio.ssc
+    - waltz-bg.png
+    - waltz-bn.png
+    - waltz-sd.png
+  - **(R7) Champagne [1st]**
+    - Champagne.ogg
+    - Champagne.sm
+    - champagne-bg.png
+    - champagne-bn.png
+  - **(R7) G.O.A.T**
+    - Goat.sm
+    - goat_bg.png
+    - goat_bn.png
+    - Polyphia - G.O.A.T..ogg
+  - **(R7) King Jammy’s Twitching Hype Vampire Nightmare 2**
+    - King Jammy's Twitching Hype Vampire Nightmare 2.ogg
+    - King Jammy's Twitching Hype Vampire Nightmare 2.ssc
+    - King Jammy's Twitching Hype Vampire Nightmare 2-bg.png
+    - King Jammy's Twitching Hype Vampire Nightmare 2-bn.png
+  - **(R7) Ultramarine**
+    - ultramarine.ogg
+    - Ultramarine.png
+    - ultramarine.sm
+    - ultramarine.ssc
+    - Ultramarine-bg.png
+  - **(R8) Hanabi [1st]**
+    - Hanabi.ogg
+    - Hanabi.png
+    - Hanabi.sm
+    - Hanabi.ssc
+    - Hanabi-bg.png
+  - **(R8) Lovesick Asteroids**
+    - bg.png
+    - bn.png
+    - lovesick asteroids.ogg
+    - lovesick asteroids.sm
+  - **(R8) Never Ever**
+    - Never Ever.ssc
+    - neverever_bg.png
+    - neverever_bn.png
+    - R”yksopp - Never Ever (Edit).ogg
+  - **(R8) Rendezvous**
+    - rendezvous.ogg
+    - rendezvous.sm
+    - rendezvous.ssc
+    - rendezvous-bg-ws.png
+    - rendezvous-bn.png
+  - **(R9) Frustrate [1st]**
+    - bg.png
+    - bn.png
+    - frustrate.ogg
+    - frustrate.sm
+    - THE SUBWAY MANIFESTO.txt
+  - **(R9) Meet You**
+    - Meet You.ogg
+    - Meet You.sm
+    - Meet You.ssc
+    - Meet You-bg.png
+    - Meet You-bn.png
+  - **(R9) raindance**
+    - audio.ogg
+    - raindance_bg.png
+    - raindance_bn.png
+    - steps.ssc
+  - **(R9) Searching this Month's Recommendation Playlist**
+    - playlist.ogg
+    - playlist.ssc
+    - playlist-bg-ws.png
+    - playlist-bn-2.png
+  - **(R9) Sleep Cannon**
+    - sleep bg.png
+    - sleep bn.png
+    - Sleep Cannon - Nokae.ogg
+    - Sleep Cannon.ssc
+  - dimocracy-bn.png
+  - Pack.ini
+- **dimocracy 2021 - second term**
+  - **[Mix] Election Season (Early Voting)**
+    - Election Season - Side A.lrc
+    - Election Season - Side A.ogg
+    - Election Season - Side A.ssc
+    - Election Season - Side A-bg.png
+    - Election Season - Side A-bn.png
+    - mix.txt
+  - **[Mix] Election Season (Election Day)**
+    - Election Season - Side B.lrc
+    - Election Season - Side B.ogg
+    - Election Season - Side B.ssc
+    - Election Season - Side B-bg.png
+    - Election Season - Side B-bn.png
+    - mix.txt
+  - **[Mix] Election Season (Full Campaign)**
+    - Election Season.lrc
+    - Election Season.ogg
+    - Election Season.ssc
+    - Election Season-bg.png
+    - Election Season-bn.png
+    - mix.txt
+  - **7th Gear**
+    - **lua**
+      - default.lua
+      - easing.lua
+      - modhelpers.lua
+      - mods.lua
+    - 7th background.png
+    - 7th Gear.ogg
+    - 7th Gear.ssc
+    - 7th_banner.png
+  - **AM to PM**
+    - AM to PM.ogg
+    - AM to PM-bg.png
+    - AM to PM-bn.png
+    - AM_to_PM.ssc
+  - **Apollo**
+    - **lua**
+      - default.lua
+      - default.xml
+      - easing.lua
+      - easing.xml
+      - mods.lua
+    - Apollo.ogg
+    - Apollo.sm
+    - Apollo.ssc
+    - bg.png
+    - bn.png
+  - **Ascendanz**
+    - ascendanz bg.png
+    - ascendanz bn.png
+    - Ascendanz.ssc
+    - default.lua
+    - void - Ascendanz.ogg
+  - **Astronomical Optical Interferometry**
+    - aoi bg.png
+    - aoi bn.png
+    - Astronomical Optical Interferometry.ogg
+    - Astronomical_Optical_Interferometry.ssc
+  - **Benjamin**
+    - BENJAMIN - MARON (IOSYS).ogg
+    - BENJAMIN_-_MARON_IOSYS.ssc
+    - benjamin-bg.png
+    - benjamin-bn.png
+    - benjamin-jacket.png
+  - **Bi-Zon Zon Zombi**
+    - Bi-Zon Zon Zombi.ogg
+    - Bi-Zon_Zon_Zombi.ssc
+    - zombi-bg.png
+    - zombi-bn.png
+    - zombi-jk.png
+  - **Bloody Tears (RichaadEB Cover)**
+    - Bloody Tears.ssc
+    - Bloody_Tears.ogg
+    - bloody_tears_bg.png
+    - bloody_tears_bn.png
+  - **Bodies**
+    - **fg**
+      - 1.png
+      - 2.png
+      - 3.png
+      - 4.png
+      - default.lua
+    - bg.png
+    - bn.png
+    - Bodies.ogg
+    - Bodies.ssc
+  - **Bounce Trippy**
+    - Bounce Trippy.ogg
+    - Bounce_Trippy.ssc
+    - BounceTrippy-bg.png
+    - BounceTrippy-bn.png
+  - **Broken Jack O**
+    - broken jack o.ogg
+    - Broken_Jack_O.ssc
+    - brokenjack-bg.png
+    - brokenjack-bn.png
+  - **bunny-house**
+    - **lua**
+      - default.lua
+      - default.xml
+      - easing.lua
+      - easing.xml
+      - ligma_fast 1x4.png
+      - modhelpers.lua
+      - modhelpers.xml
+      - mods.lua
+    - bg.png
+    - bn.png
+    - bunny_house_cut.ogg
+    - steps.sm
+  - **Chikuwa Parfait Dayo**
+    - CKP.ogg
+    - CKP.ssc
+    - ckp-bg.png
+    - ckp-bn.png
+  - **Cockpit**
+    - 26 - cockpit (Jimmy Weckl).ogg
+    - 26_-_cockpit_Jimmy_Weckl.sm
+    - cockpit bg.png
+    - cockpit bn.png
+  - **Do It!**
+    - 13. House Rulez - Do It!.ogg
+    - 13._House_Rulez_-_Do_It.ssc
+    - doit-bg.png
+    - doit-bn.png
+  - **Electric Injury**
+    - bg.png
+    - bn.png
+    - Electric Injury.ogg
+    - Electric Injury.ssc
+  - **Energetic Engine ~ Excited Existence**
+    - CDTitleWrsw.png
+    - EEEE.ogg
+    - EEEE.ssc
+    - EEEE-bg.png
+    - EEEE-bn.png
+    - EEEE-jacket.png
+  - **Gamelan de Couple**
+    - bg-gamelan.png
+    - bn-gamelan.png
+    - Gamelan de Couple.ogg
+    - Gamelan_de_Couple.sm
+  - **Gangu Kyousou Kyoku -Shuuen-**
+    - **lua**
+      - default.lua
+      - easing.lua
+      - modhelpers.lua
+      - mods.lua
+    - bg.png
+    - bn.png
+    - chart.ssc
+    - readme.txt
+    - song.ogg
+    - use opengl rendering in graphics options
+  - **Gemini in Clockland**
+    - **lua**
+      - default.lua
+      - easing.lua
+      - modhelpers.lua
+      - mods.lua
+      - TopscreenActorList.txt
+    - bg.png
+    - bn.png
+    - Gemini in Clockland.ogg
+    - Gemini in Clockland.ssc
+    - IN CASE OF WHITE SCREEN.txt
+  - **ghetto funk**
+    - bg-ghetto.png
+    - bn-ghetto.png
+    - ghettofunk.ogg
+    - ghettofunk.ssc
+  - **Himawari Sunset - [Zaia + Talkion + Brother Mojo]**
+    - bg.png
+    - bn.png
+    - Himawari sunset.ogg
+    - Himawari sunset.ssc
+  - **I Like To Move It**
+    - I Like To Move It.ogg
+    - I Like To Move It.sm
+    - I Like To Move It.ssc
+    - iliketo bg.png
+    - iliketo bn.png
+  - **ICON KILLER - [Zaia + StarrySergal + dimo + Brother Mojo]**
+    - **lua - ICON LIFER**
+      - ICON LIFER.lua
+    - bg-icon.png
+    - bn-icon.png
+    - ICON KILLER.ssc
+    - METAROOM & MAFTI - ICON KILLER.ogg
+  - **JITTER FANTA**
+    - D21 - JITTER FANTA BG.png
+    - D21 - JITTER FANTA BN.png
+    - JITTER FANTA.ogg
+    - JITTER FANTA.ssc
+  - **Mr Simple**
+    - bn.png
+    - mr simple.ogg
+    - Mr Simple.sm
+    - Mr Simple.ssc
+  - **MURASAME**
+    - 01 - MURASAME.ogg
+    - bg-murasame.png
+    - bn-murasame.png
+    - MURASAME.ssc
+  - **Nonstop**
+    - Nonstop.ogg
+    - Nonstop.sm
+    - Nonstop.ssc
+    - nonstop-bg.png
+    - nonstop-bn.png
+    - nonstop-jacket.png
+  - **Ooh wee**
+    - bg-oohwee.png
+    - bn-oohwee.png
+    - ooh wee.ogg
+    - ooh wee.sm
+    - ooh wee.ssc
+  - **Oshakashama**
+    - banner.png
+    - bg.png
+    - dick_bg.png
+    - Oshakashama.ogg
+    - Oshakashama.ssc
+  - **panopticon**
+    - **lua**
+      - default.lua
+      - default.xml
+      - easing.lua
+      - easing.xml
+      - modhelpers.lua
+      - modhelpers.xml
+      - mods.lua
+    - panopticon.ogg
+    - panopticon.ssc
+    - Panopticon-bg.png
+    - Panopticon-bn.png
+  - **Plash plop gurgle**
+    - plash plop gurgle.ogg
+    - plash_plog_gurgle-bg.png
+    - plash_plog_gurgle-bn.mp4
+    - plash_plog_gurgle-static.png
+    - Plash_plop_gurgle.ssc
+  - **Play It Loud (Broken Robot Mix)**
+    - bg-loud.png
+    - bn-loud.png
+    - Play It Loud (Broken Robot Mix).ogg
+    - Play_It_Loud_Broken_Robot_Mix.sm
+  - **Policeman**
+    - Eva Simons   Policeman ( feat Konshens cut.ogg
+    - Policeman final 2.ssc
+    - policeman-bg.png
+    - policeman-bn.png
+    - policeman-bn-v2.png
+  - **Raspberry Railgun - [Valex + Zaia]**
+    - OSTER Project - Raspberry Railgun.ogg
+    - raspberry bg.png
+    - raspberry bn.png
+    - Raspberry Railgun.ssc
+  - **Riot**
+    - riot.ogg
+    - riot.sm
+    - riot_bg.png
+    - riot_bn.png
+  - **sairai**
+    - bg.png
+    - bn.png
+    - sairai.ogg
+    - sairai.ssc
+  - **Shopaholic (Future Garage Mix)**
+    - shopaholic bg.png
+    - shopaholic bn.png
+    - Shopaholic.ogg
+    - Shopaholic.ssc
+  - **Six String Proof**
+    - ssp.ogg
+    - ssp.sm
+    - ssp.ssc
+    - ssp-bg.png
+    - ssp-bn.png
+    - ssp-jkt.png
+  - **Spicy Trap House Drums Vol 1 Demo**
+    - Spicy Trap House Drums.ogg
+    - Spicy Trap House Drums.png
+    - Spicy Trap House Drums-bg(2).png
+    - Spicy Trap House Drums-bg.png
+    - Spicy_Trap_House_Drums.ssc
+  - **SPLAK IT DOWN - [Zaia +ruunix2]**
+    - **lua**
+      - default.lua
+      - easing.lua
+      - modhelpers.lua
+      - mods.lua
+    - bg-splak.png
+    - bn-splak.png
+    - SPLAK IT DOWN.ssc
+    - SWANK G - SPLAK IT DOWN.ogg
+  - **Spooky**
+    - **lua**
+      - **ddr**
+        - doorbg.png
+        - failed.png
+      - default.lua
+      - easing.lua
+      - modhelpers.lua
+      - mods.lua
+    - 1.09 - Spooky.ogg
+    - 1.09 - Spooky.sm
+    - 1.09 - Spooky.ssc
+    - Spooky-background.png
+    - Spooky-banner.png
+  - **Sweet Witch Girl**
+    - Sweet Witch Girl.ogg
+    - Sweet_Witch_Girl.ssc
+    - sweetwitch-bg.png
+    - sweetwitch-bn.png
+  - **symbolic**
+    - symbolic.ogg
+    - symbolic.ssc
+    - symbolic-bg.png
+    - symbolic-bn.png
+  - **Tacos**
+    - **lua**
+      - default.lua
+    - tacos bg.png
+    - tacos bn.png
+    - Tacos.ogg
+    - Tacos.ssc
+    - tacos-bn.mp4
+  - **Take Me To Pleasure Island**
+    - pleasure_island_bg.png
+    - pleasure_island_bn.png
+    - Take Me To Pleasure Island.ogg
+    - Take_Me_To_Pleasure_Island.ssc
+  - **Take me to the Future**
+    - bg.png
+    - bn.png
+    - Take_me_to_the_Future.ogg
+    - Take_me_to_the_Future.ssc
+  - **the 90s decision**
+    - bg.png
+    - bn.png
+    - the 90s decision.ogg
+    - the_90s_decision.ssc
+  - **The Floor is Lava**
+    - bg.png
+    - bn.png
+    - the floor is lava.ogg
+    - the_floor_is_lava.sm
+  - **The Haunt**
+    - banner.png
+    - bg.png
+    - The Haunt.ogg
+    - The_Haunt.ssc
+  - **this night**
+    - bg.png
+    - bn.png
+    - this night.ogg
+    - this night.sm
+    - this night.ssc
+  - **Utopia of Oz**
+    - Utopia of Oz.ogg
+    - Utopia of Oz.sm
+    - Utopia of Oz.ssc
+    - utopiaofoz-bg.png
+    - utopiaofoz-bn.png
+    - utopiaofoz-jkt.png
+  - By the people, for the people.txt
+  - dimocracy_secondterm_bn.png
+  - Pack.ini
+- **dimocracy 3 - raucous caucus**
+  - **$100 Bills ($215 Dollar Remix)**
+    - $100 Bills (Camellia's '215$-Step' Remix) [From Beat Saber Anniversary Remix].ogg
+    - $100 Bills (Camellia's '215$-Step' Remix) [From Beat Saber Anniversary Remix].ssc
+    - 100_Bills_Camellias_215-Step_Remix-BG.png
+    - 100_Bills_Camellias_215-Step_Remix-BN.png
+  - **[Mix] dimocracy 3 Nonstop Megamix**
+    - D3Mix-bg.png
+    - D3-Nonstop.png
+    - dimocracy 3 Nonstop Megamix.lrc
+    - Dimocracy 3 Nonstop Megamix.ogg
+    - dimocracy 3 Nonstop Megamix.ssc
+    - dimocracy 3 Nonstop Megamix-bn.png
+  - **[Mix] Duplicate Drama**
+    - D3-Duplicate.png
+    - D3Mix-bg.png
+    - Duplicate Drama.lrc
+    - Duplicate Drama.ogg
+    - Duplicate Drama.sm
+    - Duplicate Drama.ssc
+    - Duplicate Drama-bg.png
+    - Duplicate Drama-bn.png
+  - **[Mix] Fight Through the 170's**
+    - D3-170.png
+    - D3Mix-bg.png
+    - Fight Through the 170s.lrc
+    - Fight Through the 170s.ogg
+    - Fight Through the 170s.sm
+    - Fight Through the 170s.ssc
+    - Fight Through the 170s-bg.png
+    - Fight Through the 170s-bn.png
+  - **[Mix] HYPERDRIVE**
+    - D3-Hyper.png
+    - D3Mix-bg.png
+    - HYPERDRIVE.lrc
+    - HYPERDRIVE.ogg
+    - HYPERDRIVE.sm
+    - HYPERDRIVE.ssc
+    - HYPERDRIVE-bg.png
+    - HYPERDRIVE-bn.png
+  - **[Mix] MIX-up the 150's**
+    - D3-150.png
+    - D3Mix-bg.png
+    - MIX-up the 150s.lrc
+    - MIX-up the 150s.ogg
+    - MIX-up the 150s.sm
+    - MIX-up the 150s.ssc
+    - MIX-up the 150s-bg.png
+    - MIX-up the 150s-bn.png
+  - **[Mix] Relaxation Zone 128**
+    - D3-128.png
+    - D3Mix-bg.png
+    - Relaxation Zone 128.lrc
+    - Relaxation Zone 128.ogg
+    - Relaxation Zone 128.sm
+    - Relaxation Zone 128.ssc
+    - Relaxation Zone 128-bg.png
+    - Relaxation Zone 128-bn.png
+  - **1516**
+    - 1516.ogg
+    - 1516.ssc
+    - 1516-bg.png
+    - 1516-bn.png
+  - **ai chill**
+    - ai chill.ogg
+    - ai chill.ssc
+    - bg.png
+    - bn.png
+  - **Amazing Mirage**
+    - Amazing Mirage - bg wide.png
+    - Amazing Mirage - bg.png
+    - Amazing Mirage - bn.png
+    - Amazing Mirage.avi
+    - Amazing Mirage.ogg
+    - Amazing Mirage.sm
+    - Amazing Mirage.ssc
+    - gpopcdtitle.png
+  - **A-ra**
+    - A-ra.ogg
+    - A-ra.sm
+    - A-ra.ssc
+    - ara-bg.png
+    - ara-bn.png
+  - **Ayakashi**
+    - ayakashi bg.png
+    - ayakashi bn.png
+    - music.ogg
+    - steps.sm
+    - steps.ssc
+  - **Beat It Up**
+    - beat it up bg.png
+    - beat it up bn.png
+    - beat it up.ogg
+    - beat it up.sm
+    - beat it up.ssc
+  - **Brother Goes Away**
+    - bg.png
+    - bn.png
+    - Brother Goes Away.ogg
+    - Brother Goes Away.ssc
+  - **Creepy Crawlers**
+    - creepy crawlers.ogg
+    - creepy crawlers.ssc
+    - creepy-bg.png
+    - creepy-bn.png
+  - **Dansunanba o tomoni**
+    - bg.png
+    - bn.png
+    - Dansunanba o tomoni.ogg
+    - Dansunanba o tomoni.sm
+    - Dansunanba o tomoni.ssc
+  - **Feel It**
+    - banner.png
+    - bg.png
+    - Feel It.ogg
+    - Feel It.sm
+    - Feel It.ssc
+  - **FEEL the POWER in YOUR SOUL**
+    - FEEL the POWER in YOUR SOUL.ogg
+    - FEEL the POWER in YOUR SOUL.sm
+    - FEEL the POWER in YOUR SOUL.ssc
+    - FEEL the POWER in YOUR SOUL-bg.png
+    - FEEL the POWER in YOUR SOUL-bn.png
+    - FEEL_the_POWER_in_YOUR_SOUL.sm
+  - **Get Down**
+    - Get Down - bg.png
+    - Get Down - bn.png
+    - gpopcdtitle.png
+    - Teminite - Get Down.ogg
+    - Teminite - Get Down.ssc
+  - **Give me a break**
+    - give me a break.ogg
+    - give me a break.ssc
+    - gmab-bg.png
+    - gmab-bn.png
+  - **Groundhog (Beat Juggle) [Bill Murray]**
+    - groundhog.ogg
+    - groundhog.ssc
+    - groundhog-bg.png
+    - groundhog-bn.png
+  - **Hellfire**
+    - hellfire.ogg
+    - hellfire.sm
+    - hellfire.ssc
+    - hellfire-bg.png
+    - hellfire-bn.png
+  - **HyperTwist**
+    - Hypertwist - bg.png
+    - Hypertwist - bn.png
+    - HyperTwist.ogg
+    - HyperTwist.sm
+    - HyperTwist.ssc
+  - **I Love Love You (LLSD Mix)**
+    - gpopcdtitle.png
+    - I love love you - bg wide.png
+    - I love love you - bg.png
+    - I love love you - bn.png
+    - I Love Love You (Love Love Super Dimension Mix).ogg
+    - I Love Love You (Love Love Super Dimension Mix).sm
+    - I Love Love You (Love Love Super Dimension Mix).ssc
+  - **In My Head**
+    - bg.png
+    - bn.png
+    - Song.ogg
+    - Song.sm
+    - Song.ssc
+  - **In the past**
+    - bg.png
+    - bn.png
+    - In the past.ogg
+    - In the past.ssc
+  - **Intersection**
+    - CDTitleWrsw.png
+    - Intersection.avi
+    - Intersection.ogg
+    - Intersection.sm
+    - Intersection.ssc
+    - Intersection-bg.png
+    - Intersection-bn.png
+    - Intersection-jacket.png
+  - **Join Handz**
+    - joinhandz-bg.png
+    - joinhandz-bn.png
+    - song.ogg
+    - song.sm
+    - song.ssc
+  - **Jumpin Jumpin**
+    - bg.png
+    - bn.png
+    - Jumpin Jumpin.ogg
+    - Jumpin Jumpin.sm
+    - Jumpin Jumpin.ssc
+  - **Karachi**
+    - **lua**
+      - default.lua
+      - easing.lua
+      - modhelpers.lua
+      - mods.lua
+    - Jorts - Karachi.ogg
+    - Jorts - Karachi.ssc
+    - karachi-bg.png
+    - karachi-bn.png
+  - **keep hopping**
+    - keep hopping.ogg
+    - keep hopping.sm
+    - keep hopping.ssc
+    - keephopping-bg.png
+    - keephopping-bn.png
+  - **K-Pop Culture**
+    - K-Pop Culture.ogg
+    - K-Pop Culture.ssc
+    - K-Pop Culture-bg.png
+    - K-Pop Culture-bn.png
+  - **LIN NE KRO NE**
+    - LIN NE KRO NE.ogg
+    - LIN NE KRO NE.ssc
+    - LIN NE KRO NE-bg.png
+    - LIN NE KRO NE-bn.png
+    - LIN_NE_KRO_NE-bg.png
+    - LIN_NE_KRO_NE-bn.png
+  - **Live Nor Die - Nhato Remix**
+    - banner.png
+    - bg.png
+    - Live Nor Die - Nhato Remix.ogg
+    - Live Nor Die - Nhato Remix.sm
+    - Live Nor Die - Nhato Remix.ssc
+  - **Looting the Louvre**
+    - Looting_the_Louvre-bg.png
+    - Looting_the_Louvre-bn_2.png
+    - thief.ogg
+    - thief.ssc
+  - **Neko to Mahou to Natsuyasumi**
+    - Neko to Mahou to Natsuyasumi - bg.png
+    - Neko to Mahou to Natsuyasumi - bn.png
+    - neko to mahou to natsuyasumi.ogg
+    - neko to mahou to natsuyasumi.ssc
+  - **NO**
+    - NO-audio.ogg
+    - no-bn.png
+    - NO-chart.sm
+    - NO-chart.ssc
+  - **NULCTRL**
+    - nulctrl.ogg
+    - nulctrl.ssc
+    - nulctrlbg.png
+    - nulctrlbn.mp4
+  - **Oosanbashi(iroha chou)**
+    - Oosanbashi bg.png
+    - Oosanbashi(iroha chou).ogg
+    - Oosanbashi(iroha chou).sm
+    - Oosanbashi(iroha chou).ssc
+    - Oosanbashi.png
+  - **Pixel**
+    - bg.png
+    - bn.png
+    - lossless.png
+    - pixel.ogg
+    - pixel.ssc
+  - **Pumpin Jumpin**
+    - Pumpin Jumpin.ogg
+    - Pumpin Jumpin.ssc
+    - Pumpin Jumpin-bg.png
+    - Pumpin Jumpin-bn.png
+  - **Recombine**
+    - recombine.ogg
+    - recombine.ssc
+    - recombine-bg.png
+    - recombine-bn.png
+  - **Reptoid**
+    - Reptoid.ogg
+    - Reptoid.sm
+    - Reptoid.ssc
+    - reptoid-bg.png
+    - reptoid-bn.png
+  - **Ricochet**
+    - Ricochet.ogg
+    - Ricochet.ssc
+    - ricochet-bg.png
+    - ricochet-bn.png
+  - **Riddle**
+    - **lua**
+      - default.lua
+      - easing.lua
+      - modhelpers.lua
+      - mods.lua
+    - Riddle.ogg
+    - Riddle.ssc
+    - Riddle_bg.png
+    - Riddle_bn.png
+  - **Senseless 2**
+    - sens2-bg.png
+    - sens2-bn.png
+    - Senseless 2.ogg
+    - Senseless 2.ssc
+  - **Set Me Free**
+    - bg.png
+    - bn.png
+    - set me free.ogg
+    - set me free.ssc
+  - **space dust something something**
+    - space dust something something.ogg
+    - space dust something something.ssc
+    - space dust something something-bg.png
+    - space dust something something-bn.png
+    - space_dust_something_something-bg.png
+    - space_dust_something_something-bn.png
+  - **sparky spark**
+    - sparky.ogg
+    - sparky.sm
+    - sparky.ssc
+    - sparky-bg.png
+    - sparky-bn.png
+  - **Supercalifragilisticexpialidocious**
+    - Supercalifragilisticexpialidocious.ogg
+    - Supercalifragilisticexpialidocious.ssc
+    - supercalifragilisticexpialidocious-bg.png
+    - supercalifragilisticexpialidocious-bn.png
+  - **THE EMINEM SECTION**
+    - bg.png
+    - bn.png
+    - the eminem section.ogg
+    - the eminem section.ssc
+  - **Tir na n'Og**
+    - Thumbs.db
+    - Tir na n'Og.ogg
+    - Tir na n'Og.sm
+    - Tir na n'Og.ssc
+    - Tir_Na_Nog_-_BG.png
+    - Tir_Na_Nog_-_BN.png
+  - **Transport**
+    - transport.ogg
+    - transport.sm
+    - transport.ssc
+    - transport-bg.png
+    - transport-bn.png
+  - **Ugoki**
+    - bg.txt
+    - FeraligatrV4-cd.png
+    - Lit Lords - Ugoki.ogg
+    - Lit Lords - Ugoki.sm
+    - Lit Lords - Ugoki.ssc
+    - ugoki-bg.png
+    - ugoki-bn.png
+  - **Ultimate taste**
+    - **bg**
+      - **beat**
+        - ArtcoreBeat.png
+        - BlackBeat.png
+        - ColourBassBeat.png
+        - ComplextroBeat.png
+        - DrumstepBeat.png
+        - DubstepBeat.png
+        - FrenchcoreBeat.png
+        - HardcoreBeat.png
+        - HardstyleBeat.png
+        - HardtekBeat.png
+        - HiTechFullOnBeat.png
+        - JukeFootworkBeat.png
+        - KawaiiFutureBassBeat.png
+        - LofiHipHopBeat.png
+        - MelodicProgressiveHouseBeat.png
+        - MetalBeat.png
+        - PsychedelicTranceBeat.png
+        - PsystyleBeat.png
+        - TranceBeat.png
+        - WhiteBeat.png
+      - default.lua
+      - Outro-text.png
+      - whitebghd.png
+    - **lua**
+      - **gfx**
+        - blackbghd.png
+        - whitebghd.png
+      - **texts**
+        - Artcore-text.png
+        - BPM132.png
+        - BPM140.png
+        - BPM150.png
+        - BPM150Black.png
+        - BPM160.png
+        - BPM170.png
+        - BPM180.png
+        - BPM200.png
+        - BPM80.png
+        - ColourBass-text.png
+        - Complextro-text.png
+        - Drumstep-text.png
+        - Dubstep-text.png
+        - Frenchcore-text.png
+        - Hardcore-text.png
+        - Hardstyle-text.png
+        - Hardtek-text.png
+        - HiTechFullOn-text.png
+        - intro-text1.png
+        - intro-text2.png
+        - intro-text3.png
+        - JukeFootwork-text.png
+        - KawaiiFutureBass-text.png
+        - LofiHipHop-text.png
+        - MelodicProgessiveHouse-text.png
+        - Metal-text.png
+        - Outro-text.png
+        - PsychedelicTrance-text.png
+        - Psystyle-text.png
+        - Trance-text.png
+        - whitebghd.png
+      - default.lua
+      - default-old.lua
+      - easing.lua
+      - modhelpers.lua
+      - mods.lua
+    - 0-Break.png
+    - 0-Default.png
+    - 10-Psystyle.png
+    - 11-Dubstep.png
+    - 12-ColourBass.png
+    - 13-HiTechFullOn.png
+    - 14-JukeFootwork.png
+    - 15-LofiHipHop.png
+    - 16-KawaiiFutureBass.png
+    - 17-Drumstep.png
+    - 18-Hardcore.png
+    - 1-Hardtek.png
+    - 2-Frenchcore.png
+    - 3-Artcore.png
+    - 4-Metal.png
+    - 5-Complextro.png
+    - 6-MelodicProgressiveHouse.png
+    - 7-Trance.png
+    - 8-PsychedelicTrance.png
+    - 9-Hardstyle.png
+    - gpopcdtitle.png
+    - Ultimate Taste - bg.png
+    - Ultimate taste - bn.png
+    - Ultimate taste.ogg
+    - Ultimate taste.ssc
+  - **umbrelloid 42**
+    - umbrelloid 42.ogg
+    - umbrelloid 42.ssc
+    - umbrelloid-bg.png
+    - umbrelloid-bn.png
+  - **Unreality**
+    - bg.png
+    - bn.png
+    - unreality.ogg
+    - unreality.sm
+    - unreality.ssc
+  - **Vorarephilia**
+    - Vorarephilia bg.png
+    - Vorarephilia.ogg
+    - Vorarephilia.png
+    - Vorarephilia.ssc
+  - **Worst Plan**
+    - bg.png
+    - Worst Plan.ogg
+    - Worst Plan.sm
+    - Worst Plan.ssc
+    - worstplan-bn-2x.png
+  - bn.png
+  - full credits - omid.gg(slash)d3credits
+  - Pack.ini
+- **Easy As Pie 6**
+  - **365**
+    - 365.dwi
+    - 365.ogg
+    - 365.sm
+  - **Bad Guy**
+    - Bad Guy.ogg
+    - Bad Guy.sm
+  - **Bar Bar Bar**
+    - 1437.sm
+    - Bar Bar Bar.ogg
+  - **Calypso**
+    - Calypso.ogg
+    - Calypso.sm
+  - **H”g**
+    - Hog.ogg
+    - Hog.sm
+  - **Hate, Don't Hate!**
+    - 1444.sm
+    - Hate, Don't Hate.ogg
+  - **Helt Seri”st**
+    - Helt Seriost.ogg
+    - Helt seriost.sm
+  - **Hope & Glory**
+    - Hope & Glory.ogg
+    - Hope & Glory.sm
+  - **Kiss me**
+    - Kiss me.dwi
+    - Kiss Me.ogg
+    - Kiss me.sm
+  - **Lay Your Love On Me**
+    - 101-bwo-lay_your_love_on_me-tix.sm
+    - Lay Your Love On Me.ogg
+  - **Life**
+    - Life.ogg
+    - Life.sm
+  - **Like I Do**
+    - Like I Do.ogg
+    - Like I Do.sm
+  - **Lucky Lucky**
+    - Lucky Lucky.ogg
+    - Lucky Lucky.sm
+  - **Mmm Yeah ft. Pitbull**
+    - Mmm Yeah.ogg
+    - Mmm Yeah.sm
+  - **NoNoNo**
+    - NoNoNo.ogg
+    - NoNoNo.sm
+  - **Papasito**
+    - Papasito.sm
+    - Yakikaze  Cashew - Papasito feat. KuTiNA.ogg
+  - **Rollercoaster**
+    - Rollercoaster.ogg
+    - Rollercoaster.sm
+  - **Romancing Layer**
+    - Romancing Layer.ogg
+    - Romancing Layer.sm
+  - **Run Run**
+    - Run Run.ogg
+    - Run Run.sm
+  - **Skywalking**
+    - Skywalking.ogg
+    - Skywalking.sm
+  - **So Am I**
+    - Ava Max - So Am I.ogg
+    - Ava Max - So Am I.sm
+  - **Super Trouper**
+    - Super Trouper.ogg
+    - Super Trouper.sm
+  - **Unz Unz**
+    - Unz Unz.ogg
+    - Unz Unz.sm
+  - **White Noise**
+    - Thumbs.db
+    - White Noise.ogg
+    - White Noise.sm
+  - EAP6.png
+  - EAP6-BN.png
+  - pack.ini
 - **Elemwarr Misc**
   - **(10)PostX - Foonmix**
     - post_x.ogg
@@ -17099,6 +18457,103 @@ Generated from InstallPath on 2026-08-01 03:01. Filenames only; contents not bac
     - WORMHOLE-bg.png
     - WORMHOLE-jacket.png
   - FloorFiller - DIAMOND DISCO.png
+- **Flow Actualized 2**
+  - **123 Round Again**
+    - 123 Round Again.ssc
+    - 123round.ogg
+    - bn.png
+  - **21 Reasons**
+    - 21 Reasons (feat. Ella Henderson).ssc
+    - 21reeeeee.ogg
+    - bn.png
+  - **33 Max Verstappen**
+    - bn.png
+    - max.ogg
+    - max.ssc
+  - **Answer**
+    - Answer.ogg
+    - Answer.ssc
+    - bn.png
+  - **Beat Of The Drum**
+    - Beat Of The Drum.ogg
+    - Beat Of The Drum.ssc
+    - bn.png
+  - **Body Talk**
+    - bn.png
+    - Body Talk.ogg
+    - Body Talk.ssc
+  - **Breathe**
+    - bn.png
+    - Curbi - Breathe.ogg
+    - Curbi - Breathe.ssc
+  - **Britney**
+    - bn.png
+    - Britney.ogg
+    - Britney.ssc
+  - **Disco Tool (Taiki Nulight Remix)**
+    - bn.png
+    - Disco Tool (Taiki Nulight Remix).ogg
+    - Disco Tool (Taiki Nulight Remix).ssc
+  - **DUWML**
+    - bn.png
+    - DUWML.ogg
+    - DUWML.ssc
+  - **Friday**
+    - bn.png
+    - Friday.ogg
+    - Friday.ssc
+  - **Gate One**
+    - cd-title-OMGUKK.png
+    - Gate One - BG.png
+    - Gate One - BN.png
+    - Gate One.ogg
+    - Gate One.ssc
+  - **GIMME LOVE**
+    - bn.png
+    - GIMME LOVE.ogg
+    - GIMME LOVE.ssc
+  - **GOES AROUND**
+    - GOES AROUND.ogg
+    - GOES AROUND.ssc
+    - goes-around-banner.png
+    - goes-around-bg.png
+    - goes-around-jacket.png
+  - **Goin Up**
+    - bn.png
+    - Valentino Khan - Goin Up.ogg
+    - Valentino Khan - Goin Up.ssc
+  - **Hyperdawn**
+    - aran - Hyperdawn.ogg
+    - aran - Hyperdawn.ssc
+    - bn.png
+  - **LA NOCHE**
+    - bn.png
+    - LA NOCHE.ogg
+    - LA NOCHE.ssc
+  - **Losing Sleep**
+    - bn.png
+    - Losing Sleep cut.ogg
+    - Losing Sleep.ssc
+  - **PAGA DIOS**
+    - bn.png
+    - CA7RIEL & Paco Amoroso - PAGA DIOS.ogg
+    - CA7RIEL & Paco Amoroso - PAGA DIOS.ssc
+  - **Thunderstorm**
+    - bn.png
+    - cdtitle.png
+    - thunderstorm.ogg
+    - thunderstorm.ssc
+  - **Una Hora Mas**
+    - bn.png
+    - Una Hora Mas cut.ogg
+    - Una Hora Mas.ssc
+  - **ZOOM**
+    - bn.png
+    - ZOOM.ogg
+    - ZOOM.ssc
+  - banner.png
+  - cdtitle.png
+  - Pack.ini
 - **Freyja's Grimoire**
   - **[M] Electronic Coke**
     - Electric Coke 135 audio fix.ogg
@@ -17897,6 +19352,7 @@ Generated from InstallPath on 2026-08-01 03:01. Filenames only; contents not bac
     - Zodiac-banner.png
     - Zodiac-bg.png
   - group banner.png
+  - Pack.ini
 - **In The Groove 2**
   - **!**
     - !.ogg
@@ -18232,6 +19688,7 @@ Generated from InstallPath on 2026-08-01 03:01. Filenames only; contents not bac
     - We Know What To Do-banner.png
     - We Know What To Do-bg.png
   - group banner.png
+  - Pack.ini
 - **In The Groove 3 OG**
   - **Aliens in our Midst**
     - Aliens in our Midst.mpg
@@ -18823,6 +20280,7 @@ Generated from InstallPath on 2026-08-01 03:01. Filenames only; contents not bac
     - Y2Z-bg.png
     - Y2Z-bn.png
   - Group Banner.png
+  - Pack.ini
 - **In The Groove Rebirth**
   - **30 Minutes Harder**
     - 30 Minutes Harder.ogg
@@ -19252,6 +20710,487 @@ Generated from InstallPath on 2026-08-01 03:01. Filenames only; contents not bac
     - You Wanna Me-bg.png
     - You Wanna Me-bn.png
   - In The Groove Rebirth group banner.png
+  - Pack.ini
+- **In The Groove Rebirth 2**
+  - **120 Red**
+    - 120 Red.ogg
+    - 120 Red.sm
+    - 120 Red.sm.old
+    - 120 Red.sm.oldsync
+    - 120 Red-bg.png
+    - 120 Red-bn.png
+  - **8-Bit Trip**
+    - 8-Bit Trip.ogg
+    - 8-Bit Trip.sm
+    - 8-Bit Trip.sm.oldsync
+    - 8-Bit Trip-bg.png
+    - 8-Bit Trip-bn.png
+  - **A Yodeler In Texas**
+    - A Yodeler In Texas.ogg
+    - A Yodeler In Texas.sm
+    - A Yodeler In Texas.sm.oldsync
+    - A Yodeler In Texas-bg.png
+    - A Yodeler In Texas-bn.png
+  - **Abaddon**
+    - Abaddon.ogg
+    - Abaddon.sm
+    - Abaddon.sm.oldsync
+    - Abaddon-bg.png
+    - Abaddon-bn.png
+  - **Anubis (Necro-Industrial Mix)**
+    - Anubis (Necro-Industrial Mix).ogg
+    - Anubis (Necro-Industrial Mix).sm
+    - Anubis (Necro-Industrial Mix).sm.oldsync
+    - Anubis (Necro-Industrial Mix)-bg.png
+    - Anubis (Necro-Industrial Mix)-bn.png
+  - **Chronon**
+    - Chronon.ogg
+    - Chronon.sm
+    - Chronon.sm.oldsync
+    - Chronon-bg.png
+    - Chronon-bn.png
+  - **Colossus**
+    - Colossus.ogg
+    - Colossus.sm
+    - Colossus.sm.oldsync
+    - Colossus-bg.png
+    - Colossus-bn.png
+  - **Crowdpleaser (Drop the Mic Mix)**
+    - Crowdpleaser (Drop the Mic Mix).ogg
+    - Crowdpleaser (Drop the Mic Mix).sm
+    - Crowdpleaser (Drop the Mic Mix).sm.oldsync
+    - Crowdpleaser (Drop the Mic Mix)-bg.png
+    - Crowdpleaser (Drop the Mic Mix)-bn.png
+  - **Death From Above**
+    - Death From Above.ogg
+    - Death From Above.sm
+    - Death From Above.sm.oldsync
+    - Death From Above-bg.png
+    - Death From Above-bn.png
+  - **Destination (Relapse)**
+    - Destination (Relapse).ogg
+    - Destination (Relapse).sm
+    - Destination (Relapse).sm.oldsync
+    - Destination (Relapse)-bg.png
+    - Destination (Relapse)-bn.png
+  - **Destination ~Rapture~**
+    - Destination Rapture.ogg
+    - Destination Rapture.sm
+    - Destination Rapture.sm.oldsync
+    - Destination Rapture-bg.png
+    - Destination Rapture-bn.png
+  - **Disconnected Apotheosis**
+    - Disconnected Apotheosis.ogg
+    - Disconnected Apotheosis.sm
+    - Disconnected Apotheosis.sm.oldsync
+    - Disconnected Apotheosis-bg.png
+    - Disconnected Apotheosis-bn.png
+  - **Disconnected Exodus**
+    - Disconnected Exodus.ogg
+    - Disconnected Exodus.sm
+    - Disconnected Exodus.sm.oldsync
+    - Disconnected Exodus-bg.png
+    - Disconnected Exodus-bn.png
+  - **Disconnected HK Retro Mix**
+    - Disconnected HK Retro Mix.ogg
+    - Disconnected HK Retro Mix.sm
+    - Disconnected HK Retro Mix.sm.oldsync
+    - Disconnected HK Retro Mix-bg.png
+    - Disconnected HK Retro Mix-bn.png
+  - **Dr. Boom-Bombay**
+    - Dr. Boom-Bombay.ogg
+    - Dr. Boom-Bombay.sm
+    - Dr. Boom-Bombay.sm.oldsync
+    - Dr. Boom-Bombay-bg.png
+    - Dr. Boom-Bombay-bn.png
+  - **Dynamo**
+    - Dynamo.ogg
+    - Dynamo.sm
+    - Dynamo.sm.oldsync
+    - Dynamo-bg.png
+    - Dynamo-bn.png
+  - **Early Birdie**
+    - Early Birdie.ogg
+    - Early Birdie.sm
+    - Early Birdie.sm.oldsync
+    - Early Birdie-bg.png
+    - Early Birdie-bn.png
+  - **Elder God Shrine**
+    - Elder God Shrine.ogg
+    - Elder God Shrine.sm
+    - Elder God Shrine.sm.oldsync
+    - Elder God Shrine-bg.png
+    - Elder God Shrine-bn.png
+  - **End of Line**
+    - End of Line.ogg
+    - End of Line.sm
+    - End of Line.sm.oldsync
+    - End of Line-bg.png
+    - End of Line-bn.png
+  - **eXtend the Rave**
+    - eXtend the Rave.ogg
+    - eXtend the Rave.sm
+    - eXtend the Rave.sm.oldsync
+    - eXtend the Rave-bg.png
+    - eXtend the Rave-bn.png
+  - **Faster Than**
+    - Faster Than.ogg
+    - Faster Than.sm
+    - Faster Than.sm.oldsync
+    - Faster Than-bg.png
+    - Faster Than-bn.png
+  - **Fluffy Pants**
+    - Fluffy Pants.ogg
+    - Fluffy Pants.sm
+    - Fluffy Pants.sm.oldsync
+    - Fluffy Pants-bg.png
+    - Fluffy Pants-bn.png
+  - **Force Feedback**
+    - Force Feedback.ogg
+    - Force Feedback.sm
+    - Force Feedback.sm.oldsync
+    - Force Feedback-bg.png
+    - Force Feedback-bn.png
+  - **Heads or Tails**
+    - Heads or Tails.ogg
+    - Heads or Tails.sm
+    - Heads or Tails.sm.oldsync
+    - Heads or Tails-bg.png
+    - Heads or Tails-bn.png
+  - **Home Alone**
+    - Home Alone.ogg
+    - Home Alone.sm
+    - Home Alone.sm.oldsync
+    - Home Alone-bg.png
+    - Home Alone-bn.png
+  - **Hot Air Balloon**
+    - Hot Air Balloon.ogg
+    - Hot Air Balloon.sm
+    - Hot Air Balloon.sm.oldsync
+    - Hot Air Balloon-bg.png
+    - Hot Air Balloon-bn.png
+  - **I Can Rock**
+    - I Can Rock.ogg
+    - I Can Rock.sm
+    - I Can Rock.sm.oldsync
+    - I Can Rock-bg.png
+    - I Can Rock-bn.png
+  - **I Justified**
+    - I Justified.ogg
+    - I Justified.sm
+    - I Justified.sm.oldsync
+    - I Justified-bg.png
+    - I Justified-bn.png
+  - **Jets'n'Guns**
+    - Jets'n'Guns.ogg
+    - Jets'n'Guns.sm
+    - Jets'n'Guns.sm.oldsync
+    - Jets'n'Guns-bg.png
+    - Jets'n'Guns-bn.png
+  - **Kitty Cat**
+    - Kitty Cat.ogg
+    - Kitty Cat.sm
+    - Kitty Cat.sm.oldsync
+    - Kitty Cat-bg.png
+    - Kitty Cat-bn.png
+  - **La Samba de la Vida**
+    - La Samba de la Vida.ogg
+    - La Samba de la Vida.sm
+    - La Samba de la Vida.sm.oldsync
+    - La Samba de la Vida-bg.png
+    - La Samba de la Vida-bn.png
+  - **Land Of The Lost**
+    - Land Of The Lost.ogg
+    - Land Of The Lost.sm
+    - Land Of The Lost.sm.oldsync
+    - Land Of The Lost-bg.png
+    - Land Of The Lost-bn.png
+  - **Lo-Fi-Hi-Fi**
+    - Lo-Fi-Hi-Fi.ogg
+    - Lo-Fi-Hi-Fi.sm
+    - Lo-Fi-Hi-Fi.sm.oldsync
+    - Lo-Fi-Hi-Fi-bg.png
+    - Lo-Fi-Hi-Fi-bn.png
+  - **London Bridge**
+    - London Bridge.ogg
+    - London Bridge.sm
+    - London Bridge.sm.oldsync
+    - London Bridge-bg.png
+    - London Bridge-bn.png
+  - **Mamboleo**
+    - Mamboleo.ogg
+    - Mamboleo.sm
+    - Mamboleo.sm.oldsync
+    - Mamboleo-bg.png
+    - Mamboleo-bn.png
+  - **Marrakech**
+    - Marrakech.ogg
+    - Marrakech.sm
+    - Marrakech.sm.oldsync
+    - Marrakech-bg.png
+    - Marrakech-bn.png
+  - **Maslo**
+    - Maslo.ogg
+    - Maslo.sm
+    - Maslo.sm.oldsync
+    - Maslo-bg.png
+    - Maslo-bn.png
+  - **Medicine**
+    - Medicine.ogg
+    - Medicine.sm
+    - Medicine.sm.oldsync
+    - Medicine-bg.png
+    - Medicine-bn.png
+  - **Mekkanika**
+    - Mekkanika.ogg
+    - Mekkanika.sm
+    - Mekkanika.sm.oldsync
+    - Mekkanika-bg.png
+    - Mekkanika-bn.png
+  - **Mermaid Forest**
+    - Mermaid Forest.ogg
+    - Mermaid Forest.sm
+    - Mermaid Forest.sm.oldsync
+    - Mermaid Forest-bg.png
+    - Mermaid Forest-bn.png
+  - **Move It Groove It**
+    - Move It Groove It.ogg
+    - Move It Groove It.sm
+    - Move It Groove It.sm.oldsync
+    - Move It Groove It-bg.png
+    - Move It Groove It-bn.png
+  - **Night Flight to Tokyo**
+    - Night Flight to Tokyo.ogg
+    - Night Flight to Tokyo.sm
+    - Night Flight to Tokyo.sm.oldsync
+    - Night Flight to Tokyo-bg.png
+    - Night Flight to Tokyo-bn.png
+  - **Nihilism 2009**
+    - Nihilism 2009.sm
+    - Nihilism 2009-bg.png
+    - Nihilism 2009-bn.png
+    - Nihilism_2009.ogg
+  - **Ninja Boy**
+    - Ninja Boy.ogg
+    - Ninja Boy.sm
+    - Ninja Boy.sm.oldsync
+    - Ninja Boy-bg.png
+    - Ninja Boy-bn.png
+  - **No Gravity**
+    - No Gravity.ogg
+    - No Gravity.sm
+    - No Gravity.sm.oldsync
+    - No Gravity-bg.png
+    - No Gravity-bn.png
+  - **Onyx**
+    - Onyx.ogg
+    - Onyx.sm
+    - Onyx.sm.oldsync
+    - Onyx-bg.png
+    - Onyx-bn.png
+  - **Paradise**
+    - Paradise.ogg
+    - Paradise.sm
+    - Paradise.sm.oldsync
+    - Paradise-bg.png
+    - Paradise-bn.png
+  - **Paradise (Smiley)**
+    - Paradise (Smiley).ogg
+    - Paradise (Smiley).sm
+    - Paradise (Smiley).sm.oldsync
+    - Paradise (Smiley)-bg.png
+    - Paradise (Smiley)-bn.png
+  - **Paranormal**
+    - Paranormal.ogg
+    - Paranormal.sm
+    - Paranormal.sm.oldsync
+    - Paranormal-bg.png
+    - Paranormal-bn.png
+  - **Passionate Embrace**
+    - Passionate Embrace.ogg
+    - Passionate Embrace.sm
+    - Passionate Embrace.sm.oldsync
+    - Passionate Embrace-bg.png
+    - Passionate Embrace-bn.png
+  - **Phoning to Mercury**
+    - Phoning to Mercury.ogg
+    - Phoning to Mercury.sm
+    - Phoning to Mercury-bg.png
+    - Phoning to Mercury-bn.png
+  - **Prison of Passion**
+    - Prison Of Passion.ogg
+    - Prison of Passion.sm
+    - Prison of Passion.sm.oldsync
+    - Prison of Passion-bg.png
+    - Prison of Passion-bn.png
+  - **Queen's Tragedy**
+    - Queen's Tragedy.ogg
+    - Queen's Tragedy.sm
+    - Queen's Tragedy.sm.oldsync
+    - Queen's Tragedy-bg.png
+    - Queen's Tragedy-bn.png
+  - **Rock Robotic**
+    - Rock Robotic.ogg
+    - Rock Robotic.sm
+    - Rock Robotic.sm.oldsync
+    - Rock Robotic-bg.png
+    - Rock Robotic-bn.png
+  - **Royal Flush**
+    - Royal Flush.ogg
+    - Royal Flush.sm
+    - Royal Flush.sm.oldsync
+    - Royal Flush-bg.png
+    - Royal Flush-bn.png
+  - **Savanna**
+    - Savanna.ogg
+    - Savanna.sm
+    - Savanna.sm.oldsync
+    - Savanna-bg.png
+    - Savanna-bn.png
+  - **Shaboom**
+    - Shaboom.ogg
+    - Shaboom.sm
+    - Shaboom.sm.oldsync
+    - Shaboom-bg.png
+    - Shaboom-bn.png
+  - **Shamrock Shebang**
+    - Shamrock Shebang.ogg
+    - Shamrock Shebang.sm
+    - Shamrock Shebang.sm.oldsync
+    - Shamrock Shebang-bg.png
+    - Shamrock Shebang-bn.png
+  - **Sleep Tight**
+    - Sleep Tight.ogg
+    - Sleep Tight.sm
+    - Sleep Tight.sm.oldsync
+    - Sleep Tight-bg.png
+    - Sleep Tight-bn.png
+  - **So Alive**
+    - So Alive.ogg
+    - So Alive.sm
+    - So Alive.sm.oldsync
+    - So Alive-bg.png
+    - So Alive-bn.png
+  - **Soul Flight**
+    - Soul Flight.ogg
+    - Soul Flight.sm
+    - Soul Flight.sm.oldsync
+    - Soul Flight-bg.png
+    - Soul Flight-bn.png
+  - **Spiral 2005**
+    - Spiral 2005.ogg
+    - Spiral 2005.sm
+    - Spiral 2005.sm.oldsync
+    - Spiral 2005-bg.png
+    - Spiral 2005-bn.png
+  - **Stupid Smile**
+    - Stupid Smile.ogg
+    - Stupid Smile.sm
+    - Stupid Smile.sm.oldsync
+    - Stupid Smile-bg.png
+    - Stupid Smile-bn.png
+  - **Style on my Speed Dial**
+    - Style on my Speed Dial.ogg
+    - Style on my Speed Dial.sm
+    - Style on my Speed Dial.sm.oldsync
+    - Style on my Speed Dial-bg.png
+    - Style on my Speed Dial-bn.png
+  - **Superfantastico**
+    - Superfantastico.ogg
+    - Superfantastico.sm
+    - Superfantastico.sm.oldsync
+    - Superfantastico-bg.png
+    - Superfantastico-bn.png
+  - **Sweat Shop**
+    - Sweat Shop.ogg
+    - Sweat Shop.sm
+    - Sweat Shop.sm.oldsync
+    - Sweat Shop-bg.png
+    - Sweat Shop-bn.png
+  - **Tango Uniform**
+    - Tango Uniform.ogg
+    - Tango Uniform.sm
+    - Tango Uniform-bg.png
+    - Tango Uniform-bn.png
+  - **Team Rocket**
+    - Team Rocket.ogg
+    - Team Rocket.sm
+    - Team Rocket.sm.oldsync
+    - Team Rocket-bg.png
+    - Team Rocket-bn.png
+  - **Tell Me A Story (Compendium Mix)**
+    - Tell Me A Story (Compendium Mix).ogg
+    - Tell Me A Story (Compendium Mix).sm
+    - Tell Me A Story (Compendium Mix).sm.oldsync
+    - Tell Me A Story (Compendium Mix)-bg.png
+    - Tell Me A Story (Compendium Mix)-bn.png
+  - **The Great Bouzouki**
+    - The Great Bouzouki.ogg
+    - The Great Bouzouki.sm
+    - The Great Bouzouki.sm.oldsync
+    - The Great Bouzouki-bg.png
+    - The Great Bouzouki-bn.png
+  - **The Man With The Tuxedo**
+    - The Man With The Tuxedo.ogg
+    - The Man With The Tuxedo.sm
+    - The Man With The Tuxedo.sm.oldsync
+    - The Man With The Tuxedo-bg.png
+    - The Man With The Tuxedo-bn.png
+  - **Tike Tike Kardi**
+    - Tike Tike Kardi.ogg
+    - Tike Tike Kardi.sm
+    - Tike Tike Kardi.sm.oldsync
+    - Tike Tike Kardi-bg.png
+    - Tike Tike Kardi-bn.png
+  - **Toy Soldiers**
+    - Toy Soldiers.ogg
+    - Toy Soldiers.sm
+    - Toy Soldiers.sm.oldsync
+    - Toy Soldiers-bg.png
+    - Toy Soldiers-bn.png
+  - **tsugihagi Construction**
+    - tsugihagi Construction.ogg
+    - tsugihagi Construction.sm
+    - tsugihagi Construction.sm.oldsync
+    - tsugihagi Construction-bg.png
+    - tsugihagi Construction-bn.png
+  - **Vae Victis (Woe To The Vanquished)**
+    - Vae Victis (Woe To The Vanquished).ogg
+    - Vae Victis (Woe To The Vanquished).sm
+    - Vae Victis (Woe To The Vanquished).sm.oldsync
+    - Vae Victis (Woe to the Vanquished)-bg.png
+    - Vae Victis (Woe to the Vanquished)-bn.png
+  - **Venetian Spirit**
+    - Venetian Spirit.ogg
+    - Venetian Spirit.sm
+    - Venetian Spirit.sm.oldsync
+    - Venetian Spirit-bg.png
+    - Venetian Spirit-bn.png
+  - **Walking Down Waterfalls**
+    - Walking Down Waterfalls.ogg
+    - Walking Down Waterfalls.sm
+    - Walking Down Waterfalls.sm.oldsync
+    - Walking Down Waterfalls-bg.png
+    - Walking Down Waterfalls-bn.png
+  - **z reboot**
+    - **Effects**
+      - D. Bernardone.png
+      - default.xml
+      - ITG1.png
+      - ITG2.png
+      - ITG3.png
+      - ITGR.png
+      - ITGR2.png
+      - M. Simmons.png
+      - R. Uchima.png
+      - S. Venkat.png
+    - Z Reboot.ogg
+    - Z Reboot.sm
+    - Z Reboot.sm.oldsync
+    - Z-Reboot.png
+    - Z-Reboot-bn.png
+  - pack.ini
+  - Rebirth 2.png
 - **jAAAmes Originals**
   - **94 Hours**
     - 94 Hours.ogg
@@ -19912,6 +21851,7 @@ Generated from InstallPath on 2026-08-01 03:01. Filenames only; contents not bac
   - Exclusives - Fall 2011.txt
   - Exclusives - Spring 2011.txt
   - Feb2011.png
+  - Pack.ini
   - ReadMeNoSeriouslyReadMe.docx
   - Simfile Database.xlsx
 - **JBEAN Exclusives - 2012**
@@ -20742,6 +22682,7 @@ Generated from InstallPath on 2026-08-01 03:01. Filenames only; contents not bac
   - Exclusives - Fall 2012.txt
   - Exclusives - Spring 2012.txt
   - Exclusives - Winter 2012.txt
+  - Pack.ini
   - ReadMeNoSeriouslyReadMe.docx
   - Simfile Database.xlsx
 - **JBEAN Exclusives - 2013**
@@ -21247,6 +23188,7 @@ Generated from InstallPath on 2026-08-01 03:01. Filenames only; contents not bac
   - Exclusives - Spring 2013 EX.txt
   - Exclusives - Spring 2013.txt
   - Exclusives - Winter 2013.txt
+  - Pack.ini
   - ReadMeNoSeriouslyReadMe.docx
   - Simfile Database.xlsx
 - **JBEAN Exclusives - 2014**
@@ -21993,6 +23935,7 @@ Generated from InstallPath on 2026-08-01 03:01. Filenames only; contents not bac
     - Zulu Headcrush.sm
   - Exclusives - Fall 2014.txt
   - Exclusives - Spring 2014.txt
+  - Pack.ini
   - ReadMeNoSeriouslyReadMe.docx
   - Simfile Database.xlsx
 - **JBEAN Originals - 2018**
@@ -22394,6 +24337,7 @@ Generated from InstallPath on 2026-08-01 03:01. Filenames only; contents not bac
     - You Spin Me Right Round (Like A Record) 2009.ogg
     - You Spin Me Right Round (Like A Record) 2009.sm
   - Group Banner.png
+  - Pack.ini
 - **JBEAN Originals - 2019**
   - **%% (Eung Eung)**
     - %% (Eung Eung).mpg
@@ -22905,6 +24849,7 @@ Generated from InstallPath on 2026-08-01 03:01. Filenames only; contents not bac
     - Young Forever.ogg
     - Young Forever.sm
   - Group_BN.png
+  - Pack.ini
 - **JBEAN Originals - 2020**
   - **100 Facts (Cool English Version)**
     - 100 Facts (Cool English Version).ogg
@@ -23356,6 +25301,7 @@ Generated from InstallPath on 2026-08-01 03:01. Filenames only; contents not bac
     - Zot Ani.ogg
     - Zot Ani.sm
   - Group-BN.png
+  - Pack.ini
 - **JBEAN Originals - 2021**
   - **Adrenalina**
     - Adrenalina.ogg
@@ -23658,6 +25604,7 @@ Generated from InstallPath on 2026-08-01 03:01. Filenames only; contents not bac
     - You've Got Mail.ogg
     - You've Got Mail.sm
   - Group-BN.png
+  - Pack.ini
 - **JBEAN Originals - 2022**
   - **2 Die 4**
     - 2 Die 4.ogg
@@ -23918,6 +25865,7 @@ Generated from InstallPath on 2026-08-01 03:01. Filenames only; contents not bac
   - **Pleasure (feat. Alexx Mack)**
     - BN.png
   - Group-BN.png
+  - Pack.ini
 - **JBEAN Originals - 2023**
   - **All She Wants (feat. Paris Hilton)**
     - All She Wants (feat. Paris Hilton).ogg
@@ -24120,6 +26068,7 @@ Generated from InstallPath on 2026-08-01 03:01. Filenames only; contents not bac
     - XLR8.ogg
     - XLR8.sm
   - Group-BN.png
+  - Pack.ini
 - **JBEAN Originals - 2024**
   - **After Hours**
     - After Hours.ogg
@@ -24322,6 +26271,7 @@ Generated from InstallPath on 2026-08-01 03:01. Filenames only; contents not bac
     - We Will Rave.ogg
     - We Will Rave.sm
   - Group-BN.png
+  - Pack.ini
 - **JBEAN Originals - 2025**
   - **#eurodab**
     - #eurodab.ogg
@@ -24524,6 +26474,7 @@ Generated from InstallPath on 2026-08-01 03:01. Filenames only; contents not bac
     - Yum.ogg
     - Yum.sm
   - Group-BN.png
+  - Pack.ini
 - **K-Pop Demon Hunters**
   - **Free**
     - free.ogg
@@ -24587,12 +26538,16 @@ Generated from InstallPath on 2026-08-01 03:01. Filenames only; contents not bac
     - A Different Point of View.png
     - A Different Point of View.sm
     - A Different Point of View-bg.png
+    - PoV.png
+    - PoV.png.pre-upscale-20260802-012230.bak
   - **A Little Respect**
     - A Little Respect.ogg
     - A Little Respect.png
     - A Little Respect.ssc
     - A Little Respect-bg.png
     - A Little Respect-jacket.png
+    - banner.png
+    - banner.png.pre-upscale-20260802-011310.bak
   - **About Damn Time (Purple Disco Machine Remix)**
     - ABOUT DAMN TIME (PURPLE DISCO MACHINE REMIX).mp4
     - ABOUT DAMN TIME (PURPLE DISCO MACHINE REMIX).ogg
@@ -24764,6 +26719,9 @@ Generated from InstallPath on 2026-08-01 03:01. Filenames only; contents not bac
     - FF4- Boss theme.dwi
     - FF4- Boss theme.mp3
     - FF4- Boss theme.png
+    - FF4- Boss theme.png.pre-approved-preview-20260801-2359.bak
+    - FF4- Boss theme.png.pre-crisp-20260801-2345.bak
+    - FF4- Boss theme.png.rejected-crisp-20260801-2359.bak
     - FF4- Boss theme.sm
     - FF4- Boss theme-bg.png
   - **Break My Heart**
@@ -24809,7 +26767,9 @@ Generated from InstallPath on 2026-08-01 03:01. Filenames only; contents not bac
     - Children (Dream ver.).png
     - Children (Dream ver.).sm
     - Children (Dream ver.)-bg.png
+    - Children (Dream ver.)-bn.png
   - **Chill (Dr. Mario)**
+    - bn.png
     - Chill (Dr. Mario).dwi
     - Chill (Dr. Mario).ogg
     - Chill (Dr. Mario).png
@@ -26051,189 +28011,6 @@ Generated from InstallPath on 2026-08-01 03:01. Filenames only; contents not bac
     - You Spin Me Round-bg.png
     - You Spin Me Round-Jacket.png
   - Automatic (L.A. Riots Remix).zip
-- **Misc. Collected (DDR Ratings)**
-  - **19-2000 (Soulchild Remix)**
-    - 19-2000 (Soulchild Remix).avi
-    - 19-2000 (Soulchild Remix).ogg
-    - 19-2000 (Soulchild Remix).png
-    - 19-2000 (Soulchild Remix).sm
-    - 19-2000 (Soulchild Remix)-bg.png
-  - **As The Rush Comes**
-    - As The Rush Comes.mp3
-    - As The Rush Comes.png
-    - As The Rush Comes.sm
-    - As The Rush Comes-bg.png
-  - **Blue Monday**
-    - Blue Monday.ogg
-    - Blue Monday.png
-    - Blue Monday.sm
-    - Blue Monday-bg.png
-    - Blue Monday-jacket.png
-  - **Brimful Of Asha (Norman Cook Remix Edit)**
-    - Brimful Of Asha (Norman Cook Remix Edit).ogg
-    - Brimful Of Asha (Norman Cook Remix Edit).png
-    - Brimful Of Asha (Norman Cook Remix Edit).sm
-    - Brimful Of Asha (Norman Cook Remix Edit)-bg.png
-    - Brimful Of Asha (Norman Cook Remix Edit)-jacket.png
-  - **Bulletproof**
-    - Bulletproof.mp3
-    - Bulletproof.png
-    - Bulletproof.sm
-    - Bulletproof-bg.png
-    - Bulletproof-jacket.png
-  - **Busy Child**
-    - Busy Child.ogg
-    - Busy Child.png
-    - Busy Child.sm
-    - Busy Child.ssc
-    - Busy Child-bg.png
-    - Busy Child-jacket.png
-  - **Canned Heat**
-    - Canned Heat.lrc
-    - Canned Heat.ogg
-    - Canned Heat.png
-    - Canned Heat.sm
-    - Canned Heat.ssc
-    - Canned Heat-bg.png
-    - Canned Heat-jacket.png
-  - **Day 'n' Nite (Crookers Remix)**
-    - Day 'n' Nite (Crookers Remix).dwi
-    - Day 'n' Nite (Crookers Remix).mp3
-    - Day 'n' Nite (Crookers Remix).png
-    - Day 'n' Nite (Crookers Remix).sm
-    - Day 'n' Nite (Crookers Remix)-bg.png
-  - **Destination Calabria**
-    - Destination Calabria.avi
-    - Destination Calabria.dwi
-    - Destination Calabria.ogg
-    - Destination Calabria.png
-    - Destination Calabria.sm
-    - Destination Calabria-bg.png
-    - Destination Calabria-jacket.png
-  - **Ding Dong Song**
-    - Ding Dong Song.mp3
-    - Ding Dong Song.png
-    - Ding Dong Song.sm
-    - Ding Dong Song-bg.png
-  - **Dr. Jones**
-    - Dr. Jones.mp3
-    - Dr. Jones.png
-    - Dr. Jones.sm
-    - Dr. Jones-bg.png
-  - **I'm so humble**
-    - I'm so humble.mp3
-    - I'm so humble.png
-    - I'm so humble.sm
-    - I'm so humble-bg.png
-  - **Infinity 2008 (Klaas Vocal Edit)**
-    - inf.png
-    - Infinity 2008 (Klaas Vocal Edit).dwi
-    - Infinity 2008 (Klaas Vocal Edit).mp3
-    - Infinity 2008 (Klaas Vocal Edit).png
-    - Infinity 2008 (Klaas Vocal Edit).sm
-    - Infinity 2008 (Klaas Vocal Edit)-bg.png
-  - **It's You**
-    - It's You.ogg
-    - It's You.png
-    - It's You.sm
-    - It's You.ssc
-    - It's You-bg.png
-  - **Kickstart My Heart -Dance With The Dead Remix-**
-    - Kickstart My Heart -Dance With The Dead Remix-.mp3
-    - Kickstart My Heart -Dance With The Dead Remix-.png
-    - Kickstart My Heart -Dance With The Dead Remix-.sm
-    - Kickstart My Heart -Dance With The Dead Remix--bg.png
-  - **Lollipop (Candyman)**
-    - Lollipop (Candyman).ogg
-    - Lollipop (Candyman).png
-    - Lollipop (Candyman).sm
-    - Lollipop (Candyman)-bg.png
-  - **NEW YORK CITY BOY (LANGE Remix)**
-    - NEW YORK CITY BOY (LANGE Remix).ogg
-    - NEW YORK CITY BOY (LANGE Remix).png
-    - NEW YORK CITY BOY (LANGE Remix).sm
-    - NEW YORK CITY BOY (LANGE Remix).ssc
-    - NEW YORK CITY BOY (LANGE Remix)-bg.png
-    - NEW YORK CITY BOY (LANGE Remix)-jacket.png
-  - **P.H.U.K**
-    - P.H.U.K..mp3
-    - P.H.U.K..png
-    - P.H.U.K..sm
-    - P.H.U.K..ssc
-    - P.H.U.K.-bg.png
-  - **Pain**
-    - Pain.ogg
-    - Pain.png
-    - Pain.sm
-    - Pain.ssc
-    - Pain-bg.png
-    - Pain-jacket.png
-  - **PONPONPON**
-    - PONPONPON.mp4
-    - PONPONPON.ogg
-    - PONPONPON.png
-    - PONPONPON.ssc
-    - PONPONPON-bg.png
-    - PONPONPON-jacket.png
-  - **Project 100**
-    - Project 100.ogg
-    - Project 100.sm
-  - **Shakawkaw**
-    - Shakawkaw.ogg
-    - Shakawkaw.png
-    - Shakawkaw.sm
-    - Shakawkaw.ssc
-    - Shakawkaw-bg.png
-    - Shakawkaw-jacket.png
-  - **SKIBIDI (Romantic Version)**
-    - SKIBIDI (Romantic Version).avi
-    - SKIBIDI (Romantic Version).lrc
-    - SKIBIDI (Romantic Version).ogg
-    - SKIBIDI (Romantic Version).png
-    - SKIBIDI (Romantic Version).sm
-    - SKIBIDI (Romantic Version).ssc
-    - SKIBIDI (Romantic Version)-bg.png
-    - SKIBIDI (Romantic Version)-jacket.png
-  - **SUNSET (Michael Cassette Remix)**
-    - SUNSET (Michael Cassette Remix).mp3
-    - SUNSET (Michael Cassette Remix).png
-    - SUNSET (Michael Cassette Remix).sm
-    - SUNSET (Michael Cassette Remix).ssc
-    - SUNSET (Michael Cassette Remix)-bg.png
-    - SUNSET (Michael Cassette Remix)-jacket.png
-  - **Uno [Gameoson]**
-    - Uno [Gameoson].avi
-    - Uno [Gameoson].ogg
-    - Uno [Gameoson].png
-    - Uno [Gameoson].sm
-    - Uno [Gameoson].ssc
-    - Uno [Gameoson]-bg.png
-    - Uno [Gameoson]-jacket.png
-  - **Virtual Insanity**
-    - Virtual Insanity.dwi
-    - Virtual Insanity.mp3
-    - Virtual Insanity.png
-    - Virtual Insanity.sm
-    - Virtual Insanity-bg.png
-  - **Voodoo People**
-    - Voodoo People.ogg
-    - Voodoo People.png
-    - Voodoo People.sm
-    - Voodoo People-bg.png
-    - Voodoo People-jacket.png
-  - **WE NO SPEAK AMERICANO**
-    - WE NO SPEAK AMERICANO.mp3
-    - WE NO SPEAK AMERICANO.png
-    - WE NO SPEAK AMERICANO.sm
-    - WE NO SPEAK AMERICANO-bg.png
-    - WE NO SPEAK AMERICANO-jacket.png
-  - **Weapon of Choice**
-    - Weapon of Choice.ogg
-    - Weapon of Choice.png
-    - Weapon of Choice.sm
-    - Weapon of Choice.ssc
-    - Weapon of Choice-bg.png
-    - Weapon of Choice-jacket.png
 - **Mute Sims Anthology**
   - **Another Winter**
     - anotherwinter.ogg
@@ -26660,6 +28437,552 @@ Generated from InstallPath on 2026-08-01 03:01. Filenames only; contents not bac
     - zora-bg.png
     - zora-bn.png
     - zora-jk.png
+- **Ninajirachi's girl EDM (disc 1) special edition**
+  - **[Bonus] Angel Music (dj g2g & Vrod Beatz remix)**
+    - angelmusic2-bg.png
+    - angelmusic2-bn.png
+    - angelmusicg2g.ogg
+    - angelmusicg2g.ssc
+  - **[Mix] Fire U Up**
+    - fire-bg.png
+    - fire-bn.png
+    - fireuup-2.ogg
+    - fireuup-fakemines.ssc
+  - **[Mix] girl EDM Full Album**
+    - album-bg.png
+    - full-bn.png
+    - girl EDM full album-3.ogg
+    - girl EDM full album-fakemines.ssc
+  - **[Mix] girl EDM Side A**
+    - album-bg.png
+    - girl EDM side A-4.ogg
+    - girl EDM side A-fakemines.ssc
+    - sidea-bn.png
+  - **[Mix] girl EDM Side B**
+    - album-bg.png
+    - girl EDM side b-3.ogg
+    - girl EDM side b-fakemines.ssc
+    - sideb-bn.png
+  - **[Mix] Tire U Out**
+    - tire-bg.png
+    - tire-bn.png
+    - tireuout-4.ogg
+    - tireuout-fakemines.ssc
+  - **[Mix] Warm U Up**
+    - warmup-bg.png
+    - warmup-bn.png
+    - warmuup.ogg
+    - warmuup.ssc
+  - **__bias-check**
+    - bias-postkernel-01-Angel-Music.png
+    - bias-postkernel-02-1x1.png
+    - bias-postkernel-03-Ninacamina.png
+    - bias-postkernel-04-Undo-U.png
+    - bias-postkernel-05-Wayside.png
+    - bias-postkernel-06-Ice-u-out.png
+    - bias-postkernel-07-Kota-On-The-Plane.png
+    - bias-postkernel-08-Hand-on-my-heart.png
+    - bias-postkernel-09-Undo-U-4x4-Mix.png
+    - bias-postkernel-10-girl-EDM.png
+    - bias-postkernel-10-girl-EDM-CSP.png
+    - bias-postkernel-10-girl-EDM-DSP.png
+    - bias-postkernel-10-girl-EDM-ESP.png
+    - bias-postkernel-10-girl-EDM-X3SP.png
+    - bias-postkernel-11-1x1-SONIKKU-Remix.png
+    - bias-postkernel-12-Ninacamina-KAVARI-Remix.png
+    - bias-postkernel-13-Undo-U-Himera-Remix.png
+    - bias-postkernel-14-Wayside-Wave-Racer-Remix.png
+    - bias-postkernel-15-Ice-U-Out-DJ-Something-Remix.png
+    - bias-postkernel-16-Kota-On-The-Plane-MGNA-Crrrta-Remix.png
+    - bias-postkernel-16-Kota-On-The-Plane-MGNA-Crrrta-Remix-CSP.png
+    - bias-postkernel-16-Kota-On-The-Plane-MGNA-Crrrta-Remix-ESP.png
+    - bias-postkernel-17-Hand-On-My-Heart-Miss-Jay-Remix.png
+    - bias-postkernel-18-Girl-EDM-Galen-Tipton-Remix.png
+    - bias-postkernel-19-Angel-Music-DJMegan23-Remix.png
+    - bias-postkernel-20-Ninacamina-Bamster-Remix.png
+    - bias-postkernel-21-Angel-Music-Fresh-Hex-Remix.png
+    - bias-postkernel-23-All-I-Am.png
+    - bias-postkernel-Bonus-Angel-Music-dj-g2g-Vrod-Beatz-Remix.png
+    - bias-postkernel-Mix-Fire-U-Up.png
+    - bias-postkernel-Mix-Fire-U-Up-CSP.png
+    - bias-postkernel-Mix-Fire-U-Up-DSP.png
+    - bias-postkernel-Mix-Fire-U-Up-ESP.png
+    - bias-postkernel-Mix-girl-EDM-Full-Album.png
+    - bias-postkernel-Mix-girl-EDM-Full-Album-CSP.png
+    - bias-postkernel-Mix-girl-EDM-Full-Album-DSP.png
+    - bias-postkernel-Mix-girl-EDM-Full-Album-ESP.png
+    - bias-postkernel-Mix-girl-EDM-Side-A.png
+    - bias-postkernel-Mix-girl-EDM-Side-A-CSP.png
+    - bias-postkernel-Mix-girl-EDM-Side-A-ESP.png
+    - bias-postkernel-Mix-girl-EDM-Side-B.png
+    - bias-postkernel-Mix-girl-EDM-Side-B-CSP.png
+    - bias-postkernel-Mix-girl-EDM-Side-B-DSP.png
+    - bias-postkernel-Mix-girl-EDM-Side-B-ESP.png
+    - bias-postkernel-Mix-Tire-U-Out.png
+    - bias-postkernel-Mix-Tire-U-Out-CSP.png
+    - bias-postkernel-Mix-Tire-U-Out-ESP.png
+    - bias-postkernel-Mix-Warm-U-Up.png
+  - **01 - Angel Music**
+    - angelmusic.ssc
+    - angelmusic-bg.png
+    - angelmusic-bn.png
+    - angelmusic-s.ogg
+  - **02 - 1x1**
+    - 1x1.ssc
+    - 1x1-2.ogg
+    - 1x1-bg.png
+    - 1x1-bn.png
+  - **03 - Ninacamina**
+    - ninacamina.ogg
+    - ninacamina.ssc
+    - ninacamina-bg.png
+    - ninacamina-bn.png
+  - **04 - Undo U**
+    - Undo U.ogg
+    - Undo U.ssc
+    - undou-bg.png
+    - undou-bn.png
+  - **05 - Wayside**
+    - wayside.ogg
+    - wayside.ssc
+    - wayside-bg.png
+    - wayside-bn.png
+  - **06 - Ice U Out**
+    - iceuout.ogg
+    - iceuout.ssc
+    - iceuout-bg.png
+    - iceuout-bn.png
+  - **07 - Kota On The Plane**
+    - Kota On The Plane.ogg
+    - Kota On The Plane.ssc
+    - kota-bg.png
+    - kota-bn.png
+  - **08 - Hand on my heart**
+    - handon-bg.png
+    - handon-bn.png
+    - handonmyheart-fakemines.ssc
+    - handonmyheart-s.ogg
+  - **09 - Undo U (4by4 Mix)**
+    - Undo U 4x4 Mix.ogg
+    - Undo U 4x4 Mix.ssc
+    - undo-bg.png
+    - undou-bn.png
+  - **10 - girl EDM**
+    - girledm3.ogg
+    - girledm-bg.png
+    - girledm-bn.png
+    - girledm-fakemines.ssc
+  - **11 - 1x1 (SONIKKU Remix)**
+    - 1x1-bg.png
+    - 1x1-bn.png
+    - 1x1sonikku.ogg
+    - 1x1sonikku.ssc
+  - **12 - Ninacamina (KAVARI Remix)**
+    - Ninacamina (KAVARI Remix).ogg
+    - Ninacamina (KAVARI Remix).ssc
+    - ninacamina-bg.png
+    - ninacamina-bn.png
+  - **13 - Undo U (Himera Remix)**
+    - undou-bg.png
+    - undou-bn.png
+    - undouhimera.ssc
+    - undouhimera-s4.ogg
+  - **14 - Wayside (Wave Racer Remix)**
+    - wayside-bg.png
+    - wayside-bn.png
+    - waysidewave.ogg
+    - waysidewave-fakemines.ssc
+  - **15 - Ice U Out (DJ Something Remix)**
+    - iceuout-bg.png
+    - iceuout-bn.png
+    - iceuoutdjsomething.ssc
+    - iceuoutdjsomething3.ogg
+  - **16 - Kota On The Place (MGNA Crrrta Remix)**
+    - kota-bg.png
+    - kota-bn.png
+    - kotamgnacarta.ogg
+    - kotamgnacarta-fakemines.ssc
+  - **17 - Hand On My Heart (Miss Jay Remix)**
+    - Hand On My Heart (Miss Jay Remix).ogg
+    - Hand On My Heart (Miss Jay Remix).ssc
+    - handon-bg.png
+    - handon-bn.png
+  - **18 - Girl EDM (Galen Tipton Remix)**
+    - girledm-bg.png
+    - girledm-bn.png
+    - girledmgalen.ssc
+    - girledmgalen-s.ogg
+  - **19 - Angel Music (DJMegan23 Remix)**
+    - angelmusic-bg.png
+    - angelmusic-bn.png
+    - angelmusicdjmegan-fakemines.ssc
+    - angelmusicdjmegan-s.ogg
+  - **20 - Ninacamina (Bamster Remix)**
+    - ninacaminabamster.ogg
+    - ninacaminabamster.ssc
+    - ninacamina-bg.png
+    - ninacamina-bn.png
+  - **21 - Angel Music (Fresh Hex Remix)**
+    - **lua**
+      - _script.lua
+      - default.lua
+      - easing.lua
+      - modhelpers.lua
+      - mods.lua
+    - angelmusic-bg.png
+    - angelmusic-bn.png
+    - angelmusicfreshhex.ssc
+    - angelmusicfreshhex3.ogg
+  - **22 - Wayside (Live Edit)**
+    - wayside-bg.png
+    - wayside-bn.png
+    - waysideliveedit.ogg
+    - waysideliveedit.ssc
+  - **23 - All I Am**
+    - alliam.ssc
+    - alliam-bg.png
+    - alliam-bn.png
+    - alliam-s4.ogg
+  - **24 - Angel Music (umru Remix)**
+    - Angel Music (umru Remix).ssc
+    - angelmusic-bg.png
+    - angelmusic-bn.png
+    - angelmusicumru-s.ogg
+  - Pack.ini
+  - pack.png
+- **Notice Me Benpai 3**
+  - **All Yours**
+    - .DS_Store
+    - All Yours.ogg
+    - All Yours.sm
+    - All Yours.ssc
+    - All Yours-bg.png
+    - All Yours-bn.png
+    - All Yours-jacket.png
+    - cd-title-Benpai.png
+  - **Azalea**
+    - .DS_Store
+    - Azalea.ogg
+    - Azalea.sm
+    - Azalea.ssc
+    - azalea-bg.png
+    - azalea-bn.png
+    - azalea-jacket.png
+    - cd-title-Benpai.png
+  - **But I Go Back**
+    - .DS_Store
+    - BIGB-bg.png
+    - BIGB-bn.png
+    - BIGB-jacket.png
+    - But I Go Back.ogg
+    - But I Go Back.sm
+    - But I Go Back.ssc
+    - cd-title-Benpai.png
+  - **Canvas**
+    - .DS_Store
+    - Canvas.ogg
+    - Canvas.sm
+    - Canvas.ssc
+    - Canvas-bg.png
+    - Canvas-bn.png
+    - Canvas-jacket.png
+    - cd-title-Benpai.png
+  - **Coffee Stomp**
+    - **alt gfx**
+      - .DS_Store
+      - Coffee Stomp-bg.png
+      - Coffee Stomp-bg-wide.png
+      - Coffee Stomp-bn.png
+      - Coffee Stomp-jacket.png
+    - .DS_Store
+    - cd-title-Benpai.png
+    - Coffee Stomp.ogg
+    - Coffee Stomp.sm
+    - Coffee Stomp.ssc
+    - Coffee Stomp-bg.png
+    - Coffee Stomp-bn.png
+    - Coffee Stomp-jacket.png
+  - **Crave**
+    - .DS_Store
+    - cd-title-Benpai.png
+    - Crave.ogg
+    - Crave.sm
+    - Crave.ssc
+    - Crave-bg.png
+    - Crave-bg-wide.png
+    - Crave-bn.png
+    - Crave-jacket.png
+  - **Diet Funk**
+    - .DS_Store
+    - cd-title-Benpai.png
+    - Diet Funk.ogg
+    - Diet Funk.sm
+    - Diet Funk.ssc
+    - Diet Funk-bg.png
+    - Diet Funk-bg-wide.png
+    - Diet Funk-bn.png
+    - Diet Funk-jacket.png
+  - **DISCONNECTION**
+    - .DS_Store
+    - cd-title-Benpai.png
+    - DISCONNECTION.ogg
+    - DISCONNECTION.sm
+    - DISCONNECTION.ssc
+    - disconnection-bg.png
+    - disconnection-bn.png
+    - disconnection-jacket.png
+  - **Dogworld Trailer (Sunnexo Remix)**
+    - **orig gfx**
+      - dogworld trailer-bg.png
+      - dogworld trailer-bn.png
+      - dogworld trailer-jacket.png
+    - .DS_Store
+    - cd-title-Benpai.png
+    - Dogworld Trailer.ogg
+    - Dogworld Trailer.sm
+    - Dogworld Trailer.ssc
+    - Dogworld Trailer-bg.png
+    - Dogworld Trailer-bn.png
+    - Dogworld Trailer-jacket.png
+  - **Everything**
+    - .DS_Store
+    - cd-title-Benpai.png
+    - Everything.ogg
+    - Everything.sm
+    - Everything.ssc
+    - everything-bg.png
+    - everything-bn.png
+    - everything-jacket.png
+  - **Final Flash Flight**
+    - **lua**
+      - _script.lua
+      - default.lua
+      - easing.lua
+      - modhelpers.lua
+      - mods.lua
+    - .DS_Store
+    - cd-title-Benpai.png
+    - Final Flash Flight.ogg
+    - Final Flash Flight.sm
+    - Final Flash Flight.ssc
+    - Final_Flash_Flight-bg.png
+    - Final_Flash_Flight-bg-wide.png
+    - Final_Flash_Flight-bn.png
+    - Final_Flash_Flight-jacket.png
+  - **Get Down**
+    - .DS_Store
+    - cd-title-Benpai.png
+    - get down.ogg
+    - get down.sm
+    - get down.ssc
+    - get down-bg.png
+    - get down-bn.png
+    - get down-jacket.png
+  - **Hedemo NeYo (LASA edit)**
+    - .DS_Store
+    - cd-title-Benpai.png
+    - Hedemo NeYo (LASA edit).ogg
+    - Hedemo NeYo (LASA edit).sm
+    - Hedemo NeYo (LASA edit).sm.old
+    - Hedemo NeYo (LASA edit).ssc
+    - Hedemo NeYo (LASA edit).ssc.old
+    - Hedemoneyo-bg.png
+    - Hedemoneyo-bn.png
+    - Hedemoneyo-jacket.png
+  - **Huis Clos**
+    - .DS_Store
+    - cd-title-Benpai.png
+    - Huis Clos.sm
+    - Huis Clos.ssc
+    - huis clos-bg.png
+    - huis clos-bn.png
+    - huis clos-jacket.png
+    - MEMODEMO - Huis Clos.ogg
+  - **Igaku**
+    - **lua**
+      - _ScreenGameplayAFT.lua
+      - bg.lua
+      - default.lua
+      - easing.lua
+      - lib.lua
+      - multitap_data.lua
+      - ScreenGameplayAFT.lua
+      - subtitle.mp4
+      - template.lua
+      - TV-Error.mp4
+      - yu_logo.png
+    - .DS_Store
+    - cdtitle.png
+    - Igaku.ogg
+    - Igaku.sm
+    - Igaku.ssc
+    - Igaku-bg.png
+    - Igaku-bn.png
+    - Igaku-jacket.png
+  - **In My Head (rabidZen Remix)**
+    - .DS_Store
+    - cd-title-Benpai.png
+    - In My Head (rabidZen Remix).ogg
+    - In My Head (rabidZen Remix).sm
+    - In My Head (rabidZen Remix).ssc
+    - In My Head-bg.png
+    - In My Head-bg-wide.png
+    - In My Head-bn.png
+    - In My Head-jacket.png
+  - **Jellyfish Tunnel**
+    - .DS_Store
+    - cd-title-Benpai.png
+    - Jellyfish Tunnel.ogg
+    - Jellyfish Tunnel.sm
+    - Jellyfish Tunnel.ssc
+    - Jellyfish Tunnel-bg.png
+    - Jellyfish Tunnel-bg-wide.png
+    - Jellyfish Tunnel-bn.png
+    - Jellyfish Tunnel-jacket.png
+  - **Journey**
+    - .DS_Store
+    - cd-title-Benpai.png
+    - Journey.ogg
+    - Journey.sm
+    - Journey.ssc
+    - journey-bg.png
+    - journey-bn.png
+    - journey-jacket.png
+  - **Koko Ni Iru (Inverted Silence & aevi Remix)**
+    - .DS_Store
+    - cd-title-Benpai.png
+    - Koko ni Iru.ogg
+    - Koko ni Iru.sm
+    - Koko ni Iru.ssc
+    - koko ni iru-bg.png
+    - koko ni iru-bn.png
+    - koko ni iru-jacket.png
+  - **Never Count On Me**
+    - .DS_Store
+    - cd-title-Benpai.png
+    - Never Count On Me.ogg
+    - Never Count On Me.sm
+    - Never Count On Me.ssc
+    - never count on me-bg.png
+    - never count on me-bn.png
+    - never count on me-jacket.png
+  - **Orange Ocean (moyu Remix)**
+    - .DS_Store
+    - cd-title-Benpai.png
+    - Orange Ocean (moyu Remix).ogg
+    - Orange Ocean (moyu Remix).sm
+    - Orange Ocean (moyu Remix).ssc
+    - Orange Ocean-bg.png
+    - Orange Ocean-bn.png
+    - Orange Ocean-jacket.png
+  - **Orbit**
+    - .DS_Store
+    - cd-title-Benpai.png
+    - Orbit.ogg
+    - Orbit.sm
+    - Orbit.ssc
+    - orbit-bg.png
+    - orbit-bn.png
+    - orbit-jacket.png
+  - **Pixelsurfing**
+    - .DS_Store
+    - cd-title-Benpai.png
+    - Pixelsurfing.ogg
+    - Pixelsurfing.sm
+    - Pixelsurfing.ssc
+    - Pixelsurfing-bg.png
+    - Pixelsurfing-bn.png
+    - Pixelsurfing-jacket.png
+  - **Shiny Sky**
+    - .DS_Store
+    - cd-title-Benpai.png
+    - Shiny Sky.ogg
+    - Shiny Sky.sm
+    - Shiny Sky.ssc
+    - Shiny Sky-bg.png
+    - Shiny Sky-bn.png
+    - Shiny Sky-jacket.png
+  - **Somebody's Everything**
+    - .DS_Store
+    - cd-title-Benpai.png
+    - Somebody's Everything.ogg
+    - Somebody's Everything.sm
+    - Somebody's Everything.ssc
+    - Somebody's Everything-bg.png
+    - Somebody's Everything-bn.png
+    - Somebody's Everything-jacket.png
+  - **Someone Special**
+    - .DS_Store
+    - cd-title-Benpai.png
+    - Someone Special.ogg
+    - Someone Special.sm
+    - Someone Special.ssc
+    - Someone Special-bg.png
+    - Someone Special-bn.png
+    - Someone Special-jacket.png
+  - **The Circle**
+    - .DS_Store
+    - cd-title-Benpai.png
+    - The Circle.ogg
+    - The Circle.sm
+    - The Circle.ssc
+    - the circle-bg.png
+    - the circle-bn.png
+    - the circle-jacket.png
+  - **Thwek**
+    - .DS_Store
+    - cd-title-Benpai.png
+    - Thwek.ogg
+    - Thwek.sm
+    - Thwek.ssc
+    - thwek_jacket.png
+    - thwek-bg.png
+    - thwek-bn.png
+  - **Trust**
+    - .DS_Store
+    - cd-title-Benpai.png
+    - Trust.ogg
+    - Trust.sm
+    - Trust.ssc
+    - trust_jacket.png
+    - trust-bg.png
+    - trust-bn.png
+  - **willingless**
+    - .DS_Store
+    - cd-title-Benpai.png
+    - willingless.ogg
+    - willingless.sm
+    - willingless.ssc
+    - willingless-bg.png
+    - willingless-bg-wide.png
+    - willingless-bn.png
+    - willingless-jacket.png
+  - **Yeah!**
+    - .DS_Store
+    - cd-title-Benpai.png
+    - Yeah!.ogg
+    - Yeah!.sm
+    - Yeah!.sm.old
+    - Yeah!.ssc
+    - Yeah!.ssc.old
+    - yeah_jacket.png
+    - yeah-bg.png
+    - yeah-bn.png
+  - **Ziqqurat**
+    - .DS_Store
+    - cd-title-Benpai.png
+    - Ziqqurat.ogg
+    - Ziqqurat.sm
+    - Ziqqurat.ssc
+    - Ziqqurat-bg.png
+    - Ziqqurat-bg-wide-dark.png
+    - Ziqqurat-bg-wide-light.png
+    - Ziqqurat-bn.mp4
+    - Ziqqurat-bn-still.png
+    - Ziqqurat-jacket.png
+  - .DS_Store
+  - Notice Me Benpai 3-bn.png
+  - Pack.ini
 - **Pendulum**
   - **9,000 Miles**
     - 9000miles.ogg
@@ -26812,6 +29135,7 @@ Generated from InstallPath on 2026-08-01 03:01. Filenames only; contents not bac
     - watercolour.sm
     - watercolourbg.png
     - watercolourbn.png
+  - Pack.ini
   - zgroup.png
 - **Pendulum Act II**
   - **90,000 Miles**
@@ -26914,6 +29238,7 @@ Generated from InstallPath on 2026-08-01 03:01. Filenames only; contents not bac
     - voodoopeople.sm
     - voodoopeoplebg.png
     - voodoopeoplebn.png
+  - Pack.ini
   - ygroup.png
 - **Pendulum Act III**
   - **Comprachicos**
@@ -27083,8 +29408,354 @@ Generated from InstallPath on 2026-08-01 03:01. Filenames only; contents not bac
     - witchcraft.sm
     - witchcraftbg.png
     - witchcraftbn.png
+  - Pack.ini
   - pendulumact3stats.xls
   - xgroupbn.png
+- **Stamina RPG 10**
+  - **[11] Drama**
+    - drama.ogg
+    - drama.sm
+  - **[11] Ievan Polkka (Medium)**
+    - Korpiklaani - Ievan Polkka.ogg
+    - Korpiklaani - Ievan Polkka.sm
+  - **[11] Into You (N-Vision Remix Edit)**
+    - nvision.ogg
+    - nvision.sm
+  - **[11] kagaribi**
+    - kagaribi.ogg
+    - kagaribi.sm
+  - **[11] Out Of Space**
+    - Out Of Space.sm
+    - The Prodigy - Out Of Space.ogg
+  - **[11] Rule The World FP 124**
+    - ruletheworldfp124.ogg
+    - ruletheworldfp124.sm
+  - **[11] Safe And Sound FB 120**
+    - Safe And Sound.ogg
+    - Safe And Sound.sm
+  - **[11] Sky High 202X**
+    - RoBKTA - Sky High 202X.ogg
+    - Sky High 202X.sm
+  - **[11] TURBO**
+    - Turbo.ogg
+    - Turbo.sm
+  - **[12] Alexandrite II (MM)**
+    - AlexandriteII-MM.ogg
+    - AlexandriteII-MM.sm
+  - **[12] Byoushin Wo Kamu**
+    - Byoushin Wo Kamu.ogg
+    - Byoushin Wo Kamu.sm
+  - **[12] Cold As Ice (PH Electro Remix)**
+    - audio.ogg
+    - audio.sm
+  - **[12] Fuuga**
+    - Fuuga.sm
+    - S.S.H. - Fuuga.ogg
+  - **[12] GET ENUF**
+    - GET ENUF.ogg
+    - GET ENUF.sm
+  - **[12] INTERNET OVERDOSE**
+    - INTERNET OVERDOSE.ogg
+    - INTERNET OVERDOSE.sm
+  - **[12] Let's Get Ridiculous**
+    - Redfoo - Let's Get Ridiculous (Sonic Mine Remix).ogg
+    - Redfoo - Let's Get Ridiculous (Sonic Mine Remix).sm
+  - **[12] Neo-Tokyo Dance**
+    - neo-tokyo dance.ogg
+    - Neo-Tokyo Dance.sm
+  - **[12] Overjoy OVERDOSE!!**
+    - overjoyoverdose.ogg
+    - overjoyoverdose.sm
+  - **[12] Panorama**
+    - panorama.ogg
+    - panorama.sm
+  - **[12] Super Shy**
+    - supershy.ogg
+    - supershy.sm
+  - **[12] Tom's Diner**
+    - tommy.ogg
+    - tommy.sm
+  - **[12] VOODOO PEOPLE (Mr.Machine Remix)**
+    - The Prodigy (Mr.Machine Remix FIFTH DROP Edit).ogg
+    - TheProdigy.sm
+  - **[13] Bad Apple!! (Tracy + Astronomical Remix)**
+    - Bad Apple!!.ogg
+    - Bad Apple!!.sm
+  - **[13] BEAT PRISONER**
+    - BEAT PRISONER.ogg
+    - BEAT PRISONER.sm
+  - **[13] Bubble Sort**
+    - music.ogg
+    - steps.sm
+  - **[13] Fasten Your Seatbelt (Full)**
+    - fastenyourseatbeltfull.ogg
+    - fastenyourseatbeltfull.sm
+  - **[13] Fjordland**
+    - Fjordland.ogg
+    - Fjordland.sm
+  - **[13] Fuzzy-Navel**
+    - fuzzynavel.ogg
+    - fuzzynavel.sm
+  - **[13] I Won_t Fall Apart**
+    - iwontfallapart.ogg
+    - iwontfallapart.sm
+  - **[13] Kan Saete Kuyashiiwa**
+    - Kan Saete Kuyashiiwa.ogg
+    - Kan Saete Kuyashiiwa.sm
+  - **[13] Liminalcave**
+    - liminalcave.ogg
+    - liminalcave.sm
+  - **[13] Make Me Go**
+    - Make Me Go.ogg
+    - Make Me Go.sm
+  - **[13] Runaway Baby**
+    - Runaway Baby.ogg
+    - Runaway Baby.sm
+  - **[13] Turbo Killer**
+    - turbo_killer_652df4466034c.ogg
+    - turbo_killer_652df4466034c.sm
+  - **[13] Victory**
+    - Victory.ogg
+    - Victory.sm
+  - **[14] Crowded Roomz**
+    - Crowded Roomz.ogg
+    - Crowded Roomz.sm
+  - **[14] Eight**
+    - eight.ogg
+    - eight5.sm
+  - **[14] Everlong**
+    - Everlong.ogg
+    - Everlong.sm
+  - **[14] Face the Race**
+    - facetherace.ogg
+    - facetherace.sm
+  - **[14] Gotta Catch 'em All**
+    - 02 - Gotta Catch 'em All (Pokemon).ogg
+    - Gotta Catch Em All-bg.jpg
+    - Gotta Catch Em All-bn.jpg
+    - lapras.sm
+  - **[14] Live And Learn (Recut Version)**
+    - banner.jpg
+    - bg.jpg
+    - song.ogg
+    - song.sm
+  - **[14] Mimic Farewell Part 1**
+    - Mimic.sm
+    - Proteus - Mimic.ogg
+  - **[14] MOON**
+    - MOON.ogg
+    - MOON.sm
+  - **[14] Personified Fear**
+    - personified fear.sm
+    - personifiedfear.ogg
+  - **[14] Plastic Kingyo**
+    - plastickingyo.ogg
+    - plastickingyo.sm
+  - **[14] Prayer**
+    - Ducky Chix - Prayer.ogg
+    - Ducky Chix - Prayer.sm
+  - **[14] Valhalla**
+    - Valhalla.ogg
+    - Valhalla.sm
+  - **[14] Weak Executioner II**
+    - WeakExecutionerII.ogg
+    - WeakExecutionerII.sm
+  - **[15] fly in the galaxy**
+    - galaxy.ogg
+    - galaxy.sm
+  - **[15] Forever**
+    - 02 Forever.ogg
+    - spike has a crush on rarity.sm
+    - Thumbs.db
+  - **[15] Funky Shit**
+    - Crazy Astronaut - Funky Shit.ogg
+    - Funky Shit.sm
+  - **[15] Geocide**
+    - Geocide.ogg
+    - Geocide.sm
+  - **[15] HAELE III ~Angel Worlds~**
+    - haeleiii.ogg
+    - haeleiii.sm
+  - **[15] Lifestation**
+    - Arch 1 - Lifestation.ogg
+    - Arch 1 - Lifestation.sm
+  - **[15] stresstest**
+    - stresstest.ogg
+    - stresstest.sm
+  - **[15] Synthesized [Part 3]**
+    - Synthesized [Part 3] .sm
+    - Synthesized [Part 3].ogg
+  - **[15] Taiyou ga Hoshii Dake**
+    - Taiyou ga Hoshi Dake.ogg
+    - Taiyou ga Hoshi Dake.sm
+  - **[15] Thunderblade**
+    - desktop.ini
+    - Thunderblade fb Metrik 190.ogg
+    - Thunderblade fb Metrik 190.sm
+  - **[15] Vertigo**
+    - vertigo.ogg
+    - vertigo.sm
+  - **[15] Warning**
+    - warning.ogg
+    - warning.sm
+  - **[15] You Are The Miserable**
+    - yatm.ogg
+    - yatm.sm
+  - **[16] After Confession**
+    - After Confession.ogg
+    - After Confession.sm
+  - **[16] Colors**
+    - Colors.ogg
+    - Colors.sm
+  - **[16] Divinity**
+    - music.ogg
+    - steps.sm
+  - **[16] Endorphin Machine**
+    - Endorphin Machine.ogg
+    - Endorphin Machine.sm
+  - **[16] EUROBEAT HOLIC EX P4**
+    - Eurobeat-holic-ex-part4.ogg
+    - Eurobeat-holic-ex-part4.sm
+  - **[16] Re_NIGHT**
+    - Bandersnatch - Re_NIGHT.ogg
+    - Re_NIGHT.sm
+  - **[16] Rootus**
+    - Rootus.ogg
+    - Rootus.sm
+  - **[16] Scream Aim Fire**
+    - Scream Aim Fire.ogg
+    - Scream Aim Fire.sm
+  - **[16] Showdown**
+    - showdown.ogg
+    - showdown.sm
+  - **[16] Smile (Speedy Mix)**
+    - Smile (Speedy Mix).ogg
+    - Smile (Speedy Mix).sm
+  - **[16] SOS**
+    - SOS.ogg
+    - SOS.sm
+  - **[16] Virtual Paradise**
+    - virtual paradise.ogg
+    - virtual paradise.sm
+  - **[16] Vitality**
+    - Vitality.ogg
+    - Vitality.sm
+  - **[17] Ascension to Heaven**
+    - AscensionToHeaven.ogg
+    - AscensionToHeaven.sm
+  - **[17] Baik Baik Sayang**
+    - Baik Baik Sayang.ogg
+    - Baik Baik Sayang.sm
+  - **[17] Dusk in overnight**
+    - duskinovernight.ogg
+    - duskinovernight.sm
+  - **[17] Flamethrower**
+    - Flamethrower.ogg
+    - Flamethrower.sm
+  - **[17] Fractal Glitch Works (Part 1)**
+    - FGW Part 1 170.ogg
+    - Fractal Glitch Works (Part 1).sm
+  - **[17] Gh()st**
+    - Gh()st.ogg
+    - Gh()st.sm
+  - **[17] Illusory Truth**
+    - illusorytruth.ogg
+    - illusorytruth.sm
+  - **[17] KimiNoSei RMX**
+    - KimiNoSei RMX.sm
+    - MinDelve - KimiNoSei RMX.ogg
+  - **[17] Neurostreamz (Restep)**
+    - neurostreamz.ogg
+    - NEUROSTREAMZRestep.sm
+  - **[17] SYAKUNETSU**
+    - SYAKUNETSU.ogg
+    - SYAKUNETSU.sm
+  - **[17] Uninstalled Children**
+    - Uninstalled Children.ogg
+    - Uninstalled Children.sm
+  - **[18] Bright Darkness**
+    - Bright Darkness.ogg
+    - Bright Darkness.sm
+  - **[18] Cardiologie (Part 1)**
+    - Cardiologie PT1.ogg
+    - cardiologie PT1.sm
+  - **[18] Chrono Diver -PENDULUMs- (lapix Remix)**
+    - chrono diver lapix.ogg
+    - chrono diver lapix.sm
+  - **[18] Darkamankton**
+    - Darkamankton.ogg
+    - Darkamankton.sm
+  - **[18] Katamari On The Swing**
+    - Katamari On The Swing.ogg
+    - Katamari On The Swing.sm
+  - **[18] Malaka**
+    - Malaka.ogg
+    - Malaka.sm
+  - **[18] The Dark Memories**
+    - 01 - The Dark Memories.ogg
+    - SALVATIOOOOOON.sm
+  - **[18] TTFAF Stream Extended Mix**
+    - TTFAF TURBO 190 extended mix.ogg
+    - TTFAF TURBO 190.sm
+  - **[19] Feeling Good**
+    - Feeling Good.ogg
+    - Feeling Good.sm
+  - **[19] ORBITAL SUNRISE**
+    - ORBITAL SUNRISE.ogg
+    - ORBITAL SUNRISE.sm
+  - **[19] Suite EVANGELION**
+    - suiteEVA.ogg
+    - suiteEVA.opus
+    - suiteEVA.sm
+  - **[20] Hacktory Aming Touch**
+    - HacktoryAmingTouch.ogg
+    - HacktoryAmingTouch.sm
+  - Pack.ini
+  - srpg10aunaffbn.png
+  - srpg10cbg.png
+- **Stamina RPG 10 - SN**
+  - **[12] DREAM TEAM (Hard)**
+    - dreamteam.ogg
+    - dreamteam.sm
+  - **[14] I LOVE MY PASOCOM**
+    - pasocom.ogg
+    - pasocom.sm
+  - **[15] Rock on**
+    - rock anthem mix 147 - 150.ogg
+    - Rock Anthems.sm
+  - **[15] SYNERGY**
+    - SYNERGY.ogg
+    - SYNERGY.sm
+  - **[16] 5-sided Pengaton**
+    - 5sidedpengaton.ogg
+    - 5sidedpengaton.sm
+  - **[17] Whiney Essential Mix**
+    - EssentialMix-Whiney_175.ogg
+    - EssentialMix-Whiney_175.sm
+  - **[17] yananananagi**
+    - yananananagi (resync).ogg
+    - yananananagi.sm
+  - **[18] WHO UP BRRDING IT**
+    - WHO UP BRRDING IT.ogg
+    - WHO UP BRRDING IT.sm
+  - **[19] Horizon Line Ver. B**
+    - HLVerB final.ogg
+    - HLVerB.sm
+  - **[21] Girls Band Party 2021 Redux (Side B)**
+    - GBP Side B.ogg
+    - Girls Band Party 2021 Redux.sm
+  - **[22] ureshii!**
+    - ureshii.ogg
+    - ureshii.sm
+  - **[24] Exul Continuous Mix FB 235**
+    - Exul FB.ogg
+    - Exul.sm
+  - **[24] Summer Vibes Vol. 1-3 (Side A)**
+    - Summer Vibes Vol. 1-3 Side A.ogg
+    - Summer Vibes Vol. 1-3.sm
+  - Pack.ini
+  - srpg10bsnbn.png
+  - srpg10cbg.png
 - **State of Trance**
   - **[M] States of Trance**
     - banner.png
@@ -27368,6 +30039,7 @@ Generated from InstallPath on 2026-08-01 03:01. Filenames only; contents not bac
     - Vector U - Wizpig Challenge-bg.png
     - Vector U - Wizpig Challenge-jacket.png
   - banner.png
+  - Pack.ini
 - **Tech-Bit Adventures 2**
   - **A Glitch Hops World (From Deltarune)**
     - Spad3s - Deltarune - A Glitch Hops World.ogg
@@ -27562,6 +30234,7 @@ Generated from InstallPath on 2026-08-01 03:01. Filenames only; contents not bac
     - Unbreakable Determination (From Ninja Gaiden)-bg.png
     - Unbreakable Determination (From Ninja Gaiden)-jacket.png
   - banner.png
+  - Pack.ini
   - Tech-Bit Adventures 2.zip
 - **Tech-Bit Adventures 3**
   - **Ancient Lake (From Diddy Kong Racing)**
@@ -27776,6 +30449,7 @@ Generated from InstallPath on 2026-08-01 03:01. Filenames only; contents not bac
     - Zelda II Battle Theme-bg.png
     - Zelda II Battle Theme-jacket.png
   - Banner.png
+  - Pack.ini
 - **Tech-Bit Adventures 4**
   - **A Long Fall**
     - A Long Fall.ogg
@@ -27984,6 +30658,7 @@ Generated from InstallPath on 2026-08-01 03:01. Filenames only; contents not bac
     - TMNT-jacket.png
   - add_offset -9.py
   - banner.png
+  - Pack.ini
 - **Tech-Bit Adventures 5**
   - **Athletic Theme (SMW)**
     - AT-ban.png
@@ -28220,6 +30895,7 @@ Generated from InstallPath on 2026-08-01 03:01. Filenames only; contents not bac
     - WSC-bg.png
     - WSC-jacket.png
   - banner.png
+  - Pack.ini
   - Tech-Bit Adventures 5 - 9ms.zip
   - Tech-Bit Adventures 5 - NULL.zip
 - **The Classics Pack Vol 1**
@@ -29189,6 +31865,7 @@ Generated from InstallPath on 2026-08-01 03:01. Filenames only; contents not bac
   - **Whine Up - [ChasePines_101]**
     - Whine Up.ogg
     - Whine Up.sm
+  - Pack.ini
   - starterpack-banner.png
   - starterpack-bg.png
   - starterpack-Braeden-Tuuc.png
@@ -29933,6 +32610,7 @@ Generated from InstallPath on 2026-08-01 03:01. Filenames only; contents not bac
     - Woman.png
     - Woman.sm
     - Woman-bg.png
+  - Pack.ini
 - instructions.txt
 - parsec-windows.exe
 

@@ -31,6 +31,23 @@ local Update = function(af, delta)
 	end
 end
 
+local InputHandler = function(event)
+	if not event.PlayerNumber or not event.button then return false end
+
+	if event.type == "InputEventType_FirstPress" then
+		if event.GameButton == "Start" then
+			if ScreenName=="ScreenSelectPlayMode" or ScreenName=="ScreenSelectPlayModeThonk" then
+				SL.Global.GameMode = choices[cursor.index+1]
+				-- now that a GameMode has been selected, set related preferences
+				SetGameModePreferences()
+				-- and reload the theme's Metrics
+				THEME:ReloadMetrics()
+				SCREENMAN:GetTopScreen():StartTransitioningScreen("SM_GoToNextScreen")
+			end
+		end
+	end
+end
+
 local t = Def.ActorFrame{
 	InitCommand=function(self)
 		self:SetUpdateFunction( Update )
@@ -49,21 +66,10 @@ local t = Def.ActorFrame{
 			choices[#choices+1] = choice
 			choice_actors[#choice_actors+1] = TopScreen:GetChild("IconChoice"..choice)
 		end
+    	SCREENMAN:GetTopScreen():AddInputCallback(InputHandler)
 
 		self:queuecommand("Update")
 	end,
-	OffCommand=function(self)
-		if ScreenName=="ScreenSelectPlayMode" or ScreenName=="ScreenSelectPlayModeThonk" then
-			-- set the GameMode now; we'll use it throughout the theme
-			-- to set certain Gameplay settings and determine which screen comes next
-			SL.Global.GameMode = choices[cursor.index+1]
-			-- now that a GameMode has been selected, set related preferences
-			SetGameModePreferences()
-			-- and reload the theme's Metrics
-			THEME:ReloadMetrics()
-		end
-	end,
-
 	-- side mask
 	Def.Quad{
 		InitCommand=function(self) self:zoomto(450, 450):diffuse(1,1,1,1):x(375):MaskSource() end
@@ -162,20 +168,12 @@ local t = Def.ActorFrame{
 				if choices[cursor.index+1] == "Casual" then
 					self:stoptweening():linear(0.25):diffusealpha(0)
 				else
-					if choices[cursor.index+1] == "FA+" then
-						self:settext("99.50")
-					else
-						self:settext("77.41")
-					end
+					self:settext("77.41")
 					self:stoptweening():linear(0.25):diffusealpha(1)
 				end
 			else
 				self:diffusealpha(1)
-				if SL.Global.GameMode == "FA+" then
-					self:settext("99.50")
-				else
-					self:settext("77.41")
-				end
+				self:settext("77.41")
 			end
 		end,
 
@@ -187,7 +185,7 @@ local t = Def.ActorFrame{
 		OffCommand=function(self) self:sleep(0.4):linear(0.2):diffusealpha(0) end,
 		UpdateCommand=function(self)
 			if ScreenName == "ScreenSelectPlayMode" then
-				if choices[cursor.index+1] == "ITG" or choices[cursor.index+1] == "FA+" then
+				if choices[cursor.index+1] == "ITG" then
 					self:stoptweening():linear(0.25):diffusealpha(1)
 				else
 					self:stoptweening():linear(0.25):diffusealpha(0)
@@ -209,7 +207,7 @@ local t = Def.ActorFrame{
 			InitCommand=function(self) self:zoomto(40,14):xy(59,-64):diffuse( GetCurrentColor(true) ) end
 		},
 		-- life meter animated swoosh
-		LoadActor(THEME:GetPathB("ScreenGameplay", "underlay/PerPlayer/LifeMeter/swoosh.png"))..{
+		LoadActor(THEME:GetPathB(Branch.GameplayScreen(), "underlay/PerPlayer/LifeMeter/swoosh.png"))..{
 			InitCommand=function(self) self:zoomto(40,14):diffusealpha(0.45):xy(59,-64) end,
 			OnCommand=function(self)
 				self:customtexturerect(0,0,1,1):texcoordvelocity(-2,0)

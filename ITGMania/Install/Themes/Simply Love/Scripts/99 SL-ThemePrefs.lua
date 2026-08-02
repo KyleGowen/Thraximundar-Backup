@@ -24,16 +24,16 @@ SL_CustomPrefs.Get = function()
 	local day = DayOfMonth()
 	local today = year * 10000 + month * 100 + day
 
-	if today >= 20230620 then
-		visualStyleChoices[#visualStyleChoices+1] = "😈"
-		visualStyleValues[#visualStyleValues+1] = "SRPG8"
+	if today >= 20260629 then
+		visualStyleChoices[#visualStyleChoices+1] = "🖌"
+		visualStyleValues[#visualStyleValues+1] = "SRPG10"
 	else
 		local prefs = IniFile.ReadFile("/Save/ThemePrefs.ini")
 		local theme = PREFSMAN:GetPreference("Theme")
 		local lastActiveEvent = nil
-		if prefs[theme] and prefs[theme].LastActiveEvent == "SRPG8" then
-			visualStyleChoices[#visualStyleChoices+1] = "😈"
-			visualStyleValues[#visualStyleValues+1] = "SRPG8"
+		if prefs[theme] and prefs[theme].LastActiveEvent == "SRPG10" then
+			visualStyleChoices[#visualStyleChoices+1] = "🖌"
+			visualStyleValues[#visualStyleValues+1] = "SRPG10"
 		end
 	end
 
@@ -61,6 +61,12 @@ SL_CustomPrefs.Get = function()
 			Default = "ITG",
 			Choices = { "ITG", "IIDX" }
 		},
+		HideInactiveSeries =
+		{
+			Default = false,
+			Choices = { THEME:GetString("ThemePrefs","Yes"), THEME:GetString("ThemePrefs", "No") },
+			Values  = { true, false }
+		},
 		AllowDanceSolo =
 		{
 			Default = false,
@@ -76,17 +82,30 @@ SL_CustomPrefs.Get = function()
 			},
 			Values = { "Casual", "ITG" }
 		},
-
-		AutoStyle =
+		DefaultSort =
+		{
+			Default = "Series",
+			Choices = {
+				THEME:GetString("ScreenSelectMusic", "Series"),
+				THEME:GetString("ScreenSelectMusic", "Group"),
+				THEME:GetString("ScreenSelectMusic", "Title"),
+				THEME:GetString("ScreenSelectMusic", "Meter"),
+				THEME:GetString("ScreenSelectMusic", "Popularity"),
+				THEME:GetString("ScreenSelectMusic", "Recent"),
+			},
+			Values = { "Series", "Group", "Title", "Meter", "Popularity", "Recent"}
+		},
+		PreferredStyle =
 		{
 			Default = "none",
 			Choices = {
 				THEME:GetString("ScreenSelectStyle", "None"),
+				THEME:GetString("ScreenSelectStyle", "Auto"),
 				THEME:GetString("ScreenSelectStyle", "Single"),
 				THEME:GetString("ScreenSelectStyle", "Versus"),
 				THEME:GetString("ScreenSelectStyle", "Double")
 			},
-			Values = { "none", "single", "versus", "double" }
+			Values = { "none", "auto", "single", "versus", "double" }
 		},
 		VisualStyle =
 		{
@@ -121,6 +140,12 @@ SL_CustomPrefs.Get = function()
 			Values	= { true, false }
 		},
 		SampleMusicLoops =
+		{
+			Default = true,
+			Choices = { THEME:GetString("ThemePrefs","Yes"), THEME:GetString("ThemePrefs", "No") },
+			Values  = { true, false }
+		},
+		SampleMusicStartsImmediately =
 		{
 			Default = true,
 			Choices = { THEME:GetString("ThemePrefs","Yes"), THEME:GetString("ThemePrefs", "No") },
@@ -169,6 +194,12 @@ SL_CustomPrefs.Get = function()
 		},
 		-- - - - - - - - - - - - - - - - - - - -
 		-- MenuTimer values for various screens
+		ScreenGrooveStatsLoginMenuTimer =
+		{
+			Default = 30,
+			Choices = map(SecondsToMSS, range(15, 90, 5)),
+			Values  = range(15, 90, 5),
+		},
 		ScreenSelectMusicMenuTimer =
 		{
 			Default = 300,
@@ -188,6 +219,12 @@ SL_CustomPrefs.Get = function()
 			Values  = range(30, 450, 15),
 		},
 		ScreenEvaluationMenuTimer =
+		{
+			Default = 60,
+			Choices = map(SecondsToMSS, range(15, 450, 15)),
+			Values  = range(15, 450, 15),
+		},
+		ScreenEvaluationNonstopMenuTimer =
 		{
 			Default = 60,
 			Choices = map(SecondsToMSS, range(15, 450, 15)),
@@ -326,7 +363,13 @@ SL_CustomPrefs.Get = function()
 				THEME:GetString("ThemePrefs", "Never"),
 			},
 			Values = { "Always", "Sometimes", "Never" }
-		}
+		},
+
+		EnableOnlineLobbies = {
+			Default = false,
+			Choices =  { THEME:GetString("ThemePrefs","Yes"), THEME:GetString("ThemePrefs", "No") },
+			Values  = { true, false }
+		},
 	}
 end
 

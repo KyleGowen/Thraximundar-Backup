@@ -1,16 +1,17 @@
-local function gen_vertices(player, width, height, desaturation)
-	local Song, Steps
+local function gen_vertices(player, width, height, Steps, desaturation)
+	local Song
 	local first_step_has_occurred = false
 	local pn = ToEnumShortString(player)
 
-	if GAMESTATE:IsCourseMode() then
-		local TrailEntry = GAMESTATE:GetCurrentTrail(player):GetTrailEntry(GAMESTATE:GetCourseSongIndex())
-		Steps = TrailEntry:GetSteps()
-		Song = TrailEntry:GetSong()
-	else
-		Steps = GAMESTATE:GetCurrentSteps(player)
-		Song = GAMESTATE:GetCurrentSong()
+	if not Steps then 
+		if GAMESTATE:IsCourseMode() then
+			local TrailEntry = GAMESTATE:GetCurrentTrail(player):GetTrailEntry(GAMESTATE:GetCourseSongIndex())
+			Steps = TrailEntry:GetSteps()
+		else
+			Steps = GAMESTATE:GetCurrentSteps(player)
+		end
 	end
+	Song = SONGMAN:GetSongFromSteps(Steps)
 	
 	if not Steps or not Song then return {} end
 
@@ -131,7 +132,7 @@ function NPS_Histogram(player, width, height, desaturation)
 			-- we've reached a new song, so reset the vertices for the density graph
 			-- this will occur at the start of each new song in CourseMode
 			-- and at the start of "normal" gameplay
-			local verts = gen_vertices(player, width, height, desaturation)
+			local verts = gen_vertices(player, width, height, nil, desaturation)
 			self:SetNumVertices(#verts):SetVertices(verts)
 		end
 	}
@@ -139,6 +140,78 @@ function NPS_Histogram(player, width, height, desaturation)
 	return amv
 end
 
+-- Set of density graphs for a course
+-- TODO: Make it possible to regenerate new graphs in screen select course ?
+function NPS_Histogram_Static_Course(player, width, height, desaturation)
+	local pn = ToEnumShortString(player)
+	local af = Def.ActorFrame{}
+	local trail = GAMESTATE:GetCurrentTrail(pn)
+	
+	-- first get the total time
+	local totaltime = TotalCourseLength(player)
+	
+	-- build a table of offsets and widths (doing one loop with everything in InitCommand will just use
+	-- the last value whatever local variable in the loop was once the actors execute)
+	local curx = 0
+	local ptable = {}
+	local PeakCourseNPS = 0
+	for te in ivalues(trail:GetTrailEntries()) do
+		if te:GetSteps():GetPeakNps(pn) > PeakCourseNPS then PeakCourseNPS = te:GetSteps():GetPeakNps(pn) end
+		local w = (te:GetSong():GetLastSecond() / SL.Global.ActiveModifiers.MusicRate / totaltime) * width
+		local PeakTENPS = te:GetSteps():GetPeakNps(pn)
+		table.insert(ptable, {curx, w, te:GetSteps(), PeakTENPS})
+		curx = curx + w
+	end
+	for i, pos in ipairs(ptable) do
+		-- add density graph amv
+		af[#af+1] = Def.ActorMultiVertex{
+			InitCommand = function(self)
+				self:x(pos[1])
+				self:SetDrawState({Mode="DrawMode_QuadStrip"})
+				self:queuecommand("SetVertices")
+			end,
+			SetVerticesCommand = function(self)
+				local Ratio = pos[4]/PeakCourseNPS
+				local verts = gen_vertices(player, pos[2], height*Ratio, pos[3], desaturation)
+				self:SetNumVertices(#verts):SetVertices(verts)
+			end
+		}
+	end
+
+	return af
+end
+
+function NPS_Histogram_With_Position_Line(player, width, height)
+	local pn = ToEnumShortString(player)
+	local af = Def.ActorFrame{}
+	af[#af+1] = NPS_Histogram(player, width, height)
+	local first_second, last_second
+	local position_verts
+	af[#af+1] = Def.ActorMultiVertex{
+		Name="PositionLine",
+		InitCommand=function(self)
+			self:SetDrawState({Mode="DrawMode_LineStrip"})
+				:SetLineWidth(2)
+				:align(0, 0)
+			local color = {1, 1, 1, 1}
+			position_verts = {{{0, 0, 0}, color}, {{0, -height, 0}, color}}
+			self:SetNumVertices(2):SetVertices(position_verts)
+
+			local song = GAMESTATE:GetCurrentSong()
+			first_second = math.min(song:GetTimingData():GetElapsedTimeFromBeat(0), 0)
+			last_second = song:GetLastSecond()
+		end,
+		ScrollSongCommand=function(self)
+			-- Move the line left and right
+			local current_second = GAMESTATE:GetCurMusicSeconds()
+			offset = scale(current_second, 0, last_second-first_second, 0, width)
+			position_verts[1][1][1] = offset
+			position_verts[2][1][1] = offset
+			self:SetVertices(position_verts)
+		end
+	}
+	return af
+end
 
 function Scrolling_NPS_Histogram(player, width, height, desaturation)
 	local verts, visible_verts
@@ -156,7 +229,7 @@ function Scrolling_NPS_Histogram(player, width, height, desaturation)
 		end,
 
 		LoadCurrentSong=function(self, scaled_width)
-			verts = gen_vertices(player, scaled_width, height, desaturation)
+			verts = gen_vertices(player, scaled_width, height, nil, desaturation)
 
 			left_idx = 1
 			right_idx = 2

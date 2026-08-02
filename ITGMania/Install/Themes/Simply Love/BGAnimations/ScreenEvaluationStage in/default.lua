@@ -9,7 +9,7 @@ for player in ivalues(GAMESTATE:GetHumanPlayers()) do
 	end
 end
 
-if ThemePrefs.Get("VisualStyle") ~= "SRPG8" then
+if ThemePrefs.Get("VisualStyle") ~= "SRPG10" then
 	local img = failed and "failed text.png" or "cleared text.png"
 
 	return Def.ActorFrame{
@@ -24,86 +24,83 @@ if ThemePrefs.Get("VisualStyle") ~= "SRPG8" then
 		}
 	}
 else
-	local bgWidth = 200
-	local bgHeight = 250
-
+	local totalTime = failed and 3 or 1
 	local af = Def.ActorFrame{
 		InitCommand=function(self)
-			self:xy(SCREEN_WIDTH/2,SCREEN_HEIGHT/2-50)
-			self:zoomy(0)
+			self:Center()
 		end,
 		OnCommand=function(self)
-			self:decelerate(0.5)
-			self:zoomy(1)
+			self:sleep(totalTime - 0.5):linear(0.5):diffusealpha(0)
+			if failed then
+				SOUND:PlayOnce(THEME:GetPathG("", "_VisualStyles/SRPG10/Eval/Failed.ogg"))
+			else
+				SOUND:PlayOnce(THEME:GetPathG("", "_VisualStyles/SRPG10/Eval/Passed.ogg"))
+			end
 		end,
-
-		Def.Quad{
-			InitCommand=function(self)
-				-- Opaque quad for the main middle segment.
-				self:SetWidth(bgWidth):SetHeight(bgHeight)
-					:diffuse(color("#000000")):diffusealpha(0.99)
-			end,
-			OnCommand=function(self)
-				self:sleep(failed and 4 or 3.5)
-						:decelerate(0.5):diffusealpha(0)
-			end
-		},
-
-
-		Def.Quad{
-			InitCommand=function(self)
-				local width = (SCREEN_WIDTH - bgWidth) / 2
-				-- Transparent side quads
-				self:SetWidth(width):SetHeight(bgHeight):addx(-(width + bgWidth)/2)
-					:diffuse(color("#000000")):diffusealpha(0.99)
-					:diffuseleftedge(color("0,0,0,0.4"))
-			end,
-			OnCommand=function(self)
-				self:sleep(failed and 4 or 3.5)
-						:decelerate(0.5):diffusealpha(0)
-			end
-		},
-
-		Def.Quad{
-			InitCommand=function(self)
-				local width = (SCREEN_WIDTH - bgWidth) / 2
-				-- Transparent side quads
-				self:SetWidth(width):SetHeight(bgHeight):x((width + bgWidth)/2)
-					:diffuse(color("#000000")):diffusealpha(0.99)
-					:diffuserightedge(color("0,0,0,0.4"))
-			end,
-			OnCommand=function(self)
-				self:sleep(failed and 4 or 3.5)
-						:decelerate(0.5):diffusealpha(0)
-			end
-		},
 	}
 
 	if failed then
 		af[#af+1] = Def.Sprite{
-			Texture=THEME:GetPathG("", "_VisualStyles/SRPG8/Failed.mp4"),
+			Texture=THEME:GetPathG("", "_VisualStyles/SRPG10/Eval/Paint.png"),
 			InitCommand=function(self)
-				self:y(50):zoom(0.75):blend("BlendMode_Add")
+				self:zoomto(SCREEN_WIDTH + 350, SCREEN_HEIGHT + 200	)
 			end,
 			OnCommand=function(self)
-				self:sleep(4)
-					:linear(0.5):diffusealpha(0)
-				SOUND:PlayOnce(THEME:GetPathS("", "SRPG8-Failed.ogg"))
+				self:decelerate(0.75):zoomto(SCREEN_WIDTH+250, SCREEN_HEIGHT)
+			end,
+		}
+
+		af[#af+1] = Def.Quad{
+			InitCommand=function(self) self:zoomto(SCREEN_WIDTH, SCREEN_HEIGHT):diffuse(Color.Black):diffusealpha(0.8) end,
+			OnCommand=function(self) self:sleep(1.5):linear(0.375):diffusealpha(1) end,
+		}
+
+		af[#af+1] = Def.Sprite{
+			Texture=THEME:GetPathG("", "_VisualStyles/SRPG10/Eval/Red Lines.png"),
+			InitCommand=function(self)
+				self:zoom(480 / 1080):diffusealpha(0)
+			end,
+			OnCommand=function(self)
+				self:accelerate(0.1):diffusealpha(1)
+			end,
+		}
+
+		af[#af+1] = Def.Sprite{
+			Texture=THEME:GetPathG("", "_VisualStyles/SRPG10/Eval/Expedition Failed.png"),
+			InitCommand=function(self)
+				self:zoom(480 / 1080):diffusealpha(0)
+			end,
+			OnCommand=function(self)
+				self:linear(0.375):diffusealpha(1)
 			end,
 		}
 	else
 		af[#af+1] = Def.Sprite{
-			Texture=THEME:GetPathG("", "_VisualStyles/SRPG8/Cleared.mp4"),
+			Texture=THEME:GetPathG("", "_VisualStyles/SRPG10/Eval/PassBG.png"),
 			InitCommand=function(self)
-				self:y(50):zoom(0.75):blend("BlendMode_Add")
-			end,
-			OnCommand=function(self)
-				self:sleep(3.5)
-					:linear(0.5):diffusealpha(0)
-				SOUND:PlayOnce(THEME:GetPathS("", "SRPG8-Cleared.ogg"))
+				self:zoom(480 / 1080)
 			end,
 		}
 
+		af[#af+1] = Def.Sprite{
+			Texture=THEME:GetPathG("", "_VisualStyles/SRPG10/Eval/Gold Leaf Background.png"),
+			InitCommand=function(self)
+				self:zoom(480 / 1080)
+			end,
+			OnCommand=function(self)
+				self:decelerate(0.1):zoom(0.5)
+			end,
+		}
+
+		af[#af+1] = Def.Sprite{
+			Texture=THEME:GetPathG("", "_VisualStyles/SRPG10/Eval/Victory.png"),
+			InitCommand=function(self)
+				self:zoom(0.5)
+			end,
+			OnCommand=function(self)
+				self:decelerate(0.1):zoom(0.3)
+			end,
+		}
 	end
 
 	return af

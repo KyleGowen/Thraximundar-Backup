@@ -16,7 +16,7 @@ local SecondsToHMMSS = SecondsToHMMSS or function(s)
 end
 
 local UpdateTimer = function(af, dt)
-	local seconds = GetTimeSinceStart() - SL.Global.TimeAtSessionStart
+	local seconds = GetTimeSinceStart() - (SL.Global.TimeAtSessionStart or GetTimeSinceStart())
 
 	-- if this game session is less than 1 hour in duration so far
 	if seconds < 3600 then
@@ -89,7 +89,7 @@ else
 
 end
 
--- "ITG" or "FA+"; aligned to right of screen
+-- "ITG" aligned to right of screen
 af[#af+1] = LoadFont("Common Header")..{
 	Name="GameModeText",
 	Text=THEME:GetString("ScreenSelectPlayMode", SL.Global.GameMode),

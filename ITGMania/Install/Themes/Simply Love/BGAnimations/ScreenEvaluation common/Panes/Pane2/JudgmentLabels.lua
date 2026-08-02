@@ -2,7 +2,7 @@ local player, controller = unpack(...)
 
 local pn = ToEnumShortString(player)
 local stats = STATSMAN:GetCurStageStats():GetPlayerStageStats(pn)
-
+local styletype = ToEnumShortString(GAMESTATE:GetCurrentStyle():GetStyleType())
 local firstToUpper = function(str)
     return (str:gsub("^%l", string.upper))
 end
@@ -13,22 +13,22 @@ local TapNoteScores = {}
 local TapNoteScores = {
 	Types = { 'W0', 'W1', 'W2', 'W3', 'W4', 'W5', 'Miss' },
 	Names = {
-		THEME:GetString("TapNoteScoreFA+", "W1"),
-		THEME:GetString("TapNoteScoreFA+", "W2"),
-		THEME:GetString("TapNoteScoreFA+", "W3"),
-		THEME:GetString("TapNoteScoreFA+", "W4"),
-		THEME:GetString("TapNoteScoreFA+", "W5"),
-		THEME:GetString("TapNoteScore", "W5"), -- FA+ mode doesn't have a Way Off window. Extract name from the ITG mode.
-		THEME:GetString("TapNoteScoreFA+", "Miss"),
+		THEME:GetString("TapNoteScore", "W1"),
+		THEME:GetString("TapNoteScoreFA+", "W2"), -- Extract the Fantastic White window
+        THEME:GetString("TapNoteScore", "W2"),
+		THEME:GetString("TapNoteScore", "W3"),
+		THEME:GetString("TapNoteScore", "W4"),
+		THEME:GetString("TapNoteScore", "W5"),
+		THEME:GetString("TapNoteScore", "Miss"),
 	},
 	Colors = {
-		SL.JudgmentColors["FA+"][1],
-		SL.JudgmentColors["FA+"][2],
-		SL.JudgmentColors["FA+"][3],
-		SL.JudgmentColors["FA+"][4],
-		SL.JudgmentColors["FA+"][5],
-		SL.JudgmentColors["ITG"][5], -- FA+ mode doesn't have a Way Off window. Extract color from the ITG mode.
-		SL.JudgmentColors["FA+"][6],
+		SL.JudgmentColors["ITG"][1], -- Fantastic Blue
+		SL.JudgmentColors["FA+"][2], -- Just extract the Fantastic white color
+        SL.JudgmentColors["ITG"][2], -- Yellow Excellent
+		SL.JudgmentColors["ITG"][3], -- Green Great
+		SL.JudgmentColors["ITG"][4], -- Purple Decent
+		SL.JudgmentColors["ITG"][5], -- Way Off
+		SL.JudgmentColors["ITG"][6], -- Red Miss
 	},
 	-- x values for P1 and P2
 	x = { P1=64, P2=94 }
@@ -103,21 +103,32 @@ for index, label in ipairs(RadarCategories) do
 			text = "EX"
 		end
 
-
-		t[#t+1] = LoadFont("Wendy/_wendy small")..{
-			Text=text,
-			InitCommand=function(self) self:zoom(0.5):horizalign(right) end,
-			BeginCommand=function(self)
-				self:x( (controller == PLAYER_1 and -160) or 90 )
-				self:y(38)
-
-				if SL[pn].ActiveModifiers.ShowExScore then
-					self:diffuse(Color.White)
-				else
-					self:diffuse( SL.JudgmentColors[SL.Global.GameMode][1] )
+		if (styletype == "TwoPlayersSharedSides") then
+			t[#t+1] = LoadFont("Wendy/_wendy small")..{
+				Text=controller == PLAYER_1 and "P1" or "P2",
+				InitCommand=function(self) self:zoom(0.5):horizalign(right) end,
+				BeginCommand=function(self)
+					self:x( (controller == PLAYER_1 and -160) or 90 )
+					self:y(38)
+					self:diffuse( controller == PLAYER_1 and Color.Blue or Color.Red )
 				end
-			end
-		}
+			}
+		else
+			t[#t+1] = LoadFont("Wendy/_wendy small")..{
+				Text=text,
+				InitCommand=function(self) self:zoom(0.5):horizalign(right) end,
+				BeginCommand=function(self)
+					self:x( (controller == PLAYER_1 and -160) or 82 )
+					self:y(38)
+
+					if SL[pn].ActiveModifiers.ShowExScore then
+						self:diffuse(Color.White)
+					else
+						self:diffuse( SL.JudgmentColors[SL.Global.GameMode][1] )
+					end
+				end
+			}
+		end
 	end
 
 	local performance = stats:GetRadarActual():GetValue( "RadarCategory_"..firstToUpper(EnglishRadarCategories[label]) )

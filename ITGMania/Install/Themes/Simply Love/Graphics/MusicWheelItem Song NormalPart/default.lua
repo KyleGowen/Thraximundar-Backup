@@ -21,6 +21,7 @@ af[#af+1] = Def.Sprite{
 
 for player in ivalues(PlayerNumber) do
 	af[#af+1] = LoadActor("Favorites.lua", player)
+	af[#af+1] = LoadActor("Unlocks.lua", player)
 
 	-- Add ITL EX scores to the song wheel as well.
 	-- It will be centered to the item if only one player is enabled, and stacked otherwise.
@@ -31,7 +32,7 @@ for player in ivalues(PlayerNumber) do
 			self:visible(false)
 			self:zoom(0.2)
 			self:x( _screen.w/(WideScale(2.15, 2.14)) - self:GetWidth()*self:GetZoom() - 40 )
-			self:diffuse(SL.JudgmentColors["FA+"][1])
+			self:diffuse(SL.JudgmentColors["ITG"][1])
 		end,
 		PlayerJoinedMessageCommand=function(self)
 			self:visible(GAMESTATE:IsPlayerEnabled(player))

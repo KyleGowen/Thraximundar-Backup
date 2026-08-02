@@ -2,6 +2,9 @@ local player = Var "Player"
 local pn = ToEnumShortString(player)
 local mods = SL[pn].ActiveModifiers
 local sprite
+local coupleSprite
+local style = GAMESTATE:GetCurrentStyle()
+local styletype = style and style:GetStyleType() or nil
 
 ------------------------------------------------------------
 -- A profile might ask for a judgment graphic that doesn't exist
@@ -90,12 +93,10 @@ return Def.ActorFrame{
 					end
 					-- We don't need to adjust the top window otherwise.
 				else
-					-- Everything outside of W1 needs to be shifted down a row if not in FA+ mode.
-					-- Some people might be using 2x7s in FA+ mode (by copying ITG graphics to FA+).
-					-- Don't need to shift in that case.
-					if SL.Global.GameMode ~= "FA+" then
-						frame = frame + 1
-					end
+                    -- Everything outside of W1 needs to be shifted down a row if not in FA+ mode.
+                    -- Some people might be using 2x7s in FA+ mode (by copying ITG graphics to FA+).
+                    -- Don't need to shift in that case.
+					frame = frame + 1
 				end
 			end
 
@@ -132,15 +133,9 @@ return Def.ActorFrame{
 			local earlyTns = ToEnumShortString(param.EarlyTapNoteScore)
 
 			if earlyTns ~= "None" then
-				if SL.Global.GameMode == "FA+" then
-					if tns == "W5" then
-						return
-					end
-				else
-					if tns == "W4" or tns == "W5" then
-						return
-					end
-				end
+				if tns == "W4" or tns == "W5" then
+                    return
+                end
 			end
 		end
 
@@ -175,9 +170,7 @@ return Def.ActorFrame{
 				-- Everything outside of W1 needs to be shifted down a row if not in FA+ mode.
 				-- Some people might be using 2x7s in FA+ mode (by copying ITG graphics to FA+).
 				-- In that case, we need to shift the Way Off down to a Miss
-				if SL.Global.GameMode ~= "FA+" or tns == "Miss" then
-					frame = frame + 1
-				end
+				frame = frame + 1
 			end
 		end
 
@@ -226,6 +219,18 @@ return Def.ActorFrame{
 
 			else
 				self:Load( THEME:GetPathG("", "_judgments/" .. file_to_load) )
+			end
+			-- local mini = mods.Mini:gsub("%%","") / 100
+			-- self:addx((mods.NoteFieldOffsetX * (1 + mini)) * 2)
+			-- self:addy((mods.NoteFieldOffsetY * (1 + mini)) * 2)
+			if styletype == "StyleType_TwoPlayersSharedSides" then 
+				if player == PLAYER_1 then
+					self:addy(10)
+					self:diffuse(Color.Blue)
+				else
+					self:addy(60)
+					self:diffuse(Color.Red)
+				end
 			end
 		end,
 		ResetCommand=function(self) self:finishtweening():stopeffect():visible(false) end

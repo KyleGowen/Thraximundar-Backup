@@ -1,6 +1,6 @@
 local NumEntries = 13
 local RowHeight = 24
-local RpgYellow = color("#CDAA9B")
+local RpgYellow = color("#CFB185")
 local RpgText = Color.White
 local ItlPink = color("1,0.2,0.406,1")
 
@@ -18,7 +18,7 @@ local SetRpgStyle = function(eventAf)
 	eventAf:GetChild("HeaderBorder"):diffuse(RpgYellow)
 	
 	local idx = SL.Global.ActiveColorIndex
-	local faction_name = SL.SRPG8.GetFactionName(idx)
+	local faction_name = SL.SRPG10.GetFactionName(idx)
 
 	if faction_name == "Stamina Nation" then
 		eventAf:GetChild("HeaderBackground")
@@ -195,6 +195,8 @@ local SetLeaderboardData = function(eventAf, leaderboardData, event)
 end
 
 local GetRpgPaneFunctions = function(eventAf, rpgData, player)
+	local pn = ToEnumShortString(player)
+	
 	local score, scoreDelta, rate, rateDelta = 0, 0, 0, 0
 	local pss = STATSMAN:GetCurStageStats():GetPlayerStageStats(player)
 	local paneTexts = {}
@@ -265,6 +267,25 @@ local GetRpgPaneFunctions = function(eventAf, rpgData, player)
 			end
 		end
 	end
+	
+	-- Also pass the response data to the progress box.
+	local progressBox = SCREENMAN:GetTopScreen()
+			:GetChild("Overlay")
+			:GetChild("ScreenEval Common")
+			:GetChild(pn.."_AF_Upper")
+			:GetChild("EventProgress"..pn)
+	if progressBox ~= nil then
+		progressBox:playcommand("SetData",{
+			rpgData = {
+				["name"] = rpgData["name"],
+				["score"] = score,
+				["scoreDelta"] = scoreDelta,
+				["rate"] = rate,
+				["rateDelta"] = rateDelta,
+				["statImprovements"] = progress and progress["statImprovements"] or nil,
+			},
+		})
+	end
 
 	table.insert(paneTexts, string.format(
 		"Skill Improvements\n\n"..
@@ -285,7 +306,7 @@ local GetRpgPaneFunctions = function(eventAf, rpgData, player)
 	for text in ivalues(paneTexts) do
 		table.insert(paneFunctions, function(eventAf)
 			SetRpgStyle(eventAf)
-			eventAf:GetChild("Header"):settext(rpgData["name"])
+			eventAf:GetChild("Header"):settext(rpgData["name"]:gsub("SRPG", "Stamina RPG")..(isDoubles and "  Doubles" or ""))
 			eventAf:GetChild("Leaderboard"):visible(false)
 			local bodyText = eventAf:GetChild("BodyText")
 
@@ -355,7 +376,7 @@ local GetRpgPaneFunctions = function(eventAf, rpgData, player)
 
 	table.insert(paneFunctions, function(eventAf)
 		SetRpgStyle(eventAf)
-		eventAf:GetChild("Header"):settext(rpgData["name"])
+		eventAf:GetChild("Header"):settext(rpgData["name"]:gsub("SRPG", "Stamina RPG")..(isDoubles and "  Doubles" or ""))
 		SetLeaderboardData(eventAf, rpgData["rpgLeaderboard"], "rpg")
 		eventAf:GetChild("Leaderboard"):visible(true)
 		eventAf:GetChild("BodyText"):visible(false)
@@ -517,9 +538,9 @@ local GetItlPaneFunctions = function(eventAf, itlData, player)
 
 				for reward in ivalues(achievement["rewards"]) do
 					local tier = reward["tier"]
-					if tier ~= "Default" then
+					if tostring(tier) ~= "0" then
 						table.insert(achievementStrings, string.format(
-							"\"%s\" Tier",
+							"Tier %s",
 							tier
 						))
 					end
@@ -531,7 +552,7 @@ local GetItlPaneFunctions = function(eventAf, itlData, player)
 						))
 					end
 
-					if reward["titleUnlocked"] then
+					if reward["titleUnlocked"] and #reward["titleUnlocked"] > 0 then
 						table.insert(achievementStrings, string.format(
 							"Unlocked the \"%s\" Title!",
 							reward["titleUnlocked"]
@@ -832,9 +853,10 @@ for player in ivalues(PlayerNumber) do
 		-- Main Black cement background
 		Def.Sprite {
 			Name="BackgroundImage",
-			Texture=THEME:GetPathG("", "_VisualStyles/SRPG8/Overlay-BG.jpg"),
+			Texture=THEME:GetPathG("", "_VisualStyles/SRPG10/Overlay-BG.png"),
 			InitCommand=function(self)
-				self:CropTo(paneWidth, paneHeight)
+				-- self:CropTo(paneWidth, paneHeight)
+				self:zoomto(paneWidth, paneHeight)
 			end
 		},
 

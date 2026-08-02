@@ -176,10 +176,18 @@ for i, category in ipairs(RadarCategories) do
 			if category=="Mines" and params.TapNoteScore == "TapNoteScore_AvoidMine" then
 				RCJudgments.Mines = RCJudgments.Mines + 1
 
-			elseif category=="Holds" and params.TapNote and params.TapNote:GetTapNoteSubType() == "TapNoteSubType_Hold" then
+			elseif category=="Holds"
+				and params.TapNote
+				and params.TapNote:GetTapNoteSubType() == "TapNoteSubType_Hold"
+				and params.HoldNoteScore == "HoldNoteScore_Held"
+				then
 				RCJudgments.Holds = RCJudgments.Holds + 1
 
-			elseif category=="Rolls" and params.TapNote and params.TapNote:GetTapNoteSubType() == "TapNoteSubType_Roll" then
+			elseif category=="Rolls"
+				and params.TapNote
+				and params.TapNote:GetTapNoteSubType() == "TapNoteSubType_Roll"
+				and params.HoldNoteScore == "HoldNoteScore_Held"
+				then
 				RCJudgments.Rolls = RCJudgments.Rolls + 1
 
 			else
@@ -195,6 +203,9 @@ for i, category in ipairs(RadarCategories) do
 			local length = digits_to_fmt - digits
 
 			-----------------------------------------------------------------
+			-- TODO: Only update attributes as needed instead of clearing and adding.
+				self:ClearAttributes()
+
 			-- make leading 0s a dim gray; this is the normal case for values like "042/125"
 			-- the leading "0" in "042" should be a dimmed gray color, as well as the slash
 			if length >= 0 then
