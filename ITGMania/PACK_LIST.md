@@ -1,6 +1,6 @@
 # Pack list
 
-Generated from InstallPath on 2026-08-02 03:01. Filenames only; contents not backed up.
+Generated from InstallPath on 2026-08-03 03:01. Filenames only; contents not backed up.
 
 ## Songs
 
@@ -26530,6 +26530,7 @@ Generated from InstallPath on 2026-08-02 03:01. Filenames only; contents not bac
 - **Misc. Collected**
   - **80s Fitness**
     - 80s bg.png
+    - 80s bg.png.pre-upscale-20260802-220631.bak
     - 80s bn.png
     - 80s Fitness.ogg
     - 80s Fitness.sm
@@ -26545,6 +26546,7 @@ Generated from InstallPath on 2026-08-02 03:01. Filenames only; contents not bac
     - A Little Respect.png
     - A Little Respect.ssc
     - A Little Respect-bg.png
+    - A Little Respect-bg.png.pre-upscale-20260802-230118.bak
     - A Little Respect-jacket.png
     - banner.png
     - banner.png.pre-upscale-20260802-011310.bak
@@ -26552,6 +26554,7 @@ Generated from InstallPath on 2026-08-02 03:01. Filenames only; contents not bac
     - ABOUT DAMN TIME (PURPLE DISCO MACHINE REMIX).mp4
     - ABOUT DAMN TIME (PURPLE DISCO MACHINE REMIX).ogg
     - ABOUT DAMN TIME (PURPLE DISCO MACHINE REMIX).png
+    - ABOUT DAMN TIME (PURPLE DISCO MACHINE REMIX).png.pre-upscale-20260802-071740.bak
     - ABOUT DAMN TIME (PURPLE DISCO MACHINE REMIX).sm
     - ABOUT DAMN TIME (PURPLE DISCO MACHINE REMIX).ssc
     - ABOUT DAMN TIME (PURPLE DISCO MACHINE REMIX)-bg.png
@@ -26559,6 +26562,7 @@ Generated from InstallPath on 2026-08-02 03:01. Filenames only; contents not bac
   - **Acceptable in the 80s**
     - Acceptable in the 80s.mp3
     - Acceptable in the 80s.png
+    - Acceptable in the 80s.png.pre-upscale-20260802-073344.bak
     - Acceptable in the 80s.sm
     - Acceptable in the 80s-bg.png
     - Acceptable in the 80s-jacket.png
@@ -26568,6 +26572,8 @@ Generated from InstallPath on 2026-08-02 03:01. Filenames only; contents not bac
     - [Covered Up] - Africa.sm
     - [Covered Up] - Africa-bg.png
     - [Covered Up] - Africa-jacket.png
+    - Africa-bn.png
+    - Africa-bn.png.pre-upscale-20260802-071919.bak
   - **AM-3P(AM EAST mix)**
     - AM3PE-audio.ogg
     - AM3PE-background.png
@@ -26594,7 +26600,8 @@ Generated from InstallPath on 2026-08-02 03:01. Filenames only; contents not bac
     - READMECF.txt
   - **Artillery**
     - Artillery.ogg
-    - Artillery.png
+    - artillery.png
+    - artillery.png.pre-upscale-20260802-071955.bak
     - Artillery.sm
     - Artillery-bg.png
   - **At the River**
@@ -26614,6 +26621,8 @@ Generated from InstallPath on 2026-08-02 03:01. Filenames only; contents not bac
     - AUTOMATON.png
     - AUTOMATON.sm
     - AUTOMATON-bg.png
+    - Automaton-bn.png
+    - Automaton-bn.png.pre-upscale-20260802-072040.bak
     - AUTOMATON-jacket.png
   - **BACK UP**
     - backup.ogg
@@ -26633,6 +26642,8 @@ Generated from InstallPath on 2026-08-02 03:01. Filenames only; contents not bac
     - bbstri-banner.png
     - bbstri-banner_expanded_width.png
   - **Battle 1 (FF2)**
+    - banner.png
+    - banner.png.pre-upscale-20260802-074712.bak
     - Battle 1 (FF2).dwi
     - Battle 1 (FF2).mp3
     - Battle 1 (FF2).png
@@ -26644,12 +26655,15 @@ Generated from InstallPath on 2026-08-02 03:01. Filenames only; contents not bac
     - Battle Scene.sm
     - Battle Scene-bg.jpg
     - Battle Scene-bn.jpg
+    - Battle Scene-bn.jpg.pre-upscale-20260802-083814.bak
   - **Battle Scene (FF1)**
     - Battle Scene (FF1).dwi
     - Battle Scene (FF1).mp3
     - Battle Scene (FF1).png
     - Battle Scene (FF1).sm
     - Battle Scene (FF1)-bg.png
+    - BattleScenebanner.png
+    - BattleScenebanner.png.pre-upscale-20260802-090618.bak
   - **Battle Theme (Final Fantasy VI)**
     - Battle Theme (Final Fantasy VI).mp3
     - Battle Theme (Final Fantasy VI).sm
@@ -26664,6 +26678,8 @@ Generated from InstallPath on 2026-08-02 03:01. Filenames only; contents not bac
     - Be My Lover.sm
     - Be My Lover.ssc
     - Be My Lover-bg.png
+    - bemyloverbn.png
+    - bemyloverbn.png.pre-upscale-20260802-090929.bak
   - **Beautiful Life**
     - Beautiful Life.bg.png
     - Beautiful Life.bn.png
@@ -26704,6 +26720,8 @@ Generated from InstallPath on 2026-08-02 03:01. Filenames only; contents not bac
     - Blueprint.sm
     - Blueprint.ssc
     - Blueprint-bg.png
+    - blueprint-bn.png
+    - blueprint-bn.png.pre-upscale-20260802-121500.bak
     - Blueprint-jacket.png
   - **Boom**
     - Boom.ogg
@@ -26724,16 +26742,19 @@ Generated from InstallPath on 2026-08-02 03:01. Filenames only; contents not bac
     - FF4- Boss theme.png.rejected-crisp-20260801-2359.bak
     - FF4- Boss theme.sm
     - FF4- Boss theme-bg.png
+    - FF4- Boss theme-bg.png.pre-upscale-20260802-114019.bak
   - **Break My Heart**
     - bg.png
     - bn.png
+    - bn.png.pre-upscale-20260802-124714.bak
     - Break My Heart.ogg
     - Break My Heart.ssc
     - cdtitleMic.png
     - jacket.png
   - **Breathe**
     - Breathe.ogg
-    - Breathe.png
+    - breathe.png
+    - breathe.png.pre-upscale-20260802-135528.bak
     - Breathe.sm
     - Breathe-bg.png
     - Prodigy - Breathe.ogg
@@ -26767,6 +26788,7 @@ Generated from InstallPath on 2026-08-02 03:01. Filenames only; contents not bac
     - Children (Dream ver.).png
     - Children (Dream ver.).sm
     - Children (Dream ver.)-bg.png
+    - Children (Dream ver.)-bg.png.pre-upscale-20260802-190750.bak
     - Children (Dream ver.)-bn.png
   - **Chill (Dr. Mario)**
     - bn.png
@@ -26779,12 +26801,14 @@ Generated from InstallPath on 2026-08-02 03:01. Filenames only; contents not bac
     - chocobo theme.sm
     - chocobothemebg.png
     - chocobothemebn.png
+    - chocobothemebn.png.pre-upscale-20260802-191138.bak
     - Final Fantasy 7 - Chocobo Theme.ogg
     - Thumbs.db
     - xuxa.png
   - **Chop Suey**
     - [You Won't See This in DDR V] - Chop Suey.ogg
     - [You Won't See This in DDR V] - Chop Suey.png
+    - [You Won't See This in DDR V] - Chop Suey.png.pre-upscale-20260802-190850.bak
     - [You Won't See This in DDR V] - Chop Suey.sm
     - [You Won't See This in DDR V] - Chop Suey.ssc
     - [You Won't See This in DDR V] - Chop Suey-bg.png
@@ -26829,11 +26853,15 @@ Generated from InstallPath on 2026-08-02 03:01. Filenames only; contents not bac
     - Cruel Summer.sm
     - Cruel Summer.ssc
     - Cruel Summer-bg.png
+    - cruelsummer-bn.png
+    - cruelsummer-bn.png.pre-upscale-20260802-214340.bak
   - **D.A.N.C.E**
     - D.A.N.C.E.ogg
     - D.A.N.C.E.png
     - D.A.N.C.E.sm
     - D.A.N.C.E-bg.png
+    - dance.png
+    - dance.png.pre-upscale-20260802-213256.bak
   - **Daft Punk**
     - Daft Punk.mp3
     - Daft Punk.sm
@@ -26861,7 +26889,8 @@ Generated from InstallPath on 2026-08-02 03:01. Filenames only; contents not bac
     - Devil in Wonderland.sm
     - Devil in Wonderland.sm.old
     - devil in wonderland-bg.png
-    - devil in wonderland-bn.png
+    - Devil in Wonderland-bn.png
+    - Devil in Wonderland-bn.png.pre-upscale-20260802-213539.bak
     - DIW new boost.ogg
   - **Die In The Disco**
     - cdtitle.png
@@ -26873,6 +26902,7 @@ Generated from InstallPath on 2026-08-02 03:01. Filenames only; contents not bac
     - Disco Lies (Freemansons Remix).avi
     - Disco Lies (Freemansons Remix).ogg
     - Disco Lies (Freemansons Remix).png
+    - Disco Lies (Freemansons Remix).png.pre-upscale-20260802-213133.bak
     - Disco Lies (Freemansons Remix).sm
     - Disco Lies (Freemansons Remix).ssc
     - Disco Lies (Freemansons Remix)-bg.png
@@ -26890,6 +26920,8 @@ Generated from InstallPath on 2026-08-02 03:01. Filenames only; contents not bac
     - [Round L] - DOMINO DANCING.sm
     - [Round L] - DOMINO DANCING-bg.png
     - [Round L] - DOMINO DANCING-jacket.png
+    - DOMINO DANCING.png
+    - DOMINO DANCING.png.pre-upscale-20260802-221311.bak
   - **Don't Blame Me**
     - Don't Blame Me.ogg
     - Don't Blame Me.png
@@ -26961,6 +26993,7 @@ Generated from InstallPath on 2026-08-02 03:01. Filenames only; contents not bac
     - Evil Eye-bg.png
   - **Fancy Footwork**
     - background.png
+    - background.png.pre-upscale-20260802-125031.bak
     - banner.png
     - Fancy Footwork.ogg
     - Fancy Footwork.ssc
@@ -26982,6 +27015,7 @@ Generated from InstallPath on 2026-08-02 03:01. Filenames only; contents not bac
   - **FF7 Boss Battle**
     - FF7 Boss Battle.dwi
     - FF7 Boss Battle.jpg
+    - FF7 Boss Battle.jpg.pre-upscale-20260802-084111.bak
     - FF7 boss battle.mp3
     - FF7 Boss Battle-bg.jpg
   - **FF8 The Extreme**
@@ -27201,6 +27235,7 @@ Generated from InstallPath on 2026-08-02 03:01. Filenames only; contents not bac
     - Look What You Made Me Do.sm
     - Look What You Made Me Do.ssc
     - Look What You Made Me Do-bg.png
+    - Look What You Made Me Do-bg.png.pre-upscale-20260802-220305.bak
     - Look What You Made Me Do-jacket.png
   - **Love Again**
     - bg.png
@@ -27246,6 +27281,7 @@ Generated from InstallPath on 2026-08-02 03:01. Filenames only; contents not bac
     - Masters of the Universe.png
     - Masters of the Universe.sm
     - Masters of the Universe-bg.png
+    - Masters of the Universe-bg.png.pre-upscale-20260802-115731.bak
     - Masters of the Universe-jacket.png
   - **Michael**
     - Michael.avi
@@ -27537,6 +27573,7 @@ Generated from InstallPath on 2026-08-02 03:01. Filenames only; contents not bac
     - Praise You.png
     - Praise You.sm
     - Praise You-bg.png
+    - Praise You-bg.png.pre-upscale-20260802-120404.bak
     - Praise You-jacket.png
   - **Prison Song**
     - banner.png
