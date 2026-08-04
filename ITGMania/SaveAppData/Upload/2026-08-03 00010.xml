@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Stats>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<RecentSongScores>
+<HighScoreForASongAndSteps>
+<Song Dir='Songs/The Starter Pack of Stamina/66 MHz - [Tuuc]/'/>
+<Steps Difficulty='Medium' StepsType='dance-single'/>
+<HighScore>
+<Name></Name>
+<Grade>Failed</Grade>
+<Score>166</Score>
+<PercentDP>0.568900</PercentDP>
+<SurviveSeconds>185.828751</SurviveSeconds>
+<MaxCombo>196</MaxCombo>
+<StageAward></StageAward>
+<PeakComboAward></PeakComboAward>
+<Modifiers>NoHideLights, C620, 15% Mini, FailImmediateContinue, Overhead, Default</Modifiers>
+<DateTime>2026-08-03 16:17:16</DateTime>
+<PlayerGuid>4ad3a19834ee56bd</PlayerGuid>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<ProductID>1</ProductID>
+<TapNoteScores>
+<HitMine>0</HitMine>
+<AvoidMine>0</AvoidMine>
+<CheckpointMiss>0</CheckpointMiss>
+<Miss>178</Miss>
+<W5>15</W5>
+<W4>15</W4>
+<W3>140</W3>
+<W2>278</W2>
+<W1>473</W1>
+<CheckpointHit>0</CheckpointHit>
+</TapNoteScores>
+<HoldNoteScores>
+<LetGo>1</LetGo>
+<Held>77</Held>
+<MissedHold>1</MissedHold>
+</HoldNoteScores>
+<RadarValues>
+<Stream>0.683348</Stream>
+<Voltage>0.202033</Voltage>
+<Air>0.000000</Air>
+<Freeze>0.974684</Freeze>
+<Chaos>0.568930</Chaos>
+<Notes>906.000000</Notes>
+<TapsAndHolds>906</TapsAndHolds>
+<Jumps>0</Jumps>
+<Holds>77</Holds>
+<Mines>15</Mines>
+<Hands>0</Hands>
+<Rolls>0</Rolls>
+<Lifts>0</Lifts>
+<Fakes>0</Fakes>
+</RadarValues>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<Disqualified>0</Disqualified>
+<Pad>33</Pad>
+<StageGuid>1f92d79d-5298-4f23-a36b-810c602fa884</StageGuid>
+<Guid>439556ef-1bfa-4f4f-a4b6-f7d58d657fb7</Guid>
+</HighScore>
+</HighScoreForASongAndSteps>
+</RecentSongScores>
+</Stats>

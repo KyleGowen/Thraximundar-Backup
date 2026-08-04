@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Stats>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<RecentSongScores>
+<HighScoreForASongAndSteps>
+<Song Dir='Songs/Anthem Series - The Boys/Where Them Girls At/'/>
+<Steps Difficulty='Challenge' StepsType='dance-single'/>
+<HighScore>
+<Name></Name>
+<Grade>Tier09</Grade>
+<Score>87</Score>
+<PercentDP>0.855800</PercentDP>
+<SurviveSeconds>124.979683</SurviveSeconds>
+<MaxCombo>232</MaxCombo>
+<StageAward></StageAward>
+<PeakComboAward></PeakComboAward>
+<Modifiers>NoHideLights, C620, 15% Mini, FailImmediateContinue, Overhead, Default</Modifiers>
+<DateTime>2026-08-03 16:24:43</DateTime>
+<PlayerGuid>4ad3a19834ee56bd</PlayerGuid>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<ProductID>1</ProductID>
+<TapNoteScores>
+<HitMine>0</HitMine>
+<AvoidMine>0</AvoidMine>
+<CheckpointMiss>0</CheckpointMiss>
+<Miss>1</Miss>
+<W5>3</W5>
+<W4>5</W4>
+<W3>70</W3>
+<W2>128</W2>
+<W1>276</W1>
+<CheckpointHit>0</CheckpointHit>
+</TapNoteScores>
+<HoldNoteScores>
+<LetGo>0</LetGo>
+<Held>90</Held>
+<MissedHold>0</MissedHold>
+</HoldNoteScores>
+<RadarValues>
+<Stream>0.838776</Stream>
+<Voltage>0.439143</Voltage>
+<Air>0.857143</Air>
+<Freeze>1.000000</Freeze>
+<Chaos>0.855846</Chaos>
+<Notes>486.000000</Notes>
+<TapsAndHolds>479</TapsAndHolds>
+<Jumps>7</Jumps>
+<Holds>88</Holds>
+<Mines>0</Mines>
+<Hands>0</Hands>
+<Rolls>2</Rolls>
+<Lifts>0</Lifts>
+<Fakes>0</Fakes>
+</RadarValues>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<Disqualified>0</Disqualified>
+<Pad>33</Pad>
+<StageGuid>e903ad4c-2784-4225-a0b1-2220beb7f27b</StageGuid>
+<Guid>3e6c6dae-9fd4-47b6-a134-b1b71697a2df</Guid>
+</HighScore>
+</HighScoreForASongAndSteps>
+</RecentSongScores>
+</Stats>

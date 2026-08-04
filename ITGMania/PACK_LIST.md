@@ -1,6 +1,6 @@
 # Pack list
 
-Generated from InstallPath on 2026-08-03 03:01. Filenames only; contents not backed up.
+Generated from InstallPath on 2026-08-04 03:01. Filenames only; contents not backed up.
 
 ## Songs
 
@@ -26565,6 +26565,7 @@ Generated from InstallPath on 2026-08-03 03:01. Filenames only; contents not bac
     - Acceptable in the 80s.png.pre-upscale-20260802-073344.bak
     - Acceptable in the 80s.sm
     - Acceptable in the 80s-bg.png
+    - Acceptable in the 80s-bg.png.pre-upscale-20260803-082701.bak
     - Acceptable in the 80s-jacket.png
   - **Africa**
     - [Covered Up] - Africa.ogg
@@ -26603,7 +26604,8 @@ Generated from InstallPath on 2026-08-03 03:01. Filenames only; contents not bac
     - artillery.png
     - artillery.png.pre-upscale-20260802-071955.bak
     - Artillery.sm
-    - Artillery-bg.png
+    - artillery-bg.png
+    - artillery-bg.png.pre-upscale-20260803-082846.bak
   - **At the River**
     - At the River.ogg
     - At the River.png
@@ -26654,6 +26656,7 @@ Generated from InstallPath on 2026-08-03 03:01. Filenames only; contents not bac
     - Battle Scene.mp3
     - Battle Scene.sm
     - Battle Scene-bg.jpg
+    - Battle Scene-bg.jpg.pre-upscale-20260803-084354.bak
     - Battle Scene-bn.jpg
     - Battle Scene-bn.jpg.pre-upscale-20260802-083814.bak
   - **Battle Scene (FF1)**
@@ -26689,6 +26692,7 @@ Generated from InstallPath on 2026-08-03 03:01. Filenames only; contents not bac
   - **Better Than Revenge**
     - betterthanrevenge.ogg
     - betterthanrevenge.png
+    - betterthanrevenge.png.pre-upscale-20260803-084141.bak
     - betterthanrevenge.sm
     - betterthanrevengebn.png
   - **Bike Chase**
@@ -26756,7 +26760,8 @@ Generated from InstallPath on 2026-08-03 03:01. Filenames only; contents not bac
     - breathe.png
     - breathe.png.pre-upscale-20260802-135528.bak
     - Breathe.sm
-    - Breathe-bg.png
+    - breathe-bg.png
+    - breathe-bg.png.pre-upscale-20260803-095740.bak
     - Prodigy - Breathe.ogg
     - readme.txt
   - **Call on Me**
@@ -26768,6 +26773,7 @@ Generated from InstallPath on 2026-08-03 03:01. Filenames only; contents not bac
     - Call on Me-jacket.png
   - **Car Keys (Ayla)**
     - Car Keys (Ayla) - bg.png
+    - Car Keys (Ayla) - bg.png.pre-upscale-20260803-085307.bak
     - Car Keys (Ayla) - bn.png
     - Car Keys (Ayla).ogg
     - Car Keys (Ayla).ssc
@@ -26782,6 +26788,7 @@ Generated from InstallPath on 2026-08-03 03:01. Filenames only; contents not bac
     - Change the Formality-bg.png
     - ctf.jpg
     - ctf-bg.jpg
+    - ctf-bg.jpg.pre-upscale-20260803-085705.bak
   - **Children (Dream ver.)**
     - Children (Dream ver.).dwi
     - Children (Dream ver.).mp3
@@ -26888,7 +26895,8 @@ Generated from InstallPath on 2026-08-03 03:01. Filenames only; contents not bac
     - Devil in Wonderland.dwi.old
     - Devil in Wonderland.sm
     - Devil in Wonderland.sm.old
-    - devil in wonderland-bg.png
+    - Devil in Wonderland-bg.png
+    - Devil in Wonderland-bg.png.pre-upscale-20260803-083334.bak
     - Devil in Wonderland-bn.png
     - Devil in Wonderland-bn.png.pre-upscale-20260802-213539.bak
     - DIW new boost.ogg
@@ -26942,6 +26950,8 @@ Generated from InstallPath on 2026-08-03 03:01. Filenames only; contents not bac
     - Don't You (Forget About Me).ssc
     - Don't You (Forget About Me)-bg.png
     - Don't You (Forget About Me)-jacket.png
+    - dontyou.png
+    - dontyou.png.pre-upscale-20260803-082428.bak
   - **Driver**
     - background.png
     - banner.png
@@ -26951,7 +26961,8 @@ Generated from InstallPath on 2026-08-03 03:01. Filenames only; contents not bac
     - jacket.png
   - **DVNO**
     - DVNO.ogg
-    - DVNO.png
+    - DVNO.PNG
+    - DVNO.PNG.pre-upscale-20260803-091846.bak
     - DVNO.sm
     - dvnobg.jpg
     - DVNO-bg.png
@@ -26962,6 +26973,7 @@ Generated from InstallPath on 2026-08-03 03:01. Filenames only; contents not bac
     - East West Wobble.sm
     - East West Wobble.sm.old
     - east west wobble-bg.png
+    - east west wobble-bg.png.pre-upscale-20260803-085918.bak
     - east west wobble-bn.png
     - EWW.ogg
   - **end of an era**
@@ -26979,6 +26991,8 @@ Generated from InstallPath on 2026-08-03 03:01. Filenames only; contents not bac
     - Enjoy the Silence.sm
     - Enjoy the Silence.ssc
     - Enjoy the Silence-bg.png
+    - Enjoy the Silence-bn.png
+    - Enjoy the Silence-bn.png.pre-upscale-20260803-091907.bak
     - Enjoy the Silence-jacket.png
   - **Espresso (Mark Ronson x FNZ Working Later Remix)**
     - Espresso (Mark Ronson x FNZ Working Later Remix).ogg
@@ -26991,16 +27005,21 @@ Generated from InstallPath on 2026-08-03 03:01. Filenames only; contents not bac
     - Evil Eye.png
     - Evil Eye.sm
     - Evil Eye-bg.png
+    - evileye-bn.png
+    - evileye-bn.png.pre-upscale-20260803-092332.bak
   - **Fancy Footwork**
     - background.png
     - background.png.pre-upscale-20260802-125031.bak
     - banner.png
+    - banner.png.pre-upscale-20260803-131153.bak
     - Fancy Footwork.ogg
     - Fancy Footwork.ssc
     - jacket.png
   - **Fantastic World**
     - bg.png
+    - bn
     - bn.png
+    - bn.pre-upscale-20260803-093232.bak
     - cdtitle.png
     - fantasticworld.ogg
     - fantasticworld.ssc
@@ -27031,7 +27050,9 @@ Generated from InstallPath on 2026-08-03 03:01. Filenames only; contents not bac
     - Flaming June.sm
     - Flaming June.ssc
     - Flaming June-bg.png
+    - Flaming June-bg.png.pre-upscale-20260803-094324.bak
     - Flaming June-bn.png
+    - Flaming June-bn.png.pre-upscale-20260803-093513.bak
     - Readme.txt
   - **Flash Man**
     - Flash Man.dwi
@@ -27039,7 +27060,13 @@ Generated from InstallPath on 2026-08-03 03:01. Filenames only; contents not bac
     - Flash Man.png
     - Flash Man.sm
     - Flash Man-bg.png
+    - Flash Man-bg.png.pre-upscale-20260803-120255.bak
+    - Flash Man-bn.png
+    - Flash Man-bn.png.pre-upscale-20260803-142507.bak
   - **Flight Tonight**
+    - banner.png
+    - banner.png.pre-upscale-20260803-131957.bak
+    - banner.png.pre-upscale-20260803-132615.bak
     - Flight Tonight.lrc
     - Flight Tonight.ogg
     - Flight Tonight.png
@@ -27052,12 +27079,15 @@ Generated from InstallPath on 2026-08-03 03:01. Filenames only; contents not bac
     - force.dwi
     - force.sm
     - Force-ba.png
+    - Force-ba.png.pre-upscale-20260803-132035.bak
     - Force-bg.jpg
+    - Force-bg.jpg.pre-upscale-20260803-120231.bak
     - Mus1c.png
   - **Forgive Me**
     - fme.png
     - fme-bg.png
     - fme-bn.png
+    - fme-bn.png.pre-upscale-20260803-133242.bak
     - Forgive Me.dwi
     - Forgive Me.lrc
     - Forgive Me.mp3
@@ -27080,6 +27110,7 @@ Generated from InstallPath on 2026-08-03 03:01. Filenames only; contents not bac
     - cdtitle.png
     - Gimme! Gimme! Gimme! (A Man After Midnight).ogg
     - Gimme! Gimme! Gimme! (A Man After Midnight).png
+    - Gimme! Gimme! Gimme! (A Man After Midnight).png.pre-upscale-20260803-141919.bak
     - Gimme! Gimme! Gimme! (A Man After Midnight).sm
     - Gimme! Gimme! Gimme! (A Man After Midnight).ssc
   - **Guilt Is a Useless Emotion (Mac Quayle Mix)**
@@ -27093,6 +27124,8 @@ Generated from InstallPath on 2026-08-03 03:01. Filenames only; contents not bac
     - Halcyon and On and On.png
     - Halcyon and On and On.sm
     - Halcyon and On and On-bg.png
+    - halcyonbn.png
+    - halcyonbn.png.pre-upscale-20260803-203834.bak
   - **Handy**
     - cdtitle.png
     - Handy.lrc
@@ -27100,11 +27133,13 @@ Generated from InstallPath on 2026-08-03 03:01. Filenames only; contents not bac
     - Handy.png
     - Handy.sm
     - Handy-bg.png
+    - Handy-bg.png.pre-upscale-20260803-130359.bak
     - Handy-jacket.png
   - **Harder To Breathe**
     - cdtitle.png
     - Harder To Breathe.ogg
     - Harder To Breathe.png
+    - Harder To Breathe.png.pre-upscale-20260803-204736.bak
     - Harder To Breathe.sm
     - Harder To Breathe-bg.png
     - Harder To Breathe-jacket.png
@@ -27117,6 +27152,7 @@ Generated from InstallPath on 2026-08-03 03:01. Filenames only; contents not bac
     - Hey Momma-Hit The Road Jack.lrc
     - Hey Momma-Hit The Road Jack.ogg
     - Hey Momma-Hit The Road Jack.png
+    - Hey Momma-Hit The Road Jack.png.pre-upscale-20260803-215833.bak
     - Hey Momma-Hit The Road Jack.sm
     - Hey Momma-Hit The Road Jack-bg.png
     - Hey Momma-Hit The Road Jack-jacket.png
@@ -27128,10 +27164,12 @@ Generated from InstallPath on 2026-08-03 03:01. Filenames only; contents not bac
     - houdini-jacket.png
   - **Hypnodancer**
     - hypno.jpg
+    - hypno.jpg.pre-upscale-20260803-141333.bak
     - Hypnodancer.mp3
     - Hypnodancer.sm
     - Hypnodancer-bn.png
     - Hypnodancer-bn2.png
+    - Hypnodancer-bn2.png.pre-upscale-20260803-221252.bak
   - **Im the Supervisor**
     - IM the Supervisor.ogg
     - IM the Supervisor.sm
@@ -27220,6 +27258,7 @@ Generated from InstallPath on 2026-08-03 03:01. Filenames only; contents not bac
   - **Light Years**
     - BAN.png
     - BG.png
+    - BG.png.pre-upscale-20260803-220409.bak
     - Jacket.png
     - Steps.ssc
     - The Midnight - Light Years (Official Audio).mp3
@@ -27250,12 +27289,14 @@ Generated from InstallPath on 2026-08-03 03:01. Filenames only; contents not bac
     - Lovers (Pure Mix).sm
     - Lovers (Pure Mix).ssc
     - Lovers (Pure Mix)-bg.png
+    - Lovers (Pure Mix)-bg.png.pre-upscale-20260803-220719.bak
     - Lovers (Pure Mix)-jacket.png
   - **Maawrio Twinz**
     - Maawrio Twinz.ogg
     - Maawrio Twinz.sm
     - Maawrio Twinz.ssc
     - Maawrio Twinz-bg.png
+    - Maawrio Twinz-bg.png.pre-upscale-20260803-220515.bak
     - Maawrio Twinz-bn.png
     - Readme.txt
   - **Maneater**
@@ -27459,6 +27500,7 @@ Generated from InstallPath on 2026-08-03 03:01. Filenames only; contents not bac
     - 05 Moon Trance.ogg
     - Moon Trance.sm
     - moontrance bg.png
+    - moontrance bg.png.pre-upscale-20260803-220241.bak
     - moontrance bn.png
   - **Moorea**
     - Moorea.ogg
