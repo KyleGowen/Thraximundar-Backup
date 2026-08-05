@@ -4,9 +4,9 @@
 1_Down=Joy1_H-Down:Key_s
 1_EffectDown=
 1_EffectUp=
-1_Left=Joy1_H-Left:Joy1_B5
+1_Left=Joy1_H-Left
 1_MenuDown=
-1_MenuLeft=
+1_MenuLeft=Joy1_B5
 1_MenuRight=
 1_MenuUp=
 1_Operator=

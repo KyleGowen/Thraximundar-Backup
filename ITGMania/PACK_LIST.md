@@ -1,6 +1,6 @@
 # Pack list
 
-Generated from InstallPath on 2026-08-04 03:01. Filenames only; contents not backed up.
+Generated from InstallPath on 2026-08-05 03:01. Filenames only; contents not backed up.
 
 ## Songs
 
@@ -27146,6 +27146,8 @@ Generated from InstallPath on 2026-08-04 03:01. Filenames only; contents not bac
   - **Heads Will Roll**
     - Heads Will Roll.png
     - Heads Will Roll.ssc
+    - Heads Will Roll-banner.png
+    - Heads Will Roll-banner.png.pre-upscale-20260804-103237.bak
   - **Hey Momma-Hit The Road Jack**
     - cdtitle.png
     - Hey Momma-Hit The Road Jack.avi
@@ -27176,10 +27178,12 @@ Generated from InstallPath on 2026-08-04 03:01. Filenames only; contents not bac
     - imthesup.png
     - imthesup-bg.png
     - imthesup-bn.png
+    - imthesup-bn.png.pre-upscale-20260804-085459.bak
     - maxresdefault.jpg
   - **Instanbul**
     - bg.png
     - bn.png
+    - bn.png.pre-upscale-20260804-090143.bak
     - cdtitleMic.png
     - Instanbul.ogg
     - Istanbul.ssc
@@ -27195,6 +27199,7 @@ Generated from InstallPath on 2026-08-04 03:01. Filenames only; contents not bac
     - Irufushi.ssc
     - Irufushi-bg.png
     - Irufushi-bn.png
+    - Irufushi-bn.png.pre-upscale-20260804-102905.bak
     - Readme.txt
   - **Jason - [StarrySergal]**
     - cdtitle.png
@@ -27226,6 +27231,8 @@ Generated from InstallPath on 2026-08-04 03:01. Filenames only; contents not bac
     - junglejapes-bg.jpg
     - junglejapes-bn.png
   - **Kick Drums & Red Wine**
+    - kd_rw-bn.png
+    - kd_rw-bn.png.pre-upscale-20260805-003825.bak
     - Kick Drums & Red Wine.ogg
     - Kick Drums & Red Wine.png
     - Kick Drums & Red Wine.sm
@@ -27338,6 +27345,7 @@ Generated from InstallPath on 2026-08-04 03:01. Filenames only; contents not bac
     - Mods de Chocobo.sm
     - Mods de Chocobo.ssc
     - Mods de Chocobo-bg.png
+    - Mods de Chocobo-bg.png.pre-upscale-20260804-080250.bak
     - Mods de Chocobo-jacket.png
   - **Moon Trance**
     - **Valex's Magical 4-Arrow Adventure 5**
@@ -27508,6 +27516,7 @@ Generated from InstallPath on 2026-08-04 03:01. Filenames only; contents not bac
     - Moorea.sm
     - Moorea.ssc
     - Moorea-BG.png
+    - Moorea-BG.png.pre-upscale-20260804-101610.bak
     - Moorea-BN.png
     - Readme.txt
   - **My Oh My**
@@ -27588,6 +27597,7 @@ Generated from InstallPath on 2026-08-04 03:01. Filenames only; contents not bac
     - Picture to Burn.sm
     - Picture to Burn.ssc
     - Picture to Burn-bg.png
+    - Picture to Burn-bg.png.pre-upscale-20260804-075900.bak
     - Picture to Burn-jacket.png
   - **Pjanno**
     - Eric Prydz-Pjanno.OGG
@@ -27602,10 +27612,12 @@ Generated from InstallPath on 2026-08-04 03:01. Filenames only; contents not bac
     - Policy of Truth.png
     - Policy of Truth.sm
     - Policy of Truth-bg.png
+    - Policy of Truth-bg.png.pre-upscale-20260804-085011.bak
   - **POT**
     - bg.png
     - bn.png
     - jacket.png
+    - jacket.png.pre-upscale-20260804-082136.bak
     - pot.ogg
     - pot.ssc
     - READMECF.txt
@@ -27721,6 +27733,7 @@ Generated from InstallPath on 2026-08-04 03:01. Filenames only; contents not bac
     - Satisfaction-bg.png
   - **Save Your Tears -The Weeknd**
     - BG.png
+    - BG.png.pre-upscale-20260804-200234.bak
     - BN.png
     - Save Your Tears -The Weeknd.mp3
     - Save Your Tears -The Weeknd.sm
@@ -27728,7 +27741,8 @@ Generated from InstallPath on 2026-08-04 03:01. Filenames only; contents not bac
     - Selecta.ogg
     - Selecta.png
     - Selecta.sm
-    - Selecta-bg.png
+    - selecta-bg.png
+    - selecta-bg.png.pre-upscale-20260804-222438.bak
   - **Simply Being Loved -Somnambluist-**
     - cdtitle.png
     - Simply Being Loved -Somnambluist-.ogg

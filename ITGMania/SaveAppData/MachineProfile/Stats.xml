@@ -18,7 +18,7 @@
 <Song Dir=''/>
 <Course/>
 <CurrentCombo>0</CurrentCombo>
-<TotalSessions>2677</TotalSessions>
+<TotalSessions>2705</TotalSessions>
 <TotalSessionSeconds>1169548</TotalSessionSeconds>
 <TotalGameplaySeconds>576724</TotalGameplaySeconds>
 <TotalCaloriesBurned>210206.171875</TotalCaloriesBurned>
@@ -26,7 +26,7 @@
 <GoalCalories>0</GoalCalories>
 <GoalSeconds>0</GoalSeconds>
 <LastPlayedMachineGuid>403d15c592378cca</LastPlayedMachineGuid>
-<LastPlayedDate>2026-08-03</LastPlayedDate>
+<LastPlayedDate>2026-08-04</LastPlayedDate>
 <TotalDancePoints>8218540</TotalDancePoints>
 <NumExtraStagesPassed>0</NumExtraStagesPassed>
 <NumExtraStagesFailed>0</NumExtraStagesFailed>
@@ -94397,8 +94397,8 @@
 </Steps>
 <Steps Difficulty='Hard' StepsType='dance-single'>
 <HighScoreList>
-<NumTimesPlayed>5</NumTimesPlayed>
-<LastPlayed>2026-06-08</LastPlayed>
+<NumTimesPlayed>6</NumTimesPlayed>
+<LastPlayed>2026-08-04</LastPlayed>
 <HighGrade>Tier06</HighGrade>
 <HighScore>
 <Name>SAM!</Name>
@@ -94506,8 +94506,8 @@
 <Song Dir='Songs/Misc. Collected/Jason - [StarrySergal]/'>
 <Steps Difficulty='Hard' StepsType='dance-single'>
 <HighScoreList>
-<NumTimesPlayed>1</NumTimesPlayed>
-<LastPlayed>2025-04-29</LastPlayed>
+<NumTimesPlayed>2</NumTimesPlayed>
+<LastPlayed>2026-08-04</LastPlayed>
 <HighGrade>Tier10</HighGrade>
 <HighScore>
 <Name>KYLE</Name>
