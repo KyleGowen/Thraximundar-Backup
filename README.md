@@ -1,8 +1,8 @@
 ﻿# ITGMania Backup
 
-#### Last backup: Aug 5, 2026 at 3:02 AM
+#### Last backup: Aug 6, 2026 at 3:02 AM
 
-#### Next backup: Aug 6, 2026 at 3:00 AM
+#### Next backup: Aug 7, 2026 at 3:00 AM
 
 ## 30-day digest
 
@@ -27,6 +27,27 @@
 | --- | --- |
 | 1 | 1 |
 
+
+#### Aug 6, 2026 at 3:02 AM
+
+<details>
+<summary>Pack and song changes</summary>
+
+#### Pack and song changes
+
+**Added**
+- **(root)**
+-- [Prime Time] - Green Light (Chromeo Remix)
+-- Houdini (Initial Talk Dua Goes Freestyle Remix)
+-- Mi Cama
+-- Propane Nightmares (Celldweller Remix)
+-- The One That Got Away
+-- Travelling without moving
+-- Two Is Better Than One (Mike Rizzo Remix)
+-- We Are Never Ever Getting Bad Blood
+
+
+</details>
 
 #### Aug 4, 2026 at 3:02 AM
 
@@ -2364,10 +2385,6 @@ Time in songs this run: **KYLE** 2m 49s.
 
 - **KYLE** set a new score for **PUT YOUR FAITH IN ME (Jazzy Groove)** (DDR 2nd Mix) - Beginner (2), dance-single - 62.08% DP on 2026-02-17.
 
-### Feb 17, 2026 at 4:42 PM
-
-- **KYLE** set a new score for **GENOM SCREAMS** (DDR 2nd Mix) - Beginner (3), dance-single - 49.04% DP on 2026-02-17.
-
 <details>
 <summary><strong>Pack and song changes (last 30 days)</strong></summary>
 
@@ -2376,6 +2393,14 @@ Time in songs this run: **KYLE** 2m 49s.
 <details>
 <summary>(root)</summary>
 
+-- [Prime Time] - Green Light (Chromeo Remix)
+-- Houdini (Initial Talk Dua Goes Freestyle Remix)
+-- Mi Cama
+-- Propane Nightmares (Celldweller Remix)
+-- The One That Got Away
+-- Travelling without moving
+-- Two Is Better Than One (Mike Rizzo Remix)
+-- We Are Never Ever Getting Bad Blood
 -- Yakko's World
 
 </details>
@@ -3442,456 +3467,163 @@ Manifest of Songs folder structure (filenames only).
 
 ```diff
 diff --git a/ITGMania/PACK_LIST.md b/ITGMania/PACK_LIST.md
-index 2773c0e..773d074 100644
+index 773d074..4f06e3f 100644
 --- a/ITGMania/PACK_LIST.md
 +++ b/ITGMania/PACK_LIST.md
 @@ -1,6 +1,6 @@
  # Pack list
  
--Generated from InstallPath on 2026-08-04 03:01. Filenames only; contents not backed up.
-+Generated from InstallPath on 2026-08-05 03:01. Filenames only; contents not backed up.
+-Generated from InstallPath on 2026-08-05 03:01. Filenames only; contents not backed up.
++Generated from InstallPath on 2026-08-06 03:01. Filenames only; contents not backed up.
  
  ## Songs
  
-@@ -27146,6 +27146,8 @@ Generated from InstallPath on 2026-08-04 03:01. Filenames only; contents not bac
-   - **Heads Will Roll**
-     - Heads Will Roll.png
-     - Heads Will Roll.ssc
-+    - Heads Will Roll-banner.png
-+    - Heads Will Roll-banner.png.pre-upscale-20260804-103237.bak
-   - **Hey Momma-Hit The Road Jack**
-     - cdtitle.png
-     - Hey Momma-Hit The Road Jack.avi
-@@ -27176,10 +27178,12 @@ Generated from InstallPath on 2026-08-04 03:01. Filenames only; contents not bac
-     - imthesup.png
-     - imthesup-bg.png
-     - imthesup-bn.png
-+    - imthesup-bn.png.pre-upscale-20260804-085459.bak
-     - maxresdefault.jpg
-   - **Instanbul**
+@@ -26528,6 +26528,12 @@ Generated from InstallPath on 2026-08-05 03:01. Filenames only; contents not bac
+   - K-Pop Demon Hunters-packbn.png
+   - pack.ini
+ - **Misc. Collected**
++  - **[Prime Time] - Green Light (Chromeo Remix)**
++    - [Prime Time] - Green Light (Chromeo Remix).ogg
++    - [Prime Time] - Green Light (Chromeo Remix).png
++    - [Prime Time] - Green Light (Chromeo Remix).sm
++    - [Prime Time] - Green Light (Chromeo Remix)-bg.png
++    - [Prime Time] - Green Light (Chromeo Remix)-jacket.png
+   - **80s Fitness**
+     - 80s bg.png
+     - 80s bg.png.pre-upscale-20260802-220631.bak
+@@ -27164,6 +27170,13 @@ Generated from InstallPath on 2026-08-05 03:01. Filenames only; contents not bac
+     - houdini-bg.png
+     - houdini-bn.png
+     - houdini-jacket.png
++  - **Houdini (Initial Talk Dua Goes Freestyle Remix)**
++    - cdtitle.png
++    - Houdini (Initial Talk Dua Goes Freestyle Remix).ogg
++    - Houdini (Initial Talk Dua Goes Freestyle Remix).png
++    - Houdini (Initial Talk Dua Goes Freestyle Remix).sm
++    - Houdini (Initial Talk Dua Goes Freestyle Remix)-bg.png
++    - Houdini (Initial Talk Dua Goes Freestyle Remix)-jacket.png
+   - **Hypnodancer**
+     - hypno.jpg
+     - hypno.jpg.pre-upscale-20260803-141333.bak
+@@ -27248,6 +27261,7 @@ Generated from InstallPath on 2026-08-05 03:01. Filenames only; contents not bac
+   - **Levitating**
      - bg.png
      - bn.png
-+    - bn.png.pre-upscale-20260804-090143.bak
++    - bn.png.pre-upscale-20260805-070939.bak
      - cdtitleMic.png
-     - Instanbul.ogg
-     - Istanbul.ssc
-@@ -27195,6 +27199,7 @@ Generated from InstallPath on 2026-08-04 03:01. Filenames only; contents not bac
-     - Irufushi.ssc
-     - Irufushi-bg.png
-     - Irufushi-bn.png
-+    - Irufushi-bn.png.pre-upscale-20260804-102905.bak
-     - Readme.txt
-   - **Jason - [StarrySergal]**
-     - cdtitle.png
-@@ -27226,6 +27231,8 @@ Generated from InstallPath on 2026-08-04 03:01. Filenames only; contents not bac
-     - junglejapes-bg.jpg
-     - junglejapes-bn.png
-   - **Kick Drums & Red Wine**
-+    - kd_rw-bn.png
-+    - kd_rw-bn.png.pre-upscale-20260805-003825.bak
-     - Kick Drums & Red Wine.ogg
-     - Kick Drums & Red Wine.png
-     - Kick Drums & Red Wine.sm
-@@ -27338,6 +27345,7 @@ Generated from InstallPath on 2026-08-04 03:01. Filenames only; contents not bac
-     - Mods de Chocobo.sm
-     - Mods de Chocobo.ssc
-     - Mods de Chocobo-bg.png
-+    - Mods de Chocobo-bg.png.pre-upscale-20260804-080250.bak
-     - Mods de Chocobo-jacket.png
-   - **Moon Trance**
-     - **Valex's Magical 4-Arrow Adventure 5**
-@@ -27508,6 +27516,7 @@ Generated from InstallPath on 2026-08-04 03:01. Filenames only; contents not bac
-     - Moorea.sm
-     - Moorea.ssc
-     - Moorea-BG.png
-+    - Moorea-BG.png.pre-upscale-20260804-101610.bak
-     - Moorea-BN.png
-     - Readme.txt
-   - **My Oh My**
-@@ -27588,6 +27597,7 @@ Generated from InstallPath on 2026-08-04 03:01. Filenames only; contents not bac
-     - Picture to Burn.sm
-     - Picture to Burn.ssc
-     - Picture to Burn-bg.png
-+    - Picture to Burn-bg.png.pre-upscale-20260804-075900.bak
-     - Picture to Burn-jacket.png
-   - **Pjanno**
-     - Eric Prydz-Pjanno.OGG
-@@ -27602,10 +27612,12 @@ Generated from InstallPath on 2026-08-04 03:01. Filenames only; contents not bac
-     - Policy of Truth.png
-     - Policy of Truth.sm
-     - Policy of Truth-bg.png
-+    - Policy of Truth-bg.png.pre-upscale-20260804-085011.bak
-   - **POT**
-     - bg.png
-     - bn.png
      - jacket.png
-+    - jacket.png.pre-upscale-20260804-082136.bak
-     - pot.ogg
-     - pot.ssc
-     - READMECF.txt
-@@ -27721,6 +27733,7 @@ Generated from InstallPath on 2026-08-04 03:01. Filenames only; contents not bac
-     - Satisfaction-bg.png
-   - **Save Your Tears -The Weeknd**
+     - Levitating.ogg
+@@ -27262,8 +27276,11 @@ Generated from InstallPath on 2026-08-05 03:01. Filenames only; contents not bac
+     - Lift Me Up.png
+     - Lift Me Up.sm
+     - Lift Me Up-bg.png
++    - lift.png
++    - lift.png.pre-upscale-20260805-092910.bak
+   - **Light Years**
+     - BAN.png
++    - BAN.png.pre-upscale-20260805-131113.bak
      - BG.png
-+    - BG.png.pre-upscale-20260804-200234.bak
-     - BN.png
-     - Save Your Tears -The Weeknd.mp3
-     - Save Your Tears -The Weeknd.sm
-@@ -27728,7 +27741,8 @@ Generated from InstallPath on 2026-08-04 03:01. Filenames only; contents not bac
-     - Selecta.ogg
-     - Selecta.png
-     - Selecta.sm
--    - Selecta-bg.png
-+    - selecta-bg.png
-+    - selecta-bg.png.pre-upscale-20260804-222438.bak
-   - **Simply Being Loved -Somnambluist-**
-     - cdtitle.png
-     - Simply Being Loved -Somnambluist-.ogg
-```
-
-### ITGMania/SaveAppData/Keymaps.ini
-
-Backed up file.
-
-```diff
-diff --git a/ITGMania/SaveAppData/Keymaps.ini b/ITGMania/SaveAppData/Keymaps.ini
-index 4f23265..c87dca2 100644
---- a/ITGMania/SaveAppData/Keymaps.ini
-+++ b/ITGMania/SaveAppData/Keymaps.ini
-@@ -1,20 +1,20 @@
- [dance]
--1_Back=
-+1_Back=Joy1_B1
- 1_Coin=
--1_Down=Joy1_B8:Key_s
-+1_Down=Joy1_H-Down:Key_s
- 1_EffectDown=
- 1_EffectUp=
--1_Left=Joy1_B4:Key_a
-+1_Left=Joy1_H-Left:Joy1_B5
- 1_MenuDown=
- 1_MenuLeft=
- 1_MenuRight=
- 1_MenuUp=
- 1_Operator=
- 1_Restart=
--1_Right=Joy1_B6:Key_d
--1_Select=
--1_Start=
--1_Up=Joy1_B2:Key_w
-+1_Right=Joy1_H-Right:Joy1_B6
-+1_Select=Joy1_B9
-+1_Start=Joy1_B2:Joy1_B10
-+1_Up=Joy1_H-Up:Key_w
- 1_UpLeft=
- 1_UpRight=
- 2_Back=
-```
-
-### ITGMania/SaveAppData/Keymaps.ini.before-nes-controller-20260804-223200.bak
-
-Backed up file.
-
-```diff
-diff --git a/ITGMania/SaveAppData/Keymaps.ini.before-nes-controller-20260804-223200.bak b/ITGMania/SaveAppData/Keymaps.ini.before-nes-controller-20260804-223200.bak
-new file mode 100644
-index 0000000..4f23265
---- /dev/null
-+++ b/ITGMania/SaveAppData/Keymaps.ini.before-nes-controller-20260804-223200.bak
-@@ -0,0 +1,38 @@
-+[dance]
-+1_Back=
-+1_Coin=
-+1_Down=Joy1_B8:Key_s
-+1_EffectDown=
-+1_EffectUp=
-+1_Left=Joy1_B4:Key_a
-+1_MenuDown=
-+1_MenuLeft=
-+1_MenuRight=
-+1_MenuUp=
-+1_Operator=
-+1_Restart=
-+1_Right=Joy1_B6:Key_d
-+1_Select=
-+1_Start=
-+1_Up=Joy1_B2:Key_w
-+1_UpLeft=
-+1_UpRight=
-+2_Back=
-+2_Coin=
-+2_Down=
-+2_EffectDown=
-+2_EffectUp=
-+2_Left=
-+2_MenuDown=
-+2_MenuLeft=
-+2_MenuRight=
-+2_MenuUp=
-+2_Operator=
-+2_Restart=
-+2_Right=
-+2_Select=
-+2_Start=
-+2_Up=
-+2_UpLeft=
-+2_UpRight=
-+
-```
-
-### ITGMania/SaveAppData/Keymaps.ini.before-nes-controller-map-20260804-231803.bak
-
-Backed up file.
-
-```diff
-diff --git a/ITGMania/SaveAppData/Keymaps.ini.before-nes-controller-map-20260804-231803.bak b/ITGMania/SaveAppData/Keymaps.ini.before-nes-controller-map-20260804-231803.bak
-new file mode 100644
-index 0000000..4f23265
---- /dev/null
-+++ b/ITGMania/SaveAppData/Keymaps.ini.before-nes-controller-map-20260804-231803.bak
-@@ -0,0 +1,38 @@
-+[dance]
-+1_Back=
-+1_Coin=
-+1_Down=Joy1_B8:Key_s
-+1_EffectDown=
-+1_EffectUp=
-+1_Left=Joy1_B4:Key_a
-+1_MenuDown=
-+1_MenuLeft=
-+1_MenuRight=
-+1_MenuUp=
-+1_Operator=
-+1_Restart=
-+1_Right=Joy1_B6:Key_d
-+1_Select=
-+1_Start=
-+1_Up=Joy1_B2:Key_w
-+1_UpLeft=
-+1_UpRight=
-+2_Back=
-+2_Coin=
-+2_Down=
-+2_EffectDown=
-+2_EffectUp=
-+2_Left=
-+2_MenuDown=
-+2_MenuLeft=
-+2_MenuRight=
-+2_MenuUp=
-+2_Operator=
-+2_Restart=
-+2_Right=
-+2_Select=
-+2_Start=
-+2_Up=
-+2_UpLeft=
-+2_UpRight=
-+
-```
-
-### ITGMania/SaveAppData/Keymaps.ini.before-nes-dpad-hat-fix-20260804-232422.bak
-
-Backed up file.
-
-```diff
-diff --git a/ITGMania/SaveAppData/Keymaps.ini.before-nes-dpad-hat-fix-20260804-232422.bak b/ITGMania/SaveAppData/Keymaps.ini.before-nes-dpad-hat-fix-20260804-232422.bak
-new file mode 100644
-index 0000000..de122ef
---- /dev/null
-+++ b/ITGMania/SaveAppData/Keymaps.ini.before-nes-dpad-hat-fix-20260804-232422.bak
-@@ -0,0 +1,38 @@
-+[dance]
-+1_Back=Joy1_B1
-+1_Coin=
-+1_Down=Joy1_Down1:Key_s
-+1_EffectDown=
-+1_EffectUp=
-+1_Left=Joy1_Left1:Key_a
-+1_MenuDown=
-+1_MenuLeft=Joy1_B5
-+1_MenuRight=Joy1_B6
-+1_MenuUp=
-+1_Operator=
-+1_Restart=
-+1_Right=Joy1_Right1:Key_d
-+1_Select=Joy1_B9
-+1_Start=Joy1_B2:Joy1_B10
-+1_Up=Joy1_Up1:Key_w
-+1_UpLeft=
-+1_UpRight=
-+2_Back=
-+2_Coin=
-+2_Down=
-+2_EffectDown=
-+2_EffectUp=
-+2_Left=
-+2_MenuDown=
-+2_MenuLeft=
-+2_MenuRight=
-+2_MenuUp=
-+2_Operator=
-+2_Restart=
-+2_Right=
-+2_Select=
-+2_Start=
-+2_Up=
-+2_UpLeft=
-+2_UpRight=
-+
-```
-
-### ITGMania/SaveAppData/Keymaps.ini.before-nes-left-binding-fix-20260804-234251.bak
-
-Backed up file.
-
-```diff
-diff --git a/ITGMania/SaveAppData/Keymaps.ini.before-nes-left-binding-fix-20260804-234251.bak b/ITGMania/SaveAppData/Keymaps.ini.before-nes-left-binding-fix-20260804-234251.bak
-new file mode 100644
-index 0000000..258d79f
---- /dev/null
-+++ b/ITGMania/SaveAppData/Keymaps.ini.before-nes-left-binding-fix-20260804-234251.bak
-@@ -0,0 +1,38 @@
-+[dance]
-+1_Back=Joy1_B1
-+1_Coin=
-+1_Down=Joy1_H-Down:Key_s
-+1_EffectDown=
-+1_EffectUp=
-+1_Left=Joy1_H-Left
-+1_MenuDown=
-+1_MenuLeft=
-+1_MenuRight=
-+1_MenuUp=
-+1_Operator=
-+1_Restart=
-+1_Right=Joy1_H-Right:Joy1_B6
-+1_Select=Joy1_B9
-+1_Start=Joy1_B2:Joy1_B10
-+1_Up=Joy1_H-Up:Key_w
-+1_UpLeft=
-+1_UpRight=
-+2_Back=
-+2_Coin=
-+2_Down=
-+2_EffectDown=
-+2_EffectUp=
-+2_Left=
-+2_MenuDown=
-+2_MenuLeft=
-+2_MenuRight=
-+2_MenuUp=
-+2_Operator=
-+2_Restart=
-+2_Right=
-+2_Select=
-+2_Start=
-+2_Up=
-+2_UpLeft=
-+2_UpRight=
-+
-```
-
-### ITGMania/SaveAppData/Keymaps.ini.before-nes-submenu-dedicated-menu-fix-20260804-233907.bak
-
-Backed up file.
-
-```diff
-diff --git a/ITGMania/SaveAppData/Keymaps.ini.before-nes-submenu-dedicated-menu-fix-20260804-233907.bak b/ITGMania/SaveAppData/Keymaps.ini.before-nes-submenu-dedicated-menu-fix-20260804-233907.bak
-new file mode 100644
-index 0000000..ec1c5cb
---- /dev/null
-+++ b/ITGMania/SaveAppData/Keymaps.ini.before-nes-submenu-dedicated-menu-fix-20260804-233907.bak
-@@ -0,0 +1,38 @@
-+[dance]
-+1_Back=Joy1_B1
-+1_Coin=
-+1_Down=Joy1_H-Down:Key_s
-+1_EffectDown=
-+1_EffectUp=
-+1_Left=Joy1_H-Left
-+1_MenuDown=
-+1_MenuLeft=Joy1_B5
-+1_MenuRight=
-+1_MenuUp=
-+1_Operator=
-+1_Restart=
-+1_Right=Joy1_H-Right:Joy1_B6
-+1_Select=Joy1_B9
-+1_Start=Joy1_B2:Joy1_B10
-+1_Up=Joy1_H-Up:Key_w
-+1_UpLeft=
-+1_UpRight=
-+2_Back=
-+2_Coin=
-+2_Down=
-+2_EffectDown=
-+2_EffectUp=
-+2_Left=
-+2_MenuDown=
-+2_MenuLeft=
-+2_MenuRight=
-+2_MenuUp=
-+2_Operator=
-+2_Restart=
-+2_Right=
-+2_Select=
-+2_Start=
-+2_Up=
-+2_UpLeft=
-+2_UpRight=
-+
-```
-
-### ITGMania/SaveAppData/Keymaps.ini.before-nes-submenu-fix-20260804-232920.bak
-
-Backed up file.
-
-```diff
-diff --git a/ITGMania/SaveAppData/Keymaps.ini.before-nes-submenu-fix-20260804-232920.bak b/ITGMania/SaveAppData/Keymaps.ini.before-nes-submenu-fix-20260804-232920.bak
-new file mode 100644
-index 0000000..38a28eb
---- /dev/null
-+++ b/ITGMania/SaveAppData/Keymaps.ini.before-nes-submenu-fix-20260804-232920.bak
-@@ -0,0 +1,38 @@
-+[dance]
-+1_Back=Joy1_B1
-+1_Coin=
-+1_Down=Joy1_H-Down:Key_s
-+1_EffectDown=
-+1_EffectUp=
-+1_Left=Joy1_H-Left:Key_a
-+1_MenuDown=
-+1_MenuLeft=Joy1_B5
-+1_MenuRight=Joy1_B6
-+1_MenuUp=
-+1_Operator=
-+1_Restart=
-+1_Right=Joy1_H-Right:Key_d
-+1_Select=Joy1_B9
-+1_Start=Joy1_B2:Joy1_B10
-+1_Up=Joy1_H-Up:Key_w
-+1_UpLeft=
-+1_UpRight=
-+2_Back=
-+2_Coin=
-+2_Down=
-+2_EffectDown=
-+2_EffectUp=
-+2_Left=
-+2_MenuDown=
-+2_MenuLeft=
-+2_MenuRight=
-+2_MenuUp=
-+2_Operator=
-+2_Restart=
-+2_Right=
-+2_Select=
-+2_Start=
-+2_Up=
-+2_UpLeft=
-+2_UpRight=
-+
+     - BG.png.pre-upscale-20260803-220409.bak
+     - Jacket.png
+@@ -27331,6 +27348,14 @@ Generated from InstallPath on 2026-08-05 03:01. Filenames only; contents not bac
+     - Masters of the Universe-bg.png
+     - Masters of the Universe-bg.png.pre-upscale-20260802-115731.bak
+     - Masters of the Universe-jacket.png
++  - **Mi Cama**
++    - cdtitle.png
++    - Mi Cama.avi
++    - Mi Cama.mp3
++    - Mi Cama.png
++    - Mi Cama.sm
++    - Mi Cama-bg.png
++    - Mi Cama-jacket.png
+   - **Michael**
+     - Michael.avi
+     - Michael.ogg
+@@ -27646,6 +27671,12 @@ Generated from InstallPath on 2026-08-05 03:01. Filenames only; contents not bac
+     - prom-bg.png
+     - prom-bn.png
+     - prom-jacket.png
++  - **Propane Nightmares (Celldweller Remix)**
++    - cdtitle.png
++    - Propane Nightmares (Celldweller Remix).ogg
++    - Propane Nightmares (Celldweller Remix).png
++    - Propane Nightmares (Celldweller Remix).sm
++    - Propane Nightmares (Celldweller Remix)-bg.png
+   - **Quick Man Stage**
+     - banner.jpg
+     - CW-12-QuickMan-Art.webp
+@@ -27757,6 +27788,7 @@ Generated from InstallPath on 2026-08-05 03:01. Filenames only; contents not bac
+     - [ROUND H] - SING.png
+     - [ROUND H] - SING.sm
+     - [ROUND H] - SING-bg.png
++    - [ROUND H] - SING-bg.png.pre-upscale-20260805-071522.bak
+     - [ROUND H] - SING-jacket.png
+   - **Smile Like You Mean It**
+     - Smile Like You Mean It.avi
+@@ -27815,8 +27847,10 @@ Generated from InstallPath on 2026-08-05 03:01. Filenames only; contents not bac
+     - Starry Eyed (Dexcell Remix).png
+     - Starry Eyed (Dexcell Remix).sm
+     - Starry Eyed (Dexcell Remix)-bg.png
++    - Starry Eyed (Dexcell Remix)-bg.png.pre-upscale-20260805-071622.bak
+   - **Stereo Love (Michael Mind Project Remix) [christalshizzle]**
+     - Bg-Stereo.png
++    - Bg-Stereo.png.pre-upscale-20260805-131145.bak
+     - Bn-Stereo.png
+     - Stere Love (Michael Mind Project Remix).sm
+     - Stereo Love (Michael Mind Project Remix).ogg
+@@ -27945,6 +27979,13 @@ Generated from InstallPath on 2026-08-05 03:01. Filenames only; contents not bac
+     - nightout bg.png
+     - nightout bn.png
+     - The Night Out.sm
++  - **The One That Got Away**
++    - The One That Got Away.avi
++    - The One That Got Away.dwi
++    - The One That Got Away.mp3
++    - The One That Got Away.png
++    - The One That Got Away.sm
++    - The One That Got Away-bg.png
+   - **The Purified**
+     - The Purified new.ogg
+     - The Purified.dwi
+@@ -28002,6 +28043,12 @@ Generated from InstallPath on 2026-08-05 03:01. Filenames only; contents not bac
+     - Bn.png
+     - Training Season -Dua Lipa.mp3
+     - Training Season -Dua Lipa.sm
++  - **Travelling without moving**
++    - Travelling without moving.dwi
++    - Travelling without moving.mp3
++    - Travelling without moving.png
++    - Travelling without moving.sm
++    - Travelling without moving-bg.png
+   - **True Survivor**
+     - ban.png
+     - bg.png
+@@ -28020,6 +28067,12 @@ Generated from InstallPath on 2026-08-05 03:01. Filenames only; contents not bac
+     - tmo-bg.png
+     - tmo-bn.png
+     - tmo-jacket.png
++  - **Two Is Better Than One (Mike Rizzo Remix)**
++    - Two Is Better Than One (Mike Rizzo Remix).mp3
++    - Two Is Better Than One (Mike Rizzo Remix).png
++    - Two Is Better Than One (Mike Rizzo Remix).sm
++    - Two Is Better Than One (Mike Rizzo Remix)-bg.png
++    - Two Is Better Than One (Mike Rizzo Remix)-jacket.png
+   - **Vision**
+     - Vision.ogg
+     - Vision.png
+@@ -28044,6 +28097,11 @@ Generated from InstallPath on 2026-08-05 03:01. Filenames only; contents not bac
+     - Waters of Nazareth.sm
+     - Waters of Nazareth-bg.png
+     - waters.png
++  - **We Are Never Ever Getting Bad Blood**
++    - We Are Never Ever Getting Bad Blood.mp3
++    - We Are Never Ever Getting Bad Blood.png
++    - We Are Never Ever Getting Bad Blood.sm
++    - We Are Never Ever Getting Bad Blood-bg.png
+   - **What is Love**
+     - What is Love.ogg
+     - What is Love.png
 ```
 
 ### ITGMania/SaveAppData/MachineProfile/Stats.xml
@@ -3900,15 +3632,15 @@ Machine-level profile and stats.
 
 ```diff
 diff --git a/ITGMania/SaveAppData/MachineProfile/Stats.xml b/ITGMania/SaveAppData/MachineProfile/Stats.xml
-index b532076..6c2db92 100644
+index 6c2db92..40f3e4d 100644
 --- a/ITGMania/SaveAppData/MachineProfile/Stats.xml
 +++ b/ITGMania/SaveAppData/MachineProfile/Stats.xml
 @@ -18,7 +18,7 @@
  <Song Dir=''/>
  <Course/>
  <CurrentCombo>0</CurrentCombo>
--<TotalSessions>2677</TotalSessions>
-+<TotalSessions>2705</TotalSessions>
+-<TotalSessions>2705</TotalSessions>
++<TotalSessions>2706</TotalSessions>
  <TotalSessionSeconds>1169548</TotalSessionSeconds>
  <TotalGameplaySeconds>576724</TotalGameplaySeconds>
  <TotalCaloriesBurned>210206.171875</TotalCaloriesBurned>
@@ -3916,33 +3648,33 @@ index b532076..6c2db92 100644
  <GoalCalories>0</GoalCalories>
  <GoalSeconds>0</GoalSeconds>
  <LastPlayedMachineGuid>403d15c592378cca</LastPlayedMachineGuid>
--<LastPlayedDate>2026-08-03</LastPlayedDate>
-+<LastPlayedDate>2026-08-04</LastPlayedDate>
+-<LastPlayedDate>2026-08-04</LastPlayedDate>
++<LastPlayedDate>2026-08-05</LastPlayedDate>
  <TotalDancePoints>8218540</TotalDancePoints>
  <NumExtraStagesPassed>0</NumExtraStagesPassed>
  <NumExtraStagesFailed>0</NumExtraStagesFailed>
-@@ -94397,8 +94397,8 @@
- </Steps>
- <Steps Difficulty='Hard' StepsType='dance-single'>
- <HighScoreList>
--<NumTimesPlayed>5</NumTimesPlayed>
--<LastPlayed>2026-06-08</LastPlayed>
-+<NumTimesPlayed>6</NumTimesPlayed>
-+<LastPlayed>2026-08-04</LastPlayed>
- <HighGrade>Tier06</HighGrade>
- <HighScore>
- <Name>SAM!</Name>
-@@ -94506,8 +94506,8 @@
- <Song Dir='Songs/Misc. Collected/Jason - [StarrySergal]/'>
- <Steps Difficulty='Hard' StepsType='dance-single'>
- <HighScoreList>
--<NumTimesPlayed>1</NumTimesPlayed>
--<LastPlayed>2025-04-29</LastPlayed>
-+<NumTimesPlayed>2</NumTimesPlayed>
-+<LastPlayed>2026-08-04</LastPlayed>
- <HighGrade>Tier10</HighGrade>
- <HighScore>
- <Name>KYLE</Name>
+@@ -133639,8 +133639,8 @@
+ <Week21Ago>1</Week21Ago>
+ <Week22Ago>2</Week22Ago>
+ <Week23Ago>0</Week23Ago>
+-<Week24Ago>0</Week24Ago>
+-<Week25Ago>1</Week25Ago>
++<Week24Ago>1</Week24Ago>
++<Week25Ago>0</Week25Ago>
+ <Week26Ago>0</Week26Ago>
+ <Week27Ago>0</Week27Ago>
+ <Week28Ago>0</Week28Ago>
+@@ -133654,8 +133654,8 @@
+ <Week36Ago>0</Week36Ago>
+ <Week37Ago>0</Week37Ago>
+ <Week38Ago>0</Week38Ago>
+-<Week39Ago>0</Week39Ago>
+-<Week40Ago>1</Week40Ago>
++<Week39Ago>1</Week39Ago>
++<Week40Ago>0</Week40Ago>
+ <Week41Ago>0</Week41Ago>
+ <Week42Ago>0</Week42Ago>
+ <Week43Ago>0</Week43Ago>
 ```
 
 ### ITGMania/SaveAppData/MachineProfile/Type.ini
@@ -3951,57 +3683,16 @@ Machine-level profile and stats.
 
 ```diff
 diff --git a/ITGMania/SaveAppData/MachineProfile/Type.ini b/ITGMania/SaveAppData/MachineProfile/Type.ini
-index 5b31561..60ee9fa 100644
+index 60ee9fa..7c2682a 100644
 --- a/ITGMania/SaveAppData/MachineProfile/Type.ini
 +++ b/ITGMania/SaveAppData/MachineProfile/Type.ini
 @@ -1,6 +1,6 @@
  [ListPosition]
  CreationTime=2026-08-01 16:41:41
--LastPlayedDate=2026-08-03 17:50:46
-+LastPlayedDate=2026-08-04 23:45:04
+-LastPlayedDate=2026-08-04 23:45:04
++LastPlayedDate=2026-08-05 07:08:49
  Priority=0
  Type=Normal
  
-```
-
-### ITGMania/SaveAppData/Preferences.ini
-
-Game preferences (theme, options, etc.).
-
-```diff
-diff --git a/ITGMania/SaveAppData/Preferences.ini b/ITGMania/SaveAppData/Preferences.ini
-index 3ae9410..68057b5 100644
---- a/ITGMania/SaveAppData/Preferences.ini
-+++ b/ITGMania/SaveAppData/Preferences.ini
-@@ -66,9 +66,9 @@ DisableUploadDir=0
- DisabledSongs=
- DisplayAspectRatio=1.777778
- DisplayColorDepth=32
--DisplayHeight=1080
-+DisplayHeight=720
- DisplayId=\\.\DISPLAY2
--DisplayWidth=1920
-+DisplayWidth=1280
- Disqualification=0
- EasterEggs=1
- EditClearPromptThreshold=50
-@@ -103,7 +103,7 @@ InputDeviceOrder=
- InputDrivers=
- Interlaced=0
- Language=en
--LastSeenInputDevices=MonkeyKeyboard|Mouse|StepManiaX|Keyboard
-+LastSeenInputDevices=MonkeyKeyboard|Mouse|Wireless Gamepad|Keyboard
- LastSeenVideoDriver=Intel(R) Graphics
- LifeDifficultyScale=1.000000
- LightsAheadSeconds=0.050000
-@@ -282,7 +282,7 @@ UseUnlockSystem=0
- VideoRenderers=opengl,d3d
- VisualDelaySeconds=0.000000
- Vsync=1
--Windowed=0
-+Windowed=1
- 
- [Game-dance]
- Announcer=
 ```
 

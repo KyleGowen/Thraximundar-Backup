@@ -1,6 +1,6 @@
 # Pack list
 
-Generated from InstallPath on 2026-08-05 03:01. Filenames only; contents not backed up.
+Generated from InstallPath on 2026-08-06 03:01. Filenames only; contents not backed up.
 
 ## Songs
 
@@ -26528,6 +26528,12 @@ Generated from InstallPath on 2026-08-05 03:01. Filenames only; contents not bac
   - K-Pop Demon Hunters-packbn.png
   - pack.ini
 - **Misc. Collected**
+  - **[Prime Time] - Green Light (Chromeo Remix)**
+    - [Prime Time] - Green Light (Chromeo Remix).ogg
+    - [Prime Time] - Green Light (Chromeo Remix).png
+    - [Prime Time] - Green Light (Chromeo Remix).sm
+    - [Prime Time] - Green Light (Chromeo Remix)-bg.png
+    - [Prime Time] - Green Light (Chromeo Remix)-jacket.png
   - **80s Fitness**
     - 80s bg.png
     - 80s bg.png.pre-upscale-20260802-220631.bak
@@ -27164,6 +27170,13 @@ Generated from InstallPath on 2026-08-05 03:01. Filenames only; contents not bac
     - houdini-bg.png
     - houdini-bn.png
     - houdini-jacket.png
+  - **Houdini (Initial Talk Dua Goes Freestyle Remix)**
+    - cdtitle.png
+    - Houdini (Initial Talk Dua Goes Freestyle Remix).ogg
+    - Houdini (Initial Talk Dua Goes Freestyle Remix).png
+    - Houdini (Initial Talk Dua Goes Freestyle Remix).sm
+    - Houdini (Initial Talk Dua Goes Freestyle Remix)-bg.png
+    - Houdini (Initial Talk Dua Goes Freestyle Remix)-jacket.png
   - **Hypnodancer**
     - hypno.jpg
     - hypno.jpg.pre-upscale-20260803-141333.bak
@@ -27248,6 +27261,7 @@ Generated from InstallPath on 2026-08-05 03:01. Filenames only; contents not bac
   - **Levitating**
     - bg.png
     - bn.png
+    - bn.png.pre-upscale-20260805-070939.bak
     - cdtitleMic.png
     - jacket.png
     - Levitating.ogg
@@ -27262,8 +27276,11 @@ Generated from InstallPath on 2026-08-05 03:01. Filenames only; contents not bac
     - Lift Me Up.png
     - Lift Me Up.sm
     - Lift Me Up-bg.png
+    - lift.png
+    - lift.png.pre-upscale-20260805-092910.bak
   - **Light Years**
     - BAN.png
+    - BAN.png.pre-upscale-20260805-131113.bak
     - BG.png
     - BG.png.pre-upscale-20260803-220409.bak
     - Jacket.png
@@ -27331,6 +27348,14 @@ Generated from InstallPath on 2026-08-05 03:01. Filenames only; contents not bac
     - Masters of the Universe-bg.png
     - Masters of the Universe-bg.png.pre-upscale-20260802-115731.bak
     - Masters of the Universe-jacket.png
+  - **Mi Cama**
+    - cdtitle.png
+    - Mi Cama.avi
+    - Mi Cama.mp3
+    - Mi Cama.png
+    - Mi Cama.sm
+    - Mi Cama-bg.png
+    - Mi Cama-jacket.png
   - **Michael**
     - Michael.avi
     - Michael.ogg
@@ -27646,6 +27671,12 @@ Generated from InstallPath on 2026-08-05 03:01. Filenames only; contents not bac
     - prom-bg.png
     - prom-bn.png
     - prom-jacket.png
+  - **Propane Nightmares (Celldweller Remix)**
+    - cdtitle.png
+    - Propane Nightmares (Celldweller Remix).ogg
+    - Propane Nightmares (Celldweller Remix).png
+    - Propane Nightmares (Celldweller Remix).sm
+    - Propane Nightmares (Celldweller Remix)-bg.png
   - **Quick Man Stage**
     - banner.jpg
     - CW-12-QuickMan-Art.webp
@@ -27757,6 +27788,7 @@ Generated from InstallPath on 2026-08-05 03:01. Filenames only; contents not bac
     - [ROUND H] - SING.png
     - [ROUND H] - SING.sm
     - [ROUND H] - SING-bg.png
+    - [ROUND H] - SING-bg.png.pre-upscale-20260805-071522.bak
     - [ROUND H] - SING-jacket.png
   - **Smile Like You Mean It**
     - Smile Like You Mean It.avi
@@ -27815,8 +27847,10 @@ Generated from InstallPath on 2026-08-05 03:01. Filenames only; contents not bac
     - Starry Eyed (Dexcell Remix).png
     - Starry Eyed (Dexcell Remix).sm
     - Starry Eyed (Dexcell Remix)-bg.png
+    - Starry Eyed (Dexcell Remix)-bg.png.pre-upscale-20260805-071622.bak
   - **Stereo Love (Michael Mind Project Remix) [christalshizzle]**
     - Bg-Stereo.png
+    - Bg-Stereo.png.pre-upscale-20260805-131145.bak
     - Bn-Stereo.png
     - Stere Love (Michael Mind Project Remix).sm
     - Stereo Love (Michael Mind Project Remix).ogg
@@ -27945,6 +27979,13 @@ Generated from InstallPath on 2026-08-05 03:01. Filenames only; contents not bac
     - nightout bg.png
     - nightout bn.png
     - The Night Out.sm
+  - **The One That Got Away**
+    - The One That Got Away.avi
+    - The One That Got Away.dwi
+    - The One That Got Away.mp3
+    - The One That Got Away.png
+    - The One That Got Away.sm
+    - The One That Got Away-bg.png
   - **The Purified**
     - The Purified new.ogg
     - The Purified.dwi
@@ -28002,6 +28043,12 @@ Generated from InstallPath on 2026-08-05 03:01. Filenames only; contents not bac
     - Bn.png
     - Training Season -Dua Lipa.mp3
     - Training Season -Dua Lipa.sm
+  - **Travelling without moving**
+    - Travelling without moving.dwi
+    - Travelling without moving.mp3
+    - Travelling without moving.png
+    - Travelling without moving.sm
+    - Travelling without moving-bg.png
   - **True Survivor**
     - ban.png
     - bg.png
@@ -28020,6 +28067,12 @@ Generated from InstallPath on 2026-08-05 03:01. Filenames only; contents not bac
     - tmo-bg.png
     - tmo-bn.png
     - tmo-jacket.png
+  - **Two Is Better Than One (Mike Rizzo Remix)**
+    - Two Is Better Than One (Mike Rizzo Remix).mp3
+    - Two Is Better Than One (Mike Rizzo Remix).png
+    - Two Is Better Than One (Mike Rizzo Remix).sm
+    - Two Is Better Than One (Mike Rizzo Remix)-bg.png
+    - Two Is Better Than One (Mike Rizzo Remix)-jacket.png
   - **Vision**
     - Vision.ogg
     - Vision.png
@@ -28044,6 +28097,11 @@ Generated from InstallPath on 2026-08-05 03:01. Filenames only; contents not bac
     - Waters of Nazareth.sm
     - Waters of Nazareth-bg.png
     - waters.png
+  - **We Are Never Ever Getting Bad Blood**
+    - We Are Never Ever Getting Bad Blood.mp3
+    - We Are Never Ever Getting Bad Blood.png
+    - We Are Never Ever Getting Bad Blood.sm
+    - We Are Never Ever Getting Bad Blood-bg.png
   - **What is Love**
     - What is Love.ogg
     - What is Love.png
