@@ -1,8 +1,8 @@
 ﻿# ITGMania Backup
 
-#### Last backup: Aug 6, 2026 at 3:02 AM
+#### Last backup: Aug 7, 2026 at 3:02 AM
 
-#### Next backup: Aug 7, 2026 at 3:00 AM
+#### Next backup: Aug 8, 2026 at 3:00 AM
 
 ## 30-day digest
 
@@ -27,6 +27,22 @@
 | --- | --- |
 | 1 | 1 |
 
+
+#### Aug 7, 2026 at 3:02 AM
+
+<details>
+<summary>Pack and song changes</summary>
+
+#### Pack and song changes
+
+**Added**
+- **(root)**
+-- Cold Heart (PNAU Remix)
+-- Physical
+-- SUNSET (Michael Cassette Remix)
+
+
+</details>
 
 #### Aug 6, 2026 at 3:02 AM
 
@@ -2381,10 +2397,6 @@ Time in songs this run: **KYLE** 2m 49s.
 - **KYLE** set a new score for **TUBTHUMPING** (DDR 2nd Mix) - Beginner (1), dance-single - 45.71% DP on 2026-02-17.
 - **KYLE** set a new score for **stomp to my beat** (DDR 2nd Mix) - Beginner (3), dance-single - 0.00% DP on 2026-02-17.
 
-### Feb 17, 2026 at 4:50 PM
-
-- **KYLE** set a new score for **PUT YOUR FAITH IN ME (Jazzy Groove)** (DDR 2nd Mix) - Beginner (2), dance-single - 62.08% DP on 2026-02-17.
-
 <details>
 <summary><strong>Pack and song changes (last 30 days)</strong></summary>
 
@@ -2394,9 +2406,12 @@ Time in songs this run: **KYLE** 2m 49s.
 <summary>(root)</summary>
 
 -- [Prime Time] - Green Light (Chromeo Remix)
+-- Cold Heart (PNAU Remix)
 -- Houdini (Initial Talk Dua Goes Freestyle Remix)
 -- Mi Cama
+-- Physical
 -- Propane Nightmares (Celldweller Remix)
+-- SUNSET (Michael Cassette Remix)
 -- The One That Got Away
 -- Travelling without moving
 -- Two Is Better Than One (Mike Rizzo Remix)
@@ -3467,232 +3482,171 @@ Manifest of Songs folder structure (filenames only).
 
 ```diff
 diff --git a/ITGMania/PACK_LIST.md b/ITGMania/PACK_LIST.md
-index 773d074..4f06e3f 100644
+index 4f06e3f..2bc0d06 100644
 --- a/ITGMania/PACK_LIST.md
 +++ b/ITGMania/PACK_LIST.md
 @@ -1,6 +1,6 @@
  # Pack list
  
--Generated from InstallPath on 2026-08-05 03:01. Filenames only; contents not backed up.
-+Generated from InstallPath on 2026-08-06 03:01. Filenames only; contents not backed up.
+-Generated from InstallPath on 2026-08-06 03:01. Filenames only; contents not backed up.
++Generated from InstallPath on 2026-08-07 03:01. Filenames only; contents not backed up.
  
  ## Songs
  
-@@ -26528,6 +26528,12 @@ Generated from InstallPath on 2026-08-05 03:01. Filenames only; contents not bac
-   - K-Pop Demon Hunters-packbn.png
-   - pack.ini
- - **Misc. Collected**
-+  - **[Prime Time] - Green Light (Chromeo Remix)**
-+    - [Prime Time] - Green Light (Chromeo Remix).ogg
-+    - [Prime Time] - Green Light (Chromeo Remix).png
-+    - [Prime Time] - Green Light (Chromeo Remix).sm
-+    - [Prime Time] - Green Light (Chromeo Remix)-bg.png
-+    - [Prime Time] - Green Light (Chromeo Remix)-jacket.png
-   - **80s Fitness**
-     - 80s bg.png
-     - 80s bg.png.pre-upscale-20260802-220631.bak
-@@ -27164,6 +27170,13 @@ Generated from InstallPath on 2026-08-05 03:01. Filenames only; contents not bac
-     - houdini-bg.png
-     - houdini-bn.png
-     - houdini-jacket.png
-+  - **Houdini (Initial Talk Dua Goes Freestyle Remix)**
-+    - cdtitle.png
-+    - Houdini (Initial Talk Dua Goes Freestyle Remix).ogg
-+    - Houdini (Initial Talk Dua Goes Freestyle Remix).png
-+    - Houdini (Initial Talk Dua Goes Freestyle Remix).sm
-+    - Houdini (Initial Talk Dua Goes Freestyle Remix)-bg.png
-+    - Houdini (Initial Talk Dua Goes Freestyle Remix)-jacket.png
-   - **Hypnodancer**
-     - hypno.jpg
-     - hypno.jpg.pre-upscale-20260803-141333.bak
-@@ -27248,6 +27261,7 @@ Generated from InstallPath on 2026-08-05 03:01. Filenames only; contents not bac
-   - **Levitating**
+@@ -26847,6 +26847,13 @@ Generated from InstallPath on 2026-08-06 03:01. Filenames only; contents not bac
+     - Clash on the Big Bridge.png
+     - Clash on the Big Bridge-BG.png
+     - ReadMe.txt
++  - **Cold Heart (PNAU Remix)**
++    - Cold Heart (PNAU Remix).mp3
++    - Cold Heart (PNAU Remix).png
++    - Cold Heart (PNAU Remix).sm
++    - Cold Heart (PNAU Remix)-bg.png
++    - Cold Heart (PNAU Remix)-bg.png.pre-upscale-20260806-105918.bak
++    - Cold Heart (PNAU Remix)-jacket.png
+   - **Cream**
+     - Cream.ogg
+     - Cream.png
+@@ -27303,6 +27310,7 @@ Generated from InstallPath on 2026-08-06 03:01. Filenames only; contents not bac
+   - **Love Again**
      - bg.png
      - bn.png
-+    - bn.png.pre-upscale-20260805-070939.bak
++    - bn.png.pre-upscale-20260806-103254.bak
      - cdtitleMic.png
      - jacket.png
-     - Levitating.ogg
-@@ -27262,8 +27276,11 @@ Generated from InstallPath on 2026-08-05 03:01. Filenames only; contents not bac
-     - Lift Me Up.png
-     - Lift Me Up.sm
-     - Lift Me Up-bg.png
-+    - lift.png
-+    - lift.png.pre-upscale-20260805-092910.bak
-   - **Light Years**
-     - BAN.png
-+    - BAN.png.pre-upscale-20260805-131113.bak
-     - BG.png
-     - BG.png.pre-upscale-20260803-220409.bak
-     - Jacket.png
-@@ -27331,6 +27348,14 @@ Generated from InstallPath on 2026-08-05 03:01. Filenames only; contents not bac
+     - Love Again.ogg
+@@ -27310,6 +27318,7 @@ Generated from InstallPath on 2026-08-06 03:01. Filenames only; contents not bac
+   - **Lovers (Pure Mix)**
+     - Lovers (Pure Mix).ogg
+     - Lovers (Pure Mix).png
++    - Lovers (Pure Mix).png.pre-upscale-20260806-103929.bak
+     - Lovers (Pure Mix).sm
+     - Lovers (Pure Mix).ssc
+     - Lovers (Pure Mix)-bg.png
+@@ -27322,6 +27331,7 @@ Generated from InstallPath on 2026-08-06 03:01. Filenames only; contents not bac
+     - Maawrio Twinz-bg.png
+     - Maawrio Twinz-bg.png.pre-upscale-20260803-220515.bak
+     - Maawrio Twinz-bn.png
++    - Maawrio Twinz-bn.png.pre-upscale-20260806-103732.bak
+     - Readme.txt
+   - **Maneater**
+     - cdtitle-y.png
+@@ -27337,6 +27347,7 @@ Generated from InstallPath on 2026-08-06 03:01. Filenames only; contents not bac
+   - **Master of Puppets**
+     - [Falling Apart] - Master of Puppets.ogg
+     - [Falling Apart] - Master of Puppets.png
++    - [Falling Apart] - Master of Puppets.png.pre-upscale-20260806-104026.bak
+     - [Falling Apart] - Master of Puppets.sm
+     - [Falling Apart] - Master of Puppets.ssc
+     - [Falling Apart] - Master of Puppets-bg.png
+@@ -27344,6 +27355,7 @@ Generated from InstallPath on 2026-08-06 03:01. Filenames only; contents not bac
+   - **Masters of the Universe**
+     - Masters of the Universe.ogg
+     - Masters of the Universe.png
++    - Masters of the Universe.png.pre-upscale-20260806-121751.bak
+     - Masters of the Universe.sm
      - Masters of the Universe-bg.png
      - Masters of the Universe-bg.png.pre-upscale-20260802-115731.bak
-     - Masters of the Universe-jacket.png
-+  - **Mi Cama**
-+    - cdtitle.png
-+    - Mi Cama.avi
-+    - Mi Cama.mp3
-+    - Mi Cama.png
-+    - Mi Cama.sm
-+    - Mi Cama-bg.png
-+    - Mi Cama-jacket.png
-   - **Michael**
+@@ -27360,6 +27372,7 @@ Generated from InstallPath on 2026-08-06 03:01. Filenames only; contents not bac
      - Michael.avi
      - Michael.ogg
-@@ -27646,6 +27671,12 @@ Generated from InstallPath on 2026-08-05 03:01. Filenames only; contents not bac
-     - prom-bg.png
-     - prom-bn.png
-     - prom-jacket.png
-+  - **Propane Nightmares (Celldweller Remix)**
+     - Michael.png
++    - Michael.png.pre-upscale-20260806-164216.bak
+     - Michael.sm
+     - Michael-bg.png
+     - Michael-jacket.png
+@@ -27367,6 +27380,7 @@ Generated from InstallPath on 2026-08-06 03:01. Filenames only; contents not bac
+     - cdtitle.png
+     - Mods de Chocobo.ogg
+     - Mods de Chocobo.png
++    - Mods de Chocobo.png.pre-upscale-20260806-203418.bak
+     - Mods de Chocobo.sm
+     - Mods de Chocobo.ssc
+     - Mods de Chocobo-bg.png
+@@ -27616,6 +27630,13 @@ Generated from InstallPath on 2026-08-06 03:01. Filenames only; contents not bac
+     - OOH LALALA-jacket.png
+   - **Pendejo**
+     - Pendejo.png
++  - **Physical**
++    - Physical.mp3
++    - Physical.png
++    - Physical.sm
++    - Physical-bg.png
++    - Physical-bg.png.pre-upscale-20260806-151515.bak
++    - Physical-jacket.png
+   - **Picture to Burn**
+     - Picture to Burn.ogg
+     - Picture to Burn.png
+@@ -27872,6 +27893,14 @@ Generated from InstallPath on 2026-08-06 03:01. Filenames only; contents not bac
+     - Suliman.sm
+     - Suliman-bg.png
+     - suli-x.png
++  - **SUNSET (Michael Cassette Remix)**
 +    - cdtitle.png
-+    - Propane Nightmares (Celldweller Remix).ogg
-+    - Propane Nightmares (Celldweller Remix).png
-+    - Propane Nightmares (Celldweller Remix).sm
-+    - Propane Nightmares (Celldweller Remix)-bg.png
-   - **Quick Man Stage**
-     - banner.jpg
-     - CW-12-QuickMan-Art.webp
-@@ -27757,6 +27788,7 @@ Generated from InstallPath on 2026-08-05 03:01. Filenames only; contents not bac
-     - [ROUND H] - SING.png
-     - [ROUND H] - SING.sm
-     - [ROUND H] - SING-bg.png
-+    - [ROUND H] - SING-bg.png.pre-upscale-20260805-071522.bak
-     - [ROUND H] - SING-jacket.png
-   - **Smile Like You Mean It**
-     - Smile Like You Mean It.avi
-@@ -27815,8 +27847,10 @@ Generated from InstallPath on 2026-08-05 03:01. Filenames only; contents not bac
-     - Starry Eyed (Dexcell Remix).png
-     - Starry Eyed (Dexcell Remix).sm
-     - Starry Eyed (Dexcell Remix)-bg.png
-+    - Starry Eyed (Dexcell Remix)-bg.png.pre-upscale-20260805-071622.bak
-   - **Stereo Love (Michael Mind Project Remix) [christalshizzle]**
-     - Bg-Stereo.png
-+    - Bg-Stereo.png.pre-upscale-20260805-131145.bak
-     - Bn-Stereo.png
-     - Stere Love (Michael Mind Project Remix).sm
-     - Stereo Love (Michael Mind Project Remix).ogg
-@@ -27945,6 +27979,13 @@ Generated from InstallPath on 2026-08-05 03:01. Filenames only; contents not bac
++    - SUNSET (Michael Cassette Remix).mp3
++    - SUNSET (Michael Cassette Remix).png
++    - SUNSET (Michael Cassette Remix).sm
++    - SUNSET (Michael Cassette Remix).ssc
++    - SUNSET (Michael Cassette Remix)-bg.png
++    - SUNSET (Michael Cassette Remix)-jacket.png
+   - **Super Mario World - Boss Battle**
+     - Super Mario World - Boss Battle.ogg
+     - Super Mario World - Boss Battle.png
+@@ -27882,11 +27911,13 @@ Generated from InstallPath on 2026-08-06 03:01. Filenames only; contents not bac
+     - Superstylin'.png
+     - Superstylin'.sm
+     - Superstylin'-bg.png
++    - Superstylin'-bg.png.pre-upscale-20260806-081008.bak
+     - Superstylin'-jacket.png
+   - **Swag**
+     - music.ogg
+     - steps.sm
+     - swag bg.png
++    - swag bg.png.pre-upscale-20260806-091600.bak
+     - swag bn.png
+   - **Synthetic**
+     - Synthetic.ogg
+@@ -27959,6 +27990,7 @@ Generated from InstallPath on 2026-08-06 03:01. Filenames only; contents not bac
+     - The Dark Of The Matinee.png
+     - The Dark Of The Matinee.sm
+     - The Dark Of The Matinee-bg.png
++    - The Dark Of The Matinee-bg.png.pre-upscale-20260806-102714.bak
+   - **The Decisive Battle**
+     - cdtitle.png
+     - The Decisive Battle.ogg
+@@ -27966,6 +27998,7 @@ Generated from InstallPath on 2026-08-06 03:01. Filenames only; contents not bac
+     - The Decisive Battle.sm
+     - The Decisive Battle.ssc
+     - The Decisive Battle-bg.png
++    - The Decisive Battle-bg.png.pre-upscale-20260806-104112.bak
+     - The Decisive Battle-jacket.png
+   - **The Man with the Machine Gun**
+     - The Black Mages 2.png
+@@ -27977,6 +28010,7 @@ Generated from InstallPath on 2026-08-06 03:01. Filenames only; contents not bac
+   - **The Night Out (Madeon Remix)**
+     - 02 - The Night Out (Madeon Remix).ogg
      - nightout bg.png
++    - nightout bg.png.pre-upscale-20260806-104320.bak
      - nightout bn.png
      - The Night Out.sm
-+  - **The One That Got Away**
-+    - The One That Got Away.avi
-+    - The One That Got Away.dwi
-+    - The One That Got Away.mp3
-+    - The One That Got Away.png
-+    - The One That Got Away.sm
-+    - The One That Got Away-bg.png
-   - **The Purified**
-     - The Purified new.ogg
-     - The Purified.dwi
-@@ -28002,6 +28043,12 @@ Generated from InstallPath on 2026-08-05 03:01. Filenames only; contents not bac
-     - Bn.png
-     - Training Season -Dua Lipa.mp3
-     - Training Season -Dua Lipa.sm
-+  - **Travelling without moving**
-+    - Travelling without moving.dwi
-+    - Travelling without moving.mp3
-+    - Travelling without moving.png
-+    - Travelling without moving.sm
-+    - Travelling without moving-bg.png
-   - **True Survivor**
-     - ban.png
-     - bg.png
-@@ -28020,6 +28067,12 @@ Generated from InstallPath on 2026-08-05 03:01. Filenames only; contents not bac
-     - tmo-bg.png
-     - tmo-bn.png
-     - tmo-jacket.png
-+  - **Two Is Better Than One (Mike Rizzo Remix)**
-+    - Two Is Better Than One (Mike Rizzo Remix).mp3
-+    - Two Is Better Than One (Mike Rizzo Remix).png
-+    - Two Is Better Than One (Mike Rizzo Remix).sm
-+    - Two Is Better Than One (Mike Rizzo Remix)-bg.png
-+    - Two Is Better Than One (Mike Rizzo Remix)-jacket.png
-   - **Vision**
-     - Vision.ogg
-     - Vision.png
-@@ -28044,6 +28097,11 @@ Generated from InstallPath on 2026-08-05 03:01. Filenames only; contents not bac
-     - Waters of Nazareth.sm
-     - Waters of Nazareth-bg.png
-     - waters.png
-+  - **We Are Never Ever Getting Bad Blood**
-+    - We Are Never Ever Getting Bad Blood.mp3
-+    - We Are Never Ever Getting Bad Blood.png
-+    - We Are Never Ever Getting Bad Blood.sm
-+    - We Are Never Ever Getting Bad Blood-bg.png
-   - **What is Love**
-     - What is Love.ogg
-     - What is Love.png
-```
-
-### ITGMania/SaveAppData/MachineProfile/Stats.xml
-
-Machine-level profile and stats.
-
-```diff
-diff --git a/ITGMania/SaveAppData/MachineProfile/Stats.xml b/ITGMania/SaveAppData/MachineProfile/Stats.xml
-index 6c2db92..40f3e4d 100644
---- a/ITGMania/SaveAppData/MachineProfile/Stats.xml
-+++ b/ITGMania/SaveAppData/MachineProfile/Stats.xml
-@@ -18,7 +18,7 @@
- <Song Dir=''/>
- <Course/>
- <CurrentCombo>0</CurrentCombo>
--<TotalSessions>2705</TotalSessions>
-+<TotalSessions>2706</TotalSessions>
- <TotalSessionSeconds>1169548</TotalSessionSeconds>
- <TotalGameplaySeconds>576724</TotalGameplaySeconds>
- <TotalCaloriesBurned>210206.171875</TotalCaloriesBurned>
-@@ -26,7 +26,7 @@
- <GoalCalories>0</GoalCalories>
- <GoalSeconds>0</GoalSeconds>
- <LastPlayedMachineGuid>403d15c592378cca</LastPlayedMachineGuid>
--<LastPlayedDate>2026-08-04</LastPlayedDate>
-+<LastPlayedDate>2026-08-05</LastPlayedDate>
- <TotalDancePoints>8218540</TotalDancePoints>
- <NumExtraStagesPassed>0</NumExtraStagesPassed>
- <NumExtraStagesFailed>0</NumExtraStagesFailed>
-@@ -133639,8 +133639,8 @@
- <Week21Ago>1</Week21Ago>
- <Week22Ago>2</Week22Ago>
- <Week23Ago>0</Week23Ago>
--<Week24Ago>0</Week24Ago>
--<Week25Ago>1</Week25Ago>
-+<Week24Ago>1</Week24Ago>
-+<Week25Ago>0</Week25Ago>
- <Week26Ago>0</Week26Ago>
- <Week27Ago>0</Week27Ago>
- <Week28Ago>0</Week28Ago>
-@@ -133654,8 +133654,8 @@
- <Week36Ago>0</Week36Ago>
- <Week37Ago>0</Week37Ago>
- <Week38Ago>0</Week38Ago>
--<Week39Ago>0</Week39Ago>
--<Week40Ago>1</Week40Ago>
-+<Week39Ago>1</Week39Ago>
-+<Week40Ago>0</Week40Ago>
- <Week41Ago>0</Week41Ago>
- <Week42Ago>0</Week42Ago>
- <Week43Ago>0</Week43Ago>
-```
-
-### ITGMania/SaveAppData/MachineProfile/Type.ini
-
-Machine-level profile and stats.
-
-```diff
-diff --git a/ITGMania/SaveAppData/MachineProfile/Type.ini b/ITGMania/SaveAppData/MachineProfile/Type.ini
-index 60ee9fa..7c2682a 100644
---- a/ITGMania/SaveAppData/MachineProfile/Type.ini
-+++ b/ITGMania/SaveAppData/MachineProfile/Type.ini
-@@ -1,6 +1,6 @@
- [ListPosition]
- CreationTime=2026-08-01 16:41:41
--LastPlayedDate=2026-08-04 23:45:04
-+LastPlayedDate=2026-08-05 07:08:49
- Priority=0
- Type=Normal
- 
+   - **The One That Got Away**
+@@ -27992,7 +28026,8 @@ Generated from InstallPath on 2026-08-06 03:01. Filenames only; contents not bac
+     - The Purified.dwi.old
+     - The Purified.sm
+     - The Purified.sm.old
+-    - the purified-bg.png
++    - The Purified-bg.png
++    - The Purified-bg.png.pre-upscale-20260806-181606.bak
+     - the purified-bn.png
+   - **The Salmon Dance**
+     - ac.png
+@@ -28016,6 +28051,7 @@ Generated from InstallPath on 2026-08-06 03:01. Filenames only; contents not bac
+     - The Vulture.sm
+     - The Vulture.ssc
+     - The Vulture-bg.png
++    - The Vulture-bg.png.pre-upscale-20260806-223757.bak
+     - The Vulture-bn.png
+   - **The Whistle Song**
+     - The Whistle Song - BN.png
 ```
 

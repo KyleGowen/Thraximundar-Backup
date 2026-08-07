@@ -1,6 +1,6 @@
 # Pack list
 
-Generated from InstallPath on 2026-08-06 03:01. Filenames only; contents not backed up.
+Generated from InstallPath on 2026-08-07 03:01. Filenames only; contents not backed up.
 
 ## Songs
 
@@ -26847,6 +26847,13 @@ Generated from InstallPath on 2026-08-06 03:01. Filenames only; contents not bac
     - Clash on the Big Bridge.png
     - Clash on the Big Bridge-BG.png
     - ReadMe.txt
+  - **Cold Heart (PNAU Remix)**
+    - Cold Heart (PNAU Remix).mp3
+    - Cold Heart (PNAU Remix).png
+    - Cold Heart (PNAU Remix).sm
+    - Cold Heart (PNAU Remix)-bg.png
+    - Cold Heart (PNAU Remix)-bg.png.pre-upscale-20260806-105918.bak
+    - Cold Heart (PNAU Remix)-jacket.png
   - **Cream**
     - Cream.ogg
     - Cream.png
@@ -27303,6 +27310,7 @@ Generated from InstallPath on 2026-08-06 03:01. Filenames only; contents not bac
   - **Love Again**
     - bg.png
     - bn.png
+    - bn.png.pre-upscale-20260806-103254.bak
     - cdtitleMic.png
     - jacket.png
     - Love Again.ogg
@@ -27310,6 +27318,7 @@ Generated from InstallPath on 2026-08-06 03:01. Filenames only; contents not bac
   - **Lovers (Pure Mix)**
     - Lovers (Pure Mix).ogg
     - Lovers (Pure Mix).png
+    - Lovers (Pure Mix).png.pre-upscale-20260806-103929.bak
     - Lovers (Pure Mix).sm
     - Lovers (Pure Mix).ssc
     - Lovers (Pure Mix)-bg.png
@@ -27322,6 +27331,7 @@ Generated from InstallPath on 2026-08-06 03:01. Filenames only; contents not bac
     - Maawrio Twinz-bg.png
     - Maawrio Twinz-bg.png.pre-upscale-20260803-220515.bak
     - Maawrio Twinz-bn.png
+    - Maawrio Twinz-bn.png.pre-upscale-20260806-103732.bak
     - Readme.txt
   - **Maneater**
     - cdtitle-y.png
@@ -27337,6 +27347,7 @@ Generated from InstallPath on 2026-08-06 03:01. Filenames only; contents not bac
   - **Master of Puppets**
     - [Falling Apart] - Master of Puppets.ogg
     - [Falling Apart] - Master of Puppets.png
+    - [Falling Apart] - Master of Puppets.png.pre-upscale-20260806-104026.bak
     - [Falling Apart] - Master of Puppets.sm
     - [Falling Apart] - Master of Puppets.ssc
     - [Falling Apart] - Master of Puppets-bg.png
@@ -27344,6 +27355,7 @@ Generated from InstallPath on 2026-08-06 03:01. Filenames only; contents not bac
   - **Masters of the Universe**
     - Masters of the Universe.ogg
     - Masters of the Universe.png
+    - Masters of the Universe.png.pre-upscale-20260806-121751.bak
     - Masters of the Universe.sm
     - Masters of the Universe-bg.png
     - Masters of the Universe-bg.png.pre-upscale-20260802-115731.bak
@@ -27360,6 +27372,7 @@ Generated from InstallPath on 2026-08-06 03:01. Filenames only; contents not bac
     - Michael.avi
     - Michael.ogg
     - Michael.png
+    - Michael.png.pre-upscale-20260806-164216.bak
     - Michael.sm
     - Michael-bg.png
     - Michael-jacket.png
@@ -27367,6 +27380,7 @@ Generated from InstallPath on 2026-08-06 03:01. Filenames only; contents not bac
     - cdtitle.png
     - Mods de Chocobo.ogg
     - Mods de Chocobo.png
+    - Mods de Chocobo.png.pre-upscale-20260806-203418.bak
     - Mods de Chocobo.sm
     - Mods de Chocobo.ssc
     - Mods de Chocobo-bg.png
@@ -27616,6 +27630,13 @@ Generated from InstallPath on 2026-08-06 03:01. Filenames only; contents not bac
     - OOH LALALA-jacket.png
   - **Pendejo**
     - Pendejo.png
+  - **Physical**
+    - Physical.mp3
+    - Physical.png
+    - Physical.sm
+    - Physical-bg.png
+    - Physical-bg.png.pre-upscale-20260806-151515.bak
+    - Physical-jacket.png
   - **Picture to Burn**
     - Picture to Burn.ogg
     - Picture to Burn.png
@@ -27872,6 +27893,14 @@ Generated from InstallPath on 2026-08-06 03:01. Filenames only; contents not bac
     - Suliman.sm
     - Suliman-bg.png
     - suli-x.png
+  - **SUNSET (Michael Cassette Remix)**
+    - cdtitle.png
+    - SUNSET (Michael Cassette Remix).mp3
+    - SUNSET (Michael Cassette Remix).png
+    - SUNSET (Michael Cassette Remix).sm
+    - SUNSET (Michael Cassette Remix).ssc
+    - SUNSET (Michael Cassette Remix)-bg.png
+    - SUNSET (Michael Cassette Remix)-jacket.png
   - **Super Mario World - Boss Battle**
     - Super Mario World - Boss Battle.ogg
     - Super Mario World - Boss Battle.png
@@ -27882,11 +27911,13 @@ Generated from InstallPath on 2026-08-06 03:01. Filenames only; contents not bac
     - Superstylin'.png
     - Superstylin'.sm
     - Superstylin'-bg.png
+    - Superstylin'-bg.png.pre-upscale-20260806-081008.bak
     - Superstylin'-jacket.png
   - **Swag**
     - music.ogg
     - steps.sm
     - swag bg.png
+    - swag bg.png.pre-upscale-20260806-091600.bak
     - swag bn.png
   - **Synthetic**
     - Synthetic.ogg
@@ -27959,6 +27990,7 @@ Generated from InstallPath on 2026-08-06 03:01. Filenames only; contents not bac
     - The Dark Of The Matinee.png
     - The Dark Of The Matinee.sm
     - The Dark Of The Matinee-bg.png
+    - The Dark Of The Matinee-bg.png.pre-upscale-20260806-102714.bak
   - **The Decisive Battle**
     - cdtitle.png
     - The Decisive Battle.ogg
@@ -27966,6 +27998,7 @@ Generated from InstallPath on 2026-08-06 03:01. Filenames only; contents not bac
     - The Decisive Battle.sm
     - The Decisive Battle.ssc
     - The Decisive Battle-bg.png
+    - The Decisive Battle-bg.png.pre-upscale-20260806-104112.bak
     - The Decisive Battle-jacket.png
   - **The Man with the Machine Gun**
     - The Black Mages 2.png
@@ -27977,6 +28010,7 @@ Generated from InstallPath on 2026-08-06 03:01. Filenames only; contents not bac
   - **The Night Out (Madeon Remix)**
     - 02 - The Night Out (Madeon Remix).ogg
     - nightout bg.png
+    - nightout bg.png.pre-upscale-20260806-104320.bak
     - nightout bn.png
     - The Night Out.sm
   - **The One That Got Away**
@@ -27992,7 +28026,8 @@ Generated from InstallPath on 2026-08-06 03:01. Filenames only; contents not bac
     - The Purified.dwi.old
     - The Purified.sm
     - The Purified.sm.old
-    - the purified-bg.png
+    - The Purified-bg.png
+    - The Purified-bg.png.pre-upscale-20260806-181606.bak
     - the purified-bn.png
   - **The Salmon Dance**
     - ac.png
@@ -28016,6 +28051,7 @@ Generated from InstallPath on 2026-08-06 03:01. Filenames only; contents not bac
     - The Vulture.sm
     - The Vulture.ssc
     - The Vulture-bg.png
+    - The Vulture-bg.png.pre-upscale-20260806-223757.bak
     - The Vulture-bn.png
   - **The Whistle Song**
     - The Whistle Song - BN.png
