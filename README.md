@@ -1,8 +1,8 @@
 ﻿# ITGMania Backup
 
-#### Last backup: Aug 9, 2026 at 3:02 AM
+#### Last backup: Aug 10, 2026 at 3:02 AM
 
-#### Next backup: Aug 10, 2026 at 3:00 AM
+#### Next backup: Aug 11, 2026 at 3:00 AM
 
 ## 30-day digest
 
@@ -3475,47 +3475,4 @@ Time in songs this run: **KYLE** 2m 49s.
 </details>
 
 ## Changes since last backup
-
-### ITGMania/PACK_LIST.md
-
-Manifest of Songs folder structure (filenames only).
-
-```diff
-diff --git a/ITGMania/PACK_LIST.md b/ITGMania/PACK_LIST.md
-index 2bc0d06..899e0f4 100644
---- a/ITGMania/PACK_LIST.md
-+++ b/ITGMania/PACK_LIST.md
-@@ -1,6 +1,6 @@
- # Pack list
- 
--Generated from InstallPath on 2026-08-07 03:01. Filenames only; contents not backed up.
-+Generated from InstallPath on 2026-08-09 03:01. Filenames only; contents not backed up.
- 
- ## Songs
- 
-@@ -27549,6 +27549,7 @@ Generated from InstallPath on 2026-08-07 03:01. Filenames only; contents not bac
-     - moontrance bg.png
-     - moontrance bg.png.pre-upscale-20260803-220241.bak
-     - moontrance bn.png
-+    - moontrance bn.png.pre-upscale-20260807-131742.bak
-   - **Moorea**
-     - Moorea.ogg
-     - moorea.png
-@@ -28076,6 +28077,7 @@ Generated from InstallPath on 2026-08-07 03:01. Filenames only; contents not bac
-     - tooshy-bn.jpg
-   - **Training Season -Dua Lipa**
-     - Bg.png
-+    - Bg.png.pre-upscale-20260807-080121.bak
-     - Bn.png
-     - Training Season -Dua Lipa.mp3
-     - Training Season -Dua Lipa.sm
-@@ -28093,6 +28095,7 @@ Generated from InstallPath on 2026-08-07 03:01. Filenames only; contents not bac
-   - **Turbo Killer**
-     - BAN.png
-     - BG.png
-+    - BG.png.pre-upscale-20260807-131754.bak
-     - Carpenter Brut - Turbo Killer.mp3
-     - Carpenter Brut - Turbo Killer.ssc
-     - JACKET.png
-```
 
