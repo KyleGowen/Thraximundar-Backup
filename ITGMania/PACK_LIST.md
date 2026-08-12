@@ -1,6 +1,6 @@
 # Pack list
 
-Generated from InstallPath on 2026-08-11 03:01. Filenames only; contents not backed up.
+Generated from InstallPath on 2026-08-12 03:01. Filenames only; contents not backed up.
 
 ## Songs
 
@@ -27783,10 +27783,12 @@ Generated from InstallPath on 2026-08-11 03:01. Filenames only; contents not bac
     - Roses Are Red.ssc
     - Roses Are Red-Banner.png
     - Roses Are Red-Banner.png.pre-upscale-20260810-220227.bak
-    - Roses Are Red-bg.png
+    - Roses Are Red-BG.png
+    - Roses Are Red-BG.png.pre-upscale-20260811-074521.bak
   - **Roundtable Rival**
     - roundtable bg.png
     - roundtable bn.png
+    - roundtable bn.png.pre-upscale-20260811-074856.bak
     - Roundtable Rival.ogg
     - Roundtable Rival.sm
     - Roundtable Rival.sm.old
@@ -27797,6 +27799,8 @@ Generated from InstallPath on 2026-08-11 03:01. Filenames only; contents not bac
     - Running In The Night.sm
     - Running In The Night.ssc
     - Running In The Night-jacket.png
+    - Runninginthenight-bn.png
+    - Runninginthenight-bn.png.pre-upscale-20260811-113056.bak
   - **Saltwater [CERiNG]**
     - bn.png
     - music.ogg
@@ -27809,6 +27813,8 @@ Generated from InstallPath on 2026-08-11 03:01. Filenames only; contents not bac
     - Satellite (Radio Edit).sm
     - Satellite (Radio Edit)-bg.png
   - **Satisfaction**
+    - sat.png
+    - sat.png.pre-upscale-20260811-153306.bak
     - Satisfaction.ogg
     - Satisfaction.png
     - Satisfaction.sm
@@ -27821,7 +27827,8 @@ Generated from InstallPath on 2026-08-11 03:01. Filenames only; contents not bac
     - Save Your Tears -The Weeknd.sm
   - **Selecta**
     - Selecta.ogg
-    - Selecta.png
+    - selecta.png
+    - selecta.png.pre-upscale-20260811-164230.bak
     - Selecta.sm
     - selecta-bg.png
     - selecta-bg.png.pre-upscale-20260804-222438.bak
@@ -27832,6 +27839,8 @@ Generated from InstallPath on 2026-08-11 03:01. Filenames only; contents not bac
     - Simply Being Loved -Somnambluist-.ssc
     - Simply Being Loved -Somnambluist--bg.png
     - Simply Being Loved -Somnambluist--jacket.png
+    - Simply Being Loved 'Somnambulist'.png
+    - Simply Being Loved 'Somnambulist'.png.pre-upscale-20260811-171055.bak
   - **SING**
     - [ROUND H] - SING.dwi
     - [ROUND H] - SING.lrc
@@ -27845,6 +27854,7 @@ Generated from InstallPath on 2026-08-11 03:01. Filenames only; contents not bac
     - Smile Like You Mean It.avi
     - Smile Like You Mean It.mp3
     - Smile Like You Mean It.png
+    - Smile Like You Mean It.png.pre-upscale-20260811-225205.bak
     - Smile Like You Mean It.sm
     - Smile Like You Mean It.ssc
     - Smile Like You Mean It-bg.png

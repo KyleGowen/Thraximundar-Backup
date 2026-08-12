@@ -1,8 +1,8 @@
 ﻿# ITGMania Backup
 
-#### Last backup: Aug 11, 2026 at 3:02 AM
+#### Last backup: Aug 12, 2026 at 3:02 AM
 
-#### Next backup: Aug 12, 2026 at 3:00 AM
+#### Next backup: Aug 13, 2026 at 3:00 AM
 
 ## 30-day digest
 
@@ -3482,256 +3482,95 @@ Manifest of Songs folder structure (filenames only).
 
 ```diff
 diff --git a/ITGMania/PACK_LIST.md b/ITGMania/PACK_LIST.md
-index 38198fd..6f0317d 100644
+index 6f0317d..e7b53ef 100644
 --- a/ITGMania/PACK_LIST.md
 +++ b/ITGMania/PACK_LIST.md
 @@ -1,6 +1,6 @@
  # Pack list
  
--Generated from InstallPath on 2026-08-10 03:01. Filenames only; contents not backed up.
-+Generated from InstallPath on 2026-08-11 03:01. Filenames only; contents not backed up.
+-Generated from InstallPath on 2026-08-11 03:01. Filenames only; contents not backed up.
++Generated from InstallPath on 2026-08-12 03:01. Filenames only; contents not backed up.
  
  ## Songs
  
-@@ -26533,6 +26533,7 @@ Generated from InstallPath on 2026-08-10 03:01. Filenames only; contents not bac
-     - [Prime Time] - Green Light (Chromeo Remix).png
-     - [Prime Time] - Green Light (Chromeo Remix).sm
-     - [Prime Time] - Green Light (Chromeo Remix)-bg.png
-+    - [Prime Time] - Green Light (Chromeo Remix)-bg.png.pre-upscale-20260810-132527.bak
-     - [Prime Time] - Green Light (Chromeo Remix)-jacket.png
-   - **80s Fitness**
-     - 80s bg.png
-@@ -26722,6 +26723,7 @@ Generated from InstallPath on 2026-08-10 03:01. Filenames only; contents not bac
-     - Blinding Lights (Eurodance Remix).png
-     - Blinding Lights (Eurodance Remix).ssc
-     - Blinding Lights (Eurodance Remix)-bg.png
-+    - Blinding Lights (Eurodance Remix)-bg.png.pre-upscale-20260810-133347.bak
-     - Blinding Lights (Eurodance Remix)-jacket.png
-     - cdtitle.png
-   - **Blueprint**
-@@ -26967,6 +26969,7 @@ Generated from InstallPath on 2026-08-10 03:01. Filenames only; contents not bac
-     - dontyou.png.pre-upscale-20260803-082428.bak
-   - **Driver**
-     - background.png
-+    - background.png.pre-upscale-20260810-140538.bak
-     - banner.png
-     - CDTITLE.png
-     - Driver.ogg
-@@ -27562,13 +27565,15 @@ Generated from InstallPath on 2026-08-10 03:01. Filenames only; contents not bac
-   - **My Oh My**
-     - My Oh My.ogg
-     - My Oh My.png
-+    - My Oh My.png.pre-upscale-20260810-122853.bak
-     - My Oh My.ssc
-     - My Oh My-bg.png
-     - My Oh My-jacket.png
-   - **MY SONGS KNOW WHAT YOU DID IN THE DARK (LIGHT 'EM UP)**
-     - [Male Vocalists] - MY SONGS KNOW WHAT YOU DID IN THE DARK (LIGHT 'EM UP).avi
-     - [Male Vocalists] - MY SONGS KNOW WHAT YOU DID IN THE DARK (LIGHT 'EM UP).mp3
--    - [Male Vocalists] - MY SONGS KNOW WHAT YOU DID IN THE DARK (LIGHT 'EM UP).png
-+    - [Male Vocalists] - My Songs Know What You Did In The Dark (LIGHT 'EM UP).png
-+    - [Male Vocalists] - My Songs Know What You Did In The Dark (LIGHT 'EM UP).png.pre-upscale-20260810-122725.bak
-     - [Male Vocalists] - MY SONGS KNOW WHAT YOU DID IN THE DARK (LIGHT 'EM UP).sm
-     - [Male Vocalists] - MY SONGS KNOW WHAT YOU DID IN THE DARK (LIGHT 'EM UP)-bg.png
-     - [Male Vocalists] - MY SONGS KNOW WHAT YOU DID IN THE DARK (LIGHT 'EM UP)-jacket.png
-@@ -27576,8 +27581,10 @@ Generated from InstallPath on 2026-08-10 03:01. Filenames only; contents not bac
-   - **Na Na Na**
-     - [ROUND K] - Na Na Na.ogg
-     - [ROUND K] - Na Na Na.png
-+    - [ROUND K] - Na Na Na.png.pre-upscale-20260810-122903.bak
-     - [ROUND K] - Na Na Na.sm
-     - [ROUND K] - Na Na Na-bg.png
-+    - [ROUND K] - Na Na Na-bg.png.pre-upscale-20260810-133547.bak
-     - [ROUND K] - Na Na Na-jacket.png
-     - cdtitle.png
-   - **Neon Medusa [Jenro]**
-@@ -27585,27 +27592,35 @@ Generated from InstallPath on 2026-08-10 03:01. Filenames only; contents not bac
-   - **New Rules**
-     - New Rules.ogg
-     - New Rules.png
-+    - New Rules.png.pre-upscale-20260810-123639.bak
-     - New Rules.sm
-     - New Rules.ssc
-     - New Rules-bg.png
-+    - New Rules-bg.png.pre-upscale-20260810-151235.bak
-     - New Rules-jacket.png
-   - **Nutmeg**
-     - Nutmeg.ogg
-     - Nutmeg.png
-+    - Nutmeg.png.pre-upscale-20260810-122930.bak
-     - Nutmeg.sm
-     - Nutmeg.ssc
-     - Nutmeg-bg.png
-+    - Nutmeg-bg.png.pre-upscale-20260810-134043.bak
-     - Nutmeg-jacket.png
-   - **Oh L'amour**
-     - Oh L'amour.ogg
-     - Oh L'amour.png
-     - Oh L'amour.sm
-     - Oh L'amour-bg.png
-+    - oh.png
-+    - oh.png.pre-upscale-20260810-151916.bak
-   - **Oh Yeah**
-     - Oh Yeah.ogg
-     - Oh Yeah.png
-     - Oh Yeah.sm
-     - Oh Yeah-bg.png
-+    - ohyeah.png
-+    - ohyeah.png.pre-upscale-20260810-140029.bak
-   - **Omen**
-     - Omen.dwi
-     - Omen.mp3
-@@ -27626,6 +27641,7 @@ Generated from InstallPath on 2026-08-10 03:01. Filenames only; contents not bac
-     - cdtitle.png
-     - OOH LALALA.ogg
-     - OOH LALALA.png
-+    - OOH LALALA.png.pre-upscale-20260810-120001.bak
-     - OOH LALALA.sm
-     - OOH LALALA-bg.png
-     - OOH LALALA-jacket.png
-@@ -27645,11 +27661,15 @@ Generated from InstallPath on 2026-08-10 03:01. Filenames only; contents not bac
-     - Picture to Burn.ssc
-     - Picture to Burn-bg.png
-     - Picture to Burn-bg.png.pre-upscale-20260804-075900.bak
-+    - Picture to Burn-bn.png
-+    - Picture to Burn-bn.png.pre-upscale-20260810-120205.bak
-     - Picture to Burn-jacket.png
-   - **Pjanno**
-     - Eric Prydz-Pjanno.OGG
-     - steps.SM
-   - **Plasticworld**
-+    - plastic.png
-+    - plastic.png.pre-upscale-20260810-133845.bak
-     - Plasticworld.ogg
-     - Plasticworld.png
-     - Plasticworld.sm
-@@ -27657,6 +27677,7 @@ Generated from InstallPath on 2026-08-10 03:01. Filenames only; contents not bac
-   - **Policy of Truth**
-     - Policy of Truth.ogg
-     - Policy of Truth.png
-+    - Policy of Truth.png.pre-upscale-20260810-105940.bak
-     - Policy of Truth.sm
-     - Policy of Truth-bg.png
-     - Policy of Truth-bg.png.pre-upscale-20260804-085011.bak
-@@ -27672,6 +27693,7 @@ Generated from InstallPath on 2026-08-10 03:01. Filenames only; contents not bac
-     - Praise You.avi
-     - Praise You.ogg
-     - Praise You.png
-+    - Praise You.png.pre-upscale-20260810-105722.bak
-     - Praise You.sm
-     - Praise You-bg.png
-     - Praise You-bg.png.pre-upscale-20260802-120404.bak
-@@ -27711,6 +27733,7 @@ Generated from InstallPath on 2026-08-10 03:01. Filenames only; contents not bac
-     - Quick Man Stage-bg.png
-   - **Quo Vadis**
-     - BAN.png
-+    - BAN.png.pre-upscale-20260810-105626.bak
-     - BG.png
-     - M2U - Quo Vadis.mp3
-     - M2U - Quo Vadis.sm
-@@ -27718,8 +27741,10 @@ Generated from InstallPath on 2026-08-10 03:01. Filenames only; contents not bac
-   - **Real Groove (Studio 2054 Initial Talk Remix)**
-     - Real Groove (Studio 2054 Initial Talk Remix).ogg
-     - Real Groove (Studio 2054 Initial Talk Remix).png
-+    - Real Groove (Studio 2054 Initial Talk Remix).png.pre-upscale-20260810-105300.bak
-     - Real Groove (Studio 2054 Initial Talk Remix).ssc
-     - Real Groove (Studio 2054 Initial Talk Remix)-bg.png
-+    - Real Groove (Studio 2054 Initial Talk Remix)-bg.png.pre-upscale-20260810-140430.bak
-     - Real Groove (Studio 2054 Initial Talk Remix)-jacket.png
-   - **Robot Rock**
-     - Robot Rock.ogg
-@@ -27731,6 +27756,7 @@ Generated from InstallPath on 2026-08-10 03:01. Filenames only; contents not bac
-     - rr.png
-     - rr-bg.jpg
-     - rr-bn.png
-+    - rr-bn.png.pre-upscale-20260810-140340.bak
-   - **Rocket Punch!!**
-     - rocket.ogg
-     - rocket.png
-@@ -27745,6 +27771,7 @@ Generated from InstallPath on 2026-08-10 03:01. Filenames only; contents not bac
-   - **Rolling in the Deep**
-     - bg.png
-     - bn.png
-+    - bn.png.pre-upscale-20260810-215407.bak
-     - cdtitleMic.png
-     - jacket.png
-     - Rolling in the Deep.ogg
-@@ -27754,6 +27781,8 @@ Generated from InstallPath on 2026-08-10 03:01. Filenames only; contents not bac
-     - Roses Are Red.png
-     - Roses Are Red.sm
+@@ -27783,10 +27783,12 @@ Generated from InstallPath on 2026-08-11 03:01. Filenames only; contents not bac
      - Roses Are Red.ssc
-+    - Roses Are Red-Banner.png
-+    - Roses Are Red-Banner.png.pre-upscale-20260810-220227.bak
-     - Roses Are Red-bg.png
+     - Roses Are Red-Banner.png
+     - Roses Are Red-Banner.png.pre-upscale-20260810-220227.bak
+-    - Roses Are Red-bg.png
++    - Roses Are Red-BG.png
++    - Roses Are Red-BG.png.pre-upscale-20260811-074521.bak
    - **Roundtable Rival**
      - roundtable bg.png
-@@ -27826,9 +27855,11 @@ Generated from InstallPath on 2026-08-10 03:01. Filenames only; contents not bac
-     - So Deep (sc.orz Uplifting Mix).png
-     - So Deep (sc.orz Uplifting Mix).ssc
-     - So Deep (sc.orz Uplifting Mix)-bg.png
-+    - So Deep (sc.orz Uplifting Mix)-bg.png.pre-upscale-20260810-135358.bak
-     - So Deep (sc.orz Uplifting Mix)-jacket.png
-   - **Someone (Giuseppe Ottaviani Remix)**
-     - background.png
-+    - background.png.pre-upscale-20260810-152214.bak
-     - banner.png
-     - CDTITLE.png
-     - jacket.png
-@@ -27878,6 +27909,7 @@ Generated from InstallPath on 2026-08-10 03:01. Filenames only; contents not bac
-     - Stereo Love (Michael Mind Project Remix).ogg
-   - **Styla**
-     - background.png
-+    - background.png.pre-upscale-20260810-135819.bak
-     - banner.png
-     - CDTITLE.png
-     - Jacket.png
-@@ -28074,6 +28106,7 @@ Generated from InstallPath on 2026-08-10 03:01. Filenames only; contents not bac
-     - Too Shy.ssc
-     - Too Shy.ssc.old
-     - tooshy-bg.jpg
-+    - tooshy-bg.jpg.pre-upscale-20260810-122809.bak
-     - tooshy-bn.jpg
-   - **Training Season -Dua Lipa**
-     - Bg.png
-@@ -28086,7 +28119,8 @@ Generated from InstallPath on 2026-08-10 03:01. Filenames only; contents not bac
-     - Travelling without moving.mp3
-     - Travelling without moving.png
-     - Travelling without moving.sm
--    - Travelling without moving-bg.png
-+    - travelling without moving-bg.png
-+    - travelling without moving-bg.png.pre-upscale-20260810-215222.bak
-   - **True Survivor**
-     - ban.png
-     - bg.png
-@@ -28111,18 +28145,21 @@ Generated from InstallPath on 2026-08-10 03:01. Filenames only; contents not bac
-     - Two Is Better Than One (Mike Rizzo Remix).png
-     - Two Is Better Than One (Mike Rizzo Remix).sm
-     - Two Is Better Than One (Mike Rizzo Remix)-bg.png
-+    - Two Is Better Than One (Mike Rizzo Remix)-bg.png.pre-upscale-20260810-133910.bak
-     - Two Is Better Than One (Mike Rizzo Remix)-jacket.png
-   - **Vision**
-     - Vision.ogg
-     - Vision.png
-     - Vision.sm
-     - Vision-bg.png
-+    - Vision-bg.png.pre-upscale-20260810-150931.bak
-     - Vision-jacket.png
-   - **Vision (BetweenUs Remix)**
-     - Vision (BetweenUs Remix).ogg
-     - Vision (BetweenUs Remix).png
-     - Vision (BetweenUs Remix).sm
-     - Vision (BetweenUs Remix)-bg.png
-+    - Vision (BetweenUs Remix)-bg.png.pre-upscale-20260810-220327.bak
-     - Vision (BetweenUs Remix)-jacket.png
-   - **Voodoo People (Pendelum Remix)**
-     - Voodoo People (Pendelum Remix).dwi
-@@ -28174,6 +28211,7 @@ Generated from InstallPath on 2026-08-10 03:01. Filenames only; contents not bac
-     - World In Motion.sm
-     - World In Motion.ssc
-     - World In Motion-bg.png
-+    - World In Motion-bg.png.pre-upscale-20260810-133108.bak
-     - World In Motion-jacket.png
-   - **Yakko's World**
-     - Yakko's World - bn.png
+     - roundtable bn.png
++    - roundtable bn.png.pre-upscale-20260811-074856.bak
+     - Roundtable Rival.ogg
+     - Roundtable Rival.sm
+     - Roundtable Rival.sm.old
+@@ -27797,6 +27799,8 @@ Generated from InstallPath on 2026-08-11 03:01. Filenames only; contents not bac
+     - Running In The Night.sm
+     - Running In The Night.ssc
+     - Running In The Night-jacket.png
++    - Runninginthenight-bn.png
++    - Runninginthenight-bn.png.pre-upscale-20260811-113056.bak
+   - **Saltwater [CERiNG]**
+     - bn.png
+     - music.ogg
+@@ -27809,6 +27813,8 @@ Generated from InstallPath on 2026-08-11 03:01. Filenames only; contents not bac
+     - Satellite (Radio Edit).sm
+     - Satellite (Radio Edit)-bg.png
+   - **Satisfaction**
++    - sat.png
++    - sat.png.pre-upscale-20260811-153306.bak
+     - Satisfaction.ogg
+     - Satisfaction.png
+     - Satisfaction.sm
+@@ -27821,7 +27827,8 @@ Generated from InstallPath on 2026-08-11 03:01. Filenames only; contents not bac
+     - Save Your Tears -The Weeknd.sm
+   - **Selecta**
+     - Selecta.ogg
+-    - Selecta.png
++    - selecta.png
++    - selecta.png.pre-upscale-20260811-164230.bak
+     - Selecta.sm
+     - selecta-bg.png
+     - selecta-bg.png.pre-upscale-20260804-222438.bak
+@@ -27832,6 +27839,8 @@ Generated from InstallPath on 2026-08-11 03:01. Filenames only; contents not bac
+     - Simply Being Loved -Somnambluist-.ssc
+     - Simply Being Loved -Somnambluist--bg.png
+     - Simply Being Loved -Somnambluist--jacket.png
++    - Simply Being Loved 'Somnambulist'.png
++    - Simply Being Loved 'Somnambulist'.png.pre-upscale-20260811-171055.bak
+   - **SING**
+     - [ROUND H] - SING.dwi
+     - [ROUND H] - SING.lrc
+@@ -27845,6 +27854,7 @@ Generated from InstallPath on 2026-08-11 03:01. Filenames only; contents not bac
+     - Smile Like You Mean It.avi
+     - Smile Like You Mean It.mp3
+     - Smile Like You Mean It.png
++    - Smile Like You Mean It.png.pre-upscale-20260811-225205.bak
+     - Smile Like You Mean It.sm
+     - Smile Like You Mean It.ssc
+     - Smile Like You Mean It-bg.png
+```
+
+### ITGMania/SaveAppData/Preferences.ini
+
+Game preferences (theme, options, etc.).
+
+```diff
+diff --git a/ITGMania/SaveAppData/Preferences.ini b/ITGMania/SaveAppData/Preferences.ini
+index 68057b5..044d9c8 100644
+--- a/ITGMania/SaveAppData/Preferences.ini
++++ b/ITGMania/SaveAppData/Preferences.ini
+@@ -103,7 +103,7 @@ InputDeviceOrder=
+ InputDrivers=
+ Interlaced=0
+ Language=en
+-LastSeenInputDevices=MonkeyKeyboard|Mouse|Wireless Gamepad|Keyboard
++LastSeenInputDevices=MonkeyKeyboard|Mouse|Keyboard
+ LastSeenVideoDriver=Intel(R) Graphics
+ LifeDifficultyScale=1.000000
+ LightsAheadSeconds=0.050000
 ```
 
