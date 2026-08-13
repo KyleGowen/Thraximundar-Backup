@@ -1,6 +1,6 @@
 # Pack list
 
-Generated from InstallPath on 2026-08-12 03:01. Filenames only; contents not backed up.
+Generated from InstallPath on 2026-08-13 03:00. Filenames only; contents not backed up.
 
 ## Songs
 
@@ -27158,6 +27158,7 @@ Generated from InstallPath on 2026-08-12 03:01. Filenames only; contents not bac
     - Harder To Breathe.png.pre-upscale-20260803-204736.bak
     - Harder To Breathe.sm
     - Harder To Breathe-bg.png
+    - Harder To Breathe-bg.png.pre-upscale-20260812-094523.bak
     - Harder To Breathe-jacket.png
   - **Heads Will Roll**
     - Heads Will Roll.png
@@ -27863,6 +27864,7 @@ Generated from InstallPath on 2026-08-12 03:01. Filenames only; contents not bac
     - cdtitle.png
     - So Deep (sc.orz Uplifting Mix).ogg
     - So Deep (sc.orz Uplifting Mix).png
+    - So Deep (sc.orz Uplifting Mix).png.pre-upscale-20260812-101614.bak
     - So Deep (sc.orz Uplifting Mix).ssc
     - So Deep (sc.orz Uplifting Mix)-bg.png
     - So Deep (sc.orz Uplifting Mix)-bg.png.pre-upscale-20260810-135358.bak
