@@ -1,8 +1,8 @@
 ﻿# ITGMania Backup
 
-#### Last backup: Aug 13, 2026 at 3:02 AM
+#### Last backup: Aug 14, 2026 at 3:02 AM
 
-#### Next backup: Aug 14, 2026 at 3:00 AM
+#### Next backup: Aug 15, 2026 at 3:00 AM
 
 ## 30-day digest
 
@@ -3482,122 +3482,96 @@ Manifest of Songs folder structure (filenames only).
 
 ```diff
 diff --git a/ITGMania/PACK_LIST.md b/ITGMania/PACK_LIST.md
-index e7b53ef..6081ed4 100644
+index 6081ed4..fb0c9ab 100644
 --- a/ITGMania/PACK_LIST.md
 +++ b/ITGMania/PACK_LIST.md
 @@ -1,6 +1,6 @@
  # Pack list
  
--Generated from InstallPath on 2026-08-12 03:01. Filenames only; contents not backed up.
-+Generated from InstallPath on 2026-08-13 03:00. Filenames only; contents not backed up.
+-Generated from InstallPath on 2026-08-13 03:00. Filenames only; contents not backed up.
++Generated from InstallPath on 2026-08-14 03:01. Filenames only; contents not backed up.
  
  ## Songs
  
-@@ -27158,6 +27158,7 @@ Generated from InstallPath on 2026-08-12 03:01. Filenames only; contents not bac
-     - Harder To Breathe.png.pre-upscale-20260803-204736.bak
-     - Harder To Breathe.sm
-     - Harder To Breathe-bg.png
-+    - Harder To Breathe-bg.png.pre-upscale-20260812-094523.bak
-     - Harder To Breathe-jacket.png
-   - **Heads Will Roll**
-     - Heads Will Roll.png
-@@ -27863,6 +27864,7 @@ Generated from InstallPath on 2026-08-12 03:01. Filenames only; contents not bac
-     - cdtitle.png
-     - So Deep (sc.orz Uplifting Mix).ogg
-     - So Deep (sc.orz Uplifting Mix).png
-+    - So Deep (sc.orz Uplifting Mix).png.pre-upscale-20260812-101614.bak
-     - So Deep (sc.orz Uplifting Mix).ssc
-     - So Deep (sc.orz Uplifting Mix)-bg.png
-     - So Deep (sc.orz Uplifting Mix)-bg.png.pre-upscale-20260810-135358.bak
-```
-
-### ITGMania/SaveAppData/MachineProfile/Stats.xml
-
-Machine-level profile and stats.
-
-```diff
-diff --git a/ITGMania/SaveAppData/MachineProfile/Stats.xml b/ITGMania/SaveAppData/MachineProfile/Stats.xml
-index 40f3e4d..ea978d3 100644
---- a/ITGMania/SaveAppData/MachineProfile/Stats.xml
-+++ b/ITGMania/SaveAppData/MachineProfile/Stats.xml
-@@ -18,7 +18,7 @@
- <Song Dir=''/>
- <Course/>
- <CurrentCombo>0</CurrentCombo>
--<TotalSessions>2706</TotalSessions>
-+<TotalSessions>2707</TotalSessions>
- <TotalSessionSeconds>1169548</TotalSessionSeconds>
- <TotalGameplaySeconds>576724</TotalGameplaySeconds>
- <TotalCaloriesBurned>210206.171875</TotalCaloriesBurned>
-@@ -26,7 +26,7 @@
- <GoalCalories>0</GoalCalories>
- <GoalSeconds>0</GoalSeconds>
- <LastPlayedMachineGuid>403d15c592378cca</LastPlayedMachineGuid>
--<LastPlayedDate>2026-08-05</LastPlayedDate>
-+<LastPlayedDate>2026-08-12</LastPlayedDate>
- <TotalDancePoints>8218540</TotalDancePoints>
- <NumExtraStagesPassed>0</NumExtraStagesPassed>
- <NumExtraStagesFailed>0</NumExtraStagesFailed>
-@@ -133636,11 +133636,11 @@
- <Week18Ago>0</Week18Ago>
- <Week19Ago>0</Week19Ago>
- <Week20Ago>0</Week20Ago>
--<Week21Ago>1</Week21Ago>
--<Week22Ago>2</Week22Ago>
--<Week23Ago>0</Week23Ago>
--<Week24Ago>1</Week24Ago>
--<Week25Ago>0</Week25Ago>
-+<Week21Ago>0</Week21Ago>
-+<Week22Ago>1</Week22Ago>
-+<Week23Ago>2</Week23Ago>
-+<Week24Ago>0</Week24Ago>
-+<Week25Ago>1</Week25Ago>
- <Week26Ago>0</Week26Ago>
- <Week27Ago>0</Week27Ago>
- <Week28Ago>0</Week28Ago>
-@@ -133654,18 +133654,18 @@
- <Week36Ago>0</Week36Ago>
- <Week37Ago>0</Week37Ago>
- <Week38Ago>0</Week38Ago>
--<Week39Ago>1</Week39Ago>
--<Week40Ago>0</Week40Ago>
-+<Week39Ago>0</Week39Ago>
-+<Week40Ago>1</Week40Ago>
- <Week41Ago>0</Week41Ago>
- <Week42Ago>0</Week42Ago>
- <Week43Ago>0</Week43Ago>
--<Week44Ago>1</Week44Ago>
--<Week45Ago>0</Week45Ago>
-+<Week44Ago>0</Week44Ago>
-+<Week45Ago>1</Week45Ago>
- <Week46Ago>0</Week46Ago>
- <Week47Ago>0</Week47Ago>
- <Week48Ago>0</Week48Ago>
--<Week49Ago>1</Week49Ago>
--<Week50Ago>0</Week50Ago>
-+<Week49Ago>0</Week49Ago>
-+<Week50Ago>1</Week50Ago>
- <Week51Ago>0</Week51Ago>
- </LastWeeks>
- <DayOfWeek>
-```
-
-### ITGMania/SaveAppData/MachineProfile/Type.ini
-
-Machine-level profile and stats.
-
-```diff
-diff --git a/ITGMania/SaveAppData/MachineProfile/Type.ini b/ITGMania/SaveAppData/MachineProfile/Type.ini
-index 7c2682a..af488fd 100644
---- a/ITGMania/SaveAppData/MachineProfile/Type.ini
-+++ b/ITGMania/SaveAppData/MachineProfile/Type.ini
-@@ -1,6 +1,6 @@
- [ListPosition]
- CreationTime=2026-08-01 16:41:41
--LastPlayedDate=2026-08-05 07:08:49
-+LastPlayedDate=2026-08-12 09:06:36
- Priority=0
- Type=Normal
- 
+@@ -27355,6 +27355,7 @@ Generated from InstallPath on 2026-08-13 03:00. Filenames only; contents not bac
+     - [Falling Apart] - Master of Puppets.sm
+     - [Falling Apart] - Master of Puppets.ssc
+     - [Falling Apart] - Master of Puppets-bg.png
++    - [Falling Apart] - Master of Puppets-bg.png.pre-upscale-20260813-082839.bak
+     - [Falling Apart] - Master of Puppets-jacket.png
+   - **Masters of the Universe**
+     - Masters of the Universe.ogg
+@@ -27645,6 +27646,7 @@ Generated from InstallPath on 2026-08-13 03:00. Filenames only; contents not bac
+     - OOH LALALA.png.pre-upscale-20260810-120001.bak
+     - OOH LALALA.sm
+     - OOH LALALA-bg.png
++    - OOH LALALA-bg.png.pre-upscale-20260813-084053.bak
+     - OOH LALALA-jacket.png
+   - **Pendejo**
+     - Pendejo.png
+@@ -27913,6 +27915,8 @@ Generated from InstallPath on 2026-08-13 03:00. Filenames only; contents not bac
+     - Starry Eyed (Dexcell Remix).sm
+     - Starry Eyed (Dexcell Remix)-bg.png
+     - Starry Eyed (Dexcell Remix)-bg.png.pre-upscale-20260805-071622.bak
++    - Starry Eyed (Dexcell Remix)-bn.png
++    - Starry Eyed (Dexcell Remix)-bn.png.pre-upscale-20260813-075600.bak
+   - **Stereo Love (Michael Mind Project Remix) [christalshizzle]**
+     - Bg-Stereo.png
+     - Bg-Stereo.png.pre-upscale-20260805-131145.bak
+@@ -27923,6 +27927,7 @@ Generated from InstallPath on 2026-08-13 03:00. Filenames only; contents not bac
+     - background.png
+     - background.png.pre-upscale-20260810-135819.bak
+     - banner.png
++    - banner.png.pre-upscale-20260813-081226.bak
+     - CDTITLE.png
+     - Jacket.png
+     - Styla.ogg
+@@ -27957,6 +27962,8 @@ Generated from InstallPath on 2026-08-13 03:00. Filenames only; contents not bac
+     - Superstylin'.sm
+     - Superstylin'-bg.png
+     - Superstylin'-bg.png.pre-upscale-20260806-081008.bak
++    - Superstylin'-bn.png
++    - Superstylin'-bn.png.pre-upscale-20260813-082503.bak
+     - Superstylin'-jacket.png
+   - **Swag**
+     - music.ogg
+@@ -27964,17 +27971,21 @@ Generated from InstallPath on 2026-08-13 03:00. Filenames only; contents not bac
+     - swag bg.png
+     - swag bg.png.pre-upscale-20260806-091600.bak
+     - swag bn.png
++    - swag bn.png.pre-upscale-20260813-081230.bak
+   - **Synthetic**
+     - Synthetic.ogg
+     - Synthetic.png
+     - Synthetic.sm
+     - Synthetic.ssc
+     - Synthetic-bg.png
++    - Synthetic-bn.png
++    - Synthetic-bn.png.pre-upscale-20260813-081313.bak
+     - Synthetic-jacket.png
+   - **Take Me Away (2015 Mix)**
+     - Take Me Away (2015 Mix).avi
+     - Take Me Away (2015 Mix).ogg
+     - Take Me Away (2015 Mix).png
++    - Take Me Away (2015 Mix).png.pre-upscale-20260813-123646.bak
+     - Take Me Away (2015 Mix).sm
+     - Take Me Away (2015 Mix).ssc
+     - Take Me Away (2015 Mix)-bg.png
+@@ -28025,6 +28036,7 @@ Generated from InstallPath on 2026-08-13 03:00. Filenames only; contents not bac
+     - THE BAD TOUCH.ssc
+     - THE BAD TOUCH.ssc.old
+     - THE BAD TOUCH-banner.png
++    - THE BAD TOUCH-banner.png.pre-upscale-20260813-213951.bak
+     - THE BAD TOUCH-bg.png
+     - THE BAD TOUCH-jacket.png
+   - **The Dark Of The Matinee**
+@@ -28033,6 +28045,7 @@ Generated from InstallPath on 2026-08-13 03:00. Filenames only; contents not bac
+     - The Dark Of The Matinee.dwi
+     - The Dark Of The Matinee.mp3
+     - The Dark Of The Matinee.png
++    - The Dark Of The Matinee.png.pre-upscale-20260813-213213.bak
+     - The Dark Of The Matinee.sm
+     - The Dark Of The Matinee-bg.png
+     - The Dark Of The Matinee-bg.png.pre-upscale-20260806-102714.bak
 ```
 

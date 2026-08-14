@@ -1,6 +1,6 @@
 # Pack list
 
-Generated from InstallPath on 2026-08-13 03:00. Filenames only; contents not backed up.
+Generated from InstallPath on 2026-08-14 03:01. Filenames only; contents not backed up.
 
 ## Songs
 
@@ -27355,6 +27355,7 @@ Generated from InstallPath on 2026-08-13 03:00. Filenames only; contents not bac
     - [Falling Apart] - Master of Puppets.sm
     - [Falling Apart] - Master of Puppets.ssc
     - [Falling Apart] - Master of Puppets-bg.png
+    - [Falling Apart] - Master of Puppets-bg.png.pre-upscale-20260813-082839.bak
     - [Falling Apart] - Master of Puppets-jacket.png
   - **Masters of the Universe**
     - Masters of the Universe.ogg
@@ -27645,6 +27646,7 @@ Generated from InstallPath on 2026-08-13 03:00. Filenames only; contents not bac
     - OOH LALALA.png.pre-upscale-20260810-120001.bak
     - OOH LALALA.sm
     - OOH LALALA-bg.png
+    - OOH LALALA-bg.png.pre-upscale-20260813-084053.bak
     - OOH LALALA-jacket.png
   - **Pendejo**
     - Pendejo.png
@@ -27913,6 +27915,8 @@ Generated from InstallPath on 2026-08-13 03:00. Filenames only; contents not bac
     - Starry Eyed (Dexcell Remix).sm
     - Starry Eyed (Dexcell Remix)-bg.png
     - Starry Eyed (Dexcell Remix)-bg.png.pre-upscale-20260805-071622.bak
+    - Starry Eyed (Dexcell Remix)-bn.png
+    - Starry Eyed (Dexcell Remix)-bn.png.pre-upscale-20260813-075600.bak
   - **Stereo Love (Michael Mind Project Remix) [christalshizzle]**
     - Bg-Stereo.png
     - Bg-Stereo.png.pre-upscale-20260805-131145.bak
@@ -27923,6 +27927,7 @@ Generated from InstallPath on 2026-08-13 03:00. Filenames only; contents not bac
     - background.png
     - background.png.pre-upscale-20260810-135819.bak
     - banner.png
+    - banner.png.pre-upscale-20260813-081226.bak
     - CDTITLE.png
     - Jacket.png
     - Styla.ogg
@@ -27957,6 +27962,8 @@ Generated from InstallPath on 2026-08-13 03:00. Filenames only; contents not bac
     - Superstylin'.sm
     - Superstylin'-bg.png
     - Superstylin'-bg.png.pre-upscale-20260806-081008.bak
+    - Superstylin'-bn.png
+    - Superstylin'-bn.png.pre-upscale-20260813-082503.bak
     - Superstylin'-jacket.png
   - **Swag**
     - music.ogg
@@ -27964,17 +27971,21 @@ Generated from InstallPath on 2026-08-13 03:00. Filenames only; contents not bac
     - swag bg.png
     - swag bg.png.pre-upscale-20260806-091600.bak
     - swag bn.png
+    - swag bn.png.pre-upscale-20260813-081230.bak
   - **Synthetic**
     - Synthetic.ogg
     - Synthetic.png
     - Synthetic.sm
     - Synthetic.ssc
     - Synthetic-bg.png
+    - Synthetic-bn.png
+    - Synthetic-bn.png.pre-upscale-20260813-081313.bak
     - Synthetic-jacket.png
   - **Take Me Away (2015 Mix)**
     - Take Me Away (2015 Mix).avi
     - Take Me Away (2015 Mix).ogg
     - Take Me Away (2015 Mix).png
+    - Take Me Away (2015 Mix).png.pre-upscale-20260813-123646.bak
     - Take Me Away (2015 Mix).sm
     - Take Me Away (2015 Mix).ssc
     - Take Me Away (2015 Mix)-bg.png
@@ -28025,6 +28036,7 @@ Generated from InstallPath on 2026-08-13 03:00. Filenames only; contents not bac
     - THE BAD TOUCH.ssc
     - THE BAD TOUCH.ssc.old
     - THE BAD TOUCH-banner.png
+    - THE BAD TOUCH-banner.png.pre-upscale-20260813-213951.bak
     - THE BAD TOUCH-bg.png
     - THE BAD TOUCH-jacket.png
   - **The Dark Of The Matinee**
@@ -28033,6 +28045,7 @@ Generated from InstallPath on 2026-08-13 03:00. Filenames only; contents not bac
     - The Dark Of The Matinee.dwi
     - The Dark Of The Matinee.mp3
     - The Dark Of The Matinee.png
+    - The Dark Of The Matinee.png.pre-upscale-20260813-213213.bak
     - The Dark Of The Matinee.sm
     - The Dark Of The Matinee-bg.png
     - The Dark Of The Matinee-bg.png.pre-upscale-20260806-102714.bak
