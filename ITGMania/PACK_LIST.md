@@ -1,6 +1,6 @@
 # Pack list
 
-Generated from InstallPath on 2026-08-14 03:01. Filenames only; contents not backed up.
+Generated from InstallPath on 2026-08-15 03:00. Filenames only; contents not backed up.
 
 ## Songs
 
@@ -5316,24 +5316,28 @@ Generated from InstallPath on 2026-08-14 03:01. Filenames only; contents not bac
     - .59.png
     - .59.sm
     - .59-bg.png
+    - .59-bg.png.pre-upscale-20260814-131631.bak
     - .59-jacket.png
   - **1,2,3,4, 007**
     - 1,2,3,4, 007.ogg
     - 1,2,3,4, 007.png
     - 1,2,3,4, 007.sm
     - 1,2,3,4, 007-bg.png
+    - 1,2,3,4, 007-bg.png.pre-upscale-20260814-132850.bak
     - 1,2,3,4, 007-jacket.png
   - **B4U**
     - B4U.ogg
     - B4U.png
     - B4U.sm
     - B4U-bg.png
+    - B4U-bg.png.pre-upscale-20260814-133934.bak
     - B4U-jacket.png
   - **BABY BABY GIMME YOUR LOVE**
     - BABY BABY GIMME YOUR LOVE.ogg
     - BABY BABY GIMME YOUR LOVE.png
     - BABY BABY GIMME YOUR LOVE.sm
     - BABY BABY GIMME YOUR LOVE-bg.png
+    - BABY BABY GIMME YOUR LOVE-bg.png.pre-upscale-20260814-140444.bak
     - BABY BABY GIMME YOUR LOVE-jacket.png
   - **BOYS (EURO MIX)**
     - BOYS (EURO MIX).ogg
@@ -5359,18 +5363,21 @@ Generated from InstallPath on 2026-08-14 03:01. Filenames only; contents not bac
     - CAN'T STOP FALLIN' IN LOVE.png
     - CAN'T STOP FALLIN' IN LOVE.sm
     - CAN'T STOP FALLIN' IN LOVE-bg.png
+    - CAN'T STOP FALLIN' IN LOVE-bg.png.pre-upscale-20260814-150724.bak
     - CAN'T STOP FALLIN' IN LOVE-jacket.png
   - **CAT'S EYE (Ventura Mix)**
     - CAT'S EYE (Ventura Mix).ogg
     - CAT'S EYE (Ventura Mix).png
     - CAT'S EYE (Ventura Mix).sm
     - CAT'S EYE (Ventura Mix)-bg.png
+    - CAT'S EYE (Ventura Mix)-bg.png.pre-upscale-20260814-152200.bak
     - CAT'S EYE (Ventura Mix)-jacket.png
   - **CELEBRATE NITE**
     - CELEBRATE NITE.ogg
     - CELEBRATE NITE.png
     - CELEBRATE NITE.sm
     - CELEBRATE NITE-bg.png
+    - CELEBRATE NITE-bg.png.pre-upscale-20260814-170355.bak
     - CELEBRATE NITE-jacket.png
   - **CONGA FEELING**
     - CONGA FEELING.avi
@@ -5384,18 +5391,21 @@ Generated from InstallPath on 2026-08-14 03:01. Filenames only; contents not bac
     - DAM DARIRAM (KCP MIX).png
     - DAM DARIRAM (KCP MIX).sm
     - DAM DARIRAM (KCP MIX)-bg.png
+    - DAM DARIRAM (KCP MIX)-bg.png.pre-upscale-20260814-170437.bak
     - DAM DARIRAM (KCP MIX)-jacket.png
   - **DO ME (H.I.G.E.O. MIX)**
     - DO ME (H.I.G.E.O. MIX).ogg
     - DO ME (H.I.G.E.O. MIX).png
     - DO ME (H.I.G.E.O. MIX).sm
     - DO ME (H.I.G.E.O. MIX)-bg.png
+    - DO ME (H.I.G.E.O. MIX)-bg.png.pre-upscale-20260814-215542.bak
     - DO ME (H.I.G.E.O. MIX)-jacket.png
   - **Don't Stop!~AMD 2nd MIX~**
     - Don't Stop!~AMD 2nd MIX~.ogg
     - Don't Stop!~AMD 2nd MIX~.png
     - Don't Stop!~AMD 2nd MIX~.sm
     - Don't Stop!~AMD 2nd MIX~-bg.png
+    - Don't Stop!~AMD 2nd MIX~-bg.png.pre-upscale-20260814-215040.bak
     - Don't Stop!~AMD 2nd MIX~-jacket.png
   - **DREAM A DREAM**
     - DREAM A DREAM.avi
@@ -5409,18 +5419,21 @@ Generated from InstallPath on 2026-08-14 03:01. Filenames only; contents not bac
     - DROP OUT.png
     - DROP OUT.sm
     - DROP OUT-bg.png
+    - DROP OUT-bg.png.pre-upscale-20260814-215526.bak
     - DROP OUT-jacket.png
   - **EAT YOU UP**
     - EAT YOU UP.ogg
     - EAT YOU UP.png
     - EAT YOU UP.sm
     - EAT YOU UP-bg.png
+    - EAT YOU UP-bg.png.pre-upscale-20260814-214132.bak
     - EAT YOU UP-jacket.png
   - **era (nostalmix)**
     - era (nostalmix).ogg
     - era (nostalmix).png
     - era (nostalmix).sm
     - era (nostalmix)-bg.png
+    - era (nostalmix)-bg.png.pre-upscale-20260814-215904.bak
     - era (nostalmix)-jacket.png
   - **FURUHATA'S THEME**
     - FURUHATA'S THEME.ogg
@@ -17935,6 +17948,271 @@ Generated from InstallPath on 2026-08-14 03:01. Filenames only; contents not bac
   - **[elemwarr] The Fever and the Sound**
     - Strung Out - The Fever and the Sound.ogg
     - The Fever and the Sound.sm
+- **Eliza's Favorites**
+  - **Arriba (feat. Clean Bandit)**
+    - Arriba (feat. Clean Bandit).ogg
+    - Arriba (feat. Clean Bandit).sm
+    - BN.png
+  - **Bad Blood**
+    - Bad Blood.avi
+    - Bad Blood.ogg
+    - Bad Blood.png
+    - Bad Blood.sm
+    - Bad Blood.ssc
+    - Bad Blood-bg.png
+    - Bad Blood-jacket.png
+  - **Better Than Revenge**
+    - betterthanrevenge.ogg
+    - betterthanrevenge.png
+    - betterthanrevenge.png.pre-upscale-20260803-084141.bak
+    - betterthanrevenge.sm
+    - betterthanrevengebn.png
+  - **Blank Space**
+    - Blank Space.avi
+    - Blank Space.ogg
+    - Blank Space.png
+    - Blank Space.sm
+    - Blank Space.ssc
+    - Blank Space-bg.png
+    - Blank Space-jacket.png
+  - **Break My Heart**
+    - bg.png
+    - bn.png
+    - bn.png.pre-upscale-20260802-124714.bak
+    - Break My Heart.ogg
+    - Break My Heart.ssc
+    - cdtitleMic.png
+    - jacket.png
+  - **Cold Heart (PNAU Remix)**
+    - Cold Heart (PNAU Remix).mp3
+    - Cold Heart (PNAU Remix).png
+    - Cold Heart (PNAU Remix).sm
+    - Cold Heart (PNAU Remix)-bg.png
+    - Cold Heart (PNAU Remix)-bg.png.pre-upscale-20260806-105918.bak
+    - Cold Heart (PNAU Remix)-jacket.png
+  - **Cruel Summer**
+    - Cruel Summer.ogg
+    - Cruel Summer.png
+    - Cruel Summer.sm
+    - Cruel Summer.ssc
+    - Cruel Summer-bg.png
+    - cruelsummer-bn.png
+    - cruelsummer-bn.png.pre-upscale-20260802-214340.bak
+  - **DANCING WITH OUR HANDS TIED**
+    - DANCING WITH OUR HANDS TIED.avi
+    - DANCING WITH OUR HANDS TIED.ogg
+    - DANCING WITH OUR HANDS TIED.png
+    - DANCING WITH OUR HANDS TIED.sm
+    - DANCING WITH OUR HANDS TIED.ssc
+    - DANCING WITH OUR HANDS TIED-bg.png
+    - DANCING WITH OUR HANDS TIED-jacket.png
+  - **Delicate**
+    - Delicate.avi
+    - Delicate.mp3
+    - Delicate.png
+    - Delicate.sm
+    - Delicate.ssc
+    - Delicate-bg.png
+    - Delicate-jacket.png
+  - **Don't Blame Me**
+    - Don't Blame Me.ogg
+    - Don't Blame Me.png
+    - Don't Blame Me.sm
+    - Don't Blame Me.ssc
+    - Don't Blame Me-bg.png
+  - **Go Bananas**
+    - BGA.mpg
+    - BN.png
+    - Go Bananas.ogg
+    - Go Bananas.sm
+  - **Hallucinate**
+    - BGA.mpg
+    - BN.png
+    - Hallucinate.ogg
+    - Hallucinate.sm
+  - **Hardstyle Fish**
+    - BN.png
+    - Hardstyle Fish.ogg
+    - Hardstyle Fish.sm
+  - **Houdini (Initial Talk Dua Goes Freestyle Remix)**
+    - cdtitle.png
+    - Houdini (Initial Talk Dua Goes Freestyle Remix).ogg
+    - Houdini (Initial Talk Dua Goes Freestyle Remix).png
+    - Houdini (Initial Talk Dua Goes Freestyle Remix).sm
+    - Houdini (Initial Talk Dua Goes Freestyle Remix)-bg.png
+    - Houdini (Initial Talk Dua Goes Freestyle Remix)-jacket.png
+  - **Hypnodancer**
+    - hypno.jpg
+    - hypno.jpg.pre-upscale-20260803-141333.bak
+    - Hypnodancer.mp3
+    - Hypnodancer.sm
+    - Hypnodancer-bn.png
+    - Hypnodancer-bn2.png
+    - Hypnodancer-bn2.png.pre-upscale-20260803-221252.bak
+  - **I Knew You Were Trouble**
+    - I Knew You Were Trouble.ogg
+    - I Knew You Were Trouble.sm
+  - **I'm OK**
+    - BN.png
+    - I'm Ok.mpg
+    - I'm OK.ogg
+    - I'm OK.sm
+  - **JOYRIDE**
+    - bn.png
+    - JOYRIDE.ogg
+    - JOYRIDE.sm
+  - **Levitating**
+    - bg.png
+    - bn.png
+    - bn.png.pre-upscale-20260805-070939.bak
+    - cdtitleMic.png
+    - jacket.png
+    - Levitating.ogg
+    - Levitating.ssc
+  - **Look What You Made Me Do**
+    - Look What You Made Me Do.ogg
+    - Look What You Made Me Do.png
+    - Look What You Made Me Do.sm
+    - Look What You Made Me Do.ssc
+    - Look What You Made Me Do-bg.png
+    - Look What You Made Me Do-bg.png.pre-upscale-20260802-220305.bak
+    - Look What You Made Me Do-jacket.png
+  - **Love Again**
+    - bg.png
+    - bn.png
+    - bn.png.pre-upscale-20260806-103254.bak
+    - cdtitleMic.png
+    - jacket.png
+    - Love Again.ogg
+    - Love Again.ssc
+  - **Me**
+    - Me.avi
+    - Me.ogg
+    - Me.png
+    - Me.sm
+    - Me.ssc
+    - Me-bg.png
+    - Me-jacket.png
+  - **Me Too**
+    - Me Too.ogg
+    - Me Too.png
+    - Me Too.sm
+    - Me Too-bg.png
+    - Me Too-jacket.png
+  - **Mi Cama**
+    - cdtitle.png
+    - Mi Cama.avi
+    - Mi Cama.mp3
+    - Mi Cama.png
+    - Mi Cama.sm
+    - Mi Cama-bg.png
+    - Mi Cama-jacket.png
+  - **New Rules**
+    - New Rules.ogg
+    - New Rules.png
+    - New Rules.png.pre-upscale-20260810-123639.bak
+    - New Rules.sm
+    - New Rules.ssc
+    - New Rules-bg.png
+    - New Rules-bg.png.pre-upscale-20260810-151235.bak
+    - New Rules-jacket.png
+  - **One Kiss**
+    - BN.png
+    - One Kiss.mpg
+    - One Kiss.ogg
+    - One Kiss.sm
+  - **Physical**
+    - Physical.mp3
+    - Physical.png
+    - Physical.sm
+    - Physical-bg.png
+    - Physical-bg.png.pre-upscale-20260806-151515.bak
+    - Physical-jacket.png
+  - **Picture to Burn**
+    - Picture to Burn.ogg
+    - Picture to Burn.png
+    - Picture to Burn.sm
+    - Picture to Burn.ssc
+    - Picture to Burn-bg.png
+    - Picture to Burn-bg.png.pre-upscale-20260804-075900.bak
+    - Picture to Burn-bn.png
+    - Picture to Burn-bn.png.pre-upscale-20260810-120205.bak
+    - Picture to Burn-jacket.png
+  - **Raise Your Glass**
+    - Raise Your Glass.avi
+    - Raise Your Glass.ogg
+    - Raise Your Glass.png
+    - Raise Your Glass.sm
+    - Raise Your Glass.ssc
+    - Raise Your Glass-bg.png
+    - Raise Your Glass-jacket.png
+  - **Roar**
+    - Roar.avi
+    - Roar.ogg
+    - Roar.png
+    - Roar.sm
+    - Roar.ssc
+    - Roar-bg.png
+    - Roar-jacket.png
+  - **Shake It Off**
+    - Shake It Off.avi
+    - Shake It Off.ogg
+    - Shake It Off.png
+    - Shake It Off.sm
+    - Shake It Off.ssc
+    - Shake It Off-bg.png
+    - Shake It Off-jacket.png
+  - **Style**
+    - Style.avi
+    - Style.ogg
+    - Style.png
+    - Style.sm
+    - Style.ssc
+    - Style-bg.png
+    - Style-jacket.png
+  - **Two Is Better Than One (Mike Rizzo Remix)**
+    - Two Is Better Than One (Mike Rizzo Remix).mp3
+    - Two Is Better Than One (Mike Rizzo Remix).png
+    - Two Is Better Than One (Mike Rizzo Remix).sm
+    - Two Is Better Than One (Mike Rizzo Remix)-bg.png
+    - Two Is Better Than One (Mike Rizzo Remix)-bg.png.pre-upscale-20260810-133910.bak
+    - Two Is Better Than One (Mike Rizzo Remix)-jacket.png
+  - **We Are Never Ever Getting Bad Blood**
+    - We Are Never Ever Getting Bad Blood.mp3
+    - We Are Never Ever Getting Bad Blood.png
+    - We Are Never Ever Getting Bad Blood.sm
+    - We Are Never Ever Getting Bad Blood-bg.png
+  - **What About Us**
+    - What About Us.avi
+    - What About Us.ogg
+    - What About Us.png
+    - What About Us.sm
+    - What About Us.ssc
+    - What About Us-bg.png
+    - What About Us-jacket.png
+  - **Wildest Dreams**
+    - Wildest Dreams.avi
+    - Wildest Dreams.ogg
+    - Wildest Dreams.png
+    - Wildest Dreams.sm
+    - Wildest Dreams.ssc
+    - Wildest Dreams-bg.png
+    - Wildest Dreams-jacket.png
+  - **Wildest Dreams (R3hab Remix)**
+    - Wildest Dreams (R3hab Remix).avi
+    - Wildest Dreams (R3hab Remix).mp3
+    - Wildest Dreams (R3hab Remix).png
+    - Wildest Dreams (R3hab Remix).sm
+    - Wildest Dreams (R3hab Remix).ssc
+    - Wildest Dreams (R3hab Remix)-bg.png
+    - Wildest Dreams (R3hab Remix)-jacket.png
+  - **You Need To Calm Down**
+    - bg.png
+    - bn.png
+    - cdtitleMic.png
+    - jacket.png
+    - You Need To Calm Down.ogg
+    - You Need To Calm Down.ssc
 - **Everlasting Memories**
   - **Around the World**
     - **lua**
@@ -28053,6 +28331,7 @@ Generated from InstallPath on 2026-08-14 03:01. Filenames only; contents not bac
     - cdtitle.png
     - The Decisive Battle.ogg
     - The Decisive Battle.png
+    - The Decisive Battle.png.pre-upscale-20260814-074503.bak
     - The Decisive Battle.sm
     - The Decisive Battle.ssc
     - The Decisive Battle-bg.png
@@ -28070,6 +28349,7 @@ Generated from InstallPath on 2026-08-14 03:01. Filenames only; contents not bac
     - nightout bg.png
     - nightout bg.png.pre-upscale-20260806-104320.bak
     - nightout bn.png
+    - nightout bn.png.pre-upscale-20260814-074535.bak
     - The Night Out.sm
   - **The One That Got Away**
     - The One That Got Away.avi
@@ -28086,13 +28366,15 @@ Generated from InstallPath on 2026-08-14 03:01. Filenames only; contents not bac
     - The Purified.sm.old
     - The Purified-bg.png
     - The Purified-bg.png.pre-upscale-20260806-181606.bak
-    - the purified-bn.png
+    - The Purified-bn.png
+    - The Purified-bn.png.pre-upscale-20260814-113929.bak
   - **The Salmon Dance**
     - ac.png
     - The Salmon Dance.ogg
     - tsd.mkv
     - tsd-bg.png
     - tsd-bn.png
+    - tsd-bn.png.pre-upscale-20260814-125825.bak
     - tsd-jt.png
     - tsm.sm
     - tsm.ssc
@@ -28102,6 +28384,8 @@ Generated from InstallPath on 2026-08-14 03:01. Filenames only; contents not bac
     - The Sound of Goodbye.sm
     - The Sound of Goodbye.ssc
     - The Sound of Goodbye-bg.png
+    - The Sound of Goodbye-bn.png
+    - The Sound of Goodbye-bn.png.pre-upscale-20260814-170351.bak
     - The Sound of Goodbye-jacket.png
   - **The Vulture**
     - Readme.txt
@@ -28111,6 +28395,7 @@ Generated from InstallPath on 2026-08-14 03:01. Filenames only; contents not bac
     - The Vulture-bg.png
     - The Vulture-bg.png.pre-upscale-20260806-223757.bak
     - The Vulture-bn.png
+    - The Vulture-bn.png.pre-upscale-20260814-214502.bak
   - **The Whistle Song**
     - The Whistle Song - BN.png
     - The Whistle Song - DJ Alligator.ogg

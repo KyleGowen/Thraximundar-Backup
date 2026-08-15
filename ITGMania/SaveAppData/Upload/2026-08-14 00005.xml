@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Stats>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<RecentSongScores>
+<HighScoreForASongAndSteps>
+<Song Dir='Songs/Misc. Collected/Hey Momma-Hit The Road Jack/'/>
+<Steps Difficulty='Hard' StepsType='dance-single'/>
+<HighScore>
+<Name></Name>
+<Grade>Failed</Grade>
+<Score>58</Score>
+<PercentDP>0.529200</PercentDP>
+<SurviveSeconds>97.413925</SurviveSeconds>
+<MaxCombo>147</MaxCombo>
+<StageAward></StageAward>
+<PeakComboAward></PeakComboAward>
+<Modifiers>NoHideLights, C620, 15% Mini, FailImmediateContinue, Overhead, Default</Modifiers>
+<DateTime>2026-08-14 15:46:49</DateTime>
+<PlayerGuid>4ad3a19834ee56bd</PlayerGuid>
+<MachineGuid>403d15c592378cca</MachineGuid>
+<ProductID>1</ProductID>
+<TapNoteScores>
+<HitMine>0</HitMine>
+<AvoidMine>0</AvoidMine>
+<CheckpointMiss>0</CheckpointMiss>
+<Miss>119</Miss>
+<W5>2</W5>
+<W4>10</W4>
+<W3>76</W3>
+<W2>97</W2>
+<W1>208</W1>
+<CheckpointHit>0</CheckpointHit>
+</TapNoteScores>
+<HoldNoteScores>
+<LetGo>1</LetGo>
+<Held>54</Held>
+<MissedHold>18</MissedHold>
+</HoldNoteScores>
+<RadarValues>
+<Stream>0.592346</Stream>
+<Voltage>0.261042</Voltage>
+<Air>0.561798</Air>
+<Freeze>0.739726</Freeze>
+<Chaos>0.529231</Chaos>
+<Notes>459.000000</Notes>
+<TapsAndHolds>392</TapsAndHolds>
+<Jumps>69</Jumps>
+<Holds>54</Holds>
+<Mines>0</Mines>
+<Hands>0</Hands>
+<Rolls>0</Rolls>
+<Lifts>0</Lifts>
+<Fakes>0</Fakes>
+</RadarValues>
+<LifeRemainingSeconds>0.000000</LifeRemainingSeconds>
+<Disqualified>0</Disqualified>
+<Pad>33</Pad>
+<StageGuid>e699a8f7-8e28-46d7-a7b8-927f33379f06</StageGuid>
+<Guid>f3d99d95-bf4d-4823-aa67-c0904b8dd3bf</Guid>
+</HighScore>
+</HighScoreForASongAndSteps>
+</RecentSongScores>
+</Stats>
