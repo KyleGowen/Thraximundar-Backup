@@ -1,6 +1,6 @@
 # Pack list
 
-Generated from InstallPath on 2026-08-15 03:00. Filenames only; contents not backed up.
+Generated from InstallPath on 2026-08-16 03:01. Filenames only; contents not backed up.
 
 ## Songs
 
@@ -5488,6 +5488,7 @@ Generated from InstallPath on 2026-08-15 03:00. Filenames only; contents not bac
     - HYSTERIA.png
     - HYSTERIA.sm
     - HYSTERIA-bg.png
+    - HYSTERIA-bg.png.pre-upscale-20260815-072940.bak
     - HYSTERIA-jacket.png
   - **IF YOU WERE HERE (B4 ZA BEAT MIX)**
     - IF YOU WERE HERE (B4 ZA BEAT MIX).ogg
