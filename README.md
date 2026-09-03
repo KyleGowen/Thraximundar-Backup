@@ -1,8 +1,8 @@
 ﻿# ITGMania Backup
 
-#### Last backup: Sep 2, 2026 at 3:02 AM
+#### Last backup: Sep 3, 2026 at 3:02 AM
 
-#### Next backup: Sep 3, 2026 at 3:00 AM
+#### Next backup: Sep 4, 2026 at 3:00 AM
 
 ## 30-day digest
 
@@ -10,9 +10,9 @@
 
 - **KYLE** 7h 0m 40s
 
-| 8 | 10 | Total |
-| --- | --- | --- |
-| 4 | 1 | 5 |
+| 8 | Total |
+| --- | --- |
+| 3 | 3 |
 
 - **LIZY** 2h 44m 39s
 - **Player** 2m 2s
