@@ -1,8 +1,8 @@
 ﻿# ITGMania Backup
 
-#### Last backup: Sep 21, 2026 at 3:02 AM
+#### Last backup: Sep 22, 2026 at 3:01 AM
 
-#### Next backup: Sep 22, 2026 at 3:00 AM
+#### Next backup: Sep 23, 2026 at 3:00 AM
 
 ## 30-day digest
 
@@ -3572,15 +3572,15 @@ Machine-level profile and stats.
 
 ```diff
 diff --git a/ITGMania/SaveAppData/MachineProfile/Stats.xml b/ITGMania/SaveAppData/MachineProfile/Stats.xml
-index a85a193..9ed39e0 100644
+index 9ed39e0..e72f9c2 100644
 --- a/ITGMania/SaveAppData/MachineProfile/Stats.xml
 +++ b/ITGMania/SaveAppData/MachineProfile/Stats.xml
 @@ -18,7 +18,7 @@
  <Song Dir=''/>
  <Course/>
  <CurrentCombo>0</CurrentCombo>
--<TotalSessions>2819</TotalSessions>
-+<TotalSessions>2820</TotalSessions>
+-<TotalSessions>2820</TotalSessions>
++<TotalSessions>2821</TotalSessions>
  <TotalSessionSeconds>1178179</TotalSessionSeconds>
  <TotalGameplaySeconds>581891</TotalGameplaySeconds>
  <TotalCaloriesBurned>212649.687500</TotalCaloriesBurned>
@@ -3588,42 +3588,33 @@ index a85a193..9ed39e0 100644
  <GoalCalories>0</GoalCalories>
  <GoalSeconds>0</GoalSeconds>
  <LastPlayedMachineGuid>403d15c592378cca</LastPlayedMachineGuid>
--<LastPlayedDate>2026-08-21</LastPlayedDate>
-+<LastPlayedDate>2026-09-20</LastPlayedDate>
+-<LastPlayedDate>2026-09-20</LastPlayedDate>
++<LastPlayedDate>2026-09-21</LastPlayedDate>
  <TotalDancePoints>8296154</TotalDancePoints>
  <NumExtraStagesPassed>0</NumExtraStagesPassed>
  <NumExtraStagesFailed>0</NumExtraStagesFailed>
-@@ -134244,15 +134244,15 @@
- <Week20Ago>0</Week20Ago>
- <Week21Ago>0</Week21Ago>
- <Week22Ago>0</Week22Ago>
--<Week23Ago>1</Week23Ago>
--<Week24Ago>2</Week24Ago>
-+<Week23Ago>0</Week23Ago>
-+<Week24Ago>0</Week24Ago>
- <Week25Ago>0</Week25Ago>
- <Week26Ago>0</Week26Ago>
--<Week27Ago>1</Week27Ago>
--<Week28Ago>0</Week28Ago>
--<Week29Ago>0</Week29Ago>
-+<Week27Ago>0</Week27Ago>
-+<Week28Ago>1</Week28Ago>
-+<Week29Ago>2</Week29Ago>
+@@ -134252,8 +134252,8 @@
+ <Week28Ago>1</Week28Ago>
+ <Week29Ago>2</Week29Ago>
  <Week30Ago>0</Week30Ago>
--<Week31Ago>0</Week31Ago>
-+<Week31Ago>1</Week31Ago>
- <Week32Ago>0</Week32Ago>
+-<Week31Ago>1</Week31Ago>
+-<Week32Ago>0</Week32Ago>
++<Week31Ago>0</Week31Ago>
++<Week32Ago>1</Week32Ago>
  <Week33Ago>0</Week33Ago>
  <Week34Ago>0</Week34Ago>
-@@ -134263,7 +134263,7 @@
- <Week39Ago>0</Week39Ago>
- <Week40Ago>0</Week40Ago>
- <Week41Ago>0</Week41Ago>
--<Week42Ago>1</Week42Ago>
-+<Week42Ago>0</Week42Ago>
+ <Week35Ago>0</Week35Ago>
+@@ -134267,8 +134267,8 @@
  <Week43Ago>0</Week43Ago>
  <Week44Ago>0</Week44Ago>
  <Week45Ago>0</Week45Ago>
+-<Week46Ago>1</Week46Ago>
+-<Week47Ago>0</Week47Ago>
++<Week46Ago>0</Week46Ago>
++<Week47Ago>1</Week47Ago>
+ <Week48Ago>0</Week48Ago>
+ <Week49Ago>0</Week49Ago>
+ <Week50Ago>0</Week50Ago>
 ```
 
 ### ITGMania/SaveAppData/MachineProfile/Type.ini
@@ -3632,14 +3623,14 @@ Machine-level profile and stats.
 
 ```diff
 diff --git a/ITGMania/SaveAppData/MachineProfile/Type.ini b/ITGMania/SaveAppData/MachineProfile/Type.ini
-index b90a250..355f032 100644
+index 355f032..2f5c961 100644
 --- a/ITGMania/SaveAppData/MachineProfile/Type.ini
 +++ b/ITGMania/SaveAppData/MachineProfile/Type.ini
 @@ -1,6 +1,6 @@
  [ListPosition]
  CreationTime=2026-08-01 16:41:41
--LastPlayedDate=2026-08-21 15:46:46
-+LastPlayedDate=2026-09-20 10:41:55
+-LastPlayedDate=2026-09-20 10:41:55
++LastPlayedDate=2026-09-21 14:38:21
  Priority=0
  Type=Normal
  
