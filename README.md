@@ -1,8 +1,8 @@
 ﻿# ITGMania Backup
 
-#### Last backup: Sep 23, 2026 at 3:02 AM
+#### Last backup: Sep 24, 2026 at 3:02 AM
 
-#### Next backup: Sep 24, 2026 at 3:00 AM
+#### Next backup: Sep 25, 2026 at 3:00 AM
 
 ## 30-day digest
 
@@ -3565,4 +3565,74 @@ Time in songs this run: **LIZY** 3m 58s.
 </details>
 
 ## Changes since last backup
+
+### ITGMania/SaveAppData/MachineProfile/Stats.xml
+
+Machine-level profile and stats.
+
+```diff
+diff --git a/ITGMania/SaveAppData/MachineProfile/Stats.xml b/ITGMania/SaveAppData/MachineProfile/Stats.xml
+index e72f9c2..7723821 100644
+--- a/ITGMania/SaveAppData/MachineProfile/Stats.xml
++++ b/ITGMania/SaveAppData/MachineProfile/Stats.xml
+@@ -18,7 +18,7 @@
+ <Song Dir=''/>
+ <Course/>
+ <CurrentCombo>0</CurrentCombo>
+-<TotalSessions>2821</TotalSessions>
++<TotalSessions>2822</TotalSessions>
+ <TotalSessionSeconds>1178179</TotalSessionSeconds>
+ <TotalGameplaySeconds>581891</TotalGameplaySeconds>
+ <TotalCaloriesBurned>212649.687500</TotalCaloriesBurned>
+@@ -26,7 +26,7 @@
+ <GoalCalories>0</GoalCalories>
+ <GoalSeconds>0</GoalSeconds>
+ <LastPlayedMachineGuid>403d15c592378cca</LastPlayedMachineGuid>
+-<LastPlayedDate>2026-09-21</LastPlayedDate>
++<LastPlayedDate>2026-09-23</LastPlayedDate>
+ <TotalDancePoints>8296154</TotalDancePoints>
+ <NumExtraStagesPassed>0</NumExtraStagesPassed>
+ <NumExtraStagesFailed>0</NumExtraStagesFailed>
+@@ -134252,8 +134252,8 @@
+ <Week28Ago>1</Week28Ago>
+ <Week29Ago>2</Week29Ago>
+ <Week30Ago>0</Week30Ago>
+-<Week31Ago>0</Week31Ago>
+-<Week32Ago>1</Week32Ago>
++<Week31Ago>1</Week31Ago>
++<Week32Ago>0</Week32Ago>
+ <Week33Ago>0</Week33Ago>
+ <Week34Ago>0</Week34Ago>
+ <Week35Ago>0</Week35Ago>
+@@ -134267,8 +134267,8 @@
+ <Week43Ago>0</Week43Ago>
+ <Week44Ago>0</Week44Ago>
+ <Week45Ago>0</Week45Ago>
+-<Week46Ago>0</Week46Ago>
+-<Week47Ago>1</Week47Ago>
++<Week46Ago>1</Week46Ago>
++<Week47Ago>0</Week47Ago>
+ <Week48Ago>0</Week48Ago>
+ <Week49Ago>0</Week49Ago>
+ <Week50Ago>0</Week50Ago>
+```
+
+### ITGMania/SaveAppData/MachineProfile/Type.ini
+
+Machine-level profile and stats.
+
+```diff
+diff --git a/ITGMania/SaveAppData/MachineProfile/Type.ini b/ITGMania/SaveAppData/MachineProfile/Type.ini
+index 2f5c961..a740d87 100644
+--- a/ITGMania/SaveAppData/MachineProfile/Type.ini
++++ b/ITGMania/SaveAppData/MachineProfile/Type.ini
+@@ -1,6 +1,6 @@
+ [ListPosition]
+ CreationTime=2026-08-01 16:41:41
+-LastPlayedDate=2026-09-21 14:38:21
++LastPlayedDate=2026-09-23 08:34:40
+ Priority=0
+ Type=Normal
+ 
+```
 
